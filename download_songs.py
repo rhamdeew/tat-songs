@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
-Tatar Songs Parser - Enhanced Version
-Continues downloading songs with better error handling, random delays, and user agents
+Tatar Songs Parser - Database Version
+Downloads song lyrics from https://erlar.ru/asongs with SQLite database for tracking progress
 """
 
 import requests
@@ -14,6 +14,9 @@ import json
 from pathlib import Path
 import sys
 import random
+import sqlite3
+import argparse
+from datetime import datetime
 
 
 def get_random_user_agent():
@@ -28,6 +31,38 @@ def get_random_user_agent():
         'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36',
     ]
     return random.choice(user_agents)
+
+
+def init_database():
+    """Initialize SQLite database for tracking songs"""
+    conn = sqlite3.connect('songs.db')
+    cursor = conn.cursor()
+    
+    cursor.execute('''
+        CREATE TABLE IF NOT EXISTS songs (
+            id INTEGER PRIMARY KEY AUTOINCREMENT,
+            url TEXT UNIQUE NOT NULL,
+            title TEXT NOT NULL,
+            musician TEXT,
+            songwriter TEXT,
+            status TEXT DEFAULT 'pending',
+            created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
+            processed_at TIMESTAMP,
+            lyrics TEXT,
+            filename TEXT
+        )
+    ''')
+    
+    cursor.execute('CREATE INDEX IF NOT EXISTS idx_status ON songs (status)')
+    cursor.execute('CREATE INDEX IF NOT EXISTS idx_url ON songs (url)')
+    
+    conn.commit()
+    conn.close()
+
+
+def get_db_connection():
+    """Get database connection"""
+    return sqlite3.connect('songs.db')
 
 
 def transliterate_tatar_to_latin(text):
@@ -195,10 +230,14 @@ def format_lyrics_markdown(song_data):
     elif song_data['musician']:
         artist_name = song_data['musician']
     else:
-        artist_name = "Unknown"
+        artist_name = ""
     
-    # Create header
-    header = f"# Оригинал\n\n### {artist_name} - {song_data['title']}\n"
+    # Create header - only include artist name if we have one
+    header = f"# Оригинал\n\n"
+    if artist_name:
+        header += f"### {artist_name} - {song_data['title']}\n"
+    else:
+        header += f"### {song_data['title']}\n"
     
     # Format lyrics with proper line breaks
     lyrics = song_data['lyrics'].strip()
@@ -207,56 +246,43 @@ def format_lyrics_markdown(song_data):
     return header + formatted_lyrics
 
 
-def load_existing_files(output_dir):
-    """Load list of existing downloaded files"""
-    existing_files = set()
-    if output_dir.exists():
-        for file_path in output_dir.glob("*.md"):
-            existing_files.add(file_path.name)
-    return existing_files
+def generate_filename(song_data):
+    """Generate filename without 'unknown' placeholder"""
+    artist_name = ""
+    if song_data['songwriter'] and song_data['musician']:
+        artist_name = f"{song_data['songwriter']} {song_data['musician']}"
+    elif song_data['songwriter']:
+        artist_name = song_data['songwriter']
+    elif song_data['musician']:
+        artist_name = song_data['musician']
+    
+    if artist_name:
+        filename_base = f"{artist_name} - {song_data['title']}"
+    else:
+        filename_base = song_data['title']
+    
+    filename = transliterate_tatar_to_latin(filename_base)
+    filename = sanitize_filename(filename)
+    return filename + ".md"
 
 
-def save_progress(songs_processed, total_songs):
-    """Save progress to resume later"""
-    progress_file = Path("download_progress.json")
-    progress_data = {
-        'songs_processed': songs_processed,
-        'total_songs': total_songs,
-        'timestamp': time.time()
-    }
-    with open(progress_file, 'w', encoding='utf-8') as f:
-        json.dump(progress_data, f, indent=2)
-
-
-def main():
-    base_url = "https://erlar.ru/asongs"
-    output_dir = Path("tat")
-    output_dir.mkdir(exist_ok=True)
+def collect_all_songs(base_url, session, start_page=0, max_pages=268):
+    """Collect all song links from pagination pages"""
+    if session is None:
+        session = requests.Session()
+        session.headers.update({
+            'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+            'Accept-Language': 'ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3',
+            'Accept-Encoding': 'gzip, deflate, br',
+            'DNT': '1',
+            'Connection': 'keep-alive',
+            'Upgrade-Insecure-Requests': '1',
+        })
     
-    # Load existing files to avoid re-downloading
-    existing_files = load_existing_files(output_dir)
-    print(f"Found {len(existing_files)} existing files")
+    conn = get_db_connection()
+    cursor = conn.cursor()
     
-    # Configure session with proxies (if needed) and headers
-    session = requests.Session()
-    session.headers.update({
-        'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
-        'Accept-Language': 'ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3',
-        'Accept-Encoding': 'gzip, deflate, br',
-        'DNT': '1',
-        'Connection': 'keep-alive',
-        'Upgrade-Insecure-Requests': '1',
-    })
-    
-    all_songs = []
-    
-    # Determine where to start based on command line argument
-    start_page = int(sys.argv[1]) if len(sys.argv) > 1 else 0
-    
-    print("Starting to scrape Tatar songs (enhanced resume mode)...")
-    
-    # Process all pages
-    max_pages = 268  # Download all pages (0-267)
+    print(f"Collecting songs from pages {start_page} to {max_pages-1}...")
     
     for page_num in range(start_page, max_pages):
         page_url = f"{base_url}?page={page_num}"
@@ -268,62 +294,84 @@ def main():
             continue
         
         page_songs = extract_songs_from_page(page_content, base_url)
-        all_songs.extend(page_songs)
         print(f"Found {len(page_songs)} songs on page {page_num}")
+        
+        # Insert songs into database
+        for song in page_songs:
+            cursor.execute('''
+                INSERT OR IGNORE INTO songs (url, title, musician, songwriter)
+                VALUES (?, ?, ?, ?)
+            ''', (song['url'], song['title'], song['musician'], song['songwriter']))
+        
+        conn.commit()
         
         # Small delay between pages to be respectful
         time.sleep(random.uniform(1.0, 3.0))
     
-    # Remove duplicates
-    unique_songs = []
-    seen_urls = set()
-    for song in all_songs:
-        if song['url'] not in seen_urls:
-            unique_songs.append(song)
-            seen_urls.add(song['url'])
+    total_songs = cursor.execute('SELECT COUNT(*) FROM songs').fetchone()[0]
+    print(f"Total songs collected in database: {total_songs}")
     
-    print(f"Total unique songs found: {len(unique_songs)}")
+    conn.close()
+
+
+def process_songs(output_dir, limit=None, test_mode=False):
+    """Process songs from database"""
+    conn = get_db_connection()
+    cursor = conn.cursor()
     
-    # Process each song
+    if test_mode:
+        # Get 100 random songs for testing
+        cursor.execute('SELECT * FROM songs WHERE status = "pending" ORDER BY RANDOM() LIMIT 100')
+    else:
+        # Get pending songs (with optional limit)
+        if limit:
+            cursor.execute('SELECT * FROM songs WHERE status = "pending" LIMIT ?', (limit,))
+        else:
+            cursor.execute('SELECT * FROM songs WHERE status = "pending"')
+    
+    pending_songs = cursor.fetchall()
+    print(f"Found {len(pending_songs)} songs to process")
+    
+    # Configure session
+    session = requests.Session()
+    session.headers.update({
+        'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+        'Accept-Language': 'ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3',
+        'Accept-Encoding': 'gzip, deflate, br',
+        'DNT': '1',
+        'Connection': 'keep-alive',
+        'Upgrade-Insecure-Requests': '1',
+    })
+    
     successful_downloads = 0
     failed_downloads = 0
-    songs_processed = 0
     
-    for i, song in enumerate(unique_songs, 1):
-        # Generate expected filename
-        artist_name = ""
-        if song['songwriter'] and song['musician']:
-            artist_name = f"{song['songwriter']} {song['musician']}"
-        elif song['songwriter']:
-            artist_name = song['songwriter']
-        elif song['musician']:
-            artist_name = song['musician']
-        else:
-            artist_name = "unknown"
+    for i, song in enumerate(pending_songs, 1):
+        song_id = song[0]
+        song_url = song[1]
+        song_title = song[2]
         
-        filename_base = f"{artist_name} - {song['title']}"
-        filename = transliterate_tatar_to_latin(filename_base)
-        filename = sanitize_filename(filename)
-        filename = filename + ".md"
+        print(f"Processing song {i}/{len(pending_songs)}: {song_title}")
         
-        # Skip if already exists
-        if filename in existing_files:
-            continue
-        
-        print(f"Processing song {i}/{len(unique_songs)}: {song['title']}")
-        
-        song_content = get_page_content(song['url'], session)
+        song_content = get_page_content(song_url, session)
         if not song_content:
-            print(f"Failed to fetch song: {song['title']}")
+            print(f"Failed to fetch song: {song_title}")
+            cursor.execute('UPDATE songs SET status = "failed" WHERE id = ?', (song_id,))
             failed_downloads += 1
+            conn.commit()
             continue
         
-        song_data = extract_lyrics_from_song_page(song_content, song['url'])
+        song_data = extract_lyrics_from_song_page(song_content, song_url)
         
         if not song_data['lyrics']:
-            print(f"No lyrics found for: {song['title']}")
+            print(f"No lyrics found for: {song_title}")
+            cursor.execute('UPDATE songs SET status = "failed" WHERE id = ?', (song_id,))
             failed_downloads += 1
+            conn.commit()
             continue
+        
+        # Generate filename
+        filename = generate_filename(song_data)
         
         # Format and save
         markdown_content = format_lyrics_markdown(song_data)
@@ -333,24 +381,58 @@ def main():
             with open(file_path, 'w', encoding='utf-8') as f:
                 f.write(markdown_content)
             
+            # Update database with success
+            cursor.execute('''
+                UPDATE songs 
+                SET status = "processed", 
+                    processed_at = CURRENT_TIMESTAMP,
+                    lyrics = ?,
+                    filename = ?
+                WHERE id = ?
+            ''', (song_data['lyrics'], filename, song_id))
+            
             successful_downloads += 1
             print(f"Saved: {filename}")
         except Exception as e:
             print(f"Failed to save {filename}: {e}")
+            cursor.execute('UPDATE songs SET status = "failed" WHERE id = ?', (song_id,))
             failed_downloads += 1
         
-        songs_processed += 1
+        conn.commit()
         
-        # Save progress every 100 songs
-        if songs_processed % 100 == 0:
-            save_progress(songs_processed, len(unique_songs))
-            print(f"Progress saved: {songs_processed}/{len(unique_songs)}")
+        # Small delay between requests
+        time.sleep(0.3)
     
-    # Final progress save
-    save_progress(successful_downloads, len(unique_songs))
+    conn.close()
     
-    print(f"Done! Successfully downloaded {successful_downloads} new songs. Failed: {failed_downloads}")
+    print(f"Done! Successfully downloaded {successful_downloads} songs. Failed: {failed_downloads}")
     print(f"Total files in {output_dir}/: {len(list(output_dir.glob('*.md')))}")
+
+
+def main():
+    parser = argparse.ArgumentParser(description='Download Tatar songs from erlar.ru')
+    parser.add_argument('--collect', action='store_true', help='Collect song links from all pages')
+    parser.add_argument('--process', action='store_true', help='Process downloaded songs')
+    parser.add_argument('--start-page', type=int, default=0, help='Start page for collection')
+    parser.add_argument('--max-pages', type=int, default=268, help='Maximum pages to collect')
+    parser.add_argument('--limit', type=int, help='Limit number of songs to process')
+    parser.add_argument('--test', action='store_true', help='Process 100 random songs for testing')
+    
+    args = parser.parse_args()
+    
+    base_url = "https://erlar.ru/asongs"
+    output_dir = Path("tat")
+    output_dir.mkdir(exist_ok=True)
+    
+    # Initialize database
+    init_database()
+    
+    if args.collect or not any([args.collect, args.process]):
+        # Collect songs by default
+        collect_all_songs(base_url, None, args.start_page, args.max_pages)
+    
+    if args.process:
+        process_songs(output_dir, args.limit, args.test)
 
 
 if __name__ == "__main__":
