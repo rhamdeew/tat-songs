@@ -54,6 +54,26 @@ class SongTranslator
   
   private
   
+  def sanitize_json_string(text)
+    # Replace problematic characters that break JSON
+    text.gsub(/[\u201C\u201D]/, '"')  # Left and right double curly quotes
+         .gsub(/[""''""‟]/, '"')
+         .gsub(/[–—]/, '-')
+         .gsub(/[…]/, '...')
+         .gsub(/[\u202F\u00A0]/, ' ')
+         .gsub(/[\u2000-\u200F\u2028-\u202F\u205F\u3000]/, '')
+  end
+  
+  def sanitize_json_response(json_str)
+    # Replace problematic characters in JSON response
+    json_str.gsub(/[\u201C\u201D]/, '"')  # Left and right double curly quotes
+            .gsub(/[""''""‟]/, '"')
+            .gsub(/[–—]/, '-')
+            .gsub(/[…]/, '...')
+            .gsub(/[\u202F\u00A0]/, ' ')
+            .gsub(/[\u2000-\u200F\u2028-\u202F\u205F\u3000]/, '')
+  end
+  
   def ensure_directories
     FileUtils.mkdir_p(TAT_DIR) unless Dir.exist?(TAT_DIR)
     FileUtils.mkdir_p(TRANSLATED_DIR) unless Dir.exist?(TRANSLATED_DIR)
@@ -82,6 +102,10 @@ class SongTranslator
       # Extract lyrics (between ``` blocks)
       lyrics_match = content.match(/```\n(.*?)```/m)
       lyrics = lyrics_match ? lyrics_match[1].strip : content.strip
+      
+      # Clean up problematic characters that break JSON
+      title = sanitize_json_string(title)
+      lyrics = sanitize_json_string(lyrics)
       
       {
         'filename' => filename,
@@ -116,7 +140,10 @@ class SongTranslator
         # Extract JSON from response
         json_match = stdout.match(/\[.*\]/m)
         if json_match
-          translations = JSON.parse(json_match[0])
+          json_str = json_match[0]
+          # Clean up problematic characters before parsing
+          json_str = sanitize_json_response(json_str)
+          translations = JSON.parse(json_str)
           return translations
         else
           puts "Warning: Could not find JSON in Claude response"
