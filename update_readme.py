@@ -23,9 +23,13 @@ def parse_translated_file(filepath):
         return None, None
 
 def create_song_pages(songs):
-    """Create paginated song files (SONGS_1.md, SONGS_2.md, etc.) with 50 songs per file."""
-    songs_per_page = 50
+    """Create paginated song files (SONGS_1.md, SONGS_2.md, etc.) with 100 songs per file."""
+    songs_per_page = 100
     songs_sorted = sorted(songs, key=lambda x: x['original_title'].lower())
+    
+    # Create songs_list directory if it doesn't exist
+    songs_list_dir = Path("songs_list")
+    songs_list_dir.mkdir(exist_ok=True)
     
     # Calculate number of pages needed
     total_songs = len(songs_sorted)
@@ -46,10 +50,10 @@ def create_song_pages(songs):
         if num_pages > 1:
             nav_links = []
             if page_num > 1:
-                nav_links.append(f"[← Предыдущая страница](SONGS_{page_num-1}.md)")
-            nav_links.append(f"[Главная страница](README.md)")
+                nav_links.append(f"[← Предыдущая страница](songs_list/SONGS_{page_num-1}.md)")
+            nav_links.append(f"[Главная страница](../README.md)")
             if page_num < num_pages:
-                nav_links.append(f"[Следующая страница →](SONGS_{page_num+1}.md)")
+                nav_links.append(f"[Следующая страница →](songs_list/SONGS_{page_num+1}.md)")
             page_content.append(" | ".join(nav_links) + "\n")
         
         page_content.append("")
@@ -60,7 +64,7 @@ def create_song_pages(songs):
             original_title = song['original_title']
             translated_title = song['translated_title']
             link_text = f"{original_title} / {translated_title}"
-            link = f"[{link_text}](translated/{filename})"
+            link = f"[{link_text}](../translated/{filename})"
             page_content.append(f"- {link}")
         
         page_content.append("")
@@ -69,19 +73,19 @@ def create_song_pages(songs):
         if num_pages > 1:
             nav_links = []
             if page_num > 1:
-                nav_links.append(f"[← Предыдущая страница](SONGS_{page_num-1}.md)")
-            nav_links.append(f"[Главная страница](README.md)")
+                nav_links.append(f"[← Предыдущая страница](songs_list/SONGS_{page_num-1}.md)")
+            nav_links.append(f"[Главная страница](../README.md)")
             if page_num < num_pages:
-                nav_links.append(f"[Следующая страница →](SONGS_{page_num+1}.md)")
+                nav_links.append(f"[Следующая страница →](songs_list/SONGS_{page_num+1}.md)")
             page_content.append("---\n")
             page_content.append(" | ".join(nav_links))
         
-        # Write page file
-        page_filename = f"SONGS_{page_num}.md"
+        # Write page file in songs_list directory
+        page_filename = songs_list_dir / f"SONGS_{page_num}.md"
         with open(page_filename, 'w', encoding='utf-8') as f:
             f.write('\n'.join(page_content))
         
-        page_files.append(page_filename)
+        page_files.append(f"songs_list/SONGS_{page_num}.md")
         print(f"Created {page_filename} with {len(page_songs)} songs")
     
     return page_files, num_pages
@@ -101,8 +105,8 @@ def update_readme(page_files, num_pages, total_songs):
     else:
         # Create links to each page
         for i, page_file in enumerate(page_files, 1):
-            start_song = (i - 1) * 50 + 1
-            end_song = min(i * 50, total_songs)
+            start_song = (i - 1) * 100 + 1
+            end_song = min(i * 100, total_songs)
             readme_content.append(f"- [Песни {start_song}-{end_song}]({page_file})")
     
     readme_content.append("")
