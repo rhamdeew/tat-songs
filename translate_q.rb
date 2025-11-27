@@ -212,12 +212,17 @@ Input JSON:
       
       original_file = files[index]
       filename = File.basename(original_file, '.md')
-      
+
       # Create translated content
       content = create_translated_content(translation)
-      
-      # Save to translated directory
-      output_file = File.join(TRANSLATED_DIR, "#{filename}.md")
+
+      # Get first letter of filename for directory structure
+      first_letter = filename[0].downcase
+      letter_dir = File.join(TRANSLATED_DIR, first_letter)
+      FileUtils.mkdir_p(letter_dir) unless Dir.exist?(letter_dir)
+
+      # Save to translated directory with letter subdirectory
+      output_file = File.join(letter_dir, "#{filename}.md")
       File.write(output_file, content, encoding: 'utf-8')
       
       puts "  ✓ Saved: #{output_file}"
