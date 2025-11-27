@@ -126,17 +126,19 @@ def main():
         return
     
     songs = []
-    
-    # Get all .md files in translated directory
-    for filepath in sorted(translated_dir.glob("*.md")):
+
+    # Get all .md files in translated directory and subdirectories
+    for filepath in sorted(translated_dir.glob("**/*.md")):
         original_title, translated_title = parse_translated_file(filepath)
         if original_title and translated_title:
+            # Get relative path from translated directory (e.g., "a/song.md")
+            relative_path = filepath.relative_to(translated_dir)
             songs.append({
-                'filename': filepath.name,
+                'filename': str(relative_path),
                 'original_title': original_title,
                 'translated_title': translated_title
             })
-            print(f"Processed: {filepath.name} -> {original_title} / {translated_title}")
+            print(f"Processed: {relative_path} -> {original_title} / {translated_title}")
         else:
             print(f"Could not extract titles from: {filepath.name}")
     
