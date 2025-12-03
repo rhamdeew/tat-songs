@@ -81,7 +81,7 @@ class SongTranslator
   
   def get_next_batch
     Dir.glob(File.join(TAT_DIR, '*.md'))
-       .sort
+       .shuffle
        .first(BATCH_SIZE)
   end
   
