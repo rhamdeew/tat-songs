@@ -1,10 +1,14 @@
 # Татарские песни и их перевод - Страница 16
 
-## Список песен (песни 1501-1600 из 3218)
+## Список песен (песни 1501-1600 из 3262)
 
 [← Предыдущая страница](songs_list/SONGS_15.md) | [Главная страница](../README.md) | [Следующая страница →](songs_list/SONGS_17.md)
 
 
+- [Дилә Булгакова / Нур Даутов - Серле чишмәм / Диля Булгакова / Нур Даутов - Мой сокровенный родник](../translated/d/dila_bulgakova_nur_dautov_-_serle_chishmam.md)
+- [Дилә Булгакова / Нәркәс Харрасова - Сөюеңә мине ышандыр / Диля Булгакова / Наркас Харрасова - Убеди меня в своей любви](../translated/d/dila_bulgakova_narkas_harrasova_-_soyuena_mine_ishandir.md)
+- [Дилә Булгакова / Рамил Гыймрани - Хәбәр ит / Диля Булгакова / Рамиль Гыймрани - Дай знать](../translated/d/dila_bulgakova_ramil_giymrani_-_habar_it.md)
+- [Дилә Булгакова / Рамил Медъяр-Камал - Ай алкалы татар кызы / Диля Булгакова / Рамиль Медъяр-Камаль - Татарская девушка с лунной серёжкой](../translated/d/dila_bulgakova_ramil_medyar-kamal_-_ay_alkali_tatar_kizi.md)
 - [Дилә Булгакова / Рамил Медъяр-Камал - Нәсимә каеннары / Диля Булгакова / Рамиль Медъяр-Камаль - Берёзы Насимы](../translated/d/dila_bulgakova_ramil_medyar-kamal_-_nasima_kaennari.md)
 - [Дилә Булгакова / Рамил Медъяр-Камал - Яшел Уфа / Диля Булгакова / Рамиль Медъяр-Камаль - Зеленая Уфа](../translated/d/dila_bulgakova_ramil_medyar-kamal_-_yashel_ufa.md)
 - [Дилә Булгакова / Рим Хәсәнов - Мамык шәлем / Диля Булгакова / Рим Хасанов - Пуховый платок](../translated/d/dila_bulgakova_rim_hasanov_-_mamik_shalem.md)
@@ -77,6 +81,7 @@
 - [Заман егетлэре - Урманнарда йордем / Заман егетлэре - В лесах я брожу](../translated/z/zaman_egetlere-urmannarda_yordem.md)
 - [Заман егетләре - Кичер мине энкэй ачуланма / Заман егетляре - Прости меня, мама, не сердись](../translated/z/zaman_egetlere-kicher_mine_enkey_achulanma.md)
 - [Заман егетләре - Наласа авыл кое / Заман егетляре - Мелодия деревни Наласа](../translated/z/zaman_egetlere-nalasa_avyl_koe.md)
+- [Заһит Фәйзрахманов / Рәсилә Йосыпова - Үз өемнең бикле капкасы / Захит Файзрахманов / Расиля Юсупова - Запертая калитка родного дома](../translated/z/zahit_fayzrahmanov_rasila_yosipova_-_uz_oemnen_bikle_kapkasi.md)
 - [Зинаида Захарова / Людмила Аланлы - Сөйгән ярыма / Зинаида Захарова / Людмила Аланлы - Возлюбленному](../translated/z/zinaida_zaharova_lyudmila_alanli_-_soygan_yarima.md)
 - [Зиннур Сафиуллин - Бэхет тоне / Зиннур Сафиуллин - Ночь счастья](../translated/z/zinnur_safiullin-behet_tone.md)
 - [Зифа Нагаева - Авыл юлларыннан үтәм / Зифа Нагаева - Прохожу по сельским дорогам](../translated/z/zifa_nagaeva_-_avil_yullarinnan_utam.md)
@@ -100,11 +105,6 @@
 - [Зо-Лэй-Лэ - Жуйдым / Зо-Лэй-Лэ - Смыла](../translated/z/zo-ley-le-zhuydym.md)
 - [Зо-Лэй-Лэ - Жэйге Сабан туена / Зо-Лэй-Лэ - На летний Сабантуй](../translated/z/zo-ley-le-zheyge_saban_tuena.md)
 - [Зо-Лэй-Лэ - Йолдызым / Зо-Лэй-Лэ - Моя звезда](../translated/z/zo-ley-le-yoldyzym.md)
-- [Зо-Лэй-Лэ - Канатлар / Зо-Лэй-Лэ - Крылья](../translated/z/zo-ley-le-kanatlar.md)
-- [Зо-Лэй-Лэ - Канэфер / Зо-Лэй-Лэ - Гвоздики](../translated/z/zo-ley-le-kanefer.md)
-- [Зо-Лэй-Лэ - Карама / Зо-Лэй-Лэ - Не смотри](../translated/z/zo-ley-le-karama.md)
-- [Зо-Лэй-Лэ - Киттен / Зо-Лэй-Лэ - Ушла](../translated/z/zo-ley-le-kitten.md)
-- [Зо-Лэй-Лэ - Котэм / Зо-Лэй-Лэ - Жду](../translated/z/zo-ley-le-kotem.md)
 
 ---
 

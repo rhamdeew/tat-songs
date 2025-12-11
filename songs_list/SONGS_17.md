@@ -1,10 +1,15 @@
 # Татарские песни и их перевод - Страница 17
 
-## Список песен (песни 1601-1700 из 3218)
+## Список песен (песни 1601-1700 из 3262)
 
 [← Предыдущая страница](songs_list/SONGS_16.md) | [Главная страница](../README.md) | [Следующая страница →](songs_list/SONGS_18.md)
 
 
+- [Зо-Лэй-Лэ - Канатлар / Зо-Лэй-Лэ - Крылья](../translated/z/zo-ley-le-kanatlar.md)
+- [Зо-Лэй-Лэ - Канэфер / Зо-Лэй-Лэ - Гвоздики](../translated/z/zo-ley-le-kanefer.md)
+- [Зо-Лэй-Лэ - Карама / Зо-Лэй-Лэ - Не смотри](../translated/z/zo-ley-le-karama.md)
+- [Зо-Лэй-Лэ - Киттен / Зо-Лэй-Лэ - Ушла](../translated/z/zo-ley-le-kitten.md)
+- [Зо-Лэй-Лэ - Котэм / Зо-Лэй-Лэ - Жду](../translated/z/zo-ley-le-kotem.md)
 - [Зо-Лэй-Лэ - Кызлар кунеле / Зо-Лэй-Лэ - Девичье сердце](../translated/z/zo-ley-le-kyzlar_kunele.md)
 - [Зо-Лэй-Лэ - Кырга чыктым юлга чыктым / Зо-Лэй-Лэ - Вышел в поле, вышел в путь](../translated/z/zo-ley-le-kyrga_chyktym_yulga_chyktym.md)
 - [Зо-Лэй-Лэ - Лэйсэн ява / Зо-Лэй-Лэ - Дождь Лейсан](../translated/z/zo-ley-le-leysen_yava.md)
@@ -66,6 +71,7 @@
 - [Зухра Шарифуллина - Су буенда учак яна / Зухра Шарифуллина - У воды костёр горит](../translated/z/zuhra_sharifullina-su_buenda_uchak_yana.md)
 - [Зухра Шарифуллина - Эх тала тала / Зухра Шарифуллина - Ах степь, степь](../translated/z/zuhra_sharifullina-eh_tala_tala.md)
 - [Зәйнәп Биишева / Альбина Имаева - Күңелемдә җыр ургыла (Җырлап алыймын әле) / Зайнап Биишева / Альбина Имаева - Песня звучит в моем сердце (Я пою всё ещё)](../translated/z/zaynap_biisheva_albina_imaeva_-_kunelemda_cir_urgila_cirlap_aliymin_ale.md)
+- [Зәйнәп Биишева / Мөфтәдин Гыйләҗев - Гүзәл җыр кебек / Зайнаб Биишева / Муфтадин Гилязев - Как прекрасная песня](../translated/z/zaynap_biisheva_moftadin_giylacev_-_guzal_cir_kebek.md)
 - [Зәйнәп Фәрхетдинова - Гомерлэр зая узмасын / Зейнеп Фархетдинова - Пусть годы зря не проходят](../translated/z/zaynap_farhetdinova-gomerler_zaya_uzmasyn.md)
 - [Зәйнәп Фәрхетдинова - Эче-эче / Зейнеп Фархетдинова - Пей-пей](../translated/z/zaynap_farhetdinova-eche-eche.md)
 - [Зөлфия Фәйрушина / Флүрә Талипова - Ялгыз ана җыры / Зульфия Файрушина / Флюра Талипова - Песня одинокой матери](../translated/z/zolfiya_fayrushina_flura_talipova_-_yalgiz_ana_ciri.md)
@@ -99,12 +105,6 @@
 - [Илсия Бадретдинова - Су буйлап / Илсия Бадретдинова - Вдоль воды](../translated/i/ilsiya_badretdinova-su_buylap.md)
 - [Илсия Бадретдинова - Сугыш / Илсия Бадретдинова - Война](../translated/i/ilsiya_badretdinova-sugysh.md)
 - [Илсия Бадретдинова - Торып бас / Илсия Бадретдинова - Встань и иди](../translated/i/ilsiya_badretdinova-toryp_bas.md)
-- [Илсия Бадретдинова - Уйлану / Илсия Бадретдинова - Размышление](../translated/i/ilsiya_badretdinova-uylanu.md)
-- [Илсия Бадретдинова - Хикмэт язмыш / Илсия Бадретдинова - Мудрая судьба](../translated/i/ilsiya_badretdinova-hikmet_yazmysh.md)
-- [Илсия Бадретдинова - Хушлашу / Илсия Бадретдинова - Прощание](../translated/i/ilsiya_badretdinova-hushlashu.md)
-- [Илсия Бадретдинова - Эстэгъфирулла / Илсия Бадретдинова - Астагфирулла](../translated/i/ilsiya_badretdinova-estegfirulla.md)
-- [Илсия Бадретдинова - Ябалак / Илсия Бадретдинова - Филин](../translated/i/ilsiya_badretdinova-yabalak.md)
-- [Илсия Бадретдинова - Ялгыз ана / Илсия Бадретдинова - Одинокая мать](../translated/i/ilsiya_badretdinova-yalgyz_ana.md)
 
 ---
 

@@ -1,10 +1,17 @@
 # Татарские песни и их перевод - Страница 21
 
-## Список песен (песни 2001-2100 из 3218)
+## Список песен (песни 2001-2100 из 3262)
 
 [← Предыдущая страница](songs_list/SONGS_20.md) | [Главная страница](../README.md) | [Следующая страница →](songs_list/SONGS_22.md)
 
 
+- [Малика - Кияу белэн кэлэш / Малика - Жених и невеста](../translated/m/malika-kiyau_belen_kelesh.md)
+- [Малика - Котеп алган бэйрэм / Малика - Долгожданный праздник](../translated/m/malika-kotep_algan_beyrem.md)
+- [Малика - Матур кош / Малика - Прекрасная птица](../translated/m/malika-matur_kosh.md)
+- [Малика - Мен рэхмэт / Малика - Моя благодарность](../translated/m/malika-men_rehmet.md)
+- [Малика - Мин синеке тугел / Малика - Я не твоя](../translated/m/malika-min_sineke_tugel.md)
+- [Малика - Ник котмэден? / Малика - Почему не дождалась?](../translated/m/malika-nik_kotmeden.md)
+- [Малика - Озмэ мина голлэр / Малика - Не рви мне цветы](../translated/m/malika-ozme_mina_goller.md)
 - [Малика - Оныт эле аны / Малика - Забудь её](../translated/m/malika-onyt_ele_any.md)
 - [Малика - Сагынырсын / Малика - Будешь скучать](../translated/m/malika-sagynyrsyn.md)
 - [Малика - Сандугач / Малика - Соловей](../translated/m/malika-sandugach.md)
@@ -40,6 +47,7 @@
 - [Марат Кәбиров / Рәис Ханнанов - Эх, яшьлек еллары / Марат Кабиров / Раис Ханнанов - Ах, годы юности](../translated/m/marat_kabirov_rais_hannanov_-_eh_yashlek_ellari.md)
 - [Марат Кәбиров / Рәүф Адилов - Кайтмадың (икенче вариант) / Марат Кабиров / Рауф Адилов - Ты не вернулся (второй вариант)](../translated/m/marat_kabirov_rauf_adilov_-_kaytmadin_ikenche_variant.md)
 - [Марат Файрушин - Синен язлар / Марат Файрушин - Твои весны](../translated/m/marat_fayrushin-sinen_yazlar.md)
+- [Марзыя Мухина / Ганс Сәйфуллин - Минем җырым (өченче вариант) / Марзия Мухина / Ганс Сайфуллин - Моя песня (третий вариант)](../translated/m/marziya_muhina_gans_sayfullin_-_minem_cirim_ochenche_variant.md)
 - [Марс Хафизов / Илһам Байтирәк - Агач яфраклары / Марс Хафизов / Ильхам Байтирәк - Листья на дереве](../translated/m/mars_hafizov_ilham_baytirak_-_agach_yafraklari.md)
 - [Марс Шабай / Мирсәет Яруллин - Мөслим (беренче вариант) / Марс Шабай / Мирсает Яруллин - Муслим (первый вариант)](../translated/m/mars_shabay_mirsaet_yarullin_-_moslim_berenche_variant.md)
 - [Марсель Вагизов - Агыйдел каты ага / Марсель Вагизов - Белая река стремительно течёт](../translated/m/marsel_vagizov-agyydel_katy_aga.md)
@@ -85,26 +93,18 @@
 - [Нафкат Нигматуллин - Сине кургэч / Нафкат Нигматуллин - Увидев тебя](../translated/n/nafkat_nigmatullin-sine_kurgech.md)
 - [Наҗар Нәҗми / Вәсил Галимов - Бер җылы сүз (Әллә ниләр әйтер идем сиңа) / Нажар Нажми / Василь Галимов - Одно слово (Все говорил тебе что-нибудь)](../translated/n/nacar_nacmi_vasil_galimov_-_ber_cili_suz_alla_nilar_ayter_idem_sina.md)
 - [Наҗар Нәҗми / Муса Маликов - Гармун (дүртенче вариант) / Наҗар Нәҗми / Муса Маликов - Гармонь (четвертый вариант)](../translated/n/nacar_nacmi_musa_malikov_-_garmun_durtenche_variant.md)
+- [Наҗар Нәҗми / Ризван Хәкимов - Әллә ниләр әйтер идем сиңа (Бер җылы сүз) / Наджар Наджми / Ризван Хакимов - Столько хотел бы сказать тебе (Одно тёплое слово)](../translated/n/nacar_nacmi_rizvan_hakimov_-_alla_nilar_ayter_idem_sina_ber_cili_suz.md)
 - [Наҗар Нәҗми / Рим Хәсәнов - Мине юллар чакыра / Нажар Нажми / Рим Хасанов - Меня дороги зовут](../translated/n/nacar_nacmi_rim_hasanov_-_mine_yullar_chakira.md)
 - [Наҗар Нәҗми / Шамил Колбарисов - Матур була (икенче вариант) / Нажар Нажми / Шамиль Колбарисов - Красива (второй вариант)](../translated/n/nacar_nacmi_shamil_kolbarisov_-_matur_bula_ikenche_variant.md)
 - [Нияз Валиев - Синен янда / Нияз Валиев - Рядом с тобой](../translated/n/niyaz_valiev-sinen_yanda.md)
 - [Нур Гайсин / Рөстәм Сәрвәров - Сөйгән ярым күршедә / Нур Гайсин / Рустам Сарваров - Возлюбленная моя живёт в деревне](../translated/n/nur_gaysin_rostam_sarvarov_-_soygan_yarim_kursheda.md)
+- [Нур Әхмәдиев / Зиннур Сафиуллин - Каенлы юл / Нур Ахмадиев / Зиннур Сафиуллин - Березовая дорога](../translated/n/nur_ahmadiev_zinnur_safiullin_-_kaenli_yul.md)
 - [Нури Арсланов / Александр Ключарев - Миләүшә (беренче вариант) / Нури Арсланов / Александр Ключарев - Миләүшә (первый вариант)](../translated/n/nuri_arslanov_aleksandr_klyucharev_-_milausha_berenche_variant.md)
 - [Нурисә Мөхәммәтова / Айнур Сабирҗанов - Насыйп ярым (беренче вариант) / Нуриса Мухамматова / Айнур Сабиржанов - Моя доля, моя любовь (первый вариант)](../translated/n/nurisa_mohammatova_aynur_sabircanov_-_nasiyp_yarim_berenche_variant.md)
 - [Нурия Абдуллина - Нәфсе дәрьяларын буйламыйк / Нурия Абдуллина - Не будем мерить глубину души](../translated/n/nuriya_abdullina_-_nafse_daryalarin_buylamiyk.md)
 - [Нурия Абдуллина - Туганнар (икенче вариант) / Нурия Абдуллина - Родные (второй вариант)](../translated/n/nuriya_abdullina_-_tugannar_ikenche_variant.md)
 - [Нурия Гыйләҗева / Ризида Мөхәммәтҗанова - Эх, гармун, гитара! / Нурия Гильяжева / Ризида Мухаммаджанова - Ах, гармонь, гитара!](../translated/n/nuriya_giylaceva_rizida_mohammatcanova_-_eh_garmun_gitara.md)
 - [Нурлан Ганиев / Наил Шәймарданов - Тормыш дигәнебез шушыдыр / Нурлан Ганиев / Наиль Шаймарданов - Такова жизнь, которую мы зовём](../translated/n/nurlan_ganiev_nail_shaymardanov_-_tormish_diganebez_shushidir.md)
-- [Нәзирә Яппарова - Күкләрдәге күгәрчен / Назира Яппарова - Голубь в небесах](../translated/n/nazira_yapparova_-_kuklardage_kugarchen.md)
-- [Нәзифә Кәримова / Наилә Фатехова - Яшьлекләр күңелдә! (Без бергә) / Назифа Каримова / Наиля Фатехова - Юность в сердце! (Мы вместе)](../translated/n/nazifa_karimova_naila_fatehova_-_yashleklar_kunelda_bez_berga.md)
-- [Нәсимә Әминева - Бәхетле бул бүген / Насима Аминева - Счастливым будь сегодня](../translated/n/nasima_amineva_-_bahetle_bul_bugen.md)
-- [Нәфисә Сабирҗанова / Владимир Федоров - Кайтып киләм / Нәфисә Сабирҗанова / Владимир Фёдоров - Возвращаюсь](../translated/n/nafisa_sabircanova_vladimir_fedorov_-_kaytip_kilam.md)
-- [Нәҗибә Сафина / Людмила Аланлы - Син көткән яңа ел / Нажиба Сафина / Людмила Аланлы - Скучала ли ты по Новому году?](../translated/n/naciba_safina_lyudmila_alanli_-_sin_kotkan_yana_el.md)
-- [Нәҗип Иделбай / Заһир Исмәгыйлев - Оч, минем җирән атым / Нажип Иделбай / Захир Исмагиев - Лети, моя верная лошадь](../translated/n/nacip_idelbay_zahir_ismagiylev_-_och_minem_ciran_atim.md)
-- [Нәҗип Мадьяров / Илгиз Закиров - Сиңа кайттым, газиз туган җирем / Нәҗип Мәдьяров / Илгиз Зәкиров - Я возвратился к тебе, любимая родная земля](../translated/n/nacip_madyarov_ilgiz_zakirov_-_sina_kayttim_gaziz_tugan_cirem.md)
-- [Нәҗип Әсәнбаев / Салават Низаметдинов - Бәхетем булса / Нәҗип Әсәнбаев / Салават Низаметдинов - Если я буду счастьем](../translated/n/nacip_asanbaev_salavat_nizametdinov_-_bahetem_bulsa.md)
-- [Ольга Фаворская - Бәхетле бул! / Ольга Фаворская - Будь счастлив!](../translated/o/olga_favorskaya_-_bahetle_bul.md)
-- [Попурри - Идел буе каеннары / Попурри - Березы у берегов Волги](../translated/p/popurri-idel_bue_kaennary.md)
 
 ---
 

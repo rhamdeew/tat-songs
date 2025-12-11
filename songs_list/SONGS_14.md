@@ -1,10 +1,11 @@
 # Татарские песни и их перевод - Страница 14
 
-## Список песен (песни 1301-1400 из 3218)
+## Список песен (песни 1301-1400 из 3262)
 
 [← Предыдущая страница](songs_list/SONGS_13.md) | [Главная страница](../README.md) | [Следующая страница →](songs_list/SONGS_15.md)
 
 
+- [Гүзәл Уразова - Рэхмэтлемен Ходаема / Гүзәл Уразова - Благодарю Бога моего](../translated/g/guzel_urazova-rehmetlemen_hodaema.md)
 - [Гүзәл Уразова - Сабырлык / Гүзәл Уразова - Терпение](../translated/g/guzel_urazova-sabyrlyk.md)
 - [Гүзәл Уразова - Сандугач / Гүзәл Уразова - Соловей](../translated/g/guzel_urazova-sandugach.md)
 - [Гүзәл Уразова - Сездэ кала ярты жаныбыз / Гүзәл Уразова - У вас остается половина нашей души](../translated/g/guzel_urazova-sezde_kala_yarty_zhanybyz.md)
@@ -12,6 +13,7 @@
 - [Гүзәл Уразова - Син дэ мина бер генэ / Гүзәл Уразова - И ты мне единственный](../translated/g/guzel_urazova-sin_de_mina_ber_gene.md)
 - [Гүзәл Уразова - Шафран чиялэре / Гүзәл Уразова - Шафранские вишни](../translated/g/guzel_urazova-shafran_chiyalere.md)
 - [Гүзәл Уразова - Шахта / Гүзәл Уразова - Шахта](../translated/g/guzel_urazova-shahta.md)
+- [Гәрәй Рәхим / Людмила Аланлы - Дөнья сиңа килешә / Гарай Рахим / Людмила Аланлы - Мир тебе так к лицу](../translated/g/garay_rahim_lyudmila_alanli_-_donya_sina_kilesha.md)
 - [Гәрәй Рәхим / Рифкать Сәйфетдинов - Кызыбыз сине көтә / Гарей Рахим / Рифкат Сайфетдинов - Наша дочь ждёт тебя](../translated/g/garay_rahim_rifkat_sayfetdinov_-_kizibiz_sine_kota.md)
 - [Гәрәй Рәхим / Тәлгать Бадыгин - Бездән әле яшьлек узмаган / Гәрәй Рәхим / Тәлгать Бадыгин - Нам еще не прошла юность](../translated/g/garay_rahim_talgat_badigin_-_bezdan_ale_yashlek_uzmagan.md)
 - [Гөзел Уразова - Тик син дип тибэ хэзер йорэгем / Гөзел Уразова - Только тебя зовёт теперь сердце](../translated/g/guzel_urazova-tik_sin_dip_tibe_hezer_yoregem.md)
@@ -55,6 +57,7 @@
 - [Гөлсәрвәр / Оскар Усманов - Язмышка ни язган / Гөлсәрвәр / Оскар Усманов - Что написано в судьбе](../translated/g/golsarvar_oskar_usmanov_-_yazmishka_ni_yazgan.md)
 - [Гөлфия Шакирова / Альберт Галимуллин - Ходай сезне бүләкләр / Гульфия Шакирова / Альберт Галимуллин - Дарует тебе Бог блага](../translated/g/golfiya_shakirova_albert_galimullin_-_hoday_sezne_bulaklar.md)
 - [Гөлфия Шакирова / Игорь Дмитриев - Үкенмим (икенче вариант) / Гульфия Шакирова / Игорь Дмитриев - Я не жалуюсь (второй вариант)](../translated/g/golfiya_shakirova_igor_dmitriev_-_ukenmim_ikenche_variant.md)
+- [Гөлфия Шакирова / Илнар Гыйльманшин - Көтәр кешең булу бәхет / Гульфия Шакирова / Ильнар Гильманшин - Иметь того, кого ждёшь - счастье](../translated/g/golfiya_shakirova_ilnar_giylmanshin_-_kotar_keshen_bulu_bahet.md)
 - [Гөлфия Шакирова / Лилия Вахитова - Алдашмагыз! / Гульфия Шакирова / Лилия Вахитова - Не обманывайте!](../translated/g/golfiya_shakirova_liliya_vahitova_-_aldashmagiz.md)
 - [Гөлфия Шакирова / Марат Мухин - Язлар булып кайт / Гульфия Шакирова / Марат Мухин - Вернись в виде лет](../translated/g/golfiya_shakirova_marat_muhin_-_yazlar_bulip_kayt.md)
 - [Гөлфия Шакирова / Мурат Гайсин - Күңелемнең кыллары / Гульфия Шакирова / Мурат Гайсин - Струны моего сердца](../translated/g/golfiya_shakirova_murat_gaysin_-_kunelemnen_killari.md)
@@ -79,6 +82,7 @@
 - [Гөлшат Зәйнәшева / Татар халык көе - Сәфәр (икенче вариант) / Гөлшать Зәйнәшева / Татар народная песня - Путешествие (второй вариант)](../translated/g/golshat_zaynasheva_tatar_halik_koe_-_safar_ikenche_variant.md)
 - [Гөлшат Зәйнәшева / Татар халык көе - Туй җыры (икенче вариант) / Гульшат Зайняшева / Татарский народный стиль - Песня свадьбы (второй вариант)](../translated/g/golshat_zaynasheva_tatar_halik_koe_-_tuy_ciri_ikenche_variant.md)
 - [Гөлшат Зәйнәшева / Тәлгать Шәрипов - Аңларсыңмы? .. / Гульшат Зайнэшева / Талгат Шарипов - Ты понимаешь ли?](../translated/g/golshat_zaynasheva_talgat_sharipov_-_anlarsinmi.md)
+- [Гөлшат Зәйнәшева / Фәрит Хатыйпов - Соңгы күрешү / Гульшат Зайнашева / Фарит Хатыпов - Последняя встреча](../translated/g/golshat_zaynasheva_farit_hatiypov_-_songi_kureshu.md)
 - [Гөлшат Зәйнәшева / Фәрит Хатыйпов - Яшәрәсиң, Казан, яңарасың / Гульшат Зайнешева / Фарит Хатыпов - Живи, Казань, возгорайся](../translated/g/golshat_zaynasheva_farit_hatiypov_-_yasharasen_kazan_yanarasin.md)
 - [Гөлшат Әхмәткужина / Салават Низаметдинов - Туктады моң / Гөлшат Әхмәткужина / Салават Низаметдинов - Прекратилась тоска](../translated/g/golshat_ahmatkuzhina_salavat_nizametdinov_-_tuktadi_mon.md)
 - [Гөлшат Әхмәткужина / Юлай Үзәнбаев - Килче яннарыма елмаеп / Гөлшат Әхмәткужина / Юлай Үзәнбаев - Приди, улыбайся мне](../translated/g/golshat_ahmatkuzhina_yulay_uzanbaev_-_kilche_yannarima_elmaep.md)
@@ -101,10 +105,6 @@
 - [Дамир Гыйсметдин / Вәис Бәйрәмов - Соңгы юлга озатам әниемне / Дамир Гисметдин / Ваис Байрамов - Провожаю мать в последний путь](../translated/d/damir_giysmetdin_vais_bayramov_-_songi_yulga_ozatam_aniemne.md)
 - [Дамир Гыйсметдин / Вәис Бәйрәмов - Төшләремә кердең (беренче вариант) / Дамир Гыйсметдин / Ваис Байрамов - Вошла в мои сны (первый вариант)](../translated/d/damir_giysmetdin_vais_bayramov_-_toshlarema_kerden_berenche_variant.md)
 - [Дамир Гыйсметдин / Габдразак Миңгалиев - Соңгы яфрак (икенче вариант) / Дамир Гыйсметдин / Габдразак Миңгалиев - Последний листок (второй вариант)](../translated/d/damir_giysmetdin_gabdrazak_mingaliev_-_songi_yafrak_ikenche_variant.md)
-- [Дамир Гыйсметдин / Габдразак Миңгалиев - Сөю хакына / Дамир Гыйсметдин / Габдразак Миңгалиев - Ради любви](../translated/d/damir_giysmetdin_gabdrazak_mingaliev_-_soyu_hakina.md)
-- [Дамир Гыйсметдин / Габдразак Миңгалиев - Эшлә син!.. / Дамир Гыйсметдин / Габдразак Миңгалиев - Работай!..](../translated/d/damir_giysmetdin_gabdrazak_mingaliev_-_eshla_sin.md)
-- [Дамир Гыйсметдин / Габдразак Миңгалиев - Ялгыз әткәй / Дамир Гыйсметдин / Габдразак Миңгалиев - Одинокий отец](../translated/d/damir_giysmetdin_gabdrazak_mingaliev_-_yalgiz_atkay.md)
-- [Дамир Гыйсметдин / Габдразак Миңгалиев - Үкенү (икенче вариант) / Дамир Гыйсметдин / Габдразак Миңгалиев - Сожаление (второй вариант)](../translated/d/damir_giysmetdin_gabdrazak_mingaliev_-_ukenu_ikenche_variant.md)
 
 ---
 

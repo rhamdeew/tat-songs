@@ -1,6 +1,6 @@
 # Татарские песни и их перевод - Страница 12
 
-## Список песен (песни 1101-1200 из 3218)
+## Список песен (песни 1101-1200 из 3262)
 
 [← Предыдущая страница](songs_list/SONGS_11.md) | [Главная страница](../README.md) | [Следующая страница →](songs_list/SONGS_13.md)
 
@@ -44,6 +44,7 @@
 - [Виталий Агапов - Язмыш кушса / Виталий Агапов - Если судьба позволит](../translated/v/vitaliy_agapov_-_yazmish_kushsa.md)
 - [Владислав Шәрифуллин - Каридел / Владислав Шарифуллин - Каридель](../translated/v/vladislav_sharifullin_-_karidel.md)
 - [Вәзирә / FIDO - Сиңа җаным / Вәзирә / FIDO - Для тебя, душа моя](../translated/v/vazira_fido_-_sina_canim.md)
+- [Вәзыйх Фатыйхов / Халидин Әхәтов - Соңгы өмет / Вазих Фатихов / Халидин Ахатов - Последняя надежда](../translated/v/vaziyh_fatiyhov_halidin_ahatov_-_songi_omet.md)
 - [Вәсимә Хәйруллина / Нәфисә Хәкимова - Их, гармуннар уйный белсәм / Васима Хайруллина / Нэфисэ Хакимова - Эх, если бы я умел играть на гармони](../translated/v/vasima_hayrullina_nafisa_hakimova_-_ih_garmunnar_uyniy_belsam.md)
 - [Габделфат Сафин - Гашыйк ит / Габделфат Сафин - Полюби](../translated/g/gabdelfat_safin-gashyyk_it.md)
 - [Габделфат Сафин - Зэйтунэм / Габделфат Сафин - Зайтуна](../translated/g/gabdelfat_safin-zeytunem.md)
@@ -104,7 +105,6 @@
 - [Гузель Ахметова - Алтын калфак / Гузель Ахметова - Золотой калфак](../translated/g/guzel_ahmetova-altyn_kalfak.md)
 - [Гузель Ахметова - Аралар бит ерак, аралар / Гузель Ахметова - Расстояния ведь далеки, расстояния](../translated/g/guzel_ahmetova-aralar_bit_erak_aralar.md)
 - [Гузель Ахметова - Гомерлек дигэн ярым / Гузель Ахметова - Спутница на всю жизнь](../translated/g/guzel_ahmetova-gomerlek_digen_yarym.md)
-- [Гузель Ахметова - Гомерлэр яшэрмэс янадан / Гузель Ахметова - Жизнь не молодеет снова](../translated/g/guzel_ahmetova-gomerler_yashermes_yanadan.md)
 
 ---
 

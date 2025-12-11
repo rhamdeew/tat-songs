@@ -1,10 +1,17 @@
 # Татарские песни и их перевод - Страница 19
 
-## Список песен (песни 1801-1900 из 3218)
+## Список песен (песни 1801-1900 из 3262)
 
 [← Предыдущая страница](songs_list/SONGS_18.md) | [Главная страница](../README.md) | [Следующая страница →](songs_list/SONGS_20.md)
 
 
+- [Ильсия Бадретдинова - Очрашу / Ильсия Бадретдинова - Встреча](../translated/i/ilsiya_badretdinova-ochrashu.md)
+- [Ильсия Бадретдинова - Рэхмэт Тэнрем / Ильсия Бадретдинова - Спасибо Всевышний](../translated/i/ilsiya_badretdinova-rehmet_tenrem.md)
+- [Ильсия Бадретдинова - Сэер кеше / Ильсия Бадретдинова - Странный человек](../translated/i/ilsiya_badretdinova-seer_keshe.md)
+- [Ильсия Бадретдинова - Яз / Ильсия Бадретдинова - Весна](../translated/i/ilsiya_badretdinova-yaz.md)
+- [Ильсия Бадретдинова - Ялвару / Ильсия Бадретдинова - Молитва](../translated/i/ilsiya_badretdinova-yalvaru.md)
+- [Ильсия Бадретдинова - Ямьсез кыз / Ильсия Бадретдинова - Некрасивая девушка](../translated/i/ilsiya_badretdinova-yamsez_kyz.md)
+- [Ильхам Шакиров - Бик еракта идек без / Ильхам Шакиров - Очень далеко были мы](../translated/i/ilham_shakirov-bik_erakta_idek_bez.md)
 - [Ильхам Шакиров - Кун авылы кое / Ильхам Шакиров - Деревенская тоска](../translated/i/ilham_shakirov-kun_avyly_koe.md)
 - [Ильхам Шакиров - Очып кайтам / Ильхам Шакиров - Лечу возвращаюсь](../translated/i/ilham_shakirov-ochyp_kaytam.md)
 - [Ильхам Шакиров - Син сазынны уйнадын / Ильхам Шакиров - Ты на сазе играла](../translated/i/ilham_shakirov-sin_sazynny_uynadyn.md)
@@ -98,13 +105,6 @@
 - [Кәүсәрия Шәфикова / Наил Шәймарданов - Кайталар кыр казлары / Кәүсәрия Шәфикова / Наил Шәймарданов - Возвращаются степные гуси](../translated/k/kausariya_shafikova_nail_shaymardanov_-_kaytalar_kir_kazlari.md)
 - [Кәүсәрия Шәфикова / Наил Шәймарданов - Яратам сине генә / Кәүсәрия Шәфикова / Наил Шәймарданов - Я люблю только тебя](../translated/k/kausariya_shafikova_nail_shaymardanov_-_yaratam_sine_gena.md)
 - [Ландыш Бахави - Безне ойдэ котэлэр / Ландыш Бахави - Нас дома ждут](../translated/l/landysh_bahavi-bezne_oyde_koteler.md)
-- [Ландыш Бахави - Туганыма / Ландыш Бахави - Моему родному](../translated/l/landysh_bahavi-tuganyma.md)
-- [Ландыш Габдрахманова / Айдар Тимербаев - Син икән бит / Ландыш Габдрахманова / Айдар Тимербаев - Ты же был](../translated/l/landish_gabdrahmanova_aydar_timerbaev_-_sin_ikan_bit.md)
-- [Ландыш Нигметжанова - Авылым таулары / Ландыш Нигметжанова - Горы моего села](../translated/l/landysh_nigmetzhanova-avylym_taulary.md)
-- [Ландыш Нигметжанова - Ак болытлар / Ландыш Нигметжанова - Белые облака](../translated/l/landysh_nigmetzhanova-ak_bolytlar.md)
-- [Ландыш Нигметжанова - Гомерлеккэ бул син / Ландыш Нигметжанова - Будь навеки](../translated/l/landysh_nigmetzhanova-gomerlekke_bul_sin.md)
-- [Ландыш Нигметжанова - Горурлык дигэн шайтан / Ландыш Нигметжанова - Гордость - черт этакий](../translated/l/landysh_nigmetzhanova-gorurlyk_digen_shaytan.md)
-- [Ландыш Нигметжанова - Жэй кызы / Ландыш Нигметжанова - Дочь лета](../translated/l/landysh_nigmetzhanova-zhey_kyzy.md)
 
 ---
 

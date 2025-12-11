@@ -1,10 +1,11 @@
 # Татарские песни и их перевод - Страница 13
 
-## Список песен (песни 1201-1300 из 3218)
+## Список песен (песни 1201-1300 из 3262)
 
 [← Предыдущая страница](songs_list/SONGS_12.md) | [Главная страница](../README.md) | [Следующая страница →](songs_list/SONGS_14.md)
 
 
+- [Гузель Ахметова - Гомерлэр яшэрмэс янадан / Гузель Ахметова - Жизнь не молодеет снова](../translated/g/guzel_ahmetova-gomerler_yashermes_yanadan.md)
 - [Гузель Ахметова - Гузэллегемнен сере / Гузель Ахметова - Тайна моей красоты](../translated/g/guzel_ahmetova-guzellegemnen_sere.md)
 - [Гузель Ахметова - Икебез ике яр / Гузель Ахметова - Мы двое - два берега](../translated/g/guzel_ahmetova-ikebez_ike_yar.md)
 - [Гузель Ахметова - Йолдызым / Гузель Ахметова - Моя звезда](../translated/g/guzel_ahmetova-yoldyzym.md)
@@ -104,7 +105,6 @@
 - [Гүзел Әхметова - Яшьлек / Гузель Ахметова - Молодость](../translated/g/guzel_ahmetova-yashlek.md)
 - [Гүзәл Уразова - Парлы утсен гомерлэр / Гүзәл Уразова - Парами пусть пройдут века](../translated/g/guzel_urazova-parly_utsen_gomerler.md)
 - [Гүзәл Уразова - Рамай / Гүзәл Уразова - Рамай](../translated/g/guzel_urazova-ramay.md)
-- [Гүзәл Уразова - Рэхмэтлемен Ходаема / Гүзәл Уразова - Благодарю Бога моего](../translated/g/guzel_urazova-rehmetlemen_hodaema.md)
 
 ---
 

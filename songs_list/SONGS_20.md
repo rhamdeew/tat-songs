@@ -1,10 +1,17 @@
 # Татарские песни и их перевод - Страница 20
 
-## Список песен (песни 1901-2000 из 3218)
+## Список песен (песни 1901-2000 из 3262)
 
 [← Предыдущая страница](songs_list/SONGS_19.md) | [Главная страница](../README.md) | [Следующая страница →](songs_list/SONGS_21.md)
 
 
+- [Ландыш Бахави - Туганыма / Ландыш Бахави - Моему родному](../translated/l/landysh_bahavi-tuganyma.md)
+- [Ландыш Габдрахманова / Айдар Тимербаев - Син икән бит / Ландыш Габдрахманова / Айдар Тимербаев - Ты же был](../translated/l/landish_gabdrahmanova_aydar_timerbaev_-_sin_ikan_bit.md)
+- [Ландыш Нигметжанова - Авылым таулары / Ландыш Нигметжанова - Горы моего села](../translated/l/landysh_nigmetzhanova-avylym_taulary.md)
+- [Ландыш Нигметжанова - Ак болытлар / Ландыш Нигметжанова - Белые облака](../translated/l/landysh_nigmetzhanova-ak_bolytlar.md)
+- [Ландыш Нигметжанова - Гомерлеккэ бул син / Ландыш Нигметжанова - Будь навеки](../translated/l/landysh_nigmetzhanova-gomerlekke_bul_sin.md)
+- [Ландыш Нигметжанова - Горурлык дигэн шайтан / Ландыш Нигметжанова - Гордость - черт этакий](../translated/l/landysh_nigmetzhanova-gorurlyk_digen_shaytan.md)
+- [Ландыш Нигметжанова - Жэй кызы / Ландыш Нигметжанова - Дочь лета](../translated/l/landysh_nigmetzhanova-zhey_kyzy.md)
 - [Ландыш Нигметжанова - Кайда син / Ландыш Нигметжанова - Где же ты](../translated/l/landysh_nigmetzhanova-kayda_sin.md)
 - [Ландыш Нигметжанова - Кайтмаска диеп китэм / Ландыш Нигметжанова - Сказав, что не вернусь, ухожу](../translated/l/landysh_nigmetzhanova-kaytmaska_diep_kitem.md)
 - [Ландыш Нигметжанова - Карама минем якка / Ландыш Нигметжанова - Не смотри в мою сторону](../translated/l/landysh_nigmetzhanova-karama_minem_yakka.md)
@@ -98,13 +105,6 @@
 - [Малика - Йорэгемэ минем кагылма / Малика - Не касайся моего сердца](../translated/m/malika-yoregeme_minem_kagylma.md)
 - [Малика - Йорэк сере / Малика - Тайна сердца](../translated/m/malika-yorek_sere.md)
 - [Малика - Казаныма мэдхия / Малика - Гимн моей Казани](../translated/m/malika-kazanyma_medhiya.md)
-- [Малика - Кияу белэн кэлэш / Малика - Жених и невеста](../translated/m/malika-kiyau_belen_kelesh.md)
-- [Малика - Котеп алган бэйрэм / Малика - Долгожданный праздник](../translated/m/malika-kotep_algan_beyrem.md)
-- [Малика - Матур кош / Малика - Прекрасная птица](../translated/m/malika-matur_kosh.md)
-- [Малика - Мен рэхмэт / Малика - Моя благодарность](../translated/m/malika-men_rehmet.md)
-- [Малика - Мин синеке тугел / Малика - Я не твоя](../translated/m/malika-min_sineke_tugel.md)
-- [Малика - Ник котмэден? / Малика - Почему не дождалась?](../translated/m/malika-nik_kotmeden.md)
-- [Малика - Озмэ мина голлэр / Малика - Не рви мне цветы](../translated/m/malika-ozme_mina_goller.md)
 
 ---
 

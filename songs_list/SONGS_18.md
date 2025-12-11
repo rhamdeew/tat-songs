@@ -1,10 +1,16 @@
 # Татарские песни и их перевод - Страница 18
 
-## Список песен (песни 1701-1800 из 3218)
+## Список песен (песни 1701-1800 из 3262)
 
 [← Предыдущая страница](songs_list/SONGS_17.md) | [Главная страница](../README.md) | [Следующая страница →](songs_list/SONGS_19.md)
 
 
+- [Илсия Бадретдинова - Уйлану / Илсия Бадретдинова - Размышление](../translated/i/ilsiya_badretdinova-uylanu.md)
+- [Илсия Бадретдинова - Хикмэт язмыш / Илсия Бадретдинова - Мудрая судьба](../translated/i/ilsiya_badretdinova-hikmet_yazmysh.md)
+- [Илсия Бадретдинова - Хушлашу / Илсия Бадретдинова - Прощание](../translated/i/ilsiya_badretdinova-hushlashu.md)
+- [Илсия Бадретдинова - Эстэгъфирулла / Илсия Бадретдинова - Астагфирулла](../translated/i/ilsiya_badretdinova-estegfirulla.md)
+- [Илсия Бадретдинова - Ябалак / Илсия Бадретдинова - Филин](../translated/i/ilsiya_badretdinova-yabalak.md)
+- [Илсия Бадретдинова - Ялгыз ана / Илсия Бадретдинова - Одинокая мать](../translated/i/ilsiya_badretdinova-yalgyz_ana.md)
 - [Илсия Бадретдинова - Ялгызлык / Илсия Бадретдинова - Одиночество](../translated/i/ilsiya_badretdinova-yalgyzlyk.md)
 - [Илсия Бадретдинова - Ялгыш язмыш / Илсия Бадретдинова - Ошибочная судьба](../translated/i/ilsiya_badretdinova-yalgysh_yazmysh.md)
 - [Илсөяр Ганиева / Г.Хәйдәр - Агыйделдә берәү керләр чайкый / Ильсояр Ганиева / Г.Хайдар - На Агидели одиночка качает весла](../translated/i/ilsoyar_ganieva_ghaydar_-_agiydelda_berau_kerlar_chaykiy.md)
@@ -48,6 +54,7 @@
 - [Ильдар Хакимов - Син бэхетле булсын очен / Ильдар Хакимов - Чтобы ты была счастлива](../translated/i/ildar_hakimov-sin_behetle_bulsyn_ochen.md)
 - [Ильдар Хакимов - Язмыш булэге / Ильдар Хакимов - Дар судьбы](../translated/i/ildar_hakimov-yazmysh_bulege.md)
 - [Ильмир Газизуллин - Юллар / Ильмир Газизуллин - Дороги](../translated/i/ilmir_gazizullin-yullar.md)
+- [Ильмира Гыймаева / Альфред Якшимбетов - Әйләнәбез гомер бакчасында / Ильмира Гимаева / Альфред Якшимбетов - Кружимся в саду жизни](../translated/i/ilmira_giymaeva_alfred_yakshimbetov_-_aylanabez_gomer_bakchasinda.md)
 - [Ильназ Бах - Анла йорэгемне / Ильназ Бах - Пойми мое сердце](../translated/i/ilnaz_bah-anla_yoregemne.md)
 - [Ильназ Бах - Котэрмен / Ильназ Бах - Буду ждать](../translated/i/ilnaz_bah-kotermen.md)
 - [Ильназ Бах - Лилиям / Ильназ Бах - Лилия моя](../translated/i/ilnaz_bah-liliyam.md)
@@ -98,13 +105,6 @@
 - [Ильсия Бадретдинова - Ленин бабай / Ильсия Бадретдинова - Дедушка Ленин](../translated/i/ilsiya_badretdinova-lenin_babay.md)
 - [Ильсия Бадретдинова - Мишэрем / Ильсия Бадретдинова - Мишари](../translated/i/ilsiya_badretdinova-misherem.md)
 - [Ильсия Бадретдинова - Ометсез юл / Ильсия Бадретдинова - Безнадёжный путь](../translated/i/ilsiya_badretdinova-ometsez_yul.md)
-- [Ильсия Бадретдинова - Очрашу / Ильсия Бадретдинова - Встреча](../translated/i/ilsiya_badretdinova-ochrashu.md)
-- [Ильсия Бадретдинова - Рэхмэт Тэнрем / Ильсия Бадретдинова - Спасибо Всевышний](../translated/i/ilsiya_badretdinova-rehmet_tenrem.md)
-- [Ильсия Бадретдинова - Сэер кеше / Ильсия Бадретдинова - Странный человек](../translated/i/ilsiya_badretdinova-seer_keshe.md)
-- [Ильсия Бадретдинова - Яз / Ильсия Бадретдинова - Весна](../translated/i/ilsiya_badretdinova-yaz.md)
-- [Ильсия Бадретдинова - Ялвару / Ильсия Бадретдинова - Молитва](../translated/i/ilsiya_badretdinova-yalvaru.md)
-- [Ильсия Бадретдинова - Ямьсез кыз / Ильсия Бадретдинова - Некрасивая девушка](../translated/i/ilsiya_badretdinova-yamsez_kyz.md)
-- [Ильхам Шакиров - Бик еракта идек без / Ильхам Шакиров - Очень далеко были мы](../translated/i/ilham_shakirov-bik_erakta_idek_bez.md)
 
 ---
 
