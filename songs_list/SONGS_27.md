@@ -1,10 +1,27 @@
 # Татарские песни и их перевод - Страница 27
 
-## Список песен (песни 2601-2700 из 3262)
+## Список песен (песни 2601-2700 из 3280)
 
 [← Предыдущая страница](songs_list/SONGS_26.md) | [Главная страница](../README.md) | [Следующая страница →](songs_list/SONGS_28.md)
 
 
+- [Фәннур Сафин / Ринат Гобәйдуллин - Туган җиремә (өченче вариант) / Фаннур Сафин / Ринат Гобайдуллин - Родной земле (третий вариант)](../translated/f/fannur_safin_rinat_gobaydullin_-_tugan_cirema_ochenche_variant.md)
+- [Фәннур Сафин / Ринат Шаһиев - Уйлану (беренче вариант) / Фаннур Сафин / Ринат Шахиев - Свадьба (первый вариант)](../translated/f/fannur_safin_rinat_shahiev_-_uylanu_berenche_variant.md)
+- [Фәннур Сафин / Риф Гатауллин - Балтачым (икенче вариант) / Фаннур Сафин / Риф Гатауллин - Мой Балтач (второй вариант)](../translated/f/fannur_safin_rif_gataullin_-_baltachim_ikenche_variant.md)
+- [Фәннур Сафин / Риф Гатауллин - Безгә дөнья дәшә / Фаннур Сафин / Риф Гатауллин - Мир нам говорит](../translated/f/fannur_safin_rif_gataullin_-_bezga_donya_dasha.md)
+- [Фәннур Сафин / Риф Гатауллин - Бир кулыңны / Фаннур Сафин / Риф Гатауллин - Дай мне руку](../translated/f/fannur_safin_rif_gataullin_-_bir_kulinni.md)
+- [Фәннур Сафин / Риф Гатауллин - Ил кызларына / Фаннур Сафин / Риф Гатауллин - Девушкам страны](../translated/f/fannur_safin_rif_gataullin_-_il_kizlarina.md)
+- [Фәннур Сафин / Риф Гатауллин - Кал моңнарым булып / Фаннур Сафин / Риф Гатауллин - Останься моей печалью](../translated/f/fannur_safin_rif_gataullin_-_kal_monnarim_bulip.md)
+- [Фәннур Сафин / Риф Гатауллин - Кояш дуслары / Фаннур Сафин / Риф Гатауллин - Друзья солнца](../translated/f/fannur_safin_rif_gataullin_-_koyash_duslari.md)
+- [Фәннур Сафин / Риф Гатауллин - Хушлашырга ашыкма (беренче вариант) / Фаннур Сафин / Риф Гатауллин - Не спеши прощаться (первый вариант)](../translated/f/fannur_safin_rif_gataullin_-_hushlashirga_ashikma_berenche_variant.md)
+- [Фәннур Сафин / Риф Гатауллин - Ялгыз көймә (икенче вариант) / Фаннур Сафин / Риф Гатауллин - Одинокая лодка (второй вариант)](../translated/f/fannur_safin_rif_gataullin_-_yalgiz_koyma_ikenche_variant.md)
+- [Фәннур Сафин / Риф Гатауллин - Яратырмын сине генә / Фаннур Сафин / Риф Гатауллин - Люблю лишь тебя одну](../translated/f/fannur_safin_rif_gataullin_-_yaratirmin_sine_gena.md)
+- [Фәннур Сафин / Рәшит Абдуллин - Мәхәббәт шатлыгы / Фаннур Сафин / Рашит Абдуллин - Радость любви](../translated/f/fannur_safin_rashit_abdullin_-_mahabbat_shatligi.md)
+- [Фәннур Сафин / Рөстәм Сәрвәров - Моңланма (беренче вариант) / Фаннур Сафин / Рустам Сарваров - Не грусти (первый вариант)](../translated/f/fannur_safin_rostam_sarvarov_-_monlanma_berenche_variant.md)
+- [Фәннур Сафин / Рөстәм Яхин - Без барыбер бергә булырбыз (икенче вариант) / Фаннур Сафин / Рустам Яхин - Мы всё равно будем вместе (второй вариант)](../translated/f/fannur_safin_rostam_yahin_-_bez_bariber_berga_bulirbiz_ikenche_variant.md)
+- [Фәннур Сафин / Сәүбән Чуганаев - Бер елганың ике ярында / Фаннур Сафин / Саубан Чуганаев - На двух берегах одной реки](../translated/f/fannur_safin_sauban_chuganaev_-_ber_elganin_ike_yarinda.md)
+- [Фәннур Сафин / Фәрид Низамиев - Уятам / Фаннур Сафин / Фарид Низамиев - Разбужу](../translated/f/fannur_safin_farid_nizamiev_-_uyatam.md)
+- [Фәннур Сафин / Фәрит Хатыйпов - Моңлану (икенче вариант) / Фаннур Сафин / Фарит Хатыйпов - Грусть (второй вариант)](../translated/f/fannur_safin_farit_hatiypov_-_monlanu_ikenche_variant.md)
 - [Фәнүзә Зөлкарнаева-Нәбиуллина / Рәзидә Әхмәтова - Безнең учак / Фануза Зулькарнаева-Набиуллина / Разида Ахматова - Наш очаг](../translated/f/fanuza_zolkarnaeva-nabiullina_razida_ahmatova_-_beznen_uchak.md)
 - [Фәнүзә Зөлкарнаева-Нәбиуллина / Рәзидә Әхмәтова - Гомер (тугызынчы вариант) / Фануза Зулькарнаева-Набиуллина / Разида Ахматова - Жизнь (девятый вариант)](../translated/f/fanuza_zolkarnaeva-nabiullina_razida_ahmatova_-_gomer_tugizinchi_variant.md)
 - [Фәнүзә Зөлкарнаева-Нәбиуллина / Рәзидә Әхмәтова - Моң дөньясы / Фануза Зулькарнаева-Набиуллина / Разида Ахматова - Мир мелодий](../translated/f/fanuza_zolkarnaeva-nabiullina_razida_ahmatova_-_mon_donyasi.md)
@@ -88,23 +105,6 @@
 - [Халидә Шәяхмәтова / Флүрә Үзәнбаева - Терәк булыр кешең кирәк / Халида Шахматова / Флюра Узенбаева - Нужен человек, который станет опорой](../translated/h/halida_shayahmatova_flura_uzanbaeva_-_terak_bulir_keshen_kirak.md)
 - [Халисә Мөдәрисова / Нур Даутов - Йөрәк кылым / Халиса Мударисова / Нур Даутов - Струна сердца](../translated/h/halisa_modarisova_nur_dautov_-_yorak_kilim.md)
 - [Халисә Мөдәрисова / Ризван Хәкимов - Ничек бармын, шулай ярат / Халиса Мударисова / Ризван Хакимов - Как я пойду, так и люблю](../translated/h/halisa_modarisova_rizvan_hakimov_-_nichek_barmin_shulay_yarat.md)
-- [Халисә Мөдәрисова / Роза Сәхәүетдинова - Киек казлар (дүртенче вариант) / Халисә Мөдәрисова / Роза Сәхәүетдинова - Казы-казы (четвёртый вариант)](../translated/h/halisa_modarisova_roza_sahauetdinova_-_kiek_kazlar_durtenche_variant.md)
-- [Халык / Асаф Вәлиев - Сине генә көттем мин / Народная / Асаф Вәлиев - Я ждал только тебя](../translated/h/halik_asaf_valiev_-_sine_gena_kottem_min.md)
-- [Халык / Рәис Ханнанов - Ташлама, бәгыркәем / Народ / Рэис Ханнанов - Не бросай, любимый](../translated/h/halik_rais_hannanov_-_tashlama_bagirkaem.md)
-- [Хания Фархи - Авыл киче / Хания Фархи - Деревенский вечер](../translated/h/haniya_farhi-avyl_kiche.md)
-- [Хания Фархи - Анлыйсынмы / Хания Фархи - Понимаешь ли](../translated/h/haniya_farhi-anlyysynmy.md)
-- [Хания Фархи - Балан / Хания Фархи - Калина](../translated/h/haniya_farhi-balan.md)
-- [Хания Фархи - Гармунчыга / Хания Фархи - Гармонисту](../translated/h/haniya_farhi-garmunchyga.md)
-- [Хания Фархи - Гомерлэр зая узмасын / Хания Фархи - Пусть жизнь не пройдёт напрасно](../translated/h/haniya_farhi-gomerler_zaya_uzmasyn.md)
-- [Хания Фархи - Гомерлэрне улмэс жыр итик / Хания Фархи - Жизни сделаем бессмертной песней](../translated/h/haniya_farhi-gomerlerne_ulmes_zhyr_itik.md)
-- [Хания Фархи - Казан кичлэре / Хания Фархи - Казанские вечера](../translated/h/haniya_farhi-kazan_kichlere.md)
-- [Хания Фархи - Китмик эле яшьлек иленнэн / Хания Фархи - Не уйти из страны юности](../translated/h/haniya_farhi-kitmik_ele_yashlek_ilennen.md)
-- [Хания Фархи - Кышкы чия / Хания Фархи - Зимняя вишня](../translated/h/haniya_farhi-kyshky_chiya.md)
-- [Хания Фархи - Мина кара / Хания Фархи - Посмотри на меня](../translated/h/haniya_farhi-mina_kara.md)
-- [Хания Фархи - Сагыну / Хания Фархи - Печаль](../translated/h/haniya_farhi-sagynu.md)
-- [Хания Фархи - Син икэн / Хания Фархи - Это ты](../translated/h/haniya_farhi-sin_iken.md)
-- [Хания Фархи - Упкэлэсэн эйдэ упкэлэ / Хания Фархи - Если обижаешься, ну обижайся](../translated/h/haniya_farhi-upkelesen_eyde_upkele.md)
-- [Хания Фархи - Элдермешкэ кайтам эле / Хания Фархи - В Элдермеш вернусь я](../translated/h/haniya_farhi-eldermeshke_kaytam_ele.md)
 
 ---
 

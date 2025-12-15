@@ -1,6 +1,6 @@
 # Татарские песни и их перевод - Страница 12
 
-## Список песен (песни 1101-1200 из 3262)
+## Список песен (песни 1101-1200 из 3280)
 
 [← Предыдущая страница](songs_list/SONGS_11.md) | [Главная страница](../README.md) | [Следующая страница →](songs_list/SONGS_13.md)
 
@@ -44,7 +44,10 @@
 - [Виталий Агапов - Язмыш кушса / Виталий Агапов - Если судьба позволит](../translated/v/vitaliy_agapov_-_yazmish_kushsa.md)
 - [Владислав Шәрифуллин - Каридел / Владислав Шарифуллин - Каридель](../translated/v/vladislav_sharifullin_-_karidel.md)
 - [Вәзирә / FIDO - Сиңа җаным / Вәзирә / FIDO - Для тебя, душа моя](../translated/v/vazira_fido_-_sina_canim.md)
+- [Вәзыйх Фатыйхов / Булат Шәрипов - Очар канатым / Вазых Фатыхов / Булат Шарипов - Мои крылья](../translated/v/vaziyh_fatiyhov_bulat_sharipov_-_ochar_kanatim.md)
 - [Вәзыйх Фатыйхов / Халидин Әхәтов - Соңгы өмет / Вазих Фатихов / Халидин Ахатов - Последняя надежда](../translated/v/vaziyh_fatiyhov_halidin_ahatov_-_songi_omet.md)
+- [Вәлит Илембәтов / Гүзәл Үлмәсколова - Мәңгелеккә кил, иркәм! / Валит Илембатов / Гузель Ульмасколова - Приди навек, любимая!](../translated/v/valit_ilembatov_guzal_ulmaskolova_-_mangelekka_kil_irkam.md)
+- [Вәлит Илембәтов / Роберт Тимербаев - Хәтер җыры (икенче вариант) / Валит Илембатов / Роберт Тимербаев - Песня памяти (второй вариант)](../translated/v/valit_ilembatov_robert_timerbaev_-_hater_ciri_ikenche_variant.md)
 - [Вәсимә Хәйруллина / Нәфисә Хәкимова - Их, гармуннар уйный белсәм / Васима Хайруллина / Нэфисэ Хакимова - Эх, если бы я умел играть на гармони](../translated/v/vasima_hayrullina_nafisa_hakimova_-_ih_garmunnar_uyniy_belsam.md)
 - [Габделфат Сафин - Гашыйк ит / Габделфат Сафин - Полюби](../translated/g/gabdelfat_safin-gashyyk_it.md)
 - [Габделфат Сафин - Зэйтунэм / Габделфат Сафин - Зайтуна](../translated/g/gabdelfat_safin-zeytunem.md)
@@ -89,6 +92,7 @@
 - [Гарифҗан Мөхәммәтшин / Луиза Батыр-Болгари - Аулак өй / Гарифҗан Мөхәммәтшин / Луиза Батыр-Болгари - Праздничный дом](../translated/g/garifcan_mohammatshin_luiza_batir-bolgari_-_aulak_oy.md)
 - [Госман Садә / Резеда Ахиярова - Әссәламәгаләйкүм! / Госман Садә / Резеда Ахиярова - Әссәламәгаләйкүм!](../translated/g/gosman_sada_rezeda_ahiyarova_-_assalamagalaykum.md)
 - [Госман Садә / Рим Хәсәнов - Җылы яңгыр (беренче вариант) / Госман Садә / Рим Хәсәнов - Тёплый дождь (первый вариант)](../translated/g/gosman_sada_rim_hasanov_-_cili_yangir_berenche_variant.md)
+- [Госман Садә / Сафьян Ибраһимов - Җылы яңгыр (икенче вариант) / Госман Сада / Сафьян Ибрагимов - Тёплый дождь (второй вариант)](../translated/g/gosman_sada_safyan_ibrahimov_-_cili_yangir_ikenche_variant.md)
 - [Гузалия - Союемне ятим итмэ / Гузалия - Не делай мою любовь сиротой](../translated/g/guzaliya-soyuemne_yatim_itme.md)
 - [Гузалия - Татлы мэхэббэт / Гузалия - Сладкая любовь](../translated/g/guzaliya-tatly_mehebbet.md)
 - [Гузалия - Шатлык телим / Гузалия - Желаю радости](../translated/g/guzaliya-shatlyk_telim.md)
@@ -101,10 +105,6 @@
 - [Гузел Уразова - Каенлы алан / Гузел Уразова - Берёзовая поляна](../translated/g/guzel_urazova-kaenly_alan.md)
 - [Гузел Уразова - Кайт син, балам / Гузел Уразова - Возвращайся, дитя моё](../translated/g/guzel_urazova-kayt_sin_balam.md)
 - [Гузел Уразова - Хыяллар доньясы гажэеп / Гузел Уразова - Мир мечтаний удивителен](../translated/g/guzel_urazova-hyyallar_donyasy_gazheep.md)
-- [Гузель Ахметова - Адашкан кеше / Гузель Ахметова - Заблудившийся человек](../translated/g/guzel_ahmetova-adashkan_keshe.md)
-- [Гузель Ахметова - Алтын калфак / Гузель Ахметова - Золотой калфак](../translated/g/guzel_ahmetova-altyn_kalfak.md)
-- [Гузель Ахметова - Аралар бит ерак, аралар / Гузель Ахметова - Расстояния ведь далеки, расстояния](../translated/g/guzel_ahmetova-aralar_bit_erak_aralar.md)
-- [Гузель Ахметова - Гомерлек дигэн ярым / Гузель Ахметова - Спутница на всю жизнь](../translated/g/guzel_ahmetova-gomerlek_digen_yarym.md)
 
 ---
 

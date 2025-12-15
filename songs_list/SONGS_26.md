@@ -1,10 +1,27 @@
 # Татарские песни и их перевод - Страница 26
 
-## Список песен (песни 2501-2600 из 3262)
+## Список песен (песни 2501-2600 из 3280)
 
 [← Предыдущая страница](songs_list/SONGS_25.md) | [Главная страница](../README.md) | [Следующая страница →](songs_list/SONGS_27.md)
 
 
+- [Фирая Зыятдинова / Әнвәр Бакиров - Яңа ел алдыннан / Фирая Зиатдинова / Анвар Бакиров - Накануне Нового года](../translated/f/firaya_ziyatdinova_anvar_bakirov_-_yana_el_aldinnan.md)
+- [Фирдус Тямаев - Узды ничэ еллар / Фирдус Тямаев - Прошло сколько лет](../translated/f/firdus_tyamaev-uzdy_niche_ellar.md)
+- [Фирдус Тямаев - Язмыштан юк узмыш / Фирдус Тямаев - От судьбы не уйти](../translated/f/firdus_tyamaev-yazmyshtan_yuk_uzmysh.md)
+- [Фирдәүсә Кәримова / Наил Шәймарданов - Ялгыз нигез / Фирдауса Каримова / Наил Шаймарданов - Одинокий фундамент](../translated/f/firdausa_karimova_nail_shaymardanov_-_yalgiz_nigez.md)
+- [Фирзар Муртазин - Алмагачым / Фирзар Муртазин - Моя яблонька](../translated/f/firzar_murtazin-almagachym.md)
+- [Фирзар Муртазин - Баланы читкэ жибэру / Фирзар Муртазин - Отправить дитя в чужие края](../translated/f/firzar_murtazin-balany_chitke_zhiberu.md)
+- [Фирзар Муртазин - Кайда син талым / Фирзар Муртазин - Где ты, ива моя](../translated/f/firzar_murtazin-kayda_sin_talym.md)
+- [Фирзар Муртазин - Кэккук / Фирзар Муртазин - Кукушка](../translated/f/firzar_murtazin-kekkuk.md)
+- [Фирзар Муртазин - Туган кон / Фирзар Муртазин - День рождения](../translated/f/firzar_murtazin-tugan_kon.md)
+- [Фирзар Муртазин - Хуш инде / Фирзар Муртазин - Прощай же](../translated/f/firzar_murtazin-hush_inde.md)
+- [Фирзәр Мортазин - Әбдеки / Фирзәр Мортазин - Әбдеки](../translated/f/firzar_mortazin_-_abdeki.md)
+- [Фирүзә Абдуллина / Хәлил Биктимеров - Яусын әйдә карлары! / Фирүзә Абдуллина / Хәлил Биктимеров - Пусть падает снег зимой!](../translated/f/firuza_abdullina_halil_biktimerov_-_yausin_ayda_karlari.md)
+- [Фирүзә Җамалетдинова / Вәсил Галимов - Кыз сагышы / Фирүза Джамалетдинова / Василь Галимов - Тоска девушки](../translated/f/firuza_camaletdinova_vasil_galimov_-_kiz_sagishi.md)
+- [Флария Терегулова / Зөлфия Шакирова - Их, яшисе килә / Флария Терегулова / Зульфия Шакирова - Ах, жизнь приходит](../translated/f/flariya_teregulova_zolfiya_shakirova_-_ih_yashise_kila.md)
+- [Флария Терегулова / Рәзиф Тимергалиев - Син килсәң... / Флария Терегулова / Разиф Тимергалиев - Если ты придешь...](../translated/f/flariya_teregulova_razif_timergaliev_-_sin_kilsan.md)
+- [Флария Терегулова / Фирзәр Мортазин - Ышанма (беренче вариант) / Флария Терегулова / Фирзар Мортазин - Не верь (первый вариант)](../translated/f/flariya_teregulova_firzar_mortazin_-_ishanma_berenche_variant.md)
+- [Флария Терегулова / Шамил Шәрипов - Ап-ак карлар ява / Флария Терегулова / Шамиль Шарипов - Белые снега идут](../translated/f/flariya_teregulova_shamil_sharipov_-_ap-ak_karlar_yava.md)
 - [Флера Тарханова / Муса Маликов - Син булганда (беренче вариант) / Флера Тарханова / Муса Маликов - Когда ты рядом (первый вариант)](../translated/f/flera_tarhanova_musa_malikov_-_sin_bulganda_berenche_variant.md)
 - [Флера Тарханова / Фәрит Хатыйпов - Сагынып сөйләр эзләр калачак / Флера Тарханова / Фарит Хатыпов - Будут оставаться следы тоски](../translated/f/flera_tarhanova_farit_hatiypov_-_saginip_soylar_ezlar_kalachak.md)
 - [Фәкия Җәфәрова / Радик Яруллин - Ике йөрәк (өченче вариант) / Факия Гафярова / Радик Яруллин - Два сердца (третий вариант)](../translated/f/fakiya_cafarova_radik_yarullin_-_ike_yorak_ochenche_variant.md)
@@ -88,23 +105,6 @@
 - [Фәннур Сафин / Илдус Якупов - Нурлы Казан / Фаннур Сафин / Ильдус Якупов - Светлая Казань](../translated/f/fannur_safin_ildus_yakupov_-_nurli_kazan.md)
 - [Фәннур Сафин / Луиза Батыр-Болгари - Минем Казан / Фаннур Сафин / Луиза Батыр-Болгари - Моя Казань](../translated/f/fannur_safin_luiza_batir-bolgari_-_minem_kazan.md)
 - [Фәннур Сафин / Расил Әхәтов - Шәфкать туташына / Фаннур Сафин / Расиль Ахатов - Сестре Шафкать](../translated/f/fannur_safin_rasil_ahatov_-_shafkat_tutashina.md)
-- [Фәннур Сафин / Ринат Гобәйдуллин - Туган җиремә (өченче вариант) / Фаннур Сафин / Ринат Гобайдуллин - Родной земле (третий вариант)](../translated/f/fannur_safin_rinat_gobaydullin_-_tugan_cirema_ochenche_variant.md)
-- [Фәннур Сафин / Ринат Шаһиев - Уйлану (беренче вариант) / Фаннур Сафин / Ринат Шахиев - Свадьба (первый вариант)](../translated/f/fannur_safin_rinat_shahiev_-_uylanu_berenche_variant.md)
-- [Фәннур Сафин / Риф Гатауллин - Балтачым (икенче вариант) / Фаннур Сафин / Риф Гатауллин - Мой Балтач (второй вариант)](../translated/f/fannur_safin_rif_gataullin_-_baltachim_ikenche_variant.md)
-- [Фәннур Сафин / Риф Гатауллин - Безгә дөнья дәшә / Фаннур Сафин / Риф Гатауллин - Мир нам говорит](../translated/f/fannur_safin_rif_gataullin_-_bezga_donya_dasha.md)
-- [Фәннур Сафин / Риф Гатауллин - Бир кулыңны / Фаннур Сафин / Риф Гатауллин - Дай мне руку](../translated/f/fannur_safin_rif_gataullin_-_bir_kulinni.md)
-- [Фәннур Сафин / Риф Гатауллин - Ил кызларына / Фаннур Сафин / Риф Гатауллин - Девушкам страны](../translated/f/fannur_safin_rif_gataullin_-_il_kizlarina.md)
-- [Фәннур Сафин / Риф Гатауллин - Кал моңнарым булып / Фаннур Сафин / Риф Гатауллин - Останься моей печалью](../translated/f/fannur_safin_rif_gataullin_-_kal_monnarim_bulip.md)
-- [Фәннур Сафин / Риф Гатауллин - Кояш дуслары / Фаннур Сафин / Риф Гатауллин - Друзья солнца](../translated/f/fannur_safin_rif_gataullin_-_koyash_duslari.md)
-- [Фәннур Сафин / Риф Гатауллин - Хушлашырга ашыкма (беренче вариант) / Фаннур Сафин / Риф Гатауллин - Не спеши прощаться (первый вариант)](../translated/f/fannur_safin_rif_gataullin_-_hushlashirga_ashikma_berenche_variant.md)
-- [Фәннур Сафин / Риф Гатауллин - Ялгыз көймә (икенче вариант) / Фаннур Сафин / Риф Гатауллин - Одинокая лодка (второй вариант)](../translated/f/fannur_safin_rif_gataullin_-_yalgiz_koyma_ikenche_variant.md)
-- [Фәннур Сафин / Риф Гатауллин - Яратырмын сине генә / Фаннур Сафин / Риф Гатауллин - Люблю лишь тебя одну](../translated/f/fannur_safin_rif_gataullin_-_yaratirmin_sine_gena.md)
-- [Фәннур Сафин / Рәшит Абдуллин - Мәхәббәт шатлыгы / Фаннур Сафин / Рашит Абдуллин - Радость любви](../translated/f/fannur_safin_rashit_abdullin_-_mahabbat_shatligi.md)
-- [Фәннур Сафин / Рөстәм Сәрвәров - Моңланма (беренче вариант) / Фаннур Сафин / Рустам Сарваров - Не грусти (первый вариант)](../translated/f/fannur_safin_rostam_sarvarov_-_monlanma_berenche_variant.md)
-- [Фәннур Сафин / Рөстәм Яхин - Без барыбер бергә булырбыз (икенче вариант) / Фаннур Сафин / Рустам Яхин - Мы всё равно будем вместе (второй вариант)](../translated/f/fannur_safin_rostam_yahin_-_bez_bariber_berga_bulirbiz_ikenche_variant.md)
-- [Фәннур Сафин / Сәүбән Чуганаев - Бер елганың ике ярында / Фаннур Сафин / Саубан Чуганаев - На двух берегах одной реки](../translated/f/fannur_safin_sauban_chuganaev_-_ber_elganin_ike_yarinda.md)
-- [Фәннур Сафин / Фәрид Низамиев - Уятам / Фаннур Сафин / Фарид Низамиев - Разбужу](../translated/f/fannur_safin_farid_nizamiev_-_uyatam.md)
-- [Фәннур Сафин / Фәрит Хатыйпов - Моңлану (икенче вариант) / Фаннур Сафин / Фарит Хатыйпов - Грусть (второй вариант)](../translated/f/fannur_safin_farit_hatiypov_-_monlanu_ikenche_variant.md)
 
 ---
 

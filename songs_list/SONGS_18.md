@@ -1,10 +1,15 @@
 # Татарские песни и их перевод - Страница 18
 
-## Список песен (песни 1701-1800 из 3262)
+## Список песен (песни 1701-1800 из 3280)
 
 [← Предыдущая страница](songs_list/SONGS_17.md) | [Главная страница](../README.md) | [Следующая страница →](songs_list/SONGS_19.md)
 
 
+- [Илсия Бадретдинова - Кайт Чынгызхан / Илсия Бадретдинова - Вернись, Чингисхан](../translated/i/ilsiya_badretdinova-kayt_chyngyzhan.md)
+- [Илсия Бадретдинова - Станок / Илсия Бадретдинова - Станок](../translated/i/ilsiya_badretdinova-stanok.md)
+- [Илсия Бадретдинова - Су буйлап / Илсия Бадретдинова - Вдоль воды](../translated/i/ilsiya_badretdinova-su_buylap.md)
+- [Илсия Бадретдинова - Сугыш / Илсия Бадретдинова - Война](../translated/i/ilsiya_badretdinova-sugysh.md)
+- [Илсия Бадретдинова - Торып бас / Илсия Бадретдинова - Встань и иди](../translated/i/ilsiya_badretdinova-toryp_bas.md)
 - [Илсия Бадретдинова - Уйлану / Илсия Бадретдинова - Размышление](../translated/i/ilsiya_badretdinova-uylanu.md)
 - [Илсия Бадретдинова - Хикмэт язмыш / Илсия Бадретдинова - Мудрая судьба](../translated/i/ilsiya_badretdinova-hikmet_yazmysh.md)
 - [Илсия Бадретдинова - Хушлашу / Илсия Бадретдинова - Прощание](../translated/i/ilsiya_badretdinova-hushlashu.md)
@@ -100,11 +105,6 @@
 - [Ильсия Бадретдинова - Жиде адым / Ильсия Бадретдинова - Семь шагов](../translated/i/ilsiya_badretdinova-zhide_adym.md)
 - [Ильсия Бадретдинова - Казан / Ильсия Бадретдинова - Казань](../translated/i/ilsiya_badretdinova-kazan.md)
 - [Ильсия Бадретдинова - Кунак / Ильсия Бадретдинова - Гость](../translated/i/ilsiya_badretdinova-kunak.md)
-- [Ильсия Бадретдинова - Кунел (Тонге юл) / Ильсия Бадретдинова - Душа (Ночная дорога)](../translated/i/ilsiya_badretdinova-kunel_tonge_yul.md)
-- [Ильсия Бадретдинова - Куркаклар / Ильсия Бадретдинова - Трусы](../translated/i/ilsiya_badretdinova-kurkaklar.md)
-- [Ильсия Бадретдинова - Ленин бабай / Ильсия Бадретдинова - Дедушка Ленин](../translated/i/ilsiya_badretdinova-lenin_babay.md)
-- [Ильсия Бадретдинова - Мишэрем / Ильсия Бадретдинова - Мишари](../translated/i/ilsiya_badretdinova-misherem.md)
-- [Ильсия Бадретдинова - Ометсез юл / Ильсия Бадретдинова - Безнадёжный путь](../translated/i/ilsiya_badretdinova-ometsez_yul.md)
 
 ---
 

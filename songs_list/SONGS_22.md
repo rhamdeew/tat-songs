@@ -1,12 +1,19 @@
 # Татарские песни и их перевод - Страница 22
 
-## Список песен (песни 2101-2200 из 3262)
+## Список песен (песни 2101-2200 из 3280)
 
 [← Предыдущая страница](songs_list/SONGS_21.md) | [Главная страница](../README.md) | [Следующая страница →](songs_list/SONGS_23.md)
 
 
+- [Нури Арсланов / Александр Ключарев - Миләүшә (беренче вариант) / Нури Арсланов / Александр Ключарев - Миләүшә (первый вариант)](../translated/n/nuri_arslanov_aleksandr_klyucharev_-_milausha_berenche_variant.md)
+- [Нурисә Мөхәммәтова / Айнур Сабирҗанов - Насыйп ярым (беренче вариант) / Нуриса Мухамматова / Айнур Сабиржанов - Моя доля, моя любовь (первый вариант)](../translated/n/nurisa_mohammatova_aynur_sabircanov_-_nasiyp_yarim_berenche_variant.md)
+- [Нурия Абдуллина - Нәфсе дәрьяларын буйламыйк / Нурия Абдуллина - Не будем мерить глубину души](../translated/n/nuriya_abdullina_-_nafse_daryalarin_buylamiyk.md)
+- [Нурия Абдуллина - Туганнар (икенче вариант) / Нурия Абдуллина - Родные (второй вариант)](../translated/n/nuriya_abdullina_-_tugannar_ikenche_variant.md)
+- [Нурия Гыйләҗева / Ризида Мөхәммәтҗанова - Эх, гармун, гитара! / Нурия Гильяжева / Ризида Мухаммаджанова - Ах, гармонь, гитара!](../translated/n/nuriya_giylaceva_rizida_mohammatcanova_-_eh_garmun_gitara.md)
+- [Нурлан Ганиев / Наил Шәймарданов - Тормыш дигәнебез шушыдыр / Нурлан Ганиев / Наиль Шаймарданов - Такова жизнь, которую мы зовём](../translated/n/nurlan_ganiev_nail_shaymardanov_-_tormish_diganebez_shushidir.md)
 - [Нәзирә Яппарова - Күкләрдәге күгәрчен / Назира Яппарова - Голубь в небесах](../translated/n/nazira_yapparova_-_kuklardage_kugarchen.md)
 - [Нәзифә Кәримова / Наилә Фатехова - Яшьлекләр күңелдә! (Без бергә) / Назифа Каримова / Наиля Фатехова - Юность в сердце! (Мы вместе)](../translated/n/nazifa_karimova_naila_fatehova_-_yashleklar_kunelda_bez_berga.md)
+- [Нәкый Исәнбәт / Айдар Фәйзрахманов - Яшьлегем (Тальян гармун) / Накый Исанбат / Айдар Файзрахманов - Моя молодость (Тальянка)](../translated/n/nakiy_isanbat_aydar_fayzrahmanov_-_yashlegem_talyan_garmun.md)
 - [Нәсимә Әминева - Бәхетле бул бүген / Насима Аминева - Счастливым будь сегодня](../translated/n/nasima_amineva_-_bahetle_bul_bugen.md)
 - [Нәфисә Сабирҗанова / Владимир Федоров - Кайтып киләм / Нәфисә Сабирҗанова / Владимир Фёдоров - Возвращаюсь](../translated/n/nafisa_sabircanova_vladimir_fedorov_-_kaytip_kilam.md)
 - [Нәҗибә Сафина / Людмила Аланлы - Син көткән яңа ел / Нажиба Сафина / Людмила Аланлы - Скучала ли ты по Новому году?](../translated/n/naciba_safina_lyudmila_alanli_-_sin_kotkan_yana_el.md)
@@ -22,6 +29,7 @@
 - [Пума - Сагынырсын / Пума - Будешь скучать](../translated/p/puma-sagynyrsyn.md)
 - [Равил Галиәкбәров / Венер Мөхәммәдиев - Таң җыры (икенче вариант) / Равиль Галиакбаров / Венер Мухаммадиев - Песня рассвета (второй вариант)](../translated/r/ravil_galiakbarov_vener_mohammadiev_-_tan_ciri_ikenche_variant.md)
 - [Равил Кузнецов - Чын Вәли / Равиль Кузнецов - Настоящая деревня](../translated/r/ravil_kuznetsov_-_chin_vali.md)
+- [Равил Фәйзуллин / Шамил Шәрифуллин - Иясез шатлык / Равиль Файзуллин / Шамиль Шарифуллин - Бесхозная радость](../translated/r/ravil_fayzullin_shamil_sharifullin_-_iyasez_shatlik.md)
 - [Равил Фәйзуллин / Шамил Шәрифуллин - Якты моң (беренче вариант) / Равиль Файзуллин / Шамиль Шарифуллин - Яркий йомыр (первый вариант)](../translated/r/ravil_fayzullin_shamil_sharifullin_-_yakti_mon_berenche_variant.md)
 - [Равил Фәйзуллин / Җәүдәт Фәйзи - Бу дөньяда / Равиль Файзуллин / Жаудат Файзи - В этом мире](../translated/r/ravil_fayzullin_caudat_fayzi_-_bu_donyada.md)
 - [Равиль Галиев - Тонбоеклы кул / Равиль Галиев - Озеро в тумане](../translated/r/ravil_galiev-tonboekly_kul.md)
@@ -29,6 +37,7 @@
 - [Радик Хәкимҗанов / Айрат Нәбиев - Яшьлек дусларым (беренче вариант) / Радик Хакимжанов / Айрат Набиев - Друзья юности (первый вариант)](../translated/r/radik_hakimcanov_ayrat_nabiev_-_yashlek_duslarim_berenche_variant.md)
 - [Радик Хәкимҗанов / Риф Арслан - Син булсаң янәшәмдә / Радик Хакимджанов / Риф Арслан - Если ты со мной](../translated/r/radik_hakimcanov_rif_arslan_-_sin_bulsan_yanashamda.md)
 - [Разил Вәлиев / Илдус Якупов - Зәңгәр көймә / Разиль Валиев / Ильдус Якупов - Синяя лодка](../translated/r/razil_valiev_ildus_yakupov_-_zangar_koyma.md)
+- [Разил Вәлиев / Луиза Батыр-Болгари - Буранлы көннәрдә адаштым / Разиль Валиев / Луиза Батыр-Болгари - В метельные дни я заблудилась](../translated/r/razil_valiev_luiza_batir-bolgari_-_buranli_konnarda_adashtim.md)
 - [Разил Вәлиев / Луиза Батыр-Болгари - Мәхәббәт дарулары / Разиль Вәлиев / Луиза Батыр-Болгари - Любовные лекарства](../translated/r/razil_valiev_luiza_batir-bolgari_-_mahabbat_darulari.md)
 - [Разил Вәлиев / Луиза Батыр-Болгари - Хатлар көтәм авылдан / Разиль Вәлиев / Луиза Батыр-Болгари - Жду писем с деревни](../translated/r/razil_valiev_luiza_batir-bolgari_-_hatlar_kotam_avildan.md)
 - [Разил Вәлиев / Мәсгудә Шәмсетдинова - Кояшлы җыр / Разиль Валиев / Масгуда Шамсетдинова - Солнечная песня](../translated/r/razil_valiev_masguda_shamsetdinova_-_koyashli_cir.md)
@@ -63,6 +72,7 @@
 - [Рафаил Газизов / Роберт Газизов - Шомырт / Рафаил Газизов / Роберт Газизов - Черёмуха](../translated/r/rafail_gazizov_robert_gazizov_-_shomirt.md)
 - [Рафаэль Латыйпов - Юк-юк ташлап китмэ / Рафаэль Латыйпов - Нет-нет, не покидай меня](../translated/r/rafael_latyypov-yuk-yuk_tashlap_kitme.md)
 - [Рафаэль Сафин / Хөсәен Әхмәтов - Синдер ул дип уйладым / Рафаэль Сафин / Хөсәен Әхмәтов - Я думал, ты лишь тень](../translated/r/rafael_safin_hosaen_ahmatov_-_sinder_ul_dip_uyladim.md)
+- [Рафаэль Сафин / Әнвәр Бакиров - Мәхрүм итмә... / Рафаэль Сафин / Анвар Бакиров - Не лишай меня...](../translated/r/rafael_safin_anvar_bakirov_-_mahrum_itma.md)
 - [Рафига Усманова (Закирова) / Роза Якупова - Җан дусларга / Рафига Усманова (Закирова) / Роза Якупова - Дорогие друзьям](../translated/r/rafiga_usmanova_zakirova_roza_yakupova_-_can_duslarga.md)
 - [Рафис Гаптелганиев - Ак шомырт, ак сирень / Рафис Гаптелганиев - Белый шомырт, белая сирень](../translated/r/rafis_gaptelganiev_-_ak_shomirt_ak_siren.md)
 - [Рафия Яруллина / Гөлназ Закирова - Кемнәр сине шулай яратыр? / Рафия Яруллина / Гульнара Закирова - Кто так любит тебя?](../translated/r/rafiya_yarullina_golnaz_zakirova_-_kemnar_sine_shulay_yaratir.md)
@@ -95,16 +105,6 @@
 - [Резеда Шарафиева - Бер тутырып карадын / Резеда Шарафиева - Пристально взглянула](../translated/r/rezeda_sharafieva-ber_tutyryp_karadyn.md)
 - [Резеда Шарафиева - Булэк итэм кунелем жылысын / Резеда Шарафиева - Дарю тебе тепло души моей](../translated/r/rezeda_sharafieva-bulek_item_kunelem_zhylysyn.md)
 - [Резеда Шарафиева - Бэхет сонлап килмэсен / Резеда Шарафиева - Пусть счастье не опоздает](../translated/r/rezeda_sharafieva-behet_sonlap_kilmesen.md)
-- [Резеда Шарафиева - Синсез / Резеда Шарафиева - Без тебя](../translated/r/rezeda_sharafieva-sinsez.md)
-- [Резедә Гобәева / Эльмир Низамов - Мин: "Юк!" - диям сугышка! / Резеда Габаева / Эльмир Низамов - Я говорю "Нет!" войне!](../translated/r/rezeda_gobaeva_elmir_nizamov_-_min_yuk_diyam_sugishka.md)
-- [Ренат Ибрагимов - Жомга / Ренат Ибрагимов - Пятница](../translated/r/renat_ibragimov-zhomga.md)
-- [Ренат Ибрагимов - Эдрэн дингез / Ренат Ибрагимов - Древнее море](../translated/r/renat_ibragimov-edren_dingez.md)
-- [Ренат Харис / Резеда Ахиярова - Ак теләкләр (икенче вариант) / Ренат Харис / Резеда Ахиярова - Белые пожелания (второй вариант)](../translated/r/renat_haris_rezeda_ahiyarova_-_ak_telaklar_ikenche_variant.md)
-- [Ренат Харис / Эльмир Низамов - Мин ышанам сиңа, Казан! / Ренат Харис / Эльмир Низамов - Я верю тебе, Казан!](../translated/r/renat_haris_elmir_nizamov_-_min_ishanam_sina_kazan.md)
-- [Ренат Харис / Эльмир Низамов - Өмет йолдызы / Ренат Харис / Эльмир Низамов - Звезда надежды](../translated/r/renat_haris_elmir_nizamov_-_omet_yoldizi.md)
-- [Риза Ишморат / Җәүдәт Фәйзи - Ямьле дә соң Сөн буе / Риза Ишморат / Зяут Фаизи - Ямеле да Сун буе](../translated/r/riza_ishmorat_caudat_fayzi_-_yamle_da_son_son_bue.md)
-- [Ризида Мөхәммәтҗанова - Бер мизгел / Ризида Мухаммеджанова - Одно мгновение](../translated/r/rizida_mohammatcanova_-_ber_mizgel.md)
-- [Ризида Мөхәммәтҗанова - Гомеремә теләк / Ризида Мухаммеджанова - Пожелание моей жизни](../translated/r/rizida_mohammatcanova_-_gomerema_telak.md)
 
 ---
 

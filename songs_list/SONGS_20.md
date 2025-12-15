@@ -1,10 +1,16 @@
 # Татарские песни и их перевод - Страница 20
 
-## Список песен (песни 1901-2000 из 3262)
+## Список песен (песни 1901-2000 из 3280)
 
 [← Предыдущая страница](songs_list/SONGS_19.md) | [Главная страница](../README.md) | [Следующая страница →](songs_list/SONGS_21.md)
 
 
+- [Кәрим Тинчурин / Салих Сәйдәшев - Мәйсәрә / Карим Тинчурин / Салих Сәйдәшев - Мэйсәрә](../translated/k/karim_tinchurin_salih_saydashev_-_maysara.md)
+- [Кәүсәрия Нуруллина / Шамил Шәрипов - Ап-ак карлар (беренче вариант) / Кәүсәрия Нуруллина / Шамиль Шәрипов - Белый снег (первый вариант)](../translated/k/kausariya_nurullina_shamil_sharipov_-_ap-ak_karlar_berenche_variant.md)
+- [Кәүсәрия Шәфикова / Илһам Хисмәтуллин - Чакырдың болыннарга / Кяусария Шафикова / Ильхам Хисматуллин - Ты звал в поля](../translated/k/kausariya_shafikova_ilham_hismatullin_-_chakirdin_bolinnarga.md)
+- [Кәүсәрия Шәфикова / Наил Шәймарданов - Кайталар кыр казлары / Кәүсәрия Шәфикова / Наил Шәймарданов - Возвращаются степные гуси](../translated/k/kausariya_shafikova_nail_shaymardanov_-_kaytalar_kir_kazlari.md)
+- [Кәүсәрия Шәфикова / Наил Шәймарданов - Яратам сине генә / Кәүсәрия Шәфикова / Наил Шәймарданов - Я люблю только тебя](../translated/k/kausariya_shafikova_nail_shaymardanov_-_yaratam_sine_gena.md)
+- [Ландыш Бахави - Безне ойдэ котэлэр / Ландыш Бахави - Нас дома ждут](../translated/l/landysh_bahavi-bezne_oyde_koteler.md)
 - [Ландыш Бахави - Туганыма / Ландыш Бахави - Моему родному](../translated/l/landysh_bahavi-tuganyma.md)
 - [Ландыш Габдрахманова / Айдар Тимербаев - Син икән бит / Ландыш Габдрахманова / Айдар Тимербаев - Ты же был](../translated/l/landish_gabdrahmanova_aydar_timerbaev_-_sin_ikan_bit.md)
 - [Ландыш Нигметжанова - Авылым таулары / Ландыш Нигметжанова - Горы моего села](../translated/l/landysh_nigmetzhanova-avylym_taulary.md)
@@ -99,12 +105,6 @@
 - [Малика - Ак бэхет телэрмен / Малика - Желаю белого счастья](../translated/m/malika-ak_behet_telermen.md)
 - [Малика - Бэхетем минем / Малика - Счастье моё](../translated/m/malika-behetem_minem.md)
 - [Малика - Бэхетем шахзадэсе (Шахзадэ) / Малика - Принц моего счастья (Принц)](../translated/m/malika-behetem_shahzadese_shahzade.md)
-- [Малика - Гашыйк булдынмы эллэ / Малика - Неужели влюбилась](../translated/m/malika-gashyyk_buldynmy_elle.md)
-- [Малика - Жырлар жырлыйм сина / Малика - Песни пою для тебя](../translated/m/malika-zhyrlar_zhyrlyym_sina.md)
-- [Малика - Их, иркэм / Малика - Ах, милый мой](../translated/m/malika-ih_irkem.md)
-- [Малика - Йорэгемэ минем кагылма / Малика - Не касайся моего сердца](../translated/m/malika-yoregeme_minem_kagylma.md)
-- [Малика - Йорэк сере / Малика - Тайна сердца](../translated/m/malika-yorek_sere.md)
-- [Малика - Казаныма мэдхия / Малика - Гимн моей Казани](../translated/m/malika-kazanyma_medhiya.md)
 
 ---
 

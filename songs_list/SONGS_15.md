@@ -1,10 +1,14 @@
 # Татарские песни и их перевод - Страница 15
 
-## Список песен (песни 1401-1500 из 3262)
+## Список песен (песни 1401-1500 из 3280)
 
 [← Предыдущая страница](songs_list/SONGS_14.md) | [Главная страница](../README.md) | [Следующая страница →](songs_list/SONGS_16.md)
 
 
+- [Дамир Гыйсметдин / Вәис Бәйрәмов - Сихри иртәләр / Дамир Гисметдин / Ваис Байрамов - Волшебные рассветы](../translated/d/damir_giysmetdin_vais_bayramov_-_sihri_irtalar.md)
+- [Дамир Гыйсметдин / Вәис Бәйрәмов - Соңгы юлга озатам әниемне / Дамир Гисметдин / Ваис Байрамов - Провожаю мать в последний путь](../translated/d/damir_giysmetdin_vais_bayramov_-_songi_yulga_ozatam_aniemne.md)
+- [Дамир Гыйсметдин / Вәис Бәйрәмов - Төшләремә кердең (беренче вариант) / Дамир Гыйсметдин / Ваис Байрамов - Вошла в мои сны (первый вариант)](../translated/d/damir_giysmetdin_vais_bayramov_-_toshlarema_kerden_berenche_variant.md)
+- [Дамир Гыйсметдин / Габдразак Миңгалиев - Соңгы яфрак (икенче вариант) / Дамир Гыйсметдин / Габдразак Миңгалиев - Последний листок (второй вариант)](../translated/d/damir_giysmetdin_gabdrazak_mingaliev_-_songi_yafrak_ikenche_variant.md)
 - [Дамир Гыйсметдин / Габдразак Миңгалиев - Сөю хакына / Дамир Гыйсметдин / Габдразак Миңгалиев - Ради любви](../translated/d/damir_giysmetdin_gabdrazak_mingaliev_-_soyu_hakina.md)
 - [Дамир Гыйсметдин / Габдразак Миңгалиев - Эшлә син!.. / Дамир Гыйсметдин / Габдразак Миңгалиев - Работай!..](../translated/d/damir_giysmetdin_gabdrazak_mingaliev_-_eshla_sin.md)
 - [Дамир Гыйсметдин / Габдразак Миңгалиев - Ялгыз әткәй / Дамир Гыйсметдин / Габдразак Миңгалиев - Одинокий отец](../translated/d/damir_giysmetdin_gabdrazak_mingaliev_-_yalgiz_atkay.md)
@@ -101,10 +105,6 @@
 - [Дилә Булгакова / Мәсгудә Шәмсетдинова - Акланнарда шомлы аваз / Диля Булгакова / Масгуда Шамсетдинова - Грустный напев на полянах](../translated/d/dila_bulgakova_masguda_shamsetdinova_-_aklannarda_shomli_avaz.md)
 - [Дилә Булгакова / Мәсгудә Шәмсетдинова - Җил капкаларын бикләмә / Диля Булгакова / Масгуда Шамсетдинова - Не запирай ветром ворота](../translated/d/dila_bulgakova_masguda_shamsetdinova_-_cil_kapkalarin_biklama.md)
 - [Дилә Булгакова / Наил Шәймарданов - Ай гүзәлем, Айгизәм / Диля Булгакова / Наиль Шаймарданов - Ах красавица, Айгизя](../translated/d/dila_bulgakova_nail_shaymardanov_-_ay_guzalem_aygizam.md)
-- [Дилә Булгакова / Наилә Фатехова - Рәхмәт яусын / Диля Булгакова / Наиля Фатехова - Пусть прольётся благодарность](../translated/d/dila_bulgakova_naila_fatehova_-_rahmat_yausin.md)
-- [Дилә Булгакова / Наилә Фатехова - Әлхәмдүлилләһ / Диля Булгакова / Наиля Фатехова - Альхамдулиллях](../translated/d/dila_bulgakova_naila_fatehova_-_alhamdulillah.md)
-- [Дилә Булгакова / Нур Даутов - Баллы Башкортстаным (икенче вариант) / Диля Булгакова / Нур Даутов - Медовый мой Башкортостан (второй вариант)](../translated/d/dila_bulgakova_nur_dautov_-_balli_bashkortstanim_ikenche_variant.md)
-- [Дилә Булгакова / Нур Даутов - Кыр казлары (Син онытма җирдә мин барын) / Диля Булгакова / Нур Даутов - Дикие гуси (Ты не забывай, что я здесь)](../translated/d/dila_bulgakova_nur_dautov_-_kir_kazlari_sin_onitma_cirda_min_barin.md)
 
 ---
 

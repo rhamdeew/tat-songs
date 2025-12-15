@@ -1,10 +1,21 @@
 # Татарские песни и их перевод - Страница 23
 
-## Список песен (песни 2201-2300 из 3262)
+## Список песен (песни 2201-2300 из 3280)
 
 [← Предыдущая страница](songs_list/SONGS_22.md) | [Главная страница](../README.md) | [Следующая страница →](songs_list/SONGS_24.md)
 
 
+- [Резеда Шарафиева - Синсез / Резеда Шарафиева - Без тебя](../translated/r/rezeda_sharafieva-sinsez.md)
+- [Резедә Гобәева / Эльмир Низамов - Мин: "Юк!" - диям сугышка! / Резеда Габаева / Эльмир Низамов - Я говорю "Нет!" войне!](../translated/r/rezeda_gobaeva_elmir_nizamov_-_min_yuk_diyam_sugishka.md)
+- [Ренат Ибрагимов - Жомга / Ренат Ибрагимов - Пятница](../translated/r/renat_ibragimov-zhomga.md)
+- [Ренат Ибрагимов - Эдрэн дингез / Ренат Ибрагимов - Древнее море](../translated/r/renat_ibragimov-edren_dingez.md)
+- [Ренат Харис / Резеда Ахиярова - Ак теләкләр (икенче вариант) / Ренат Харис / Резеда Ахиярова - Белые пожелания (второй вариант)](../translated/r/renat_haris_rezeda_ahiyarova_-_ak_telaklar_ikenche_variant.md)
+- [Ренат Харис / Эльмир Низамов - Мин ышанам сиңа, Казан! / Ренат Харис / Эльмир Низамов - Я верю тебе, Казан!](../translated/r/renat_haris_elmir_nizamov_-_min_ishanam_sina_kazan.md)
+- [Ренат Харис / Эльмир Низамов - Өмет йолдызы / Ренат Харис / Эльмир Низамов - Звезда надежды](../translated/r/renat_haris_elmir_nizamov_-_omet_yoldizi.md)
+- [Риза Ишморат / Җәүдәт Фәйзи - Ямьле дә соң Сөн буе / Риза Ишморат / Зяут Фаизи - Ямеле да Сун буе](../translated/r/riza_ishmorat_caudat_fayzi_-_yamle_da_son_son_bue.md)
+- [Риза Шәфи / Рим Хәсәнов - Юрүзәндә бер гүзәл / Риза Шафи / Рим Хасанов - Красавица в Юрюзани](../translated/r/riza_shafi_rim_hasanov_-_yuruzanda_ber_guzal.md)
+- [Ризида Мөхәммәтҗанова - Бер мизгел / Ризида Мухаммеджанова - Одно мгновение](../translated/r/rizida_mohammatcanova_-_ber_mizgel.md)
+- [Ризида Мөхәммәтҗанова - Гомеремә теләк / Ризида Мухаммеджанова - Пожелание моей жизни](../translated/r/rizida_mohammatcanova_-_gomerema_telak.md)
 - [Ризида Мөхәммәтҗанова - Коштауын сагынып / Ризида Мухаммеджанова - Скучая по родному краю](../translated/r/rizida_mohammatcanova_-_koshtauin_saginip.md)
 - [Ризида Мөхәммәтҗанова / Владислав Шәрифуллин - Табам! / Ризида Мухаммеджанова / Владислав Шарифуллин - Найду!](../translated/r/rizida_mohammatcanova_vladislav_sharifullin_-_tabam.md)
 - [Ризида Мөхәммәтҗанова / Раил  Мөхәммәтҗанов(Раиль. М) - Тоям җылысын / Ризида Мухамматжанова / Райль Мухамматжанов(Раиль. М) - Тоям Джылысын](../translated/r/rizida_mohammatcanova_rail_mohammatcanovrail_m_-_toyam_cilisin.md)
@@ -17,6 +28,7 @@
 - [Ринат Рахматуллин - Бер ялгызым / Ринат Рахматуллин - Совсем один](../translated/r/rinat_rahmatullin-ber_yalgyzym.md)
 - [Ринат Рахматуллин - Дусларга / Ринат Рахматуллин - Друзьям](../translated/r/rinat_rahmatullin-duslarga.md)
 - [Ринат Рахматуллин - Мин сине козлэрдэ очраттым / Ринат Рахматуллин - Я встретил тебя во взгляде](../translated/r/rinat_rahmatullin-min_sine_kozlerde_ochrattym.md)
+- [Ринат Рахматуллин - Мин сине көзләрдә очраттым / Ринат Рахматуллин - Я встретил тебя взглядом](../translated/r/rinat_rahmatullin_-_min_sine_kozlarda_ochrattim.md)
 - [Ринат Рахматуллин - Син барлыгын мин белмэдем / Ринат Рахматуллин - Я не знал, что ты есть](../translated/r/rinat_rahmatullin-sin_barlygyn_min_belmedem.md)
 - [Ринат Рахматуллин - Тормыш китабы / Ринат Рахматуллин - Книга жизни](../translated/r/rinat_rahmatullin-tormysh_kitaby.md)
 - [Ринат Рахматуллин - Тукта янгыр / Ринат Рахматуллин - Перестань, дождь](../translated/r/rinat_rahmatullin-tukta_yangyr.md)
@@ -28,6 +40,7 @@
 - [Ришат Галимов / Фәнис Мортазин - Туган көн (өченче вариант) / Риша Галимов / Фанис Мортазин - День рождения (третий вариант)](../translated/r/rishat_galimov_fanis_mortazin_-_tugan_kon_ochenche_variant.md)
 - [Ришат Фазлиахметов - Эх алмагачлары / Ришат Фазлиахметов - Эх, яблоневые сады](../translated/r/rishat_fazliahmetov-eh_almagachlary.md)
 - [Роберт - Елмай / Роберт - Улыбайся](../translated/r/robert-elmay.md)
+- [Роберт Миңнуллин / Гөлнар Әхмәтҗанова - Күңелем гөл кебек / Роберт Миннуллин / Гульнар Ахметжанова - Душа моя словно цветок](../translated/r/robert_minnullin_golnar_ahmatcanova_-_kunelem_gol_kebek.md)
 - [Роберт Миңнуллин / Илдар Шәрипов - Кеше гомерләре / Роберт Миннуллин / Ильдар Шарипов - Человеческие жизни](../translated/r/robert_minnullin_ildar_sharipov_-_keshe_gomerlare.md)
 - [Роберт Миңнуллин / Мөхәммәт Минбагис - Бу җырымны сиңа багышлыйм (икенче вариант) / Роберт Миннуллин / Мухаммед Минбагис - Посвящаю тебе эту песню (второй вариант)](../translated/r/robert_minnullin_mohammat_minbagis_-_bu_cirimni_sina_bagishliym_ikenche_variant.md)
 - [Роберт Миңнуллин / Оскар Усманов - Гомерләр үтә икән ул / Роберт Миннуллин / Оскар Усманов - Пути проходят, как обычно](../translated/r/robert_minnullin_oskar_usmanov_-_gomerlar_uta_ikan_ul.md)
@@ -59,6 +72,7 @@
 - [Рәмис Әймәт / Гүзәлия - Балалар (беренче вариант) / Рамис Аймат / Гузель - Дети (первый вариант)](../translated/r/ramis_aymat_guzaliya_-_balalar_berenche_variant.md)
 - [Рәмис Әймәт / Илнур Ганиев - Ак кораб (алтынчы вариант) / Рамис Аймат / Ильнур Ганиеев - Белый корабль (альтернативная версия)](../translated/r/ramis_aymat_ilnur_ganiev_-_ak_korab_altinchi_variant.md)
 - [Рәмис Әймәт / Урал Рәшитов - Китәсең / Рамис Аймат / Урал Рашидов - Уходишь](../translated/r/ramis_aymat_ural_rashitov_-_kitasen.md)
+- [Рәсүл Гамзатов / Ян Френкель - Торналар (дүртенче вариант) / Расул Гамзатов / Ян Френкель - Журавли (четвёртый вариант)](../translated/r/rasul_gamzatov_yan_frenkel_-_tornalar_durtenche_variant.md)
 - [Рәфига Усманова / Вәсил Галимов - Сагыну (дүртенче вариант) / Рафига Усманова / Василь Галимов - Тоска (четвёртый вариант)](../translated/r/rafiga_usmanova_vasil_galimov_-_saginu_durtenche_variant.md)
 - [Рәфикъ Юныс / Сәйдәш Чәчәнбаев - Берләшик / Рафик Юныс / Сайдаш Чачанбаев - Объединимся](../translated/r/rafik_yunis_saydash_chachanbaev_-_berlashik.md)
 - [Рәхим Саттар / Әнвәр Бакиров - Зәңгәр күзләр (беренче вариант) / Рахим Саттар / Анвар Бакиров - Зенджер глаза (первый вариант)](../translated/r/rahim_sattar_anvar_bakirov_-_zangar_kuzlar_berenche_variant.md)
@@ -91,20 +105,6 @@
 - [Салават Фатхетдинов - Асылъяр / Салават Фатхетдинов - Дорогая](../translated/s/salavat_fathetdinov-asylyar.md)
 - [Салават Фатхетдинов - Ах егетлэр егетлэр / Салават Фатхетдинов - Ах парни, парни](../translated/s/salavat_fathetdinov-ah_egetler_egetler.md)
 - [Салават Фатхетдинов - Ашыкма вакыт / Салават Фатхетдинов - Не спеши, время](../translated/s/salavat_fathetdinov-ashykma_vakyt.md)
-- [Салават Фатхетдинов - Бала / Салават Фатхетдинов - Дитя](../translated/s/salavat_fathetdinov-bala.md)
-- [Салават Фатхетдинов - Баланы читкэ жибэру / Салават Фатхетдинов - Отправляя дитя в мир](../translated/s/salavat_fathetdinov-balany_chitke_zhiberu.md)
-- [Салават Фатхетдинов - Башкортстан татарлары / Салават Фатхетдинов - Татары Башкортостана](../translated/s/salavat_fathetdinov-bashkortstan_tatarlary.md)
-- [Салават Фатхетдинов - Белсэн иде хэлемне / Салават Фатхетдинов - Знала бы ты мое состояние](../translated/s/salavat_fathetdinov-belsen_ide_helemne.md)
-- [Салават Фатхетдинов - Бер егет гармун сайлый / Салават Фатхетдинов - Парень играет на гармони](../translated/s/salavat_fathetdinov-ber_eget_garmun_saylyy.md)
-- [Салават Фатхетдинов - Бик курэсем килэ / Салават Фатхетдинов - Так хочется увидеть](../translated/s/salavat_fathetdinov-bik_kuresem_kile.md)
-- [Салават Фатхетдинов - Былбылым / Салават Фатхетдинов - Мой соловей](../translated/s/salavat_fathetdinov-bylbylym.md)
-- [Салават Фатхетдинов - Бэхет булэк итэ алмадым / Салават Фатхетдинов - Не смог подарить счастье](../translated/s/salavat_fathetdinov-behet_bulek_ite_almadym.md)
-- [Салават Фатхетдинов - Бэхет кошы / Салават Фатхетдинов - Птица счастья](../translated/s/salavat_fathetdinov-behet_koshy.md)
-- [Салават Фатхетдинов - Гармун уйныйм урамнарда / Салават Фатхетдинов - Играю на гармони на улицах](../translated/s/salavat_fathetdinov-garmun_uynyym_uramnarda.md)
-- [Салават Фатхетдинов - Гафу ит иркэм / Салават Фатхетдинов - Прости меня, милая](../translated/s/salavat_fathetdinov-gafu_it_irkem.md)
-- [Салават Фатхетдинов - Гашыйклар жыры / Салават Фатхетдинов - Песня влюблённых](../translated/s/salavat_fathetdinov-gashyyklar_zhyry.md)
-- [Салават Фатхетдинов - Гомер утэ димэ / Салават Фатхетдинов - Не говори, что жизнь проходит](../translated/s/salavat_fathetdinov-gomer_ute_dime.md)
-- [Салават Фатхетдинов - Жырламыйча тузэ алмыйм / Салават Фатхетдинов - Без песни не могу жить](../translated/s/salavat_fathetdinov-zhyrlamyycha_tuze_almyym.md)
 
 ---
 

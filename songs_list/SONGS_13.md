@@ -1,10 +1,14 @@
 # Татарские песни и их перевод - Страница 13
 
-## Список песен (песни 1201-1300 из 3262)
+## Список песен (песни 1201-1300 из 3280)
 
 [← Предыдущая страница](songs_list/SONGS_12.md) | [Главная страница](../README.md) | [Следующая страница →](songs_list/SONGS_14.md)
 
 
+- [Гузель Ахметова - Адашкан кеше / Гузель Ахметова - Заблудившийся человек](../translated/g/guzel_ahmetova-adashkan_keshe.md)
+- [Гузель Ахметова - Алтын калфак / Гузель Ахметова - Золотой калфак](../translated/g/guzel_ahmetova-altyn_kalfak.md)
+- [Гузель Ахметова - Аралар бит ерак, аралар / Гузель Ахметова - Расстояния ведь далеки, расстояния](../translated/g/guzel_ahmetova-aralar_bit_erak_aralar.md)
+- [Гузель Ахметова - Гомерлек дигэн ярым / Гузель Ахметова - Спутница на всю жизнь](../translated/g/guzel_ahmetova-gomerlek_digen_yarym.md)
 - [Гузель Ахметова - Гомерлэр яшэрмэс янадан / Гузель Ахметова - Жизнь не молодеет снова](../translated/g/guzel_ahmetova-gomerler_yashermes_yanadan.md)
 - [Гузель Ахметова - Гузэллегемнен сере / Гузель Ахметова - Тайна моей красоты](../translated/g/guzel_ahmetova-guzellegemnen_sere.md)
 - [Гузель Ахметова - Икебез ике яр / Гузель Ахметова - Мы двое - два берега](../translated/g/guzel_ahmetova-ikebez_ike_yar.md)
@@ -101,10 +105,6 @@
 - [Гүзел Әхметова - Сонладын / Гузель Ахметова - Завяла](../translated/g/guzel_ahmetova-sonladyn.md)
 - [Гүзел Әхметова - Теләк / Гузель Ахметова - Пожелание](../translated/g/guzel_ahmetova-telek.md)
 - [Гүзел Әхметова - Уйлама әле картаям дип / Гузель Ахметова - Не думай, что старею](../translated/g/guzel_ahmetova-uylama_ele_kartayam_dip.md)
-- [Гүзел Әхметова - Яратам / Гузель Ахметова - Люблю](../translated/g/guzel_ahmetova-yaratam.md)
-- [Гүзел Әхметова - Яшьлек / Гузель Ахметова - Молодость](../translated/g/guzel_ahmetova-yashlek.md)
-- [Гүзәл Уразова - Парлы утсен гомерлэр / Гүзәл Уразова - Парами пусть пройдут века](../translated/g/guzel_urazova-parly_utsen_gomerler.md)
-- [Гүзәл Уразова - Рамай / Гүзәл Уразова - Рамай](../translated/g/guzel_urazova-ramay.md)
 
 ---
 

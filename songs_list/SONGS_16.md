@@ -1,10 +1,14 @@
 # Татарские песни и их перевод - Страница 16
 
-## Список песен (песни 1501-1600 из 3262)
+## Список песен (песни 1501-1600 из 3280)
 
 [← Предыдущая страница](songs_list/SONGS_15.md) | [Главная страница](../README.md) | [Следующая страница →](songs_list/SONGS_17.md)
 
 
+- [Дилә Булгакова / Наилә Фатехова - Рәхмәт яусын / Диля Булгакова / Наиля Фатехова - Пусть прольётся благодарность](../translated/d/dila_bulgakova_naila_fatehova_-_rahmat_yausin.md)
+- [Дилә Булгакова / Наилә Фатехова - Әлхәмдүлилләһ / Диля Булгакова / Наиля Фатехова - Альхамдулиллях](../translated/d/dila_bulgakova_naila_fatehova_-_alhamdulillah.md)
+- [Дилә Булгакова / Нур Даутов - Баллы Башкортстаным (икенче вариант) / Диля Булгакова / Нур Даутов - Медовый мой Башкортостан (второй вариант)](../translated/d/dila_bulgakova_nur_dautov_-_balli_bashkortstanim_ikenche_variant.md)
+- [Дилә Булгакова / Нур Даутов - Кыр казлары (Син онытма җирдә мин барын) / Диля Булгакова / Нур Даутов - Дикие гуси (Ты не забывай, что я здесь)](../translated/d/dila_bulgakova_nur_dautov_-_kir_kazlari_sin_onitma_cirda_min_barin.md)
 - [Дилә Булгакова / Нур Даутов - Серле чишмәм / Диля Булгакова / Нур Даутов - Мой сокровенный родник](../translated/d/dila_bulgakova_nur_dautov_-_serle_chishmam.md)
 - [Дилә Булгакова / Нәркәс Харрасова - Сөюеңә мине ышандыр / Диля Булгакова / Наркас Харрасова - Убеди меня в своей любви](../translated/d/dila_bulgakova_narkas_harrasova_-_soyuena_mine_ishandir.md)
 - [Дилә Булгакова / Рамил Гыймрани - Хәбәр ит / Диля Булгакова / Рамиль Гыймрани - Дай знать](../translated/d/dila_bulgakova_ramil_giymrani_-_habar_it.md)
@@ -101,10 +105,6 @@
 - [Зо-Лэй-Лэ - Гармун алыйк эле дуслар / Зо-Лэй-Лэ - Возьмём гармонь, друзья](../translated/z/zo-ley-le-garmun_alyyk_ele_duslar.md)
 - [Зо-Лэй-Лэ - Егет жыры / Зо-Лэй-Лэ - Песня джигита](../translated/z/zo-ley-le-eget_zhyry.md)
 - [Зо-Лэй-Лэ - Жан ярам / Зо-Лэй-Лэ - Душевная рана](../translated/z/zo-ley-le-zhan_yaram.md)
-- [Зо-Лэй-Лэ - Жирэнкэй / Зо-Лэй-Лэ - Рыжеволосый](../translated/z/zo-ley-le-zhirenkey.md)
-- [Зо-Лэй-Лэ - Жуйдым / Зо-Лэй-Лэ - Смыла](../translated/z/zo-ley-le-zhuydym.md)
-- [Зо-Лэй-Лэ - Жэйге Сабан туена / Зо-Лэй-Лэ - На летний Сабантуй](../translated/z/zo-ley-le-zheyge_saban_tuena.md)
-- [Зо-Лэй-Лэ - Йолдызым / Зо-Лэй-Лэ - Моя звезда](../translated/z/zo-ley-le-yoldyzym.md)
 
 ---
 

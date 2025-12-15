@@ -1,10 +1,15 @@
 # Татарские песни и их перевод - Страница 19
 
-## Список песен (песни 1801-1900 из 3262)
+## Список песен (песни 1801-1900 из 3280)
 
 [← Предыдущая страница](songs_list/SONGS_18.md) | [Главная страница](../README.md) | [Следующая страница →](songs_list/SONGS_20.md)
 
 
+- [Ильсия Бадретдинова - Кунел (Тонге юл) / Ильсия Бадретдинова - Душа (Ночная дорога)](../translated/i/ilsiya_badretdinova-kunel_tonge_yul.md)
+- [Ильсия Бадретдинова - Куркаклар / Ильсия Бадретдинова - Трусы](../translated/i/ilsiya_badretdinova-kurkaklar.md)
+- [Ильсия Бадретдинова - Ленин бабай / Ильсия Бадретдинова - Дедушка Ленин](../translated/i/ilsiya_badretdinova-lenin_babay.md)
+- [Ильсия Бадретдинова - Мишэрем / Ильсия Бадретдинова - Мишари](../translated/i/ilsiya_badretdinova-misherem.md)
+- [Ильсия Бадретдинова - Ометсез юл / Ильсия Бадретдинова - Безнадёжный путь](../translated/i/ilsiya_badretdinova-ometsez_yul.md)
 - [Ильсия Бадретдинова - Очрашу / Ильсия Бадретдинова - Встреча](../translated/i/ilsiya_badretdinova-ochrashu.md)
 - [Ильсия Бадретдинова - Рэхмэт Тэнрем / Ильсия Бадретдинова - Спасибо Всевышний](../translated/i/ilsiya_badretdinova-rehmet_tenrem.md)
 - [Ильсия Бадретдинова - Сэер кеше / Ильсия Бадретдинова - Странный человек](../translated/i/ilsiya_badretdinova-seer_keshe.md)
@@ -100,11 +105,6 @@
 - [Клара Булатова / Сара Садыйкова - Безгәме соң? / Клара Булатова / Сара Садыкова - Станем ли мы потом?](../translated/k/klara_bulatova_sara_sadiykova_-_bezgame_son.md)
 - [Кон-тон - Алдама мине алдама / Кон-тон - Не обманывай меня, не обманывай](../translated/k/kon-ton-aldama_mine_aldama.md)
 - [Кәдим Аралбаев / Рим Хәсәнов - Соңгы кыңгырау (икенче вариант) / Кадим Аралибаев / Рим Хасанов - Последний звонок (второй вариант)](../translated/k/kadim_aralbaev_rim_hasanov_-_songi_kingirau_ikenche_variant.md)
-- [Кәрим Тинчурин / Салих Сәйдәшев - Мәйсәрә / Карим Тинчурин / Салих Сәйдәшев - Мэйсәрә](../translated/k/karim_tinchurin_salih_saydashev_-_maysara.md)
-- [Кәүсәрия Нуруллина / Шамил Шәрипов - Ап-ак карлар (беренче вариант) / Кәүсәрия Нуруллина / Шамиль Шәрипов - Белый снег (первый вариант)](../translated/k/kausariya_nurullina_shamil_sharipov_-_ap-ak_karlar_berenche_variant.md)
-- [Кәүсәрия Шәфикова / Наил Шәймарданов - Кайталар кыр казлары / Кәүсәрия Шәфикова / Наил Шәймарданов - Возвращаются степные гуси](../translated/k/kausariya_shafikova_nail_shaymardanov_-_kaytalar_kir_kazlari.md)
-- [Кәүсәрия Шәфикова / Наил Шәймарданов - Яратам сине генә / Кәүсәрия Шәфикова / Наил Шәймарданов - Я люблю только тебя](../translated/k/kausariya_shafikova_nail_shaymardanov_-_yaratam_sine_gena.md)
-- [Ландыш Бахави - Безне ойдэ котэлэр / Ландыш Бахави - Нас дома ждут](../translated/l/landysh_bahavi-bezne_oyde_koteler.md)
 
 ---
 

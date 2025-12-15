@@ -1,10 +1,16 @@
 # Татарские песни и их перевод - Страница 21
 
-## Список песен (песни 2001-2100 из 3262)
+## Список песен (песни 2001-2100 из 3280)
 
 [← Предыдущая страница](songs_list/SONGS_20.md) | [Главная страница](../README.md) | [Следующая страница →](songs_list/SONGS_22.md)
 
 
+- [Малика - Гашыйк булдынмы эллэ / Малика - Неужели влюбилась](../translated/m/malika-gashyyk_buldynmy_elle.md)
+- [Малика - Жырлар жырлыйм сина / Малика - Песни пою для тебя](../translated/m/malika-zhyrlar_zhyrlyym_sina.md)
+- [Малика - Их, иркэм / Малика - Ах, милый мой](../translated/m/malika-ih_irkem.md)
+- [Малика - Йорэгемэ минем кагылма / Малика - Не касайся моего сердца](../translated/m/malika-yoregeme_minem_kagylma.md)
+- [Малика - Йорэк сере / Малика - Тайна сердца](../translated/m/malika-yorek_sere.md)
+- [Малика - Казаныма мэдхия / Малика - Гимн моей Казани](../translated/m/malika-kazanyma_medhiya.md)
 - [Малика - Кияу белэн кэлэш / Малика - Жених и невеста](../translated/m/malika-kiyau_belen_kelesh.md)
 - [Малика - Котеп алган бэйрэм / Малика - Долгожданный праздник](../translated/m/malika-kotep_algan_beyrem.md)
 - [Малика - Матур кош / Малика - Прекрасная птица](../translated/m/malika-matur_kosh.md)
@@ -99,12 +105,6 @@
 - [Нияз Валиев - Синен янда / Нияз Валиев - Рядом с тобой](../translated/n/niyaz_valiev-sinen_yanda.md)
 - [Нур Гайсин / Рөстәм Сәрвәров - Сөйгән ярым күршедә / Нур Гайсин / Рустам Сарваров - Возлюбленная моя живёт в деревне](../translated/n/nur_gaysin_rostam_sarvarov_-_soygan_yarim_kursheda.md)
 - [Нур Әхмәдиев / Зиннур Сафиуллин - Каенлы юл / Нур Ахмадиев / Зиннур Сафиуллин - Березовая дорога](../translated/n/nur_ahmadiev_zinnur_safiullin_-_kaenli_yul.md)
-- [Нури Арсланов / Александр Ключарев - Миләүшә (беренче вариант) / Нури Арсланов / Александр Ключарев - Миләүшә (первый вариант)](../translated/n/nuri_arslanov_aleksandr_klyucharev_-_milausha_berenche_variant.md)
-- [Нурисә Мөхәммәтова / Айнур Сабирҗанов - Насыйп ярым (беренче вариант) / Нуриса Мухамматова / Айнур Сабиржанов - Моя доля, моя любовь (первый вариант)](../translated/n/nurisa_mohammatova_aynur_sabircanov_-_nasiyp_yarim_berenche_variant.md)
-- [Нурия Абдуллина - Нәфсе дәрьяларын буйламыйк / Нурия Абдуллина - Не будем мерить глубину души](../translated/n/nuriya_abdullina_-_nafse_daryalarin_buylamiyk.md)
-- [Нурия Абдуллина - Туганнар (икенче вариант) / Нурия Абдуллина - Родные (второй вариант)](../translated/n/nuriya_abdullina_-_tugannar_ikenche_variant.md)
-- [Нурия Гыйләҗева / Ризида Мөхәммәтҗанова - Эх, гармун, гитара! / Нурия Гильяжева / Ризида Мухаммаджанова - Ах, гармонь, гитара!](../translated/n/nuriya_giylaceva_rizida_mohammatcanova_-_eh_garmun_gitara.md)
-- [Нурлан Ганиев / Наил Шәймарданов - Тормыш дигәнебез шушыдыр / Нурлан Ганиев / Наиль Шаймарданов - Такова жизнь, которую мы зовём](../translated/n/nurlan_ganiev_nail_shaymardanov_-_tormish_diganebez_shushidir.md)
 
 ---
 

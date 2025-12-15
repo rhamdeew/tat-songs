@@ -1,10 +1,24 @@
 # Татарские песни и их перевод - Страница 24
 
-## Список песен (песни 2301-2400 из 3262)
+## Список песен (песни 2301-2400 из 3280)
 
 [← Предыдущая страница](songs_list/SONGS_23.md) | [Главная страница](../README.md) | [Следующая страница →](songs_list/SONGS_25.md)
 
 
+- [Салават Фатхетдинов - Бала / Салават Фатхетдинов - Дитя](../translated/s/salavat_fathetdinov-bala.md)
+- [Салават Фатхетдинов - Баланы читкэ жибэру / Салават Фатхетдинов - Отправляя дитя в мир](../translated/s/salavat_fathetdinov-balany_chitke_zhiberu.md)
+- [Салават Фатхетдинов - Башкортстан татарлары / Салават Фатхетдинов - Татары Башкортостана](../translated/s/salavat_fathetdinov-bashkortstan_tatarlary.md)
+- [Салават Фатхетдинов - Белсэн иде хэлемне / Салават Фатхетдинов - Знала бы ты мое состояние](../translated/s/salavat_fathetdinov-belsen_ide_helemne.md)
+- [Салават Фатхетдинов - Бер егет гармун сайлый / Салават Фатхетдинов - Парень играет на гармони](../translated/s/salavat_fathetdinov-ber_eget_garmun_saylyy.md)
+- [Салават Фатхетдинов - Бик курэсем килэ / Салават Фатхетдинов - Так хочется увидеть](../translated/s/salavat_fathetdinov-bik_kuresem_kile.md)
+- [Салават Фатхетдинов - Былбылым / Салават Фатхетдинов - Мой соловей](../translated/s/salavat_fathetdinov-bylbylym.md)
+- [Салават Фатхетдинов - Бэхет булэк итэ алмадым / Салават Фатхетдинов - Не смог подарить счастье](../translated/s/salavat_fathetdinov-behet_bulek_ite_almadym.md)
+- [Салават Фатхетдинов - Бэхет кошы / Салават Фатхетдинов - Птица счастья](../translated/s/salavat_fathetdinov-behet_koshy.md)
+- [Салават Фатхетдинов - Гармун уйныйм урамнарда / Салават Фатхетдинов - Играю на гармони на улицах](../translated/s/salavat_fathetdinov-garmun_uynyym_uramnarda.md)
+- [Салават Фатхетдинов - Гафу ит иркэм / Салават Фатхетдинов - Прости меня, милая](../translated/s/salavat_fathetdinov-gafu_it_irkem.md)
+- [Салават Фатхетдинов - Гашыйклар жыры / Салават Фатхетдинов - Песня влюблённых](../translated/s/salavat_fathetdinov-gashyyklar_zhyry.md)
+- [Салават Фатхетдинов - Гомер утэ димэ / Салават Фатхетдинов - Не говори, что жизнь проходит](../translated/s/salavat_fathetdinov-gomer_ute_dime.md)
+- [Салават Фатхетдинов - Жырламыйча тузэ алмыйм / Салават Фатхетдинов - Без песни не могу жить](../translated/s/salavat_fathetdinov-zhyrlamyycha_tuze_almyym.md)
 - [Салават Фатхетдинов - Йормэ артларымнан / Салават Фатхетдинов - Не иди за мной](../translated/s/salavat_fathetdinov-yorme_artlarymnan.md)
 - [Салават Фатхетдинов - Йорэгем турендэ / Салават Фатхетдинов - О моём сердце](../translated/s/salavat_fathetdinov-yoregem_turende.md)
 - [Салават Фатхетдинов - Кайгыдан арала / Салават Фатхетдинов - Избавь от печали](../translated/s/salavat_fathetdinov-kaygydan_arala.md)
@@ -91,20 +105,6 @@
 - [Светлана Шәрипова / Билгесез - Кап-кара төн / Светлана Шарипова / Билгесез - Кап-кара төн](../translated/s/svetlana_sharipova_bilgesez_-_kap-kara_ton.md)
 - [Селет - Ян йорэк / Селет - Пылай, сердце](../translated/s/selet-yan_yorek.md)
 - [Сефер - Голназым / Сефер - Гульназ моя](../translated/s/sefer-golnazym.md)
-- [Сефер - Югалтма син мине / Сефер - Не теряй меня](../translated/s/sefer-yugaltma_sin_mine.md)
-- [Сибгат Хәким / Сара Садыйкова - Мин беренче чәчәкләрне эзлим / Сибгат Хаким / Сара Садыйкова - Я ищу первые цветы](../translated/s/sibgat_hakim_sara_sadiykova_-_min_berenche_chachaklarne_ezlim.md)
-- [Сибгат Хәким / Сара Садыйкова - Уразай / Сибгать Хаким / Сара Садыкова - Уразай](../translated/s/sibgat_hakim_sara_sadiykova_-_urazay.md)
-- [Силу - Бер сунгэн сою / Силу - Угасшая любовь](../translated/s/sylu-ber_sungen_soyu.md)
-- [Силу - Мин яратам сине / Силу - Я люблю тебя](../translated/s/sylu-min_yaratam_sine.md)
-- [Солтан Шәрипов / Сара Садыйкова - Алпар таңнары / Солтан Шарипов / Сара Садыйкова - Зори Алпара](../translated/s/soltan_sharipov_sara_sadiykova_-_alpar_tannari.md)
-- [Сомбел Билалова - Алмаштырмыйм / Сомбель Билалова - Не променяю](../translated/s/sombel_bilalova-almashtyrmyym.md)
-- [Сомбель Билалова - Беренче мэхэббэтем / Сомбель Билалова - Моя первая любовь](../translated/s/sombel_bilalova-berenche_mehebbetem.md)
-- [Сомбель Билалова - Минем алтын көзлэрем / Сомбель Билалова - Мои золотые глаза](../translated/s/sombel_bilalova-minem_altyn_kozlerem.md)
-- [Сомбель Билалова - Нигэ очрадын / Сомбель Билалова - Зачем встретился](../translated/s/sombel_bilalova-nige_ochradyn.md)
-- [Сомбель Билалова - Онытасым килэ / Сомбель Билалова - Хочется забыть](../translated/s/sombel_bilalova-onytasym_kile.md)
-- [Сомбель Билалова - Сандугачлы таннар / Сомбель Билалова - Рассветы с соловьями](../translated/s/sombel_bilalova-sandugachly_tannar.md)
-- [Сомбель Билалова - Сине котлап / Сомбель Билалова - Поздравляя тебя](../translated/s/sombel_bilalova-sine_kotlap.md)
-- [Сомбель Билалова - Синен очен / Сомбель Билалова - Ради тебя](../translated/s/sombel_bilalova-sinen_ochen.md)
 
 ---
 

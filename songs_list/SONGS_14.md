@@ -1,10 +1,14 @@
 # Татарские песни и их перевод - Страница 14
 
-## Список песен (песни 1301-1400 из 3262)
+## Список песен (песни 1301-1400 из 3280)
 
 [← Предыдущая страница](songs_list/SONGS_13.md) | [Главная страница](../README.md) | [Следующая страница →](songs_list/SONGS_15.md)
 
 
+- [Гүзел Әхметова - Яратам / Гузель Ахметова - Люблю](../translated/g/guzel_ahmetova-yaratam.md)
+- [Гүзел Әхметова - Яшьлек / Гузель Ахметова - Молодость](../translated/g/guzel_ahmetova-yashlek.md)
+- [Гүзәл Уразова - Парлы утсен гомерлэр / Гүзәл Уразова - Парами пусть пройдут века](../translated/g/guzel_urazova-parly_utsen_gomerler.md)
+- [Гүзәл Уразова - Рамай / Гүзәл Уразова - Рамай](../translated/g/guzel_urazova-ramay.md)
 - [Гүзәл Уразова - Рэхмэтлемен Ходаема / Гүзәл Уразова - Благодарю Бога моего](../translated/g/guzel_urazova-rehmetlemen_hodaema.md)
 - [Гүзәл Уразова - Сабырлык / Гүзәл Уразова - Терпение](../translated/g/guzel_urazova-sabyrlyk.md)
 - [Гүзәл Уразова - Сандугач / Гүзәл Уразова - Соловей](../translated/g/guzel_urazova-sandugach.md)
@@ -101,10 +105,6 @@
 - [Дамир Гыйсметдин / Вәис Бәйрәмов - Күл / Дамир Гисметдин / Ваис Байрамов - Озеро](../translated/d/damir_giysmetdin_vais_bayramov_-_kul.md)
 - [Дамир Гыйсметдин / Вәис Бәйрәмов - Күңелең сынмасын / Дамир Гыйсметдин / Ваис Байрамов - Не разбивай своё сердце](../translated/d/damir_giysmetdin_vais_bayramov_-_kunelen_sinmasin.md)
 - [Дамир Гыйсметдин / Вәис Бәйрәмов - Сагыш дәрьясы / Дамир Гыйсметдин / Ваис Байрамов - Море тоски](../translated/d/damir_giysmetdin_vais_bayramov_-_sagish_daryasi.md)
-- [Дамир Гыйсметдин / Вәис Бәйрәмов - Сихри иртәләр / Дамир Гисметдин / Ваис Байрамов - Волшебные рассветы](../translated/d/damir_giysmetdin_vais_bayramov_-_sihri_irtalar.md)
-- [Дамир Гыйсметдин / Вәис Бәйрәмов - Соңгы юлга озатам әниемне / Дамир Гисметдин / Ваис Байрамов - Провожаю мать в последний путь](../translated/d/damir_giysmetdin_vais_bayramov_-_songi_yulga_ozatam_aniemne.md)
-- [Дамир Гыйсметдин / Вәис Бәйрәмов - Төшләремә кердең (беренче вариант) / Дамир Гыйсметдин / Ваис Байрамов - Вошла в мои сны (первый вариант)](../translated/d/damir_giysmetdin_vais_bayramov_-_toshlarema_kerden_berenche_variant.md)
-- [Дамир Гыйсметдин / Габдразак Миңгалиев - Соңгы яфрак (икенче вариант) / Дамир Гыйсметдин / Габдразак Миңгалиев - Последний листок (второй вариант)](../translated/d/damir_giysmetdin_gabdrazak_mingaliev_-_songi_yafrak_ikenche_variant.md)
 
 ---
 

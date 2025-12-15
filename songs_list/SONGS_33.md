@@ -1,10 +1,28 @@
 # Татарские песни и их перевод - Страница 33
 
-## Список песен (песни 3201-3262 из 3262)
+## Список песен (песни 3201-3280 из 3280)
 
 [← Предыдущая страница](songs_list/SONGS_32.md) | [Главная страница](../README.md)
 
 
+- [Әхмәт Ерикәй / Рөстәм Яхин - Синең өчен (сигезенче вариант) / Ахмат Ерикей / Рустам Яхин - Для тебя (восьмой вариант)](../translated/a/ahmat_erikay_rostam_yahin_-_sinen_ochen_sigezenche_variant.md)
+- [Әхмәт Ерикәй / Рөстәм Яхин - Тургай (дүртенче вариант) / Ахмат Ерикей / Рустам Яхин - Жаворонок (четвёртый вариант)](../translated/a/ahmat_erikay_rostam_yahin_-_turgay_durtenche_variant.md)
+- [Әхмәт Ерикәй / Рөстәм Яхин - Җырланмаган әле безнең җыр / Ахмат Ерикей / Рустам Яхин - Ещё не спета наша песня](../translated/a/ahmat_erikay_rostam_yahin_-_cirlanmagan_ale_beznen_cir.md)
+- [Әхмәт Ерикәй / Салих Сәйдәшев - Бибисара / Ахмат Ерикай / Салих Сайдашев - Бибисара](../translated/a/ahmat_erikay_salih_saydashev_-_bibisara.md)
+- [Әхмәт Ерикәй / Салих Сәйдәшев - Дуслык турында җыр / Ахмат Ерикай / Салих Сайдашев - Песня о дружбе](../translated/a/ahmat_erikay_salih_saydashev_-_duslik_turinda_cir.md)
+- [Әхмәт Ерикәй / Сара Садыйкова - Айлы кич (икенче вариант) / Ахмат Ерикей / Сара Садыкова - Лунная ночь (второй вариант)](../translated/a/ahmat_erikay_sara_sadiykova_-_ayli_kich_ikenche_variant.md)
+- [Әхмәт Ерикәй / Сара Садыйкова - Елмаюыңны көтәм / Ахмат Ерикай / Сара Садыйкова - Жду твоей улыбки](../translated/a/ahmat_erikay_sara_sadiykova_-_elmayuinni_kotam.md)
+- [Әхмәт Ерикәй / Сара Садыйкова - Кайттым сиңа / Ахмат Ерикай / Сара Садыйкова - Вернулась к тебе](../translated/a/ahmat_erikay_sara_sadiykova_-_kayttim_sina.md)
+- [Әхмәт Ерикәй / Сара Садыйкова - Көтәм сине (беренче вариант) / Ахмат Ерикей / Сара Садыкова - Жду тебя (первый вариант)](../translated/a/ahmat_erikay_sara_sadiykova_-_kotam_sine_berenche_variant.md)
+- [Әхмәт Ерикәй / Сара Садыйкова - Сагыну вальсе / Ахмат Ерикей / Сара Садыкова - Вальс тоски](../translated/a/ahmat_erikay_sara_sadiykova_-_saginu_valse.md)
+- [Әхмәт Ерикәй / Сара Садыйкова - Җилфер-җилфер җил искәндә (беренче вариант) / Ахмат Ерикей / Сара Садыкова - Когда ветер веет нежно (первый вариант)](../translated/a/ahmat_erikay_sara_sadiykova_-_cilfer-cilfer_cil_iskanda_berenche_variant.md)
+- [Әхмәт Ерикәй / Сәйяр Хәбибуллин - Казан! Мәскәү! / Ахмат Ерикай / Сайяр Хабибуллин - Казань! Москва!](../translated/a/ahmat_erikay_sayyar_habibullin_-_kazan_maskau.md)
+- [Әхмәт Ерикәй / Сәйяр Хәбибуллин - Сөясеңме, дип, ник сорыйсың? / Ахмат Ерикей / Саяр Хабибуллин - Зачем спрашиваешь, люблю ли я?](../translated/a/ahmat_erikay_sayyar_habibullin_-_soyasenme_dip_nik_soriysin.md)
+- [Әхмәт Ерикәй / Сәйяр Хәбибуллин - Эзләдем, бәгърем, сине / Ахмат Ерикай / Сайяр Хабибуллин - Искала тебя, душа моя](../translated/a/ahmat_erikay_sayyar_habibullin_-_ezladem_bagrem_sine.md)
+- [Әхмәт Ерикәй / Татар халык көе - Берсе алма, берсе хөрмә / Ахмат Ерикей / Татарская народная мелодия - Одна как яблоко, другая как финик](../translated/a/ahmat_erikay_tatar_halik_koe_-_berse_alma_berse_horma.md)
+- [Әхмәт Ерикәй / Татар халык көе - Бөдрә тал (икенче вариант) / Ахмат Ерикей / Татарская народная песня - Кудрявая ива (второй вариант)](../translated/a/ahmat_erikay_tatar_halik_koe_-_bodra_tal_ikenche_variant.md)
+- [Әхмәт Ерикәй / Татар халык көе - Минзәлә / Ахмат Ерикей / Татарская народная песня - Минзала](../translated/a/ahmat_erikay_tatar_halik_koe_-_minzala.md)
+- [Әхмәт Ерикәй / Татар халык көе - Сәрвиназ (беренче вариант) / Ахмат Ерикей / Татарская народная песня - Сервиназ (первый вариант)](../translated/a/ahmat_erikay_tatar_halik_koe_-_sarvinaz_berenche_variant.md)
 - [Әхмәт Ерикәй / Татар халык җыры - Алсу (икенче вариант) / Ахмат Ерикей / Татарская народная песня - Алсу (второй вариант)](../translated/a/ahmat_erikay_tatar_halik_ciri_-_alsu_ikenche_variant.md)
 - [Әхмәт Ерикәй / Фәрит Хатыйпов - Ах иркәм, Нәзирәм / Ахмат Ерикей / Фарит Хатыпов - Ах, милая моя, Назира](../translated/a/ahmat_erikay_farit_hatiypov_-_ah_irkam_naziram.md)
 - [Әхмәт Ерикәй / Фәрит Хатыйпов - Мин дә сине сөям / Ахмат Ерикей / Фарит Хатыйпов - Я тоже тебя люблю](../translated/a/ahmat_erikay_farit_hatiypov_-_min_da_sine_soyam.md)

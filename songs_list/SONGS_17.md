@@ -1,10 +1,14 @@
 # Татарские песни и их перевод - Страница 17
 
-## Список песен (песни 1601-1700 из 3262)
+## Список песен (песни 1601-1700 из 3280)
 
 [← Предыдущая страница](songs_list/SONGS_16.md) | [Главная страница](../README.md) | [Следующая страница →](songs_list/SONGS_18.md)
 
 
+- [Зо-Лэй-Лэ - Жирэнкэй / Зо-Лэй-Лэ - Рыжеволосый](../translated/z/zo-ley-le-zhirenkey.md)
+- [Зо-Лэй-Лэ - Жуйдым / Зо-Лэй-Лэ - Смыла](../translated/z/zo-ley-le-zhuydym.md)
+- [Зо-Лэй-Лэ - Жэйге Сабан туена / Зо-Лэй-Лэ - На летний Сабантуй](../translated/z/zo-ley-le-zheyge_saban_tuena.md)
+- [Зо-Лэй-Лэ - Йолдызым / Зо-Лэй-Лэ - Моя звезда](../translated/z/zo-ley-le-yoldyzym.md)
 - [Зо-Лэй-Лэ - Канатлар / Зо-Лэй-Лэ - Крылья](../translated/z/zo-ley-le-kanatlar.md)
 - [Зо-Лэй-Лэ - Канэфер / Зо-Лэй-Лэ - Гвоздики](../translated/z/zo-ley-le-kanefer.md)
 - [Зо-Лэй-Лэ - Карама / Зо-Лэй-Лэ - Не смотри](../translated/z/zo-ley-le-karama.md)
@@ -75,6 +79,7 @@
 - [Зәйнәп Фәрхетдинова - Гомерлэр зая узмасын / Зейнеп Фархетдинова - Пусть годы зря не проходят](../translated/z/zaynap_farhetdinova-gomerler_zaya_uzmasyn.md)
 - [Зәйнәп Фәрхетдинова - Эче-эче / Зейнеп Фархетдинова - Пей-пей](../translated/z/zaynap_farhetdinova-eche-eche.md)
 - [Зөлфия Фәйрушина / Флүрә Талипова - Ялгыз ана җыры / Зульфия Файрушина / Флюра Талипова - Песня одинокой матери](../translated/z/zolfiya_fayrushina_flura_talipova_-_yalgiz_ana_ciri.md)
+- [Зөлфәт / Зиннур Гыйбадуллин - Каеннар көтә / Зульфат / Зиннур Гибадуллин - Берёзы ждут](../translated/z/zolfat_zinnur_giybadullin_-_kaennar_kota.md)
 - [Зөлфәт / Татар халык көе - Чатырлар / Зөлфәт / Татарская народная песня - Чатырлар](../translated/z/zolfat_tatar_halik_koe_-_chatirlar.md)
 - [Зөлфәт / Шамил Шәрифуллин - Яфрак төшкән инде юлга / Зульфият / Шамиль Шарифуллин - Листья упали на дорогу](../translated/z/zolfat_shamil_sharifullin_-_yafrak_toshkan_inde_yulga.md)
 - [Зөлфәт Хәким - Хәерле юл (икенче вариант) / Зөлфәт Хәким - Счастливого пути (второй вариант)](../translated/z/zolfat_hakim_-_haerle_yul_ikenche_variant.md)
@@ -100,11 +105,6 @@
 - [Илсия Бадретдинова - Алсу / Илсия Бадретдинова - Алсу](../translated/i/ilsiya_badretdinova-alsu.md)
 - [Илсия Бадретдинова - Вэли абзый / Илсия Бадретдинова - Дядя Вали](../translated/i/ilsiya_badretdinova-veli_abzyy.md)
 - [Илсия Бадретдинова - Елый икэн ирлэр дэ / Илсия Бадретдинова - Плачут оказывается мужчины тоже](../translated/i/ilsiya_badretdinova-elyy_iken_irler_de.md)
-- [Илсия Бадретдинова - Кайт Чынгызхан / Илсия Бадретдинова - Вернись, Чингисхан](../translated/i/ilsiya_badretdinova-kayt_chyngyzhan.md)
-- [Илсия Бадретдинова - Станок / Илсия Бадретдинова - Станок](../translated/i/ilsiya_badretdinova-stanok.md)
-- [Илсия Бадретдинова - Су буйлап / Илсия Бадретдинова - Вдоль воды](../translated/i/ilsiya_badretdinova-su_buylap.md)
-- [Илсия Бадретдинова - Сугыш / Илсия Бадретдинова - Война](../translated/i/ilsiya_badretdinova-sugysh.md)
-- [Илсия Бадретдинова - Торып бас / Илсия Бадретдинова - Встань и иди](../translated/i/ilsiya_badretdinova-toryp_bas.md)
 
 ---
 
