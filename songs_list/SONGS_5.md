@@ -1,10 +1,23 @@
 # Татарские песни и их перевод - Страница 5
 
-## Список песен (песни 401-500 из 3280)
+## Список песен (песни 401-500 из 3461)
 
 [← Предыдущая страница](songs_list/SONGS_4.md) | [Главная страница](../README.md) | [Следующая страница →](songs_list/SONGS_6.md)
 
 
+- [Айнур BoooRe Шарапов - Дөбердәтәбез / Айнур BoooRe Шарапов - Потопаем](../translated/a/aynur_booore_sharapov_-_doberdatabez.md)
+- [Айнур BoooRe Шарапов - Каракай / Айнур BoooRe Шарапов - Каракай](../translated/a/aynur_booore_sharapov_-_karakay.md)
+- [Айнур BoooRe Шарапов - Күк төсле күзләр / Айнур BoooRe Шарапов - Глаза цвета неба](../translated/a/aynur_booore_sharapov_-_kuk_tosle_kuzlar.md)
+- [Айнур Сабиров / Айдар Тимербаев - Айлы кичләр (беренче вариант) / Айнур Сабиров / Айдар Тимербаев - Лунные вечера (первый вариант)](../translated/a/aynur_sabirov_aydar_timerbaev_-_ayli_kichlar_berenche_variant.md)
+- [Айнур Такиуллин - Искән җилләр / Айнур Такиуллин - Ветры прошлого](../translated/a/aynur_takiullin_-_iskan_cillar.md)
+- [Айнур Халиев / Фәрит Әүбакиров - Ялган мәхәббәтем / Айнур Халиев / Фарит Аубакиров - Ложная любовь моя](../translated/a/aynur_haliev_farit_aubakirov_-_yalgan_mahabbatem.md)
+- [Айрат Галиев / Марат Шәйбәков - Сөйгәннәргә ачу тотмагыз / Айрат Галиев / Марат Шайбаков - Не держите обиды на любимых](../translated/a/ayrat_galiev_marat_shaybakov_-_soygannarga_achu_totmagiz.md)
+- [Айрат Ильясов - Умырзая / Айрат Ильясов - Умырзая](../translated/a/ayrat_ilyasov-umyrzaya.md)
+- [Айрат Ильясов - Язмышларны берлэштерик / Айрат Ильясов - Соединим судьбы](../translated/a/ayrat_ilyasov-yazmyshlarny_berleshterik.md)
+- [Айрат Сафин - Сагындым авылымны (икенче вариант) / Айрат Сафин - Скучаю по родной деревне (второй вариант)](../translated/a/ayrat_safin_-_sagindim_avilimni_ikenche_variant.md)
+- [Айрат Суфиянов / Флүрә Талипова - Йөрәкләргә шакыйм / Айрат Суфиянов / Флюра Талипова - Стучусь в сердца](../translated/a/ayrat_sufiyanov_flura_talipova_-_yoraklarga_shakiym.md)
+- [Айрат Суфиянов / Флүрә Талипова - Мәхәббәт күпере (икенче вариант) / Айрат Суфиянов / Флюра Талипова - Мост любви (второй вариант)](../translated/a/ayrat_sufiyanov_flura_talipova_-_mahabbat_kupere_ikenche_variant.md)
+- [Айрат Суфиянов / Флүрә Талипова - Әнкәй (дүртенче вариант) / Айрат Суфиянов / Флюра Талипова - Мамочка (четвёртый вариант)](../translated/a/ayrat_sufiyanov_flura_talipova_-_ankay_durtenche_variant.md)
 - [Айрат Сөләймәнов - Илүзә / Айрат Сулейманов - Илюза](../translated/a/ayrat_solaymanov_-_iluza.md)
 - [Айрат Шәйхетдинов / Айдар Тимербаев - Парлы ялгызлар / Айрат Шайхетдинов / Айдар Тимербаев - Парные одиночки](../translated/a/ayrat_shayhetdinov_aydar_timerbaev_-_parli_yalgizlar.md)
 - [Айрат Шәйхетдинов / Айдар Тимербаев - Үткәннәр / Айрат Шайхетдинов / Айдар Тимербаев - Прошлое](../translated/a/ayrat_shayhetdinov_aydar_timerbaev_-_utkannar.md)
@@ -92,19 +105,6 @@
 - [Алмаз Хәмзин / Оскар Усманов - Ком сәгате (беренче вариант) / Алмаз Хамзин / Оскар Усманов - Песочные часы (первый вариант)](../translated/a/almaz_hamzin_oskar_usmanov_-_kom_sagate_berenche_variant.md)
 - [Алмаз Хәмзин / Оскар Усманов - Әбием коймаклары / Алмаз Хамзин / Оскар Усманов - Бабушкины коймаки](../translated/a/almaz_hamzin_oskar_usmanov_-_abiem_koymaklari.md)
 - [Алмаз Хәмзин / Рөстәм Вәлиев - Сине көтәм (икенче вариант) / Алмаз Хамзин / Рустам Валиев - Я жду тебя (второй вариант)](../translated/a/almaz_hamzin_rostam_valiev_-_sine_kotam_ikenche_variant.md)
-- [Алмаз Хәмзин / Фирзәр Мортазин - Казанда торсаң иде / Алмаз Хамзин / Фирзар Мортазин - Если б ты жил в Казани](../translated/a/almaz_hamzin_firzar_mortazin_-_kazanda_torsan_ide.md)
-- [Алмаз Хәмзин / Фирзәр Мортазин - Туган көн (беренче вариант) / Алмаз Хамзин / Фирзар Мортазин - День рождения (первый вариант)](../translated/a/almaz_hamzin_firzar_mortazin_-_tugan_kon_berenche_variant.md)
-- [Алмаз Хәмзин / Әлфис Кыямов - Баянчы җыры / Алмаз Хамзин / Альфис Кыямов - Песня баяниста](../translated/a/almaz_hamzin_alfis_kiyamov_-_bayanchi_ciri.md)
-- [Алмаз Юнысов - Бул минем янымда / Алмаз Юнусов - Будь рядом со мной](../translated/a/almaz_yunisov_-_bul_minem_yanimda.md)
-- [Алмаз Юнысов - Игелекле бала бул син / Алмаз Юнысов - Будь добрым сыном](../translated/a/almaz_yunisov_-_igelekle_bala_bul_sin.md)
-- [Алмаз Юнысов / Айдар Юнысов - Кызыл миләш (дүртенче вариант) / Алмаз Юнысов / Айдар Юнысов - Красная рябина (четвёртый вариант)](../translated/a/almaz_yunisov_aydar_yunisov_-_kizil_milash_durtenche_variant.md)
-- [Алмаз Әхмәтгалиев / Илнат Фәрхуллин - Кемгә кала безнең учаклар? / Алмаз Ахметгалиев / Ильнат Фархуллин - Кому достанутся наши очаги?](../translated/a/almaz_ahmatgaliev_ilnat_farhullin_-_kemga_kala_beznen_uchaklar.md)
-- [Алмаз Әхмәтов / Исмай Шәмсетдинов - Туган ягыбыз — Биләр / Алмаз Ахметов / Исмай Шамсетдинов - Наш родной край — Биляр](../translated/a/almaz_ahmatov_ismay_shamsetdinov_-_tugan_yagibiz_bilar.md)
-- [Алсиния Хәлиуллина / Айнур Сабиров - Үпкәләмә (алтынчы вариант) / Алсиния Халиуллина / Айнур Сабиров - Не обижайся (шестой вариант)](../translated/a/alsiniya_haliullina_aynur_sabirov_-_upkalama_altinchi_variant.md)
-- [Алсинә Сәлахова / Илдар Ногманов - Алай димә / Алсина Салахова / Ильдар Ногманов - Не говори так](../translated/a/alsina_salahova_ildar_nogmanov_-_alay_dima.md)
-- [Алсинә Сәлахова / Илдар Ногманов - Балам / Алсина Салахова / Ильдар Ногманов - Моё дитя](../translated/a/alsina_salahova_ildar_nogmanov_-_balam.md)
-- [Алсинә Сәлахова / Илдар Ногманов - Яратам дияргә дә куркам / Алсина Салахова / Ильдар Ногманов - Боюсь сказать, что я люблю](../translated/a/alsina_salahova_ildar_nogmanov_-_yaratam_diyarga_da_kurkam.md)
-- [Алсинә Сәлахова / Илнур Мусин - Онытыласым килә / Алсина Салахова / Ильнур Мусин - Хочу забыться](../translated/a/alsina_salahova_ilnur_musin_-_onitilasim_kila.md)
 
 ---
 

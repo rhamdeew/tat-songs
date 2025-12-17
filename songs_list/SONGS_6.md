@@ -1,10 +1,23 @@
 # Татарские песни и их перевод - Страница 6
 
-## Список песен (песни 501-600 из 3280)
+## Список песен (песни 501-600 из 3461)
 
 [← Предыдущая страница](songs_list/SONGS_5.md) | [Главная страница](../README.md) | [Следующая страница →](songs_list/SONGS_7.md)
 
 
+- [Алмаз Хәмзин / Фирзәр Мортазин - Казанда торсаң иде / Алмаз Хамзин / Фирзар Мортазин - Если б ты жил в Казани](../translated/a/almaz_hamzin_firzar_mortazin_-_kazanda_torsan_ide.md)
+- [Алмаз Хәмзин / Фирзәр Мортазин - Туган көн (беренче вариант) / Алмаз Хамзин / Фирзар Мортазин - День рождения (первый вариант)](../translated/a/almaz_hamzin_firzar_mortazin_-_tugan_kon_berenche_variant.md)
+- [Алмаз Хәмзин / Әлфис Кыямов - Баянчы җыры / Алмаз Хамзин / Альфис Кыямов - Песня баяниста](../translated/a/almaz_hamzin_alfis_kiyamov_-_bayanchi_ciri.md)
+- [Алмаз Юнысов - Бул минем янымда / Алмаз Юнусов - Будь рядом со мной](../translated/a/almaz_yunisov_-_bul_minem_yanimda.md)
+- [Алмаз Юнысов - Игелекле бала бул син / Алмаз Юнысов - Будь добрым сыном](../translated/a/almaz_yunisov_-_igelekle_bala_bul_sin.md)
+- [Алмаз Юнысов / Айдар Юнысов - Кызыл миләш (дүртенче вариант) / Алмаз Юнысов / Айдар Юнысов - Красная рябина (четвёртый вариант)](../translated/a/almaz_yunisov_aydar_yunisov_-_kizil_milash_durtenche_variant.md)
+- [Алмаз Әхмәтгалиев / Илнат Фәрхуллин - Кемгә кала безнең учаклар? / Алмаз Ахметгалиев / Ильнат Фархуллин - Кому достанутся наши очаги?](../translated/a/almaz_ahmatgaliev_ilnat_farhullin_-_kemga_kala_beznen_uchaklar.md)
+- [Алмаз Әхмәтов / Исмай Шәмсетдинов - Туган ягыбыз — Биләр / Алмаз Ахметов / Исмай Шамсетдинов - Наш родной край — Биляр](../translated/a/almaz_ahmatov_ismay_shamsetdinov_-_tugan_yagibiz_bilar.md)
+- [Алсиния Хәлиуллина / Айнур Сабиров - Үпкәләмә (алтынчы вариант) / Алсиния Халиуллина / Айнур Сабиров - Не обижайся (шестой вариант)](../translated/a/alsiniya_haliullina_aynur_sabirov_-_upkalama_altinchi_variant.md)
+- [Алсинә Сәлахова / Илдар Ногманов - Алай димә / Алсина Салахова / Ильдар Ногманов - Не говори так](../translated/a/alsina_salahova_ildar_nogmanov_-_alay_dima.md)
+- [Алсинә Сәлахова / Илдар Ногманов - Балам / Алсина Салахова / Ильдар Ногманов - Моё дитя](../translated/a/alsina_salahova_ildar_nogmanov_-_balam.md)
+- [Алсинә Сәлахова / Илдар Ногманов - Яратам дияргә дә куркам / Алсина Салахова / Ильдар Ногманов - Боюсь сказать, что я люблю](../translated/a/alsina_salahova_ildar_nogmanov_-_yaratam_diyarga_da_kurkam.md)
+- [Алсинә Сәлахова / Илнур Мусин - Онытыласым килә / Алсина Салахова / Ильнур Мусин - Хочу забыться](../translated/a/alsina_salahova_ilnur_musin_-_onitilasim_kila.md)
 - [Алсинә Сәлахова / Наил Сөләйманов - Тыелган татлы сөю / Алсина Салахова / Наиль Сулейманов - Запретная сладкая любовь](../translated/a/alsina_salahova_nail_solaymanov_-_tielgan_tatli_soyu.md)
 - [Алсирә Мөхәммәтҗанова / Мөдәрис Газетдинов - Миләш (дүртенче вариант) / Алсира Мухамметжанова / Мударис Газетдинов - Рябина (четвёртый вариант)](../translated/a/alsira_mohammatcanova_modaris_gazetdinov_-_milash_durtenche_variant.md)
 - [Алсу - Ак каен / Алсу - Белая береза](../translated/a/alsu-ak_kaen.md)
@@ -92,19 +105,6 @@
 - [Альбина Шәймарданова / Салават Низаметдинов - Яратам (алтынчы вариант) / Альбина Шаймарданова / Салават Низаметдинов - Люблю (шестой вариант)](../translated/a/albina_shaymardanova_salavat_nizametdinov_-_yaratam_altinchi_variant.md)
 - [Альфина Азгамова - Кайтаваз / Альфина Азгамова - Эхо](../translated/a/alfina_azgamova-kaytavaz.md)
 - [Альфина Азгамова - Мин синен йолдызын / Альфина Азгамова - Я твоя звезда](../translated/a/alfina_azgamova-min_sinen_yoldyzyn.md)
-- [Альфина Азгамова - Мина кирэк жылы сузен / Альфина Азгамова - Мне нужно теплое слово твое](../translated/a/alfina_azgamova-mina_kirek_zhyly_suzen.md)
-- [Альфина Азгамова - Мэхэббэт булмаса доньяда / Альфина Азгамова - Если не будет любви в мире](../translated/a/alfina_azgamova-mehebbet_bulmasa_donyada.md)
-- [Альфина Азгамова - Озаклама / Альфина Азгамова - Не затягивай](../translated/a/alfina_azgamova-ozaklama.md)
-- [Альфина Азгамова - Онытмаган / Альфина Азгамова - Не забыл](../translated/a/alfina_azgamova-onytmagan.md)
-- [Альфина Азгамова - Очрашырбызмы? / Альфина Азгамова - Встретимся ли?](../translated/a/alfina_azgamova-ochrashyrbyzmy.md)
-- [Альфина Азгамова - Син, син / Альфина Азгамова - Ты, ты](../translated/a/alfina_azgamova-sin_sin.md)
-- [Альфина Азгамова - Сина багышладым / Альфина Азгамова - Тебе посвятила](../translated/a/alfina_azgamova-sina_bagyshladym.md)
-- [Альфина Азгамова - Сине кургэн коннэн генэ / Альфина Азгамова - Только с того дня, как тебя увидела](../translated/a/alfina_azgamova-sine_kurgen_konnen_gene.md)
-- [Альфина Азгамова - Сунмэс йолдыз булыйк / Альфина Азгамова - Неугасимой звездой будем](../translated/a/alfina_azgamova-sunmes_yoldyz_bulyyk.md)
-- [Альфина Азгамова - Тонге урам / Альфина Азгамова - Ночная улица](../translated/a/alfina_azgamova-tonge_uram.md)
-- [Альфина Азгамова - Умырзая / Альфина Азгамова - Незабудка](../translated/a/alfina_azgamova-umyrzaya.md)
-- [Альфина Азгамова - Язмыш / Альфина Азгамова - Судьба](../translated/a/alfina_azgamova-yazmysh.md)
-- [Альфира Бикмәтова / Фәнир Галимов - Каз өмәсе (беренче вариант) / Альфира Бикматова / Фанир Галимов - Гусиная помочь (первый вариант)](../translated/a/alfira_bikmatova_fanir_galimov_-_kaz_omase_berenche_variant.md)
 
 ---
 

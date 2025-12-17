@@ -1,10 +1,23 @@
 # Татарские песни и их перевод - Страница 2
 
-## Список песен (песни 101-200 из 3280)
+## Список песен (песни 101-200 из 3461)
 
 [← Предыдущая страница](songs_list/SONGS_1.md) | [Главная страница](../README.md) | [Следующая страница →](songs_list/SONGS_3.md)
 
 
+- [Абдулхак Игебаев / Юлай Моратов - Агыла болыт / Абдулхак Игебаев / Юлай Моратов - Плывут облака](../translated/a/abdulhak_igebaev_yulay_moratov_-_agila_bolit.md)
+- [Абрар Габдрахманов - Төнге серенада / Абрар Габдрахманов - Ночная серенада](../translated/a/abrar_gabdrahmanov_-_tonge_serenada.md)
+- [Абрар Габдрахманов - Әйтче, иркәм! / Абрар Габдрахманов - Скажи, милая!](../translated/a/abrar_gabdrahmanov_-_aytche_irkam.md)
+- [Абрар Габдрахманов - Әнкәемнең туган көне / Абрар Габдрахманов - День рождения мамы](../translated/a/abrar_gabdrahmanov_-_ankaemnen_tugan_kone.md)
+- [Абри Хабриев - Мин сагынмыйм / Абри Хабриев - Я не тоскую](../translated/a/abri_habriev-min_sagynmyym.md)
+- [Абри Хабриев - Ул бер ялгыз / Абри Хабриев - Он один](../translated/a/abri_habriev-ul_ber_yalgyz.md)
+- [Азалия - Ай тотылган кичтэ / Азалия - В ночь лунного затмения](../translated/a/azaliya-ay_totylgan_kichte.md)
+- [Азалия - Ак яулыклы эбием / Азалия - Моя бабушка в белом платке](../translated/a/azaliya-ak_yaulykly_ebiem.md)
+- [Азалия - Алсу голлэр / Азалия - Розовые цветы](../translated/a/azaliya-alsu_goller.md)
+- [Азалия - Кошлар / Азалия - Птицы](../translated/a/azaliya-koshlar.md)
+- [Азалия - Кузлэремэ ышан / Азалия - Поверь моим глазам](../translated/a/azaliya-kuzlereme_yshan.md)
+- [Азалия - Кушылыйк куш каеннардай / Азалия - Соединимся как две березы](../translated/a/azaliya-kushylyyk_kush_kaennarday.md)
+- [Азалия - Парлы гомерлэр / Азалия - Светлые года](../translated/a/azaliya-parly_gomerler.md)
 - [Азалия - Роза / Азалия - Роза](../translated/a/azaliya-roza.md)
 - [Азалия - Сэбэп тап / Азалия - Найди причину](../translated/a/azaliya-sebep_tap.md)
 - [Азалия - Тыелган жимеш / Азалия - Запретный плод](../translated/a/azaliya-tyelgan_zhimesh.md)
@@ -92,19 +105,6 @@
 - [Айгөл Вәлиуллина / Хәмид Мәткәримов - Әткәйле балачагым / Айгуль Валиуллина / Хамид Маткаримов - Детство с отцом](../translated/a/aygol_valiullina_hamid_matkarimov_-_atkayle_balachagim.md)
 - [Айгөл Гимадиева / Эльвира Хаматнурова - Бер елмай / Айгуль Гимадиева / Эльвира Хаматнурова - Одна улыбка](../translated/a/aygol_gimadieva_elvira_hamatnurova_-_ber_elmay.md)
 - [Айгөл Гимадиева / Эльвира Хаматнурова - Йән дуҫтарым сулпылар / Айгуль Гимадиева / Эльвира Хаматнурова - Мои верные друзья Плеяды](../translated/a/aygol_gimadieva_elvira_hamatnurova_-_yan_duҫtarim_sulpilar.md)
-- [Айгөл Гимадиева / Эльвира Хаматнурова - Кыш бабай (икенче вариант) / Айгуль Гимадиева / Эльвира Хаматнурова - Дед Мороз (второй вариант)](../translated/a/aygol_gimadieva_elvira_hamatnurova_-_kish_babay_ikenche_variant.md)
-- [Айгөл Мөсәлләмова / Илназ Мөсәлләмов - Әнкәй күңеле / Айгуль Мусаллямова / Ильназ Мусаллямов - Сердце матери](../translated/a/aygol_mosallamova_ilnaz_mosallamov_-_ankay_kunele.md)
-- [Айгөл Сираҗетдинова / Салават Низаметдинов - Башкортстаным (өченче вариант) / Айгуль Сираджетдинова / Салават Низаметдинов - Мой Башкортостан (третий вариант)](../translated/a/aygol_siracetdinova_salavat_nizametdinov_-_bashkortstanim_ochenche_variant.md)
-- [Айгөл Шәйхетдинова / Ришат Шәйхетдинов - Әйе шул / Айгуль Шайхетдинова / Ришат Шайхетдинов - Да, это так](../translated/a/aygol_shayhetdinova_rishat_shayhetdinov_-_aye_shul.md)
-- [Айгөл Шәфигуллина / Гөлназ Зарипова - Рәхмәт сиңа, җаным / Айгуль Шафигуллина / Гульназ Зарипова - Спасибо тебе, любимый](../translated/a/aygol_shafigullina_golnaz_zaripova_-_rahmat_sina_canim.md)
-- [Айгөл Үтәшева / Артур Туктаголов - Сабантуй (өченче вариант) / Айгуль Утяшева / Артур Туктаголов - Сабантуй (третий вариант)](../translated/a/aygol_utasheva_artur_tuktagolov_-_sabantuy_ochenche_variant.md)
-- [Айгөл Әхмәтгалиева / Вил Усманов - Ак чәчәкләр (дүртенче вариант) / Айгуль Ахметгалиева / Вил Усманов - Белые цветы (четвёртый вариант)](../translated/a/aygol_ahmatgalieva_vil_usmanov_-_ak_chachaklar_durtenche_variant.md)
-- [Айгөл Әхмәтгалиева / Зөлфәт Вәлиуллин - Кайтып барам / Айгуль Ахметгалиева / Зульфат Валиуллин - Возвращаюсь](../translated/a/aygol_ahmatgalieva_zolfat_valiullin_-_kaytip_baram.md)
-- [Айгөл Әхмәтгалиева / Зөлфәт Вәлиуллин - Җылы эзли җаннар / Айгуль Ахметгалиева / Зульфат Валиуллин - Души ищут тепла](../translated/a/aygol_ahmatgalieva_zolfat_valiullin_-_cili_ezli_cannar.md)
-- [Айгөл Әхмәтгалиева / Мурат Гайсин - Бәхет агачы / Айгуль Ахметгалиева / Мурат Гайсин - Древо счастья](../translated/a/aygol_ahmatgalieva_murat_gaysin_-_bahet_agachi.md)
-- [Айдар Галимов - Абага (Абага чэчэге) / Айдар Галимов - Яблоня (Цветок яблони)](../translated/a/aydar_galimov-abaga_abaga_chechege.md)
-- [Айдар Галимов - Абау, уф Аллам (live) / Айдар Галимов - Ах, о Аллах (live)](../translated/a/aydar_galimov-abau_uf_allam_live.md)
-- [Айдар Галимов - Абыйларым / Айдар Галимов - Старшие братья](../translated/a/aydar_galimov-abyylarym.md)
 
 ---
 

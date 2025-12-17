@@ -1,6 +1,6 @@
 # Татарские песни и их перевод - Страница 1
 
-## Список песен (песни 1-100 из 3280)
+## Список песен (песни 1-100 из 3461)
 
 [Главная страница](../README.md) | [Следующая страница →](songs_list/SONGS_2.md)
 
@@ -23,6 +23,8 @@
 - [DJ Radik - Узен сон нишлэр иден / DJ Radik - Что бы она делала на моём месте](../translated/d/dj_radik-uzen_son_nishler_iden.md)
 - [DJ Radik - Чишмэ жыры / DJ Radik - Песня родника](../translated/d/dj_radik-chishme_zhyry.md)
 - [DJ Radik - Чын экият / DJ Radik - Настоящая сказка](../translated/d/dj_radik-chyn_ekiyat.md)
+- [feliks_mortazin_ - _bishektashlar / Феликс Мортазин - Бишектәшләр](../translated/f/feliks_mortazin_-_bishektashlar.md)
+- [hasan_tufan_mars_makarov_ - Хәсән Туфан / Марс Макаров - Киек казлар (беренче вариант) / Хәсән Туфан / Марс Макаров - Дикие гуси (первый вариант)](../translated/h/hasan_tufan_mars_makarov_-_kiek_kazlar_berenche_variant.md)
 - [Hat - Жэйге янгыр / Hat - Летний дождь](../translated/h/hat-zheyge_yangyr.md)
 - [Homay - Минем йорэк минем кызымда / Homay - Моё сердце в моей дочке](../translated/h/homay-minem_yorek_minem_kyzymda.md)
 - [Homay - Ялгыз итмэ / Homay - Не оставляй одну](../translated/h/homay-yalgyz_itme.md)
@@ -37,6 +39,17 @@
 - [Libertas - Хат / Libertas - Письмо](../translated/l/libertas-hat.md)
 - [Puma - Жыр доньясы / Puma - Мир песни](../translated/p/puma-zhyr_donyasy.md)
 - [Puma - Жэйгэ, кунакка (Безнен жэй) / Puma - К лету, в гости (Наше лето)](../translated/p/puma-zheyge_kunakka_beznen_zhey.md)
+- [robert_minnullin_oskar_usmanov_ - Роберт Миңнуллин / Оскар Усманов - Дуслар булып калыйк, әйдәгез! / Роберт Миңнуллин / Оскар Усманов - Давайте останемся друзьями!](../translated/r/robert_minnullin_oskar_usmanov_-_duslar_bulip_kaliyk_aydagez.md)
+- [saniya_idrisova_ - Сания Идрисова - Гомер (өченче вариант) / Сания Идрисова - Жизнь (третий вариант)](../translated/s/saniya_idrisova_-_gomer_ochenche_variant.md)
+- [tatar_ - Татар - Башкорт халык җыры - Авыл көе (унынчы вариант) / tatar_ - Башкирская народная песня - Деревенская мелодия (десятый вариант)](../translated/t/tatar_-_bashkort_halik_ciri_-_avil_koe_uninchi_variant.md)
+- [tatar_halik_ciri_ - Татар халык җыры - Авыл көе (Карачтау җыры) (беренче вариант) / Татар халык җыры - Авыл көе (Карачтау җыры) (беренче вариант)](../translated/t/tatar_halik_ciri_-_avil_koe_karachtau_ciri_berenche_variant.md)
+- [tatar_halik_ciri_ - Татар халык җыры - Гармун, гармун / Татар халык җыры - Гармонь, гармонь](../translated/t/tatar_halik_ciri_-_garmun_garmun.md)
+- [tatar_halik_ciri_ - Татар халык җыры - Зәйнәбем / Татарская народная песня - Зейнабым](../translated/t/tatar_halik_ciri_-_zaynabem.md)
+- [tatar_halik_ciri_ - Татар халык җыры - Көзге ачы җилләрдә (икенче вариант) / татар халик цири - Татарская народная песня - В осенних колючих ветрах (второй вариант)](../translated/t/tatar_halik_ciri_-_kozge_achi_cillarda_ikenche_variant.md)
+- [tatar_halik_ciri_ - Татар халык җыры - Озату (икенче вариант) / Татар халык җыры - Озату (второй вариант)](../translated/t/tatar_halik_ciri_-_ozatu_ikenche_variant.md)
+- [tatar_halik_ciri_ - Татар халык җыры - Урам көе (икенче вариант) / tatar_halik_ciri_ - Татарская народная песня - Уличный напев (второй вариант)](../translated/t/tatar_halik_ciri_-_uram_koe_ikenche_variant.md)
+- [tatar_halik_ciri_ - Татар халык җыры - Шөгер / татар халык җыры_ - Татарская народная песня - Шөгер](../translated/t/tatar_halik_ciri_-_shoger.md)
+- [vener_fattah_golnaz_zakirova_ - _isendame_sinnan_bashka / Венер Фаттах / Гульназ Закирова - Помнишь ли (Без тебя)](../translated/v/vener_fattah_golnaz_zakirova_-_isendame_sinnan_bashka.md)
 - [Zaman Egetlere - Ак чэчэклэр / Заман Егетлере - Белые цветы](../translated/z/zaman_egetlere-ak_chechekler.md)
 - [Zaman Egetlere - Алматанын алмасы / Заман Егетлере - Алматинские яблоки](../translated/z/zaman_egetlere-almatanyn_almasy.md)
 - [А.Салимгәрәев - Җырла әле, әнкәй / А.Салимгараев - Спой же, мамочка](../translated/a/asalimgaraev_-_cirla_ale_ankay.md)
@@ -92,19 +105,6 @@
 - [Абдулхак Игебаев / Фәрит Якшыголов - Онытмадым сине, авылым / Абдулхак Игебаев / Фарит Якшиголов - Не забыл тебя, моя деревня](../translated/a/abdulhak_igebaev_farit_yakshigolov_-_onitmadim_sine_avilim.md)
 - [Абдулхак Игебаев / Хөсәен Әхмәтов - Әллә бөтенләй оныттың / Абдулхак Игебаев / Хусаин Ахматов - Или ты совсем забыла](../translated/a/abdulhak_igebaev_hosaen_ahmatov_-_alla_botenlay_onittin.md)
 - [Абдулхак Игебаев / Шамил Колбарисов - Яшермәче, иркәм (икенче вариант) / Абдулхак Игебаев / Шамиль Колбарисов - Не скрывай, милая (второй вариант)](../translated/a/abdulhak_igebaev_shamil_kolbarisov_-_yashermache_irkam_ikenche_variant.md)
-- [Абдулхак Игебаев / Юлай Моратов - Агыла болыт / Абдулхак Игебаев / Юлай Моратов - Плывут облака](../translated/a/abdulhak_igebaev_yulay_moratov_-_agila_bolit.md)
-- [Абрар Габдрахманов - Төнге серенада / Абрар Габдрахманов - Ночная серенада](../translated/a/abrar_gabdrahmanov_-_tonge_serenada.md)
-- [Абрар Габдрахманов - Әйтче, иркәм! / Абрар Габдрахманов - Скажи, милая!](../translated/a/abrar_gabdrahmanov_-_aytche_irkam.md)
-- [Абрар Габдрахманов - Әнкәемнең туган көне / Абрар Габдрахманов - День рождения мамы](../translated/a/abrar_gabdrahmanov_-_ankaemnen_tugan_kone.md)
-- [Абри Хабриев - Мин сагынмыйм / Абри Хабриев - Я не тоскую](../translated/a/abri_habriev-min_sagynmyym.md)
-- [Абри Хабриев - Ул бер ялгыз / Абри Хабриев - Он один](../translated/a/abri_habriev-ul_ber_yalgyz.md)
-- [Азалия - Ай тотылган кичтэ / Азалия - В ночь лунного затмения](../translated/a/azaliya-ay_totylgan_kichte.md)
-- [Азалия - Ак яулыклы эбием / Азалия - Моя бабушка в белом платке](../translated/a/azaliya-ak_yaulykly_ebiem.md)
-- [Азалия - Алсу голлэр / Азалия - Розовые цветы](../translated/a/azaliya-alsu_goller.md)
-- [Азалия - Кошлар / Азалия - Птицы](../translated/a/azaliya-koshlar.md)
-- [Азалия - Кузлэремэ ышан / Азалия - Поверь моим глазам](../translated/a/azaliya-kuzlereme_yshan.md)
-- [Азалия - Кушылыйк куш каеннардай / Азалия - Соединимся как две березы](../translated/a/azaliya-kushylyyk_kush_kaennarday.md)
-- [Азалия - Парлы гомерлэр / Азалия - Светлые года](../translated/a/azaliya-parly_gomerler.md)
 
 ---
 

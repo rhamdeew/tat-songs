@@ -1,10 +1,23 @@
 # Татарские песни и их перевод - Страница 7
 
-## Список песен (песни 601-700 из 3280)
+## Список песен (песни 601-700 из 3461)
 
 [← Предыдущая страница](songs_list/SONGS_6.md) | [Главная страница](../README.md) | [Следующая страница →](songs_list/SONGS_8.md)
 
 
+- [Альфина Азгамова - Мина кирэк жылы сузен / Альфина Азгамова - Мне нужно теплое слово твое](../translated/a/alfina_azgamova-mina_kirek_zhyly_suzen.md)
+- [Альфина Азгамова - Мэхэббэт булмаса доньяда / Альфина Азгамова - Если не будет любви в мире](../translated/a/alfina_azgamova-mehebbet_bulmasa_donyada.md)
+- [Альфина Азгамова - Озаклама / Альфина Азгамова - Не затягивай](../translated/a/alfina_azgamova-ozaklama.md)
+- [Альфина Азгамова - Онытмаган / Альфина Азгамова - Не забыл](../translated/a/alfina_azgamova-onytmagan.md)
+- [Альфина Азгамова - Очрашырбызмы? / Альфина Азгамова - Встретимся ли?](../translated/a/alfina_azgamova-ochrashyrbyzmy.md)
+- [Альфина Азгамова - Син, син / Альфина Азгамова - Ты, ты](../translated/a/alfina_azgamova-sin_sin.md)
+- [Альфина Азгамова - Сина багышладым / Альфина Азгамова - Тебе посвятила](../translated/a/alfina_azgamova-sina_bagyshladym.md)
+- [Альфина Азгамова - Сине кургэн коннэн генэ / Альфина Азгамова - Только с того дня, как тебя увидела](../translated/a/alfina_azgamova-sine_kurgen_konnen_gene.md)
+- [Альфина Азгамова - Сунмэс йолдыз булыйк / Альфина Азгамова - Неугасимой звездой будем](../translated/a/alfina_azgamova-sunmes_yoldyz_bulyyk.md)
+- [Альфина Азгамова - Тонге урам / Альфина Азгамова - Ночная улица](../translated/a/alfina_azgamova-tonge_uram.md)
+- [Альфина Азгамова - Умырзая / Альфина Азгамова - Незабудка](../translated/a/alfina_azgamova-umyrzaya.md)
+- [Альфина Азгамова - Язмыш / Альфина Азгамова - Судьба](../translated/a/alfina_azgamova-yazmysh.md)
+- [Альфира Бикмәтова / Фәнир Галимов - Каз өмәсе (беренче вариант) / Альфира Бикматова / Фанир Галимов - Гусиная помочь (первый вариант)](../translated/a/alfira_bikmatova_fanir_galimov_-_kaz_omase_berenche_variant.md)
 - [Альфис Киямов - Гафу ит / Альфис Киямов - Прости](../translated/a/alfis_kiyamov-gafu_it.md)
 - [Альфис Киямов - Кайда син, гармун / Альфис Киямов - Где ты, гармонь](../translated/a/alfis_kiyamov-kayda_sin_garmun.md)
 - [Альфис Киямов - Кил син / Альфис Киямов - Приходи ты](../translated/a/alfis_kiyamov-kil_sin.md)
@@ -92,19 +105,6 @@
 - [Асылъяр - Син / Асылъяр - Ты](../translated/a/asylyar-sin.md)
 - [Асылъяр - Синен очен / Асылъяр - Ради тебя](../translated/a/asylyar-sinen_ochen.md)
 - [Асылъяр - Сою хакына / Асылъяр - Ради любви](../translated/a/asylyar-soyu_hakyna.md)
-- [Асылъяр - Талы-талы / Асылъяр - Ива-ива](../translated/a/asylyar-taly-taly.md)
-- [Асылъяр - Энкэйгэ кайту / Асылъяр - Возвращение к матери](../translated/a/asylyar-enkeyge_kaytu.md)
-- [Асылъяр - Ялгыз конбагыш / Асылъяр - Одинокий подсолнух](../translated/a/asylyar-yalgyz_konbagysh.md)
-- [Асыляр - Жэйге жырым / Асыляр - Летняя песня](../translated/a/asylyar-zheyge_zhyrym.md)
-- [Асыляр - Яратып китеп барам / Асыляр - Уходя с любовью](../translated/a/asylyar-yaratyp_kitep_baram.md)
-- [Ахмат Фәйзи / Татар халык көе - Аккош / Ахмат Файзи / Татарская народная мелодия - Лебедь](../translated/a/ahmat_fayzi_tatar_halik_koe_-_akkosh.md)
-- [Аяз Гыйләҗев / Мәсгуть Имашев - Ник йөрәккә саласың яра? / Аяз Гилязев / Масгут Имашев - Зачем наносишь ты сердцу рану?](../translated/a/ayaz_giylacev_masgut_imashev_-_nik_yorakka_salasin_yara.md)
-- [Б. Гәрәев / Рим Хәсәнов - Туган өй тәрәзәсе / Б. Гараев / Рим Хасанов - Окно родного дома](../translated/b/b_garaev_rim_hasanov_-_tugan_oy_tarazase.md)
-- [Бану Сәгадуллина / Лилия Вахитова - Сагынам (җиденче вариант) / Бану Сагадуллина / Лилия Вахитова - Скучаю (седьмой вариант)](../translated/b/banu_sagadullina_liliya_vahitova_-_saginam_cidenche_variant.md)
-- [Бари Рәхмәт / Фәрит Хатыйпов - Алтын безнең җир / Бари Рәхмәт / Фарит Хатыпов - Золотая наша земля](../translated/b/bari_rahmat_farit_hatiypov_-_altin_beznen_cir.md)
-- [Барый Ногманов / Абрар Габдрахманов - Кара күзләр (икенче вариант) / Барый Ногманов / Абрар Габдрахманов - Чёрные глаза (альтернативная версия)](../translated/b/bariy_nogmanov_abrar_gabdrahmanov_-_kara_kuzlar_ikenche_variant.md)
-- [Барый Хисмәтуллин / Ризван Хәкимов - Алдама / Барый Хисматуллин / Ризван Хакимов - Не обманывай](../translated/b/bariy_hismatullin_rizvan_hakimov_-_aldama.md)
-- [Басыйр Рафыйков / Илдар Сәлимов - Күземнең зәңгәрлеге / Басыр Рафиков / Ильдар Салимов - Глубина моих глаз](../translated/b/basiyr_rafiykov_ildar_salimov_-_kuzemnen_zangarlege.md)
 
 ---
 

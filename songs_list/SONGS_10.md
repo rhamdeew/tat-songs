@@ -1,10 +1,23 @@
 # Татарские песни и их перевод - Страница 10
 
-## Список песен (песни 901-1000 из 3280)
+## Список песен (песни 901-1000 из 3461)
 
 [← Предыдущая страница](songs_list/SONGS_9.md) | [Главная страница](../README.md) | [Следующая страница →](songs_list/SONGS_11.md)
 
 
+- [Билгесез - Ой, үләм, үләм / Неизвестный - Ой, улям, улям](../translated/b/bilgesez_-_oy_ulam_ulam.md)
+- [Билгесез - Онытма мине / Билгесез - Не забывай меня](../translated/b/bilgesez_-_onitma_mine.md)
+- [Билгесез - Очрашу эзләмә / Бильгесез - Не искәтеп очрашу](../translated/b/bilgesez_-_ochrashu_ezlama.md)
+- [Билгесез - Очрашулар кирәк / Бильгесез - Нужны встречи](../translated/b/bilgesez_-_ochrashular_kirak.md)
+- [Билгесез - Пар канатым / Бильгесез - Пара крылья мои](../translated/b/bilgesez_-_par_kanatim.md)
+- [Билгесез - Полюбил күңел сине / Билгесез - Полюбил күңел сине](../translated/b/bilgesez_-_polyubil_kunel_sine.md)
+- [Билгесез - Роза (беренче вариант) / Билгесез - Роза (первый вариант)](../translated/b/bilgesez_-_roza_berenche_variant.md)
+- [Билгесез - Роза чәчкәләре / Билгесез - Розы чәчекләре](../translated/b/bilgesez_-_roza_chachkalare.md)
+- [Билгесез - Рубин (футбол гимны) / Билгесез - Рубин (футбольный гимн)](../translated/b/bilgesez_-_rubin_futbol_gimni.md)
+- [Билгесез - Сагынуга дава юк / Билгесез - Сагынуга дава юк](../translated/b/bilgesez_-_saginuga_dava_yuk.md)
+- [Билгесез - Салкын / Билгесез - Холодно](../translated/b/bilgesez_-_salkin.md)
+- [Билгесез - Саллар (беренче вариант) / Бильгесез - Саллар (беренче вариант)](../translated/b/bilgesez_-_sallar_berenche_variant.md)
+- [Билгесез - Саллар (икенче вариант) / Билгесез - Саллар (икенче вариант)](../translated/b/bilgesez_-_sallar_ikenche_variant.md)
 - [Билгесез - Саллар ага / Бильгесез - Плывут лодки](../translated/b/bilgesez_-_sallar_aga.md)
 - [Билгесез - Син бит минем очар канатым / Неизвестный исполнитель - Ты ведь мои крылья](../translated/b/bilgesez_-_sin_bit_minem_ochar_kanatim.md)
 - [Билгесез - Син бит минем парым / Неизвестный исполнитель - Ты ведь моя пара](../translated/b/bilgesez_-_sin_bit_minem_parim.md)
@@ -92,19 +105,6 @@
 - [Билгесез / Зөфәр Хәйретдинов - Торналар (өченче вариант) / Неизвестен / Зуфар Хайретдинов - Журавли (третий вариант)](../translated/b/bilgesez_zofar_hayretdinov_-_tornalar_ochenche_variant.md)
 - [Билгесез / Зөфәр Хәйретдинов - Әнкәй, җаным мең яшә! / Неизвестен / Зуфар Хайретдинов - Мама, душа моя, живи тысячу лет!](../translated/b/bilgesez_zofar_hayretdinov_-_ankay_canim_men_yasha.md)
 - [Билгесез / Илгиз Закиров - Асылъяр (өченче вариант) / Неизвестен / Ильгиз Закиров - Асылъяр (третий вариант)](../translated/b/bilgesez_ilgiz_zakirov_-_asilyar_ochenche_variant.md)
-- [Билгесез / Илдар Ногманов - Җаным (икенче вариант) / Неизвестен / Ильдар Ногманов - Душа моя (второй вариант)](../translated/b/bilgesez_ildar_nogmanov_-_canim_ikenche_variant.md)
-- [Билгесез / Илдар Хәмидуллин - Соңгы кыңгырау (дүртенче вариант) / Неизвестен / Ильдар Хамидуллин - Последний звонок (четвёртый вариант)](../translated/b/bilgesez_ildar_hamidullin_-_songi_kingirau_durtenche_variant.md)
-- [Билгесез / Илнур Якупов - Сарманда җәй / Неизвестен / Ильнур Якупов - Лето в Сармане](../translated/b/bilgesez_ilnur_yakupov_-_sarmanda_cay.md)
-- [Билгесез / Илнур Якупов - Челтәрдәге мәхаббәт / Неизвестен / Ильнур Якупов - Любовь в сети](../translated/b/bilgesez_ilnur_yakupov_-_cheltardage_mahabbat.md)
-- [Билгесез / Илнур Якупов - Шәһәрдә җәй / Неизвестен / Ильнур Якупов - Лето в городе](../translated/b/bilgesez_ilnur_yakupov_-_shaharda_cay.md)
-- [Билгесез / Илшат Хәлитов - Икәүләшеп бергәләшеп / Неизвестен / Ильшат Халитов - Вдвоём, вместе](../translated/b/bilgesez_ilshat_halitov_-_ikaulashep_bergalashep.md)
-- [Билгесез / Илшат Хәмәдиев - Үпкәләтәсең / Неизвестен / Илшат Хамадиев - Ты обижаешь](../translated/b/bilgesez_ilshat_hamadiev_-_upkalatasen.md)
-- [Билгесез / Ирек Галимов - Минем илемә / Неизвестен / Ирек Галимов - Моей земле](../translated/b/bilgesez_irek_galimov_-_minem_ilema.md)
-- [Билгесез / Иршат Закиров - Ак булсын көннәрегез / Неизвестен / Иршат Закиров - Светлыми будут ваши дни](../translated/b/bilgesez_irshat_zakirov_-_ak_bulsin_konnaregez.md)
-- [Билгесез / Марсель Иванов - Калмыя / Неизвестен / Марсель Иванов - Калмыя](../translated/b/bilgesez_marsel_ivanov_-_kalmiya.md)
-- [Билгесез / Мәсгудә Шәмсетдинова - Дөньядыр бу / Неизвестен / Масгуда Шамсетдинова - Таков этот мир](../translated/b/bilgesez_masguda_shamsetdinova_-_donyadir_bu.md)
-- [Билгесез / Мөфтәдин Гыйләҗев - Гомерләр - яфрак кына... / Неизвестен / Муфтадин Гиляжев - Жизни - лишь листья...](../translated/b/bilgesez_moftadin_giylacev_-_gomerlar_yafrak_kina.md)
-- [Билгесез / Наил Табанаков - Яңарган яра / Неизвестен / Наиль Табанаков - Раны вновь открылись](../translated/b/bilgesez_nail_tabanakov_-_yanargan_yara.md)
 
 ---
 

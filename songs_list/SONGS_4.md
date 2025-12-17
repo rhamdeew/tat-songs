@@ -1,10 +1,23 @@
 # Татарские песни и их перевод - Страница 4
 
-## Список песен (песни 301-400 из 3280)
+## Список песен (песни 301-400 из 3461)
 
 [← Предыдущая страница](songs_list/SONGS_3.md) | [Главная страница](../README.md) | [Следующая страница →](songs_list/SONGS_5.md)
 
 
+- [Айдар Галимов - Яшь гомер / Айдар Галимов - Молодость](../translated/a/aydar_galimov-yash_gomer.md)
+- [Айдар Галимов - Яшьлек дусларым / Айдар Галимов - Друзья юности](../translated/a/aydar_galimov-yashlek_duslarym.md)
+- [Айдар Галимов - Яшьлек учагым / Айдар Галимов - Костёр юности](../translated/a/aydar_galimov-yashlek_uchagym.md)
+- [Айдар Галимов - Яшэр идем синен жанында / Айдар Галимов - Жил бы я рядом с тобой](../translated/a/aydar_galimov-yasher_idem_sinen_zhanynda.md)
+- [Айдар Галимов - Яшэргэ икэн, яшэргэ! / Айдар Галимов - Жить надо, жить!](../translated/a/aydar_galimov-yasherge_iken_yasherge.md)
+- [Айдар Галимов - Яшэсен безнен колхоз / Айдар Галимов - Пусть живёт наш колхоз](../translated/a/aydar_galimov-yashesen_beznen_kolhoz.md)
+- [Айдар Минһаҗев / Айдар Тимербаев - Авыл егетләре (беренче вариант) / Айдар Минхажев / Айдар Тимербаев - Деревенские парни (первый вариант)](../translated/a/aydar_minhacev_aydar_timerbaev_-_avil_egetlare_berenche_variant.md)
+- [Айдар Минһаҗев / Айдар Тимербаев - Ага гомер / Айдар Минхаджев / Айдар Тимербаев - Течёт жизнь](../translated/a/aydar_minhacev_aydar_timerbaev_-_aga_gomer.md)
+- [Айдар Минһаҗев / Айдар Тимербаев - Айдарым / Айдар Минхажев / Айдар Тимербаев - Мой Айдар](../translated/a/aydar_minhacev_aydar_timerbaev_-_aydarim.md)
+- [Айдар Минһаҗев / Айдар Тимербаев - Бар икән күрәселәр / Айдар Минхаджев / Айдар Тимербаев - Если б были силы](../translated/a/aydar_minhacev_aydar_timerbaev_-_bar_ikan_kuraselar.md)
+- [Айдар Минһаҗев / Айдар Тимербаев - Белсәң иде хәлләремне / Айдар Минхаджев / Айдар Тимербаев - Если б ты знала](../translated/a/aydar_minhacev_aydar_timerbaev_-_belsan_ide_hallaremne.md)
+- [Айдар Минһаҗев / Айдар Тимербаев - Бер атна / Айдар Минхаджев / Айдар Тимербаев - Одна неделя](../translated/a/aydar_minhacev_aydar_timerbaev_-_ber_atna.md)
+- [Айдар Минһаҗев / Айдар Тимербаев - Бер караштан (беренче вариант) / Айдар Минхаджев / Айдар Тимербаев - С одного взгляда (первый вариант)](../translated/a/aydar_minhacev_aydar_timerbaev_-_ber_karashtan_berenche_variant.md)
 - [Айдар Минһаҗев / Айдар Тимербаев - Бул үземә генә / Айдар Минхаджев / Айдар Тимербаев - Будь только моей](../translated/a/aydar_minhacev_aydar_timerbaev_-_bul_uzema_gena.md)
 - [Айдар Минһаҗев / Айдар Тимербаев - Булмас инде, булмас / Айдар Минхаджев / Айдар Тимербаев - Не будет уже, не будет](../translated/a/aydar_minhacev_aydar_timerbaev_-_bulmas_inde_bulmas.md)
 - [Айдар Минһаҗев / Айдар Тимербаев - Вәгъдә (дүртенче вариант) / Айдар Минхажев / Айдар Тимербаев - Обещание (четвёртый вариант)](../translated/a/aydar_minhacev_aydar_timerbaev_-_vagda_durtenche_variant.md)
@@ -92,19 +105,6 @@
 - [Айдар Әгъләмов - Яшьлегемә кайтам / Айдар Агламов - Возвращаюсь в молодость](../translated/a/aydar_aglamov_-_yashlegema_kaytam.md)
 - [Айзирә Хаҗиева / Лилия Хаснулова - Иң зур бәхетем / Айзира Хаджиева / Лилия Хаснулова - Моё главное счастье](../translated/a/ayzira_hacieva_liliya_hasnulova_-_in_zur_bahetem.md)
 - [Айкау - Рэйхан / Айкау - Рейхан](../translated/a/aykau-reyhan.md)
-- [Айнур BoooRe Шарапов - Дөбердәтәбез / Айнур BoooRe Шарапов - Потопаем](../translated/a/aynur_booore_sharapov_-_doberdatabez.md)
-- [Айнур BoooRe Шарапов - Каракай / Айнур BoooRe Шарапов - Каракай](../translated/a/aynur_booore_sharapov_-_karakay.md)
-- [Айнур BoooRe Шарапов - Күк төсле күзләр / Айнур BoooRe Шарапов - Глаза цвета неба](../translated/a/aynur_booore_sharapov_-_kuk_tosle_kuzlar.md)
-- [Айнур Сабиров / Айдар Тимербаев - Айлы кичләр (беренче вариант) / Айнур Сабиров / Айдар Тимербаев - Лунные вечера (первый вариант)](../translated/a/aynur_sabirov_aydar_timerbaev_-_ayli_kichlar_berenche_variant.md)
-- [Айнур Такиуллин - Искән җилләр / Айнур Такиуллин - Ветры прошлого](../translated/a/aynur_takiullin_-_iskan_cillar.md)
-- [Айнур Халиев / Фәрит Әүбакиров - Ялган мәхәббәтем / Айнур Халиев / Фарит Аубакиров - Ложная любовь моя](../translated/a/aynur_haliev_farit_aubakirov_-_yalgan_mahabbatem.md)
-- [Айрат Галиев / Марат Шәйбәков - Сөйгәннәргә ачу тотмагыз / Айрат Галиев / Марат Шайбаков - Не держите обиды на любимых](../translated/a/ayrat_galiev_marat_shaybakov_-_soygannarga_achu_totmagiz.md)
-- [Айрат Ильясов - Умырзая / Айрат Ильясов - Умырзая](../translated/a/ayrat_ilyasov-umyrzaya.md)
-- [Айрат Ильясов - Язмышларны берлэштерик / Айрат Ильясов - Соединим судьбы](../translated/a/ayrat_ilyasov-yazmyshlarny_berleshterik.md)
-- [Айрат Сафин - Сагындым авылымны (икенче вариант) / Айрат Сафин - Скучаю по родной деревне (второй вариант)](../translated/a/ayrat_safin_-_sagindim_avilimni_ikenche_variant.md)
-- [Айрат Суфиянов / Флүрә Талипова - Йөрәкләргә шакыйм / Айрат Суфиянов / Флюра Талипова - Стучусь в сердца](../translated/a/ayrat_sufiyanov_flura_talipova_-_yoraklarga_shakiym.md)
-- [Айрат Суфиянов / Флүрә Талипова - Мәхәббәт күпере (икенче вариант) / Айрат Суфиянов / Флюра Талипова - Мост любви (второй вариант)](../translated/a/ayrat_sufiyanov_flura_talipova_-_mahabbat_kupere_ikenche_variant.md)
-- [Айрат Суфиянов / Флүрә Талипова - Әнкәй (дүртенче вариант) / Айрат Суфиянов / Флюра Талипова - Мамочка (четвёртый вариант)](../translated/a/ayrat_sufiyanov_flura_talipova_-_ankay_durtenche_variant.md)
 
 ---
 

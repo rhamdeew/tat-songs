@@ -1,10 +1,23 @@
 # Татарские песни и их перевод - Страница 11
 
-## Список песен (песни 1001-1100 из 3280)
+## Список песен (песни 1001-1100 из 3461)
 
 [← Предыдущая страница](songs_list/SONGS_10.md) | [Главная страница](../README.md) | [Следующая страница →](songs_list/SONGS_12.md)
 
 
+- [Билгесез / Илдар Ногманов - Җаным (икенче вариант) / Неизвестен / Ильдар Ногманов - Душа моя (второй вариант)](../translated/b/bilgesez_ildar_nogmanov_-_canim_ikenche_variant.md)
+- [Билгесез / Илдар Хәмидуллин - Соңгы кыңгырау (дүртенче вариант) / Неизвестен / Ильдар Хамидуллин - Последний звонок (четвёртый вариант)](../translated/b/bilgesez_ildar_hamidullin_-_songi_kingirau_durtenche_variant.md)
+- [Билгесез / Илнур Якупов - Сарманда җәй / Неизвестен / Ильнур Якупов - Лето в Сармане](../translated/b/bilgesez_ilnur_yakupov_-_sarmanda_cay.md)
+- [Билгесез / Илнур Якупов - Челтәрдәге мәхаббәт / Неизвестен / Ильнур Якупов - Любовь в сети](../translated/b/bilgesez_ilnur_yakupov_-_cheltardage_mahabbat.md)
+- [Билгесез / Илнур Якупов - Шәһәрдә җәй / Неизвестен / Ильнур Якупов - Лето в городе](../translated/b/bilgesez_ilnur_yakupov_-_shaharda_cay.md)
+- [Билгесез / Илшат Хәлитов - Икәүләшеп бергәләшеп / Неизвестен / Ильшат Халитов - Вдвоём, вместе](../translated/b/bilgesez_ilshat_halitov_-_ikaulashep_bergalashep.md)
+- [Билгесез / Илшат Хәмәдиев - Үпкәләтәсең / Неизвестен / Илшат Хамадиев - Ты обижаешь](../translated/b/bilgesez_ilshat_hamadiev_-_upkalatasen.md)
+- [Билгесез / Ирек Галимов - Минем илемә / Неизвестен / Ирек Галимов - Моей земле](../translated/b/bilgesez_irek_galimov_-_minem_ilema.md)
+- [Билгесез / Иршат Закиров - Ак булсын көннәрегез / Неизвестен / Иршат Закиров - Светлыми будут ваши дни](../translated/b/bilgesez_irshat_zakirov_-_ak_bulsin_konnaregez.md)
+- [Билгесез / Марсель Иванов - Калмыя / Неизвестен / Марсель Иванов - Калмыя](../translated/b/bilgesez_marsel_ivanov_-_kalmiya.md)
+- [Билгесез / Мәсгудә Шәмсетдинова - Дөньядыр бу / Неизвестен / Масгуда Шамсетдинова - Таков этот мир](../translated/b/bilgesez_masguda_shamsetdinova_-_donyadir_bu.md)
+- [Билгесез / Мөфтәдин Гыйләҗев - Гомерләр - яфрак кына... / Неизвестен / Муфтадин Гиляжев - Жизни - лишь листья...](../translated/b/bilgesez_moftadin_giylacev_-_gomerlar_yafrak_kina.md)
+- [Билгесез / Наил Табанаков - Яңарган яра / Неизвестен / Наиль Табанаков - Раны вновь открылись](../translated/b/bilgesez_nail_tabanakov_-_yanargan_yara.md)
 - [Билгесез / Нияз Җәләлов - Кузгалак ачылары / Неизвестен / Нияз Джалялов - Горечь полыни](../translated/b/bilgesez_niyaz_calalov_-_kuzgalak_achilari.md)
 - [Билгесез / Нурия Абдуллина - Сөелергә килгән идем / Неизвестен / Нурия Абдуллина - Пришла я, чтоб любимой быть](../translated/b/bilgesez_nuriya_abdullina_-_soelerga_kilgan_idem.md)
 - [Билгесез / Нәгыймь Нуриманов - Язмыш (дүртенче вариант) / Неизвестен / Нагим Нуриманов - Судьба (четвертый вариант)](../translated/b/bilgesez_nagiym_nurimanov_-_yazmish_durtenche_variant.md)
@@ -92,19 +105,6 @@
 - [Булат Нигматуллин - Безгэ кирэк юлэр яшьлек / Булат Нигматуллин - Нам нужны дороги молодости](../translated/b/bulat_nigmatullin-bezge_kirek_yuler_yashlek.md)
 - [Булат Нигматуллин - Безнен гомер / Булат Нигматуллин - Наша жизнь](../translated/b/bulat_nigmatullin-beznen_gomer.md)
 - [Булат Нигматуллин - Вакыт житми / Булат Нигматуллин - Времени не хватает](../translated/b/bulat_nigmatullin-vakyt_zhitmi.md)
-- [Булат Нигматуллин - Душэмбикэм / Булат Нигматуллин - Дюшембике](../translated/b/bulat_nigmatullin-dushembikem.md)
-- [Булат Нигматуллин - Ир-ат бэхете / Булат Нигматуллин - Мужское счастье](../translated/b/bulat_nigmatullin-ir-at_behete.md)
-- [Булат Нигматуллин - Йорэк жыры / Булат Нигматуллин - Песня сердца](../translated/b/bulat_nigmatullin-yorek_zhyry.md)
-- [Булат Нигматуллин - Сана кэккук / Булат Нигматуллин - Считающая кукушка](../translated/b/bulat_nigmatullin-sana_kekkuk.md)
-- [Булат Нигматуллин - Сойгэн ярым / Булат Нигматуллин - Любимая моя](../translated/b/bulat_nigmatullin-soygen_yarym.md)
-- [Булат Нигматуллин - Соям / Булат Нигматуллин - Любимая](../translated/b/bulat_nigmatullin-soyam.md)
-- [Булат Нигматуллин - Югалту / Булат Нигматуллин - Утрата](../translated/b/bulat_nigmatullin-yugaltu.md)
-- [Булат Нигматуллин - Якын дустын барын онытма / Булат Нигматуллин - Не забывай близкого друга](../translated/b/bulat_nigmatullin-yakyn_dustyn_baryn_onytma.md)
-- [Булат Нигматуллин - Яныйк эле / Булат Нигматуллин - Давай гореть](../translated/b/bulat_nigmatullin-yanyyk_ele.md)
-- [Булат Нигъмәтуллин - Абый белән сеңел / Булат Нигматуллин - Брат и сестра](../translated/b/bulat_nigmatullin_-_abiy_belan_senel.md)
-- [Булат Сөләйманов / Рөстәм Сәрвәров - Син аңларсың минем йөрәгемне / Булат Сулейманов / Рустам Сарваров - Ты понимаешь мое сердце](../translated/b/bulat_solaymanov_rostam_sarvarov_-_sin_anlarsin_minem_yoragemne.md)
-- [Булат Сөләйманов / Хәсән Арангулов - Себер гимны / Булат Сулейманов / Хасан Арангулов - Гимн Сибири](../translated/b/bulat_solaymanov_hasan_arangulov_-_seber_gimni.md)
-- [Булат Шигалин - Яратканны юксыну җиңел / Булат Шигалин - Легче потерять любимую](../translated/b/bulat_shigalin_-_yaratkanni_yuksinu_cinel.md)
 
 ---
 

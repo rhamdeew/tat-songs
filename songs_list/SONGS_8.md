@@ -1,10 +1,23 @@
 # Татарские песни и их перевод - Страница 8
 
-## Список песен (песни 701-800 из 3280)
+## Список песен (песни 701-800 из 3461)
 
 [← Предыдущая страница](songs_list/SONGS_7.md) | [Главная страница](../README.md) | [Следующая страница →](songs_list/SONGS_9.md)
 
 
+- [Асылъяр - Талы-талы / Асылъяр - Ива-ива](../translated/a/asylyar-taly-taly.md)
+- [Асылъяр - Энкэйгэ кайту / Асылъяр - Возвращение к матери](../translated/a/asylyar-enkeyge_kaytu.md)
+- [Асылъяр - Ялгыз конбагыш / Асылъяр - Одинокий подсолнух](../translated/a/asylyar-yalgyz_konbagysh.md)
+- [Асыляр - Жэйге жырым / Асыляр - Летняя песня](../translated/a/asylyar-zheyge_zhyrym.md)
+- [Асыляр - Яратып китеп барам / Асыляр - Уходя с любовью](../translated/a/asylyar-yaratyp_kitep_baram.md)
+- [Ахмат Фәйзи / Татар халык көе - Аккош / Ахмат Файзи / Татарская народная мелодия - Лебедь](../translated/a/ahmat_fayzi_tatar_halik_koe_-_akkosh.md)
+- [Аяз Гыйләҗев / Мәсгуть Имашев - Ник йөрәккә саласың яра? / Аяз Гилязев / Масгут Имашев - Зачем наносишь ты сердцу рану?](../translated/a/ayaz_giylacev_masgut_imashev_-_nik_yorakka_salasin_yara.md)
+- [Б. Гәрәев / Рим Хәсәнов - Туган өй тәрәзәсе / Б. Гараев / Рим Хасанов - Окно родного дома](../translated/b/b_garaev_rim_hasanov_-_tugan_oy_tarazase.md)
+- [Бану Сәгадуллина / Лилия Вахитова - Сагынам (җиденче вариант) / Бану Сагадуллина / Лилия Вахитова - Скучаю (седьмой вариант)](../translated/b/banu_sagadullina_liliya_vahitova_-_saginam_cidenche_variant.md)
+- [Бари Рәхмәт / Фәрит Хатыйпов - Алтын безнең җир / Бари Рәхмәт / Фарит Хатыпов - Золотая наша земля](../translated/b/bari_rahmat_farit_hatiypov_-_altin_beznen_cir.md)
+- [Барый Ногманов / Абрар Габдрахманов - Кара күзләр (икенче вариант) / Барый Ногманов / Абрар Габдрахманов - Чёрные глаза (альтернативная версия)](../translated/b/bariy_nogmanov_abrar_gabdrahmanov_-_kara_kuzlar_ikenche_variant.md)
+- [Барый Хисмәтуллин / Ризван Хәкимов - Алдама / Барый Хисматуллин / Ризван Хакимов - Не обманывай](../translated/b/bariy_hismatullin_rizvan_hakimov_-_aldama.md)
+- [Басыйр Рафыйков / Илдар Сәлимов - Күземнең зәңгәрлеге / Басыр Рафиков / Ильдар Салимов - Глубина моих глаз](../translated/b/basiyr_rafiykov_ildar_salimov_-_kuzemnen_zangarlege.md)
 - [Басыйр Рафыйков / Рафаил Бакиров - Бер күрешик (беренче вариант) / Басыйр Рафыйков / Рафаил Бакиров - Один борец (первый вариант)](../translated/b/basiyr_rafiykov_rafail_bakirov_-_ber_kureshik_berenche_variant.md)
 - [Баширә Насырова - Аллы-голле голчэчэк / Баширә Насырова - Алый цветочек](../translated/b/bashira_nasyrova-ally-golle_golchechek.md)
 - [Баширә Насырова - Рамай / Баширә Насырова - Рамай](../translated/b/bashira_nasyrova-ramay.md)
@@ -92,19 +105,6 @@
 - [Башкорт халык җыры - Шәүрә / Башкирская народная песня - Шаура](../translated/b/bashkort_halik_ciri_-_shaura.md)
 - [Башкорт халык җыры - Элмәлек / Башкирская народная песня - Эльмәлек](../translated/b/bashkort_halik_ciri_-_elmalek.md)
 - [Башкорт халык җыры - Эскадрон / Башкортская народная песня - Эскадрон](../translated/b/bashkort_halik_ciri_-_eskadron.md)
-- [Башкорт халык җыры - Ялчыгол (беренче вариант) / Башкирская народная песня - Ялчыгол (первый вариант)](../translated/b/bashkort_halik_ciri_-_yalchigol_berenche_variant.md)
-- [Башкорт халык җыры - Ялчыгол (икенче вариант) / Башкирская народная песня - Ялчыгол (второй вариант)](../translated/b/bashkort_halik_ciri_-_yalchigol_ikenche_variant.md)
-- [Башкорт халык җыры - Ямьле Агыйдел буйлары (беренче вариант) / Башкирская народная песня - Берега Агидели (первый вариант)](../translated/b/bashkort_halik_ciri_-_yamle_agiydel_buylari_berenche_variant.md)
-- [Башкорт халык җыры - Ямьле Агыйдел буйлары (дүртенче вариант) / Башкирская народная песня - Берега Айдела (Четвертый вариант)](../translated/b/bashkort_halik_ciri_-_yamle_agiydel_buylari_durtenche_variant.md)
-- [Башкорт халык җыры - Ямьле Агыйдел буйлары (икенче вариант) / Башкирская народная песня - Берега Ямель-Агидель (второй вариант)](../translated/b/bashkort_halik_ciri_-_yamle_agiydel_buylari_ikenche_variant.md)
-- [Башкорт халык җыры - Ямьле Агыйдел буйлары (өченче вариант) / Башкирская народная песня - Берега Ямель-Агидель (третий вариант)](../translated/b/bashkort_halik_ciri_-_yamle_agiydel_buylari_ochenche_variant.md)
-- [Башкорт халык җыры - Җиде кыз / Башкирская народная песня - Семь девушек](../translated/b/bashkort_halik_ciri_-_cide_kiz.md)
-- [Башкорт халык җыры - Җирән кашка / Башкирская народная песня - Жиран кашка](../translated/b/bashkort_halik_ciri_-_ciran_kashka.md)
-- [Башкорт халык җыры - Әйһәйлүк (Балалар атасы) / Башкирская народная песня - Айхайлюк (Отец детей)](../translated/b/bashkort_halik_ciri_-_ayhayluk_balalar_atasi.md)
-- [Баязит Байназаров - Тик син кирәк / Баязит Байназаров - Только ты нужна](../translated/b/bayazit_baynazarov_-_tik_sin_kirak.md)
-- [Баязит Бикбай / Заһир Исмәгыйлев - Басыйр җыры / Баязит Бикбай / Заһир Исмәгыйлев - Песня весны](../translated/b/bayazit_bikbay_zahir_ismagiylev_-_basiyr_ciri.md)
-- [Баязит Бикбай / Тәлгать Шәрипов - Кош юлы / Баязит Бикбай / Талгат Шарипов - Птичий путь](../translated/b/bayazit_bikbay_talgat_sharipov_-_kosh_yuli.md)
-- [Баян Котлыев / А.Салимгәрәев - Дустым гармун уйната / Баян Котлиев / А.Салимгаряев - Мой друг играет на гармони](../translated/b/bayan_kotliev_asalimgaraev_-_dustim_garmun_uynata.md)
 
 ---
 

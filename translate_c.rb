@@ -179,7 +179,7 @@ Input JSON:
 
     begin
       # Execute Codex command
-      stdout, stderr, status = Open3.capture3('codex', stdin_data: codex_input)
+      stdout, stderr, status = Open3.capture3('codex', 'exec', '-', stdin_data: codex_input)
 
       if status.success?
         # Extract JSON from response

@@ -1,10 +1,23 @@
 # Татарские песни и их перевод - Страница 9
 
-## Список песен (песни 801-900 из 3280)
+## Список песен (песни 801-900 из 3461)
 
 [← Предыдущая страница](songs_list/SONGS_8.md) | [Главная страница](../README.md) | [Следующая страница →](songs_list/SONGS_10.md)
 
 
+- [Башкорт халык җыры - Ялчыгол (беренче вариант) / Башкирская народная песня - Ялчыгол (первый вариант)](../translated/b/bashkort_halik_ciri_-_yalchigol_berenche_variant.md)
+- [Башкорт халык җыры - Ялчыгол (икенче вариант) / Башкирская народная песня - Ялчыгол (второй вариант)](../translated/b/bashkort_halik_ciri_-_yalchigol_ikenche_variant.md)
+- [Башкорт халык җыры - Ямьле Агыйдел буйлары (беренче вариант) / Башкирская народная песня - Берега Агидели (первый вариант)](../translated/b/bashkort_halik_ciri_-_yamle_agiydel_buylari_berenche_variant.md)
+- [Башкорт халык җыры - Ямьле Агыйдел буйлары (дүртенче вариант) / Башкирская народная песня - Берега Айдела (Четвертый вариант)](../translated/b/bashkort_halik_ciri_-_yamle_agiydel_buylari_durtenche_variant.md)
+- [Башкорт халык җыры - Ямьле Агыйдел буйлары (икенче вариант) / Башкирская народная песня - Берега Ямель-Агидель (второй вариант)](../translated/b/bashkort_halik_ciri_-_yamle_agiydel_buylari_ikenche_variant.md)
+- [Башкорт халык җыры - Ямьле Агыйдел буйлары (өченче вариант) / Башкирская народная песня - Берега Ямель-Агидель (третий вариант)](../translated/b/bashkort_halik_ciri_-_yamle_agiydel_buylari_ochenche_variant.md)
+- [Башкорт халык җыры - Җиде кыз / Башкирская народная песня - Семь девушек](../translated/b/bashkort_halik_ciri_-_cide_kiz.md)
+- [Башкорт халык җыры - Җирән кашка / Башкирская народная песня - Жиран кашка](../translated/b/bashkort_halik_ciri_-_ciran_kashka.md)
+- [Башкорт халык җыры - Әйһәйлүк (Балалар атасы) / Башкирская народная песня - Айхайлюк (Отец детей)](../translated/b/bashkort_halik_ciri_-_ayhayluk_balalar_atasi.md)
+- [Баязит Байназаров - Тик син кирәк / Баязит Байназаров - Только ты нужна](../translated/b/bayazit_baynazarov_-_tik_sin_kirak.md)
+- [Баязит Бикбай / Заһир Исмәгыйлев - Басыйр җыры / Баязит Бикбай / Заһир Исмәгыйлев - Песня весны](../translated/b/bayazit_bikbay_zahir_ismagiylev_-_basiyr_ciri.md)
+- [Баязит Бикбай / Тәлгать Шәрипов - Кош юлы / Баязит Бикбай / Талгат Шарипов - Птичий путь](../translated/b/bayazit_bikbay_talgat_sharipov_-_kosh_yuli.md)
+- [Баян Котлыев / А.Салимгәрәев - Дустым гармун уйната / Баян Котлиев / А.Салимгаряев - Мой друг играет на гармони](../translated/b/bayan_kotliev_asalimgaraev_-_dustim_garmun_uynata.md)
 - [Баян Котлыев / Байрас Абдуллин - Йөрәгемә назлар саласың / Баян Котлиев / Байрас Абдуллин - Ты сердце моё касаешься нежно](../translated/b/bayan_kotliev_bayras_abdullin_-_yoragema_nazlar_salasin.md)
 - [Баян Котлыев / Нур Даутов - Хуш инде тугаем / Баян Котлиев / Нур Даутов - С тобой мы просыпаемся](../translated/b/bayan_kotliev_nur_dautov_-_hush_inde_tugaem.md)
 - [Баян Котлыев / Роза Сәхәүетдинова - Кызылгыкүл буйлары / Баян Котлиев / Роза Сахаутдинова - Берега Кызылгика](../translated/b/bayan_kotliev_roza_sahauetdinova_-_kizilgikul_buylari.md)
@@ -92,19 +105,6 @@
 - [Билгесез - Нигә генә / Билгесез - Зачем же](../translated/b/bilgesez_-_niga_gena.md)
 - [Билгесез - Нигә икән, нигә? / Билгесез - Зачем, зачем?](../translated/b/bilgesez_-_niga_ikan_niga.md)
 - [Билгесез - Нигә соң минеке түгел син, бәгърем / Билгесез - Почему же ты не моя, моя любовь](../translated/b/bilgesez_-_niga_son_mineke_tugel_sin_bagrem.md)
-- [Билгесез - Ой, үләм, үләм / Неизвестный - Ой, улям, улям](../translated/b/bilgesez_-_oy_ulam_ulam.md)
-- [Билгесез - Онытма мине / Билгесез - Не забывай меня](../translated/b/bilgesez_-_onitma_mine.md)
-- [Билгесез - Очрашу эзләмә / Бильгесез - Не искәтеп очрашу](../translated/b/bilgesez_-_ochrashu_ezlama.md)
-- [Билгесез - Очрашулар кирәк / Бильгесез - Нужны встречи](../translated/b/bilgesez_-_ochrashular_kirak.md)
-- [Билгесез - Пар канатым / Бильгесез - Пара крылья мои](../translated/b/bilgesez_-_par_kanatim.md)
-- [Билгесез - Полюбил күңел сине / Билгесез - Полюбил күңел сине](../translated/b/bilgesez_-_polyubil_kunel_sine.md)
-- [Билгесез - Роза (беренче вариант) / Билгесез - Роза (первый вариант)](../translated/b/bilgesez_-_roza_berenche_variant.md)
-- [Билгесез - Роза чәчкәләре / Билгесез - Розы чәчекләре](../translated/b/bilgesez_-_roza_chachkalare.md)
-- [Билгесез - Рубин (футбол гимны) / Билгесез - Рубин (футбольный гимн)](../translated/b/bilgesez_-_rubin_futbol_gimni.md)
-- [Билгесез - Сагынуга дава юк / Билгесез - Сагынуга дава юк](../translated/b/bilgesez_-_saginuga_dava_yuk.md)
-- [Билгесез - Салкын / Билгесез - Холодно](../translated/b/bilgesez_-_salkin.md)
-- [Билгесез - Саллар (беренче вариант) / Бильгесез - Саллар (беренче вариант)](../translated/b/bilgesez_-_sallar_berenche_variant.md)
-- [Билгесез - Саллар (икенче вариант) / Билгесез - Саллар (икенче вариант)](../translated/b/bilgesez_-_sallar_ikenche_variant.md)
 
 ---
 
