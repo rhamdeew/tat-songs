@@ -1,10 +1,20 @@
 # Татарские песни и их перевод - Страница 19
 
-## Список песен (песни 1801-1900 из 3505)
+## Список песен (песни 1801-1900 из 3535)
 
 [← Предыдущая страница](songs_list/SONGS_18.md) | [Главная страница](../README.md) | [Следующая страница →](songs_list/SONGS_20.md)
 
 
+- [Илфак Шиһапов - Кайт, Чыңгызхан / Илфак Шихапов - Вернись, Чингизхан](../translated/i/ilfak_shihapov_-_kayt_chingizhan.md)
+- [Илфак Шиһапов - Кунак / Ильфак Шихапов - Гость](../translated/i/ilfak_shihapov_-_kunak.md)
+- [Илфак Шиһапов - Татар / Илфак Шиһапов - Татар](../translated/i/ilfak_shihapov_-_tatar.md)
+- [Илфак Шиһапов - Тукта, вакыт / Илфак Шихапов - Стой, время](../translated/i/ilfak_shihapov_-_tukta_vakit.md)
+- [Илфак Шиһапов - Ябалак / Ильфак Шихапов - Ябалак](../translated/i/ilfak_shihapov_-_yabalak.md)
+- [Илфак Шиһапов - Өзгәләнә йөрәк / Илфак Шихапов - Замерзающее сердце](../translated/i/ilfak_shihapov_-_ozgalana_yorak.md)
+- [Илфир Искәндәров - Якын дуслар / Ильфир Искендеров - Близкие друзья](../translated/i/ilfir_iskandarov_-_yakin_duslar.md)
+- [Илшат Валиев - Яратасым килеп тора / Илшат Валиев - Хочется любить](../translated/i/ilshat_valiev-yaratasym_kilep_tora.md)
+- [Илшат Гыйниятуллин / Илдар Ногманов - Туган нигез (дүртенче вариант) / Ильшат Гыйнятуллин / Ильдар Ногманов - Родная земля (четвёртый вариант)](../translated/i/ilshat_giyniyatullin_ildar_nogmanov_-_tugan_nigez_durtenche_variant.md)
+- [Илшат Яппаров - Соеп соелеп яшэ / Илшат Яппаров - Живи любя и любимая](../translated/i/ilshat_yapparov-soep_soelep_yashe.md)
 - [Ильвина - Артларымнан йормэ / Ильвина - Не иди за мной](../translated/i/ilvina-artlarymnan_yorme.md)
 - [Ильвина - Моннар ява / Ильвина - Печаль падает](../translated/i/ilvina-monnar_yava.md)
 - [Ильвина - Син мина кирэк / Ильвина - Ты мне нужен](../translated/i/ilvina-sin_mina_kirek.md)
@@ -95,16 +105,6 @@
 - [Ильхам Шакиров - Син сазынны уйнадын / Ильхам Шакиров - Ты на сазе играла](../translated/i/ilham_shakirov-sin_sazynny_uynadyn.md)
 - [Ильшат Валиев - Сагындыра туган як / Ильшат Валиев - Родной край зовет](../translated/i/ilshat_valiev-sagyndyra_tugan_yak.md)
 - [Илһам Якупов - Яшик / Ильхам Якупов - Живи](../translated/i/ilham_yakupov_-_yashik.md)
-- [Инзилә Галиуллина / Илгиз Субаев - Юл буенда кызыл миләшләр / Инзеля Галиуллина / Ильгиз Субаев - Красные рябины у дороги](../translated/i/inzila_galiullina_ilgiz_subaev_-_yul_buenda_kizil_milashlar.md)
-- [Инсаф Галимов - Дим буйлары / Инсаф Галимов - По берегам Димы](../translated/i/insaf_galimov-dim_buylary.md)
-- [Ирек Габдрахманов - Вакыт җитми ... / Ирек Габдрахманов - Времени не хватает ...](../translated/i/irek_gabdrahmanov_-_vakit_citmi.md)
-- [Ирек Габдрахманов / Гөлшат Арсланова - Синең белән (икенче вариант) / Ирек Габдрахманов / Гөлшат Арсланова - С тобой (второй вариант)](../translated/i/irek_gabdrahmanov_golshat_arslanova_-_sinen_belan_ikenche_variant.md)
-- [Ирек Кинҗәбулатов / Гүзәл Диникеева - Калган гомерем - сине сөюем / Ирек Кинҗәбулатов / Гүзәл Диникеева - Оставшаяся жизнь моя - любить тебя](../translated/i/irek_kincabulatov_guzal_dinikeeva_-_kalgan_gomerem_sine_soyuem.md)
-- [Ирек Кинҗәбулатов / Насип Кучаев - Мин куанам (беренче вариант) / Ирек Кинчабулатов / Насип Кучаев - Я радуюсь (первый вариант)](../translated/i/irek_kincabulatov_nasip_kuchaev_-_min_kuanam_berenche_variant.md)
-- [Иркэ - Ак буре / Иркэ - Белый волк](../translated/i/irke-ak_bure.md)
-- [Иркэ - Бердэнберем минем / Иркэ - Единственный мой](../translated/i/irke-berdenberem_minem.md)
-- [Иркэ - Беренче кар / Иркэ - Первый снег](../translated/i/irke-berenche_kar.md)
-- [Иркэ - Бул инде дустым гына / Иркэ - Будь теперь только другом](../translated/i/irke-bul_inde_dustym_gyna.md)
 
 ---
 

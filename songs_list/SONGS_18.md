@@ -1,10 +1,19 @@
 # Татарские песни и их перевод - Страница 18
 
-## Список песен (песни 1701-1800 из 3505)
+## Список песен (песни 1701-1800 из 3535)
 
 [← Предыдущая страница](songs_list/SONGS_17.md) | [Главная страница](../README.md) | [Следующая страница →](songs_list/SONGS_19.md)
 
 
+- [Зульфат Зиннуров и Зиннур - Мэхэббэткэ ясин / Зульфат Зиннуров и Зиннур - Молитва по любви](../translated/z/zulfat_zinnurov_zinnur-mehebbetke_yasin.md)
+- [Зульфат Зиннуров и Зиннур - Нокта куярга вакыт / Зульфат Зиннуров и Зиннур - Время поставить точку](../translated/z/zulfat_zinnurov_zinnur-nokta_kuyarga_vakyt.md)
+- [Зульфат Зиннуров и Зиннур - Сонлама / Зульфат Зиннуров и Зиннур - Не медли](../translated/z/zulfat_zinnurov_zinnur-sonlama.md)
+- [Зульфат Зиннуров и Зиннур - Сою / Зульфат Зиннуров и Зиннур - Любимая](../translated/z/zulfat_zinnurov_zinnur-soyu.md)
+- [Зульфат Зиннуров и Зиннур - Чупа чупс / Зульфат Зиннуров и Зиннур - Чупа-чупс](../translated/z/zulfat_zinnurov_zinnur-chupa_chups.md)
+- [Зульфат Зиннуров и Зиннур - Эткэй / Зульфат Зиннуров и Зиннур - Дядя](../translated/z/zulfat_zinnurov_zinnur-etkey.md)
+- [Зульфат Зиннуров и Зиннур - Яшьлек язым / Зульфат Зиннуров и Зиннур - Весна юности](../translated/z/zulfat_zinnurov_zinnur-yashlek_yazym.md)
+- [Зульфат Хаким - Жырларым хыялларым / Зульфат Хаким - Мои песни, мои мечты](../translated/z/zulfat_hakim-zhyrlarym_hyyallarym.md)
+- [Зульфат Хаким - Нэрсэ булды сина буген / Зульфат Хаким - Что с тобой сегодня стало](../translated/z/zulfat_hakim-nerse_buldy_sina_bugen.md)
 - [Зульфия Камалова - Ай былбылым / Зульфия Камалова - Ах, соловей мой](../translated/z/zulfiya_kamalova-ay_bylbylym.md)
 - [Зульфия Камалова - Ай жаный вай жаный / Зульфия Камалова - Ах, душенька моя](../translated/z/zulfiya_kamalova-ay_zhanyy_vay_zhanyy.md)
 - [Зульфия Камалова - Йокысызлык / Зульфия Камалова - Бессонница](../translated/z/zulfiya_kamalova-yokysyzlyk.md)
@@ -72,6 +81,7 @@
 - [Илназ Гәрәев / Артур Исламов - Бушлык патшалары / Илназ Гәрәев / Артур Исламов - Короли пустоты](../translated/i/ilnaz_garaev_artur_islamov_-_bushlik_patshalari.md)
 - [Илназ Гәрәев / Артур Исламов - Салкын яңгырлар / Ильназ Гараев / Артур Исламов - Холодные дожди](../translated/i/ilnaz_garaev_artur_islamov_-_salkin_yangirlar.md)
 - [Илназ Гәрәев / Артур Исламов - Язмыш (җиденче вариант) / Илназ Гараев / Артур Исламов - Судьба (седьмой вариант)](../translated/i/ilnaz_garaev_artur_islamov_-_yazmish_cidenche_variant.md)
+- [Илнат Фәрхуллин - Талларым елап кала / Ильнат Фархуллин - Ивы плачут](../translated/i/ilnat_farhullin_-_tallarim_elap_kala.md)
 - [Илсия Бадретдинова - Азатлык / Илсия Бадретдинова - Свобода](../translated/i/ilsiya_badretdinova-azatlyk.md)
 - [Илсия Бадретдинова - Алабута / Илсия Бадретдинова - Лебеда](../translated/i/ilsiya_badretdinova-alabuta.md)
 - [Илсия Бадретдинова - Алсу / Илсия Бадретдинова - Алсу](../translated/i/ilsiya_badretdinova-alsu.md)
@@ -95,16 +105,6 @@
 - [Илсөяр Иксанова / Эльвира Хаматнурова - Иртә (беренче вариант) / Ильсояр Иксанова / Эльвира Хаматнурова - Рассвет (первый вариант)](../translated/i/ilsoyar_iksanova_elvira_hamatnurova_-_irta_berenche_variant.md)
 - [Илфак Шиһапов - Булмый инде булмагач / Ильфак Шихапов - Не вышло, так и не вышло](../translated/i/ilfak_shihapov_-_bulmiy_inde_bulmagach.md)
 - [Илфак Шиһапов - Дала / Ильфак Шихапов - Степь](../translated/i/ilfak_shihapov_-_dala.md)
-- [Илфак Шиһапов - Кайт, Чыңгызхан / Илфак Шихапов - Вернись, Чингизхан](../translated/i/ilfak_shihapov_-_kayt_chingizhan.md)
-- [Илфак Шиһапов - Кунак / Ильфак Шихапов - Гость](../translated/i/ilfak_shihapov_-_kunak.md)
-- [Илфак Шиһапов - Татар / Илфак Шиһапов - Татар](../translated/i/ilfak_shihapov_-_tatar.md)
-- [Илфак Шиһапов - Тукта, вакыт / Илфак Шихапов - Стой, время](../translated/i/ilfak_shihapov_-_tukta_vakit.md)
-- [Илфак Шиһапов - Ябалак / Ильфак Шихапов - Ябалак](../translated/i/ilfak_shihapov_-_yabalak.md)
-- [Илфак Шиһапов - Өзгәләнә йөрәк / Илфак Шихапов - Замерзающее сердце](../translated/i/ilfak_shihapov_-_ozgalana_yorak.md)
-- [Илфир Искәндәров - Якын дуслар / Ильфир Искендеров - Близкие друзья](../translated/i/ilfir_iskandarov_-_yakin_duslar.md)
-- [Илшат Валиев - Яратасым килеп тора / Илшат Валиев - Хочется любить](../translated/i/ilshat_valiev-yaratasym_kilep_tora.md)
-- [Илшат Гыйниятуллин / Илдар Ногманов - Туган нигез (дүртенче вариант) / Ильшат Гыйнятуллин / Ильдар Ногманов - Родная земля (четвёртый вариант)](../translated/i/ilshat_giyniyatullin_ildar_nogmanov_-_tugan_nigez_durtenche_variant.md)
-- [Илшат Яппаров - Соеп соелеп яшэ / Илшат Яппаров - Живи любя и любимая](../translated/i/ilshat_yapparov-soep_soelep_yashe.md)
 
 ---
 

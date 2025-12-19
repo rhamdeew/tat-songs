@@ -1,10 +1,18 @@
 # Татарские песни и их перевод - Страница 16
 
-## Список песен (песни 1501-1600 из 3505)
+## Список песен (песни 1501-1600 из 3535)
 
 [← Предыдущая страница](songs_list/SONGS_15.md) | [Главная страница](../README.md) | [Следующая страница →](songs_list/SONGS_17.md)
 
 
+- [Дания Гайнетдинова / Мансур Хәсәнов - Гомер чишмәсе / Дания Гайнетдинова / Мансур Хасанов - Родник жизни](../translated/d/daniya_gaynetdinova_mansur_hasanov_-_gomer_chishmase.md)
+- [Дания Гайнетдинова / Рамил Курамшин - Туган ягым Теләче (икенче вариант) / Дания Гайнетдинова / Рамил Курамшин - Родной мой край Теляче (второй вариант)](../translated/d/daniya_gaynetdinova_ramil_kuramshin_-_tugan_yagim_telache_ikenche_variant.md)
+- [Дания Мәхмүтова / Илмир Залеев - Йөрәгем түзә / Дания Махмутова / Ильмир Залеев - Сердце терпит](../translated/d/daniya_mahmutova_ilmir_zaleev_-_yoragem_tuza.md)
+- [Даһи Бабичев / Рафик Сәлмәнов - Яз җыры (икенче вариант) / Дахи Бабичев / Рафик Салманов - Весенняя песня (второй вариант)](../translated/d/dahi_babichev_rafik_salmanov_-_yaz_ciri_ikenche_variant.md)
+- [Дениз Бадретдин - Эльмира / Дениз Бадретдин - Эльмира](../translated/d/deniz_badretdin_-_elmira.md)
+- [Джамиля - Мин килермен янына / Джамиля - Я приду к тебе](../translated/d/dzhamilya-min_kilermen_yanyna.md)
+- [Джамиля - Язма мина хатынны / Джамиля - Не пиши мне письма](../translated/d/dzhamilya-yazma_mina_hatynny.md)
+- [Диана Тажетдинова - Ин зур югалту / Диана Тажетдинова - Самая большая потеря](../translated/d/diana_tazhetdinova-in_zur_yugaltu.md)
 - [Дилбәр Гәрәева / Оскар Усманов - Күңелгә җыр кирәк / Дильбар Гараева / Оскар Усманов - Душе нужна песня](../translated/d/dilbar_garaeva_oskar_usmanov_-_kunelga_cir_kirak.md)
 - [Дилбәр Гәрәева / Оскар Усманов - Мин бәхетле (өченче вариант) / Дильбар Гараева / Оскар Усманов - Я счастлива (третий вариант)](../translated/d/dilbar_garaeva_oskar_usmanov_-_min_bahetle_ochenche_variant.md)
 - [Дилбәр Исламова / Альфред Якшимбетов - Безнең гомер (өченче вариант) / Дильбар Исламова / Альфред Якшимбетов - Наша жизнь (третий вариант)](../translated/d/dilbar_islamova_alfred_yakshimbetov_-_beznen_gomer_ochenche_variant.md)
@@ -97,14 +105,6 @@
 - [Динә Талхина / Нур Даутов - Алтын гомер (беренче вариант) / Дина Талхина / Нур Даутов - Золотая жизнь (первый вариант)](../translated/d/dina_talhina_nur_dautov_-_altin_gomer_berenche_variant.md)
 - [Динә Талхина / Нурия Абдуллина - Яшел яулык / Дина Талхина / Нурия Абдуллина - Зелёный платок](../translated/d/dina_talhina_nuriya_abdullina_-_yashel_yaulik.md)
 - [Динә Талхина / Ришат Сәгыйтов - Җырларым минем кошлардан / Дина Талхина / Ришат Сагитов - Песни мои от птиц](../translated/d/dina_talhina_rishat_sagiytov_-_cirlarim_minem_koshlardan.md)
-- [Динә Талхина / Роза Сәхәүетдинова - Мәктәбем ихатасы / Дина Талхина / Роза Сахауетдинова - Ограда моей школы](../translated/d/dina_talhina_roza_sahauetdinova_-_maktabem_ihatasi.md)
-- [Динә Талхина / Роза Сәхәүетдинова - Сагынырсың әле, сагынырсың / Дина Талхина / Роза Сахауетдинова - Скучаешь ли, скучаешь](../translated/d/dina_talhina_roza_sahauetdinova_-_saginirsin_ale_saginirsin.md)
-- [Динә Талхина / Роза Сәхәүетдинова - Сиреннәр чәчәк аткан / Дина Талхина / Роза Сахауетдинова - Сирень зацвела](../translated/d/dina_talhina_roza_sahauetdinova_-_sirennar_chachak_atkan.md)
-- [Динә Талхина / Рәзидә Әхмәтова - Алтын гомер (икенче вариант) / Дина Талхина / Разида Ахметова - Золотая жизнь (второй вариант)](../translated/d/dina_talhina_razida_ahmatova_-_altin_gomer_ikenche_variant.md)
-- [Динә Талхина / Салават Низаметдинов - Ал чәчәк таҗлары / Дина Талхина / Салават Низаметдинов - Алые венки цветов](../translated/d/dina_talhina_salavat_nizametdinov_-_al_chachak_taclari.md)
-- [Динә Талхина / Салават Низаметдинов - Кояшым (Җырларым) / Дина Талхина / Салават Низаметдинов - Моё солнце (Мои песни)](../translated/d/dina_talhina_salavat_nizametdinov_-_koyashim_cirlarim.md)
-- [Динә Талхина / Салават Низаметдинов - Төшләреңә синең керәм / Дина Талхина / Салават Низаметдинов - Вхожу в твои сны](../translated/d/dina_talhina_salavat_nizametdinov_-_toshlarena_sinen_keram.md)
-- [Динә Талхина / Салават Низаметдинов - Эргәмдә булсаң икән / Дина Талхина / Салават Низаметдинов - Если бы ты был со мной](../translated/d/dina_talhina_salavat_nizametdinov_-_ergamda_bulsan_ikan.md)
 
 ---
 

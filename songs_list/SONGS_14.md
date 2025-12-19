@@ -1,10 +1,13 @@
 # Татарские песни и их перевод - Страница 14
 
-## Список песен (песни 1301-1400 из 3505)
+## Список песен (песни 1301-1400 из 3535)
 
 [← Предыдущая страница](songs_list/SONGS_13.md) | [Главная страница](../README.md) | [Следующая страница →](songs_list/SONGS_15.md)
 
 
+- [Гульнара Тимержанова - Мин синен очен / Гульнара Тимержанова - Я для тебя](../translated/g/gulnara_timerzhanova-min_sinen_ochen.md)
+- [Гульнара Тимержанова - Мэхэббэт дингезе / Гульнара Тимержанова - Море любви](../translated/g/gulnara_timerzhanova-mehebbet_dingeze.md)
+- [Гульнара Тимержанова - Мэхэббэт ялкыны / Гульнара Тимержанова - Пламя любви](../translated/g/gulnara_timerzhanova-mehebbet_yalkyny.md)
 - [Гульнара Тимержанова - Ой артында шомыртым бар / Гульнара Тимержанова - За домом черёмуха моя](../translated/g/gulnara_timerzhanova-oy_artynda_shomyrtym_bar.md)
 - [Гульнара Тимержанова - Ойдэ буран булмасын / Гульнара Тимержанова - Пусть дома не будет бури](../translated/g/gulnara_timerzhanova-oyde_buran_bulmasyn.md)
 - [Гульнара Тимержанова - Очты еллар / Гульнара Тимержанова - Прошли годы](../translated/g/gulnara_timerzhanova-ochty_ellar.md)
@@ -17,6 +20,7 @@
 - [Гульнара Тимержанова - Чын бэхет / Гульнара Тимержанова - Истинное счастье](../translated/g/gulnara_timerzhanova-chyn_behet.md)
 - [Гульнара Тимержанова - Язмыш булэге / Гульнара Тимержанова - Подарок судьбы](../translated/g/gulnara_timerzhanova-yazmysh_bulege.md)
 - [Гульнара Яруллина - Су буенда учак яна / Гульнара Яруллина - У воды горит костёр](../translated/g/gulnara_yarullina-su_buenda_uchak_yana.md)
+- [Гыйлемдар Рамазанов / Сара Садыйкова - Башкортстан кызы / Гилемдар Рамазанов / Сара Садыкова - Дочь Башкортостана](../translated/g/giylemdar_ramazanov_sara_sadiykova_-_bashkortstan_kizi.md)
 - [Гыйльман Ишкинин - Рамазан (икенче вариант) / Гильман Ишкинин - Рамазан (второй вариант)](../translated/g/giylman_ishkinin_-_ramazan_ikenche_variant.md)
 - [Гыйләҗ Минаев / Фәрит Хатыйпов - Ак күл / Гильжан Миняев / Фарит Хатыпов - Белое озеро](../translated/g/giylac_minaev_farit_hatiypov_-_ak_kul.md)
 - [Гүзел Минакова - Беркем белмэс / Гузель Минакова - Никто не знает](../translated/g/guzel_minakova-berkem_belmes.md)
@@ -49,6 +53,7 @@
 - [Гәрәй Рәхим / Людмила Аланлы - Дөнья сиңа килешә / Гарай Рахим / Людмила Аланлы - Мир тебе так к лицу](../translated/g/garay_rahim_lyudmila_alanli_-_donya_sina_kilesha.md)
 - [Гәрәй Рәхим / Рифкать Сәйфетдинов - Кызыбыз сине көтә / Гарей Рахим / Рифкат Сайфетдинов - Наша дочь ждёт тебя](../translated/g/garay_rahim_rifkat_sayfetdinov_-_kizibiz_sine_kota.md)
 - [Гәрәй Рәхим / Тәлгать Бадыгин - Бездән әле яшьлек узмаган / Гәрәй Рәхим / Тәлгать Бадыгин - Нам еще не прошла юность](../translated/g/garay_rahim_talgat_badigin_-_bezdan_ale_yashlek_uzmagan.md)
+- [Гәүһәр Йосыпова - Өмет (өченче вариант) / Гаухар Юсупова - Надежда (третий вариант)](../translated/g/gauhar_yosipova_-_omet_ochenche_variant.md)
 - [Гөзел Уразова - Тик син дип тибэ хэзер йорэгем / Гөзел Уразова - Только тебя зовёт теперь сердце](../translated/g/guzel_urazova-tik_sin_dip_tibe_hezer_yoregem.md)
 - [Гөзел Уразова - Тимэсен тик кузлэрем / Гөзел Уразова - Не насытятся глаза мои](../translated/g/guzel_urazova-timesen_tik_kuzlerem.md)
 - [Гөзел Уразова - Тормышымнын яме / Гөзел Уразова - Красота моей жизни](../translated/g/guzel_urazova-tormyshymnyn_yame.md)
@@ -67,6 +72,7 @@
 - [Гөл Мирһади / Эльвира Хаматнурова - Мамык карлар / Гуль Мирхади / Эльвира Хаматнурова - Пуховые снежинки](../translated/g/gol_mirhadi_elvira_hamatnurova_-_mamik_karlar.md)
 - [Гөл Мирһади / Эльвира Хаматнурова - Син булсаң янымда (беренче вариант) / Гуль Мирхади / Эльвира Хаматнурова - Если ты рядом со мной (первый вариант)](../translated/g/gol_mirhadi_elvira_hamatnurova_-_sin_bulsan_yanimda_berenche_variant.md)
 - [Гөл Мирһади / Эльвира Хаматнурова - Тасма тел / Гуль Мирхади / Эльвира Хаматнурова - Лента Язык](../translated/g/gol_mirhadi_elvira_hamatnurova_-_tasma_tel.md)
+- [Гөл Мирһади / Эльвира Хаматнурова - Әнкәемнең уңганы / Гуль Мирхади / Эльвира Хаматнурова - Мамина помощница](../translated/g/gol_mirhadi_elvira_hamatnurova_-_ankaemnen_ungani.md)
 - [Гөл Мирһади / Эльвира Хаматнурова - Әнкәй янда булганда / Гөл Мирһади / Эльвира Хаматнурова - Когда мама рядом](../translated/g/gol_mirhadi_elvira_hamatnurova_-_ankay_yanda_bulganda.md)
 - [Гөлгенә Кәримова / Владимир Федоров - Изге теләкләр (икенче вариант) / Гульгена Каримова / Владимир Федоров - Святые пожелания (второй вариант)](../translated/g/golgena_karimova_vladimir_fedorov_-_izge_telaklar_ikenche_variant.md)
 - [Гөлжиһан - Бэхетен уз кулында / Гульжихан - Счастье в твоих руках](../translated/g/gulzhihan-beheten_uz_kulynda.md)
@@ -88,6 +94,7 @@
 - [Гөлнара Рәшитова / Урал Рәшитов - Кызыл розалар / Гульнара Рахимова / Урал Рахимов - Красные розы](../translated/g/golnara_rashitova_ural_rashitov_-_kizil_rozalar.md)
 - [Гөлнара Рәшитова / Фәрүәз Килдеголов - Яландагы балан / Гульнара Рашитова / Фарваз Кильдеголов - Дитя в поле](../translated/g/golnara_rashitova_faruaz_kildegolov_-_yalandagi_balan.md)
 - [Гөлнур Айзәт / Илнур Мусин - Китеп барам / Гульнар Айзат / Ильнур Мусин - Ухожу я](../translated/g/golnur_ayzat_ilnur_musin_-_kitep_baram.md)
+- [Гөлнур Айзәт / Мөдәрис Газетдинов - Дуслар белән рәхәт / Гульнур Айзат / Мударис Газетдинов - С друзьями хорошо](../translated/g/golnur_ayzat_modaris_gazetdinov_-_duslar_belan_rahat.md)
 - [Гөлнур Куатова / Гүзәллия Хәкимҗанова - Үз юлым белән киләм / Гульнар Куватова / Гузель Хакимжанова - Приду по своей дороге](../translated/g/golnur_kuatova_guzalliya_hakimcanova_-_uz_yulim_belan_kilam.md)
 - [Гөлсем Нәбиуллина / Фирзәр Мортазин - Мин сине эзләдем / Гульсем Набиуллина / Фирзар Мортазин - Я тебя искала](../translated/g/golsem_nabiullina_firzar_mortazin_-_min_sine_ezladem.md)
 - [Гөлсәрвәр / Булат Җиһаншин - Ак бәхет теләрмен / Гюльсарвар / Булат Джиханшин - Я белый сәбәптән](../translated/g/golsarvar_bulat_cihanshin_-_ak_bahet_telarmen.md)
@@ -98,13 +105,6 @@
 - [Гөлсәрвәр / Оскар Усманов - Хыяллар дөньясы гаҗәеп / Гөлсәрвәр / Оскар Усманов - Поразительный мир мечтаний](../translated/g/golsarvar_oskar_usmanov_-_hiyallar_donyasi_gacaep.md)
 - [Гөлсәрвәр / Оскар Усманов - Язмышка ни язган / Гөлсәрвәр / Оскар Усманов - Что написано в судьбе](../translated/g/golsarvar_oskar_usmanov_-_yazmishka_ni_yazgan.md)
 - [Гөлфия Шакирова / Альберт Галимуллин - Туган авылым - Акхуҗа / Гульфия Шакирова / Альберт Галимов - Родная деревня моя - Акхужа](../translated/g/golfiya_shakirova_albert_galimullin_-_tugan_avilim_akhuca.md)
-- [Гөлфия Шакирова / Альберт Галимуллин - Ходай сезне бүләкләр / Гульфия Шакирова / Альберт Галимуллин - Дарует тебе Бог блага](../translated/g/golfiya_shakirova_albert_galimullin_-_hoday_sezne_bulaklar.md)
-- [Гөлфия Шакирова / Гүзәлия - Былбыл (икенче вариант) / Гөлфия Шакирова / Гүзәлия - Соловей (второй вариант)](../translated/g/golfiya_shakirova_guzaliya_-_bilbil_ikenche_variant.md)
-- [Гөлфия Шакирова / Игорь Дмитриев - Үкенмим (икенче вариант) / Гульфия Шакирова / Игорь Дмитриев - Я не жалуюсь (второй вариант)](../translated/g/golfiya_shakirova_igor_dmitriev_-_ukenmim_ikenche_variant.md)
-- [Гөлфия Шакирова / Илнар Гыйльманшин - Көтәр кешең булу бәхет / Гульфия Шакирова / Ильнар Гильманшин - Иметь того, кого ждёшь - счастье](../translated/g/golfiya_shakirova_ilnar_giylmanshin_-_kotar_keshen_bulu_bahet.md)
-- [Гөлфия Шакирова / Лилия Вахитова - Алдашмагыз! / Гульфия Шакирова / Лилия Вахитова - Не обманывайте!](../translated/g/golfiya_shakirova_liliya_vahitova_-_aldashmagiz.md)
-- [Гөлфия Шакирова / Лилия Вахитова - Кайнар ипи / Гөлфия Шакирова / Лилия Вахитова - Горячий хлеб](../translated/g/golfiya_shakirova_liliya_vahitova_-_kaynar_ipi.md)
-- [Гөлфия Шакирова / Марат Мухин - Язлар булып кайт / Гульфия Шакирова / Марат Мухин - Вернись в виде лет](../translated/g/golfiya_shakirova_marat_muhin_-_yazlar_bulip_kayt.md)
 
 ---
 

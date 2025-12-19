@@ -1,6 +1,6 @@
 # Татарские песни и их перевод - Страница 12
 
-## Список песен (песни 1101-1200 из 3505)
+## Список песен (песни 1101-1200 из 3535)
 
 [← Предыдущая страница](songs_list/SONGS_11.md) | [Главная страница](../README.md) | [Следующая страница →](songs_list/SONGS_13.md)
 
@@ -103,8 +103,8 @@
 - [Габдулла Тукай / Мансур Мозаффаров - Бер рәсемгә (беренче вариант) / Габдулла Тукай / Мансур Мозаффаров - К одному портрету (первый вариант)](../translated/g/gabdulla_tukay_mansur_mozaffarov_-_ber_rasemga_berenche_variant.md)
 - [Габдулла Тукай / Мәсгуть Имашев - Театр / Габдулла Тукай / Мәсгуть Имашев - Театр](../translated/g/gabdulla_tukay_masgut_imashev_-_teatr.md)
 - [Гакыйль Сәгыйров / Илфат Дәүләтшин - Бәхет (сигезенче вариант) / Гакыйль Сәгыйров / Илфат Дәүләтшин - Счастье (восьмой вариант)](../translated/g/gakiyl_sagiyrov_ilfat_daulatshin_-_bahet_sigezenche_variant.md)
+- [Галимҗан Латыйпов / Сара Садыйкова - Бөтен гомергә / Галимжан Латыпов / Сара Садыкова - На всю жизнь](../translated/g/galimcan_latiypov_sara_sadiykova_-_boten_gomerga.md)
 - [Галия Сафиуллина / Айнур Сәйфиев - Рәхмәтлемен сезгә, газизләрем / Галия Сафиуллина / Айнур Сәйфиев - Спасибо вам, любимые](../translated/g/galiya_safiullina_aynur_sayfiev_-_rahmatlemen_sezga_gazizlarem.md)
-- [Галия Сафиуллина / Айнур Сәйфиев - Язмышларны без язырлык булса / Галия Сафиуллина / Айнур Сәйфиев - Если бы мы могли писать судьбы](../translated/g/galiya_safiullina_aynur_sayfiev_-_yazmishlarni_bez_yazirlik_bulsa.md)
 
 ---
 

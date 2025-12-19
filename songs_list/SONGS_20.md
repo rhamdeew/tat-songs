@@ -1,10 +1,20 @@
 # Татарские песни и их перевод - Страница 20
 
-## Список песен (песни 1901-2000 из 3505)
+## Список песен (песни 1901-2000 из 3535)
 
 [← Предыдущая страница](songs_list/SONGS_19.md) | [Главная страница](../README.md) | [Следующая страница →](songs_list/SONGS_21.md)
 
 
+- [Инзилә Галиуллина / Илгиз Субаев - Юл буенда кызыл миләшләр / Инзеля Галиуллина / Ильгиз Субаев - Красные рябины у дороги](../translated/i/inzila_galiullina_ilgiz_subaev_-_yul_buenda_kizil_milashlar.md)
+- [Инсаф Галимов - Дим буйлары / Инсаф Галимов - По берегам Димы](../translated/i/insaf_galimov-dim_buylary.md)
+- [Ирек Габдрахманов - Вакыт җитми ... / Ирек Габдрахманов - Времени не хватает ...](../translated/i/irek_gabdrahmanov_-_vakit_citmi.md)
+- [Ирек Габдрахманов / Гөлшат Арсланова - Синең белән (икенче вариант) / Ирек Габдрахманов / Гөлшат Арсланова - С тобой (второй вариант)](../translated/i/irek_gabdrahmanov_golshat_arslanova_-_sinen_belan_ikenche_variant.md)
+- [Ирек Кинҗәбулатов / Гүзәл Диникеева - Калган гомерем - сине сөюем / Ирек Кинҗәбулатов / Гүзәл Диникеева - Оставшаяся жизнь моя - любить тебя](../translated/i/irek_kincabulatov_guzal_dinikeeva_-_kalgan_gomerem_sine_soyuem.md)
+- [Ирек Кинҗәбулатов / Насип Кучаев - Мин куанам (беренче вариант) / Ирек Кинчабулатов / Насип Кучаев - Я радуюсь (первый вариант)](../translated/i/irek_kincabulatov_nasip_kuchaev_-_min_kuanam_berenche_variant.md)
+- [Иркэ - Ак буре / Иркэ - Белый волк](../translated/i/irke-ak_bure.md)
+- [Иркэ - Бердэнберем минем / Иркэ - Единственный мой](../translated/i/irke-berdenberem_minem.md)
+- [Иркэ - Беренче кар / Иркэ - Первый снег](../translated/i/irke-berenche_kar.md)
+- [Иркэ - Бул инде дустым гына / Иркэ - Будь теперь только другом](../translated/i/irke-bul_inde_dustym_gyna.md)
 - [Иркэ - Бутэнне тап / Иркэ - Найди другую](../translated/i/irke-butenne_tap.md)
 - [Иркэ - Бэхетле булыр иден / Иркэ - Была бы счастлива](../translated/i/irke-behetle_bulyr_iden.md)
 - [Иркэ - Жавапсыз мэхэббэт / Иркэ - Безответная любовь](../translated/i/irke-zhavapsyz_mehebbet.md)
@@ -75,6 +85,7 @@
 - [Казан егетлəре - Эпипэ / Казан егетлəре - Эпипэ](../translated/k/kazan_egetlere-epipe.md)
 - [Казан егетлəре - Эх сез матур кызлар / Казан егетлəре - Эх, вы, красивые девушки](../translated/k/kazan_egetlere-eh_sez_matur_kyzlar.md)
 - [Камил Асраров / Рамил Гыймрани - Гомерем мизгелләре / Камиль Асраров / Рамиль Гъимрани - Мои времена года](../translated/k/kamil_asrarov_ramil_giymrani_-_gomerem_mizgellare.md)
+- [Камәрия Вәлиева / Ганс Сәйфуллин - Парсыз балдаклар / Камария Валиева / Ганс Сайфуллин - Ветки без пары](../translated/k/kamariya_valieva_gans_sayfullin_-_parsiz_baldaklar.md)
 - [Керәшен халык җыры - Мандолиннарым / Народная песня Керәшена - Мои мандолины](../translated/k/kerashen_halik_ciri_-_mandolinnarim.md)
 - [Клара Булатова / Альфред Ширгазин - Авыл урамыннан гармун үтә / Клара Булатова / Альфред Ширгазин - Гармонь проходит по улице деревни](../translated/k/klara_bulatova_alfred_shirgazin_-_avil_uraminnan_garmun_uta.md)
 - [Клара Булатова / Марат Хөснуллин - Язмышымда язлар булып кал / Клара Булатова / Марат Хөснуллин - Останься в моей судьбе весной](../translated/k/klara_bulatova_marat_hosnullin_-_yazmishimda_yazlar_bulip_kal.md)
@@ -88,23 +99,12 @@
 - [Кәүсәрия Шәфикова / Илһам Хисмәтуллин - Чакырдың болыннарга / Кяусария Шафикова / Ильхам Хисматуллин - Ты звал в поля](../translated/k/kausariya_shafikova_ilham_hismatullin_-_chakirdin_bolinnarga.md)
 - [Кәүсәрия Шәфикова / Наил Шәймарданов - Кайталар кыр казлары / Кәүсәрия Шәфикова / Наил Шәймарданов - Возвращаются степные гуси](../translated/k/kausariya_shafikova_nail_shaymardanov_-_kaytalar_kir_kazlari.md)
 - [Кәүсәрия Шәфикова / Наил Шәймарданов - Яратам сине генә / Кәүсәрия Шәфикова / Наил Шәймарданов - Я люблю только тебя](../translated/k/kausariya_shafikova_nail_shaymardanov_-_yaratam_sine_gena.md)
+- [Кәүсәрия Шәфикова / Ризван Хәкимов - Хәлләрең ничек дип сорама / Каусария Шафикова / Ризван Хакимов - Не спрашивай, как мои дела](../translated/k/kausariya_shafikova_rizvan_hakimov_-_hallaren_nichek_dip_sorama.md)
 - [Кәүсәрия Шәфикова / Салават Низаметдинов - Бәхетле көнем бул / Кәусария Шафикова / Салават Низаметдинов - Будь моим счастливым днем](../translated/k/kausariya_shafikova_salavat_nizametdinov_-_bahetle_konem_bul.md)
 - [Ландыш Бахави - Безне ойдэ котэлэр / Ландыш Бахави - Нас дома ждут](../translated/l/landysh_bahavi-bezne_oyde_koteler.md)
 - [Ландыш Бахави - Туганыма / Ландыш Бахави - Моему родному](../translated/l/landysh_bahavi-tuganyma.md)
 - [Ландыш Габдрахманова / Айдар Тимербаев - Син икән бит / Ландыш Габдрахманова / Айдар Тимербаев - Ты же был](../translated/l/landish_gabdrahmanova_aydar_timerbaev_-_sin_ikan_bit.md)
 - [Ландыш Нигметжанова - Авылым таулары / Ландыш Нигметжанова - Горы моего села](../translated/l/landysh_nigmetzhanova-avylym_taulary.md)
-- [Ландыш Нигметжанова - Ак болытлар / Ландыш Нигметжанова - Белые облака](../translated/l/landysh_nigmetzhanova-ak_bolytlar.md)
-- [Ландыш Нигметжанова - Гомерлеккэ бул син / Ландыш Нигметжанова - Будь навеки](../translated/l/landysh_nigmetzhanova-gomerlekke_bul_sin.md)
-- [Ландыш Нигметжанова - Горурлык дигэн шайтан / Ландыш Нигметжанова - Гордость - черт этакий](../translated/l/landysh_nigmetzhanova-gorurlyk_digen_shaytan.md)
-- [Ландыш Нигметжанова - Жэй кызы / Ландыш Нигметжанова - Дочь лета](../translated/l/landysh_nigmetzhanova-zhey_kyzy.md)
-- [Ландыш Нигметжанова - Кайда син / Ландыш Нигметжанова - Где же ты](../translated/l/landysh_nigmetzhanova-kayda_sin.md)
-- [Ландыш Нигметжанова - Кайтмаска диеп китэм / Ландыш Нигметжанова - Сказав, что не вернусь, ухожу](../translated/l/landysh_nigmetzhanova-kaytmaska_diep_kitem.md)
-- [Ландыш Нигметжанова - Карама минем якка / Ландыш Нигметжанова - Не смотри в мою сторону](../translated/l/landysh_nigmetzhanova-karama_minem_yakka.md)
-- [Ландыш Нигметжанова - Кон яктысы / Ландыш Нигметжанова - Дневной свет](../translated/l/landysh_nigmetzhanova-kon_yaktysy.md)
-- [Ландыш Нигметжанова - Кояшым / Ландыш Нигметжанова - Мое солнышко](../translated/l/landysh_nigmetzhanova-koyashym.md)
-- [Ландыш Нигметжанова - Кызыл туйда / Ландыш Нигметжанова - На красной свадьбе](../translated/l/landysh_nigmetzhanova-kyzyl_tuyda.md)
-- [Ландыш Нигметжанова - Мин нэрсэ эшлэдем / Ландыш Нигметжанова - Что же я наделала](../translated/l/landysh_nigmetzhanova-min_nerse_eshledem.md)
-- [Ландыш Нигметжанова - Мина ни булды / Ландыш Нигметжанова - Что со мной случилось](../translated/l/landysh_nigmetzhanova-mina_ni_buldy.md)
 
 ---
 

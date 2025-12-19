@@ -1,10 +1,17 @@
 # Татарские песни и их перевод - Страница 15
 
-## Список песен (песни 1401-1500 из 3505)
+## Список песен (песни 1401-1500 из 3535)
 
 [← Предыдущая страница](songs_list/SONGS_14.md) | [Главная страница](../README.md) | [Следующая страница →](songs_list/SONGS_16.md)
 
 
+- [Гөлфия Шакирова / Альберт Галимуллин - Ходай сезне бүләкләр / Гульфия Шакирова / Альберт Галимуллин - Дарует тебе Бог блага](../translated/g/golfiya_shakirova_albert_galimullin_-_hoday_sezne_bulaklar.md)
+- [Гөлфия Шакирова / Гүзәлия - Былбыл (икенче вариант) / Гөлфия Шакирова / Гүзәлия - Соловей (второй вариант)](../translated/g/golfiya_shakirova_guzaliya_-_bilbil_ikenche_variant.md)
+- [Гөлфия Шакирова / Игорь Дмитриев - Үкенмим (икенче вариант) / Гульфия Шакирова / Игорь Дмитриев - Я не жалуюсь (второй вариант)](../translated/g/golfiya_shakirova_igor_dmitriev_-_ukenmim_ikenche_variant.md)
+- [Гөлфия Шакирова / Илнар Гыйльманшин - Көтәр кешең булу бәхет / Гульфия Шакирова / Ильнар Гильманшин - Иметь того, кого ждёшь - счастье](../translated/g/golfiya_shakirova_ilnar_giylmanshin_-_kotar_keshen_bulu_bahet.md)
+- [Гөлфия Шакирова / Лилия Вахитова - Алдашмагыз! / Гульфия Шакирова / Лилия Вахитова - Не обманывайте!](../translated/g/golfiya_shakirova_liliya_vahitova_-_aldashmagiz.md)
+- [Гөлфия Шакирова / Лилия Вахитова - Кайнар ипи / Гөлфия Шакирова / Лилия Вахитова - Горячий хлеб](../translated/g/golfiya_shakirova_liliya_vahitova_-_kaynar_ipi.md)
+- [Гөлфия Шакирова / Марат Мухин - Язлар булып кайт / Гульфия Шакирова / Марат Мухин - Вернись в виде лет](../translated/g/golfiya_shakirova_marat_muhin_-_yazlar_bulip_kayt.md)
 - [Гөлфия Шакирова / Мурат Гайсин - Күңелемнең кыллары / Гульфия Шакирова / Мурат Гайсин - Струны моего сердца](../translated/g/golfiya_shakirova_murat_gaysin_-_kunelemnen_killari.md)
 - [Гөлфия Шакирова / Мөдәрис Газетдинов - Иртәләре-кичләре / Гульфия Шакирова / Модарис Газетдинов - По утрам и вечерам](../translated/g/golfiya_shakirova_modaris_gazetdinov_-_irtalare-kichlare.md)
 - [Гөлфия Шакирова / Мөдәрис Газетдинов - Тик икәү / Гульфия Шакирова / Модарис Газетдинов - Только вдвоем](../translated/g/golfiya_shakirova_modaris_gazetdinov_-_tik_ikau.md)
@@ -17,6 +24,7 @@
 - [Гөлфия Юнысова / Наил Шәймарданов - Көмеш туйлар / Гульфия Юнусова / Наиль Шаймарданов - Серебряные свадьбы](../translated/g/golfiya_yunisova_nail_shaymardanov_-_komesh_tuylar.md)
 - [Гөлфия Юнысова / Рәшит Җиһанов - Әнкәемә (икенче вариант) / Гөлфия Юнысова / Рәшит Җиһанов - Моей матери (второй вариант)](../translated/g/golfiya_yunisova_rashit_cihanov_-_ankaema_ikenche_variant.md)
 - [Гөлфия Юнысова / Фәнзил Шәрипов - Без яшь чакта (икенче вариант) / Гульфия Юнусова / Фәнзиль Шәрипов - В наше юношеское время (второй вариант)](../translated/g/golfiya_yunisova_fanzil_sharipov_-_bez_yash_chakta_ikenche_variant.md)
+- [Гөлфия Юнысова / Эльвира Хаматнурова - Хуш килдегеҙ, ҡунаҡтар! / Гульфия Юнусова / Эльвира Хаматнурова - Добро пожаловать, гости!](../translated/g/golfiya_yunisova_elvira_hamatnurova_-_hush_kildegeҙ_ҡunaҡtar.md)
 - [Гөлфия Юнысова / Юлай Үзәнбаев - Җиңгәкәй / Гульфия Юнусова / Юлай Узенбаев - Женгакай](../translated/g/golfiya_yunisova_yulay_uzanbaev_-_cingakay.md)
 - [Гөлшат Зәйнәшева / Азат Хөсәенов - Яшел үзәнлек / Гульшат Зейнешева / Азат Хусаенов - Зеленая пойма](../translated/g/golshat_zaynasheva_azat_hosaenov_-_yashel_uzanlek.md)
 - [Гөлшат Зәйнәшева / Вадим Усманов - Яратам читтән генә... / Гульшат Зайнуллина / Вадим Усманов - Люблю лишь издали...](../translated/g/golshat_zaynasheva_vadim_usmanov_-_yaratam_chittan_gena.md)
@@ -97,14 +105,6 @@
 - [Данис Хәбибуллин / Фәрит Хатыйпов - Авыл кызы (беренче вариант) / Данис Хабибуллин / Фарит Хатыйпов - Деревенская девушка (первый вариант)](../translated/d/danis_habibullin_farit_hatiypov_-_avil_kizi_berenche_variant.md)
 - [Данис Хәйруллин / Альфред Якшимбетов - Яратканнар гына аңлар мине / Данис Хайруллин / Альфред Якшимбетов - Лишь любившие поймут меня](../translated/d/danis_hayrullin_alfred_yakshimbetov_-_yaratkannar_gina_anlar_mine.md)
 - [Данис Хәйруллин / Зөфәр Хәйретдинов - Соңгы тапкыр (икенче вариант) / Данис Хайруллин / Зуфар Хайретдинов - Последний раз (второй вариант)](../translated/d/danis_hayrullin_zofar_hayretdinov_-_songi_tapkir_ikenche_variant.md)
-- [Дания Гайнетдинова / Мансур Хәсәнов - Гомер чишмәсе / Дания Гайнетдинова / Мансур Хасанов - Родник жизни](../translated/d/daniya_gaynetdinova_mansur_hasanov_-_gomer_chishmase.md)
-- [Дания Гайнетдинова / Рамил Курамшин - Туган ягым Теләче (икенче вариант) / Дания Гайнетдинова / Рамил Курамшин - Родной мой край Теляче (второй вариант)](../translated/d/daniya_gaynetdinova_ramil_kuramshin_-_tugan_yagim_telache_ikenche_variant.md)
-- [Дания Мәхмүтова / Илмир Залеев - Йөрәгем түзә / Дания Махмутова / Ильмир Залеев - Сердце терпит](../translated/d/daniya_mahmutova_ilmir_zaleev_-_yoragem_tuza.md)
-- [Даһи Бабичев / Рафик Сәлмәнов - Яз җыры (икенче вариант) / Дахи Бабичев / Рафик Салманов - Весенняя песня (второй вариант)](../translated/d/dahi_babichev_rafik_salmanov_-_yaz_ciri_ikenche_variant.md)
-- [Дениз Бадретдин - Эльмира / Дениз Бадретдин - Эльмира](../translated/d/deniz_badretdin_-_elmira.md)
-- [Джамиля - Мин килермен янына / Джамиля - Я приду к тебе](../translated/d/dzhamilya-min_kilermen_yanyna.md)
-- [Джамиля - Язма мина хатынны / Джамиля - Не пиши мне письма](../translated/d/dzhamilya-yazma_mina_hatynny.md)
-- [Диана Тажетдинова - Ин зур югалту / Диана Тажетдинова - Самая большая потеря](../translated/d/diana_tazhetdinova-in_zur_yugaltu.md)
 
 ---
 

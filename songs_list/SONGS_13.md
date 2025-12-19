@@ -1,10 +1,11 @@
 # Татарские песни и их перевод - Страница 13
 
-## Список песен (песни 1201-1300 из 3505)
+## Список песен (песни 1201-1300 из 3535)
 
 [← Предыдущая страница](songs_list/SONGS_12.md) | [Главная страница](../README.md) | [Следующая страница →](songs_list/SONGS_14.md)
 
 
+- [Галия Сафиуллина / Айнур Сәйфиев - Язмышларны без язырлык булса / Галия Сафиуллина / Айнур Сәйфиев - Если бы мы могли писать судьбы](../translated/g/galiya_safiullina_aynur_sayfiev_-_yazmishlarni_bez_yazirlik_bulsa.md)
 - [Галиәхмәт Шаһи / Виталий Агапов - Кайтмадың (беренче вариант) / Галиахмат Шахи / Виталий Агапов - Не вернулся (первый вариант)](../translated/g/galiahmat_shahi_vitaliy_agapov_-_kaytmadin_berenche_variant.md)
 - [Галиәхмәт Шаһи / Виталий Агапов - Ник карадың күзләремә? / Галиәхмет Шахи / Виталий Агапов - Зачем глядела в мои глаза?](../translated/g/galiahmat_shahi_vitaliy_agapov_-_nik_karadin_kuzlarema.md)
 - [Галиәхмәт Шаһи / Виталий Агапов - Сабан туе гүзәле / Галиәхмәт Шаһи / Виталий Агаов - Красотка сабантуйская](../translated/g/galiahmat_shahi_vitaliy_agapov_-_saban_tue_guzale.md)
@@ -13,8 +14,10 @@
 - [Галиәхмәт Шаһи / Виталий Агапов - Җырларымда яшим / Галиәхмәт Шаһи / Виталий Агапов - Я живу в моих песнях](../translated/g/galiahmat_shahi_vitaliy_agapov_-_cirlarimda_yashim.md)
 - [Галиәхмәт Шаһи / Виталий Агапов - Җырлый-җырлый хушлашам / Галиахмат Шахи / Виталий Агапов - Песня-песня, прощай](../translated/g/galiahmat_shahi_vitaliy_agapov_-_cirliy-cirliy_hushlasham.md)
 - [Галиәхмәт Шаһи / Виталий Агапов - Әтинең туган көне / Галиахмат Шаи / Виталий Агапов - Дня рождения отца](../translated/g/galiahmat_shahi_vitaliy_agapov_-_atinen_tugan_kone.md)
+- [Галиәхмәт Шаһи / Мөдәрис Газетдинов - Гомер мизгелләре / Галиахмат Шахи / Мударис Газетдинов - Мгновения жизни](../translated/g/galiahmat_shahi_modaris_gazetdinov_-_gomer_mizgellare.md)
 - [Гамил Афзал / Сәйдәш Чәчәнбаев - Әгәр дә син / Гамиль Афзал / Саидеш Чачанбаев - Если бы ты](../translated/g/gamil_afzal_saydash_chachanbaev_-_agar_da_sin.md)
 - [Гамир Насрый / Салих Сәйдәшев - Мәхәббәт җыры (беренче вариант) / Гамир Насрий / Салих Сәйдәшев - Песня любви (первый вариант)](../translated/g/gamir_nasriy_salih_saydashev_-_mahabbat_ciri_berenche_variant.md)
+- [Гарифҗан Мөхәммәтшин / Айрат Кобагышев - Ак җыр (өченче вариант) / Гарифжан Мухамметшин / Айрат Кобагышев - Белая песня (третий вариант)](../translated/g/garifcan_mohammatshin_ayrat_kobagishev_-_ak_cir_ochenche_variant.md)
 - [Гарифҗан Мөхәммәтшин / Луиза Батыр-Болгари - Аулак өй / Гарифҗан Мөхәммәтшин / Луиза Батыр-Болгари - Праздничный дом](../translated/g/garifcan_mohammatshin_luiza_batir-bolgari_-_aulak_oy.md)
 - [Госман Садә / Резеда Ахиярова - Әссәламәгаләйкүм! / Госман Садә / Резеда Ахиярова - Әссәламәгаләйкүм!](../translated/g/gosman_sada_rezeda_ahiyarova_-_assalamagalaykum.md)
 - [Госман Садә / Рим Хәсәнов - Җылы яңгыр (беренче вариант) / Госман Садә / Рим Хәсәнов - Тёплый дождь (первый вариант)](../translated/g/gosman_sada_rim_hasanov_-_cili_yangir_berenche_variant.md)
@@ -102,9 +105,6 @@
 - [Гульнара Тимержанова - Карабай / Гульнара Тимержанова - Карабай](../translated/g/gulnara_timerzhanova-karabay.md)
 - [Гульнара Тимержанова - Коттермэ / Гульнара Тимержанова - Жди](../translated/g/gulnara_timerzhanova-kotterme.md)
 - [Гульнара Тимержанова - Котэм / Гульнара Тимержанова - Жду](../translated/g/gulnara_timerzhanova-kotem.md)
-- [Гульнара Тимержанова - Мин синен очен / Гульнара Тимержанова - Я для тебя](../translated/g/gulnara_timerzhanova-min_sinen_ochen.md)
-- [Гульнара Тимержанова - Мэхэббэт дингезе / Гульнара Тимержанова - Море любви](../translated/g/gulnara_timerzhanova-mehebbet_dingeze.md)
-- [Гульнара Тимержанова - Мэхэббэт ялкыны / Гульнара Тимержанова - Пламя любви](../translated/g/gulnara_timerzhanova-mehebbet_yalkyny.md)
 
 ---
 

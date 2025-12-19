@@ -1,10 +1,18 @@
 # Татарские песни и их перевод - Страница 17
 
-## Список песен (песни 1601-1700 из 3505)
+## Список песен (песни 1601-1700 из 3535)
 
 [← Предыдущая страница](songs_list/SONGS_16.md) | [Главная страница](../README.md) | [Следующая страница →](songs_list/SONGS_18.md)
 
 
+- [Динә Талхина / Роза Сәхәүетдинова - Мәктәбем ихатасы / Дина Талхина / Роза Сахауетдинова - Ограда моей школы](../translated/d/dina_talhina_roza_sahauetdinova_-_maktabem_ihatasi.md)
+- [Динә Талхина / Роза Сәхәүетдинова - Сагынырсың әле, сагынырсың / Дина Талхина / Роза Сахауетдинова - Скучаешь ли, скучаешь](../translated/d/dina_talhina_roza_sahauetdinova_-_saginirsin_ale_saginirsin.md)
+- [Динә Талхина / Роза Сәхәүетдинова - Сиреннәр чәчәк аткан / Дина Талхина / Роза Сахауетдинова - Сирень зацвела](../translated/d/dina_talhina_roza_sahauetdinova_-_sirennar_chachak_atkan.md)
+- [Динә Талхина / Рәзидә Әхмәтова - Алтын гомер (икенче вариант) / Дина Талхина / Разида Ахметова - Золотая жизнь (второй вариант)](../translated/d/dina_talhina_razida_ahmatova_-_altin_gomer_ikenche_variant.md)
+- [Динә Талхина / Салават Низаметдинов - Ал чәчәк таҗлары / Дина Талхина / Салават Низаметдинов - Алые венки цветов](../translated/d/dina_talhina_salavat_nizametdinov_-_al_chachak_taclari.md)
+- [Динә Талхина / Салават Низаметдинов - Кояшым (Җырларым) / Дина Талхина / Салават Низаметдинов - Моё солнце (Мои песни)](../translated/d/dina_talhina_salavat_nizametdinov_-_koyashim_cirlarim.md)
+- [Динә Талхина / Салават Низаметдинов - Төшләреңә синең керәм / Дина Талхина / Салават Низаметдинов - Вхожу в твои сны](../translated/d/dina_talhina_salavat_nizametdinov_-_toshlarena_sinen_keram.md)
+- [Динә Талхина / Салават Низаметдинов - Эргәмдә булсаң икән / Дина Талхина / Салават Низаметдинов - Если бы ты был со мной](../translated/d/dina_talhina_salavat_nizametdinov_-_ergamda_bulsan_ikan.md)
 - [Динә Талхина / Фәрит Якшыголов - Яшьлек туе / Дина Талхина / Фарит Якшиголов - Свадьба молодости](../translated/d/dina_talhina_farit_yakshigolov_-_yashlek_tue.md)
 - [Дифгать Сирай / Зиннур Гыйбадуллин - Болгар кызы Ләйлә / Дифгать Сирай / Зиннур Гыйбадуллин - Булгарская дочь Лейла](../translated/d/difgat_siray_zinnur_giybadullin_-_bolgar_kizi_layla.md)
 - [Дифгать Сирай / Зиннур Гыйбадуллин - Җырлыйк әле (өченче вариант) / Дифгать Сирай / Зиннур Гыйбадуллин - Давайте споём (третий вариант)](../translated/d/difgat_siray_zinnur_giybadullin_-_cirliyk_ale_ochenche_variant.md)
@@ -38,6 +46,7 @@
 - [Заһид Фәйзи / Рөстәм Яхин - Ник өзмисең берсен? / Заһид Фәйзи / Рөстәм Яхин - Почему не сорвёшь один?](../translated/z/zahid_fayzi_rostam_yahin_-_nik_ozmisen_bersen.md)
 - [Заһит Фәйзрахманов / Рәсилә Йосыпова - Үз өемнең бикле капкасы / Захит Файзрахманов / Расиля Юсупова - Запертая калитка родного дома](../translated/z/zahit_fayzrahmanov_rasila_yosipova_-_uz_oemnen_bikle_kapkasi.md)
 - [Зинаида Захарова / Людмила Аланлы - Сөйгән ярыма / Зинаида Захарова / Людмила Аланлы - Возлюбленному](../translated/z/zinaida_zaharova_lyudmila_alanli_-_soygan_yarima.md)
+- [Зиннур Насыйбуллин / Әнвәр Бакиров - Ләйсән яңгыр яуганда / Зиннур Насыйбуллин / Анвар Бакиров - Когда льёт ливень](../translated/z/zinnur_nasiybullin_anvar_bakirov_-_laysan_yangir_yauganda.md)
 - [Зиннур Сафиуллин - Бэхет тоне / Зиннур Сафиуллин - Ночь счастья](../translated/z/zinnur_safiullin-behet_tone.md)
 - [Зиннур Сафиуллин - Сөйгәнемнең кулъяулыгы / Зиннур Сафиуллин - Прикосновение любимой](../translated/z/zinnur_safiullin_-_soyganemnen_kulyauligi.md)
 - [Зифа Нагаева - Авыл юлларыннан үтәм / Зифа Нагаева - Прохожу по сельским дорогам](../translated/z/zifa_nagaeva_-_avil_yullarinnan_utam.md)
@@ -96,15 +105,6 @@
 - [Зульфат Зиннуров и Зиннур - Герман кое / Зульфат Зиннуров и Зиннур - Немецкие дни](../translated/z/zulfat_zinnurov_zinnur-german_koe.md)
 - [Зульфат Зиннуров и Зиннур - Гонахмы / Зульфат Зиннуров и Зиннур - Грешно ли](../translated/z/zulfat_zinnurov_zinnur-gonahmy.md)
 - [Зульфат Зиннуров и Зиннур - Килде безгэ сынау коннэре / Зульфат Зиннуров и Зиннур - Пришли к нам дни испытаний](../translated/z/zulfat_zinnurov_zinnur-kilde_bezge_synau_konnere.md)
-- [Зульфат Зиннуров и Зиннур - Мэхэббэткэ ясин / Зульфат Зиннуров и Зиннур - Молитва по любви](../translated/z/zulfat_zinnurov_zinnur-mehebbetke_yasin.md)
-- [Зульфат Зиннуров и Зиннур - Нокта куярга вакыт / Зульфат Зиннуров и Зиннур - Время поставить точку](../translated/z/zulfat_zinnurov_zinnur-nokta_kuyarga_vakyt.md)
-- [Зульфат Зиннуров и Зиннур - Сонлама / Зульфат Зиннуров и Зиннур - Не медли](../translated/z/zulfat_zinnurov_zinnur-sonlama.md)
-- [Зульфат Зиннуров и Зиннур - Сою / Зульфат Зиннуров и Зиннур - Любимая](../translated/z/zulfat_zinnurov_zinnur-soyu.md)
-- [Зульфат Зиннуров и Зиннур - Чупа чупс / Зульфат Зиннуров и Зиннур - Чупа-чупс](../translated/z/zulfat_zinnurov_zinnur-chupa_chups.md)
-- [Зульфат Зиннуров и Зиннур - Эткэй / Зульфат Зиннуров и Зиннур - Дядя](../translated/z/zulfat_zinnurov_zinnur-etkey.md)
-- [Зульфат Зиннуров и Зиннур - Яшьлек язым / Зульфат Зиннуров и Зиннур - Весна юности](../translated/z/zulfat_zinnurov_zinnur-yashlek_yazym.md)
-- [Зульфат Хаким - Жырларым хыялларым / Зульфат Хаким - Мои песни, мои мечты](../translated/z/zulfat_hakim-zhyrlarym_hyyallarym.md)
-- [Зульфат Хаким - Нэрсэ булды сина буген / Зульфат Хаким - Что с тобой сегодня стало](../translated/z/zulfat_hakim-nerse_buldy_sina_bugen.md)
 
 ---
 
