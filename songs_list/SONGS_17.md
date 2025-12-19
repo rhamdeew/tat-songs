@@ -1,10 +1,13 @@
 # Татарские песни и их перевод - Страница 17
 
-## Список песен (песни 1601-1700 из 3461)
+## Список песен (песни 1601-1700 из 3505)
 
 [← Предыдущая страница](songs_list/SONGS_16.md) | [Главная страница](../README.md) | [Следующая страница →](songs_list/SONGS_18.md)
 
 
+- [Динә Талхина / Фәрит Якшыголов - Яшьлек туе / Дина Талхина / Фарит Якшиголов - Свадьба молодости](../translated/d/dina_talhina_farit_yakshigolov_-_yashlek_tue.md)
+- [Дифгать Сирай / Зиннур Гыйбадуллин - Болгар кызы Ләйлә / Дифгать Сирай / Зиннур Гыйбадуллин - Булгарская дочь Лейла](../translated/d/difgat_siray_zinnur_giybadullin_-_bolgar_kizi_layla.md)
+- [Дифгать Сирай / Зиннур Гыйбадуллин - Җырлыйк әле (өченче вариант) / Дифгать Сирай / Зиннур Гыйбадуллин - Давайте споём (третий вариант)](../translated/d/difgat_siray_zinnur_giybadullin_-_cirliyk_ale_ochenche_variant.md)
 - [Дифгать Сирай / Зиннур Гыйбадуллин - Әллә ярата микән? / Дифгать Сирай / Зиннур Гыйбадуллин - Любит ли он меня?](../translated/d/difgat_siray_zinnur_giybadullin_-_alla_yarata_mikan.md)
 - [Дәрдмәнд / Алмаз Монасыйпов - Саба җил / Дардманд / Алмаз Монасыйпов - Утренний ветер](../translated/d/dardmand_almaz_monasiypov_-_saba_cil.md)
 - [Дәрдмәнд / Муса Маликов - Янарымда ярый син бар, әткәй / Дардманд / Муса Маликов - Ты со мной, отец](../translated/d/dardmand_musa_malikov_-_yanarimda_yariy_sin_bar_atkay.md)
@@ -102,9 +105,6 @@
 - [Зульфат Зиннуров и Зиннур - Яшьлек язым / Зульфат Зиннуров и Зиннур - Весна юности](../translated/z/zulfat_zinnurov_zinnur-yashlek_yazym.md)
 - [Зульфат Хаким - Жырларым хыялларым / Зульфат Хаким - Мои песни, мои мечты](../translated/z/zulfat_hakim-zhyrlarym_hyyallarym.md)
 - [Зульфат Хаким - Нэрсэ булды сина буген / Зульфат Хаким - Что с тобой сегодня стало](../translated/z/zulfat_hakim-nerse_buldy_sina_bugen.md)
-- [Зульфия Камалова - Ай былбылым / Зульфия Камалова - Ах, соловей мой](../translated/z/zulfiya_kamalova-ay_bylbylym.md)
-- [Зульфия Камалова - Ай жаный вай жаный / Зульфия Камалова - Ах, душенька моя](../translated/z/zulfiya_kamalova-ay_zhanyy_vay_zhanyy.md)
-- [Зульфия Камалова - Йокысызлык / Зульфия Камалова - Бессонница](../translated/z/zulfiya_kamalova-yokysyzlyk.md)
 
 ---
 

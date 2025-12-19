@@ -1,10 +1,11 @@
 # Татарские песни и их перевод - Страница 14
 
-## Список песен (песни 1301-1400 из 3461)
+## Список песен (песни 1301-1400 из 3505)
 
 [← Предыдущая страница](songs_list/SONGS_13.md) | [Главная страница](../README.md) | [Следующая страница →](songs_list/SONGS_15.md)
 
 
+- [Гульнара Тимержанова - Ой артында шомыртым бар / Гульнара Тимержанова - За домом черёмуха моя](../translated/g/gulnara_timerzhanova-oy_artynda_shomyrtym_bar.md)
 - [Гульнара Тимержанова - Ойдэ буран булмасын / Гульнара Тимержанова - Пусть дома не будет бури](../translated/g/gulnara_timerzhanova-oyde_buran_bulmasyn.md)
 - [Гульнара Тимержанова - Очты еллар / Гульнара Тимержанова - Прошли годы](../translated/g/gulnara_timerzhanova-ochty_ellar.md)
 - [Гульнара Тимержанова - Парлы ялгызлар / Гульнара Тимержанова - Парные одинокие](../translated/g/gulnara_timerzhanova-parly_yalgyzlar.md)
@@ -17,6 +18,7 @@
 - [Гульнара Тимержанова - Язмыш булэге / Гульнара Тимержанова - Подарок судьбы](../translated/g/gulnara_timerzhanova-yazmysh_bulege.md)
 - [Гульнара Яруллина - Су буенда учак яна / Гульнара Яруллина - У воды горит костёр](../translated/g/gulnara_yarullina-su_buenda_uchak_yana.md)
 - [Гыйльман Ишкинин - Рамазан (икенче вариант) / Гильман Ишкинин - Рамазан (второй вариант)](../translated/g/giylman_ishkinin_-_ramazan_ikenche_variant.md)
+- [Гыйләҗ Минаев / Фәрит Хатыйпов - Ак күл / Гильжан Миняев / Фарит Хатыпов - Белое озеро](../translated/g/giylac_minaev_farit_hatiypov_-_ak_kul.md)
 - [Гүзел Минакова - Беркем белмэс / Гузель Минакова - Никто не знает](../translated/g/guzel_minakova-berkem_belmes.md)
 - [Гүзел Уразова - Син житмисен жанга / Гүзел Уразова - Душе тебя не хватает](../translated/g/guzel_urazova-sin_zhitmisen_zhanga.md)
 - [Гүзел Уразова - Син килгэнсен икэн / Гүзел Уразова - Значит, ты пришёл](../translated/g/guzel_urazova-sin_kilgensen_iken.md)
@@ -95,6 +97,7 @@
 - [Гөлсәрвәр / Оскар Усманов - Тылсымлы теләк / Гөлсәрвәр / Оскар Усманов - Волшебное желание](../translated/g/golsarvar_oskar_usmanov_-_tilsimli_telak.md)
 - [Гөлсәрвәр / Оскар Усманов - Хыяллар дөньясы гаҗәеп / Гөлсәрвәр / Оскар Усманов - Поразительный мир мечтаний](../translated/g/golsarvar_oskar_usmanov_-_hiyallar_donyasi_gacaep.md)
 - [Гөлсәрвәр / Оскар Усманов - Язмышка ни язган / Гөлсәрвәр / Оскар Усманов - Что написано в судьбе](../translated/g/golsarvar_oskar_usmanov_-_yazmishka_ni_yazgan.md)
+- [Гөлфия Шакирова / Альберт Галимуллин - Туган авылым - Акхуҗа / Гульфия Шакирова / Альберт Галимов - Родная деревня моя - Акхужа](../translated/g/golfiya_shakirova_albert_galimullin_-_tugan_avilim_akhuca.md)
 - [Гөлфия Шакирова / Альберт Галимуллин - Ходай сезне бүләкләр / Гульфия Шакирова / Альберт Галимуллин - Дарует тебе Бог блага](../translated/g/golfiya_shakirova_albert_galimullin_-_hoday_sezne_bulaklar.md)
 - [Гөлфия Шакирова / Гүзәлия - Былбыл (икенче вариант) / Гөлфия Шакирова / Гүзәлия - Соловей (второй вариант)](../translated/g/golfiya_shakirova_guzaliya_-_bilbil_ikenche_variant.md)
 - [Гөлфия Шакирова / Игорь Дмитриев - Үкенмим (икенче вариант) / Гульфия Шакирова / Игорь Дмитриев - Я не жалуюсь (второй вариант)](../translated/g/golfiya_shakirova_igor_dmitriev_-_ukenmim_ikenche_variant.md)
@@ -102,9 +105,6 @@
 - [Гөлфия Шакирова / Лилия Вахитова - Алдашмагыз! / Гульфия Шакирова / Лилия Вахитова - Не обманывайте!](../translated/g/golfiya_shakirova_liliya_vahitova_-_aldashmagiz.md)
 - [Гөлфия Шакирова / Лилия Вахитова - Кайнар ипи / Гөлфия Шакирова / Лилия Вахитова - Горячий хлеб](../translated/g/golfiya_shakirova_liliya_vahitova_-_kaynar_ipi.md)
 - [Гөлфия Шакирова / Марат Мухин - Язлар булып кайт / Гульфия Шакирова / Марат Мухин - Вернись в виде лет](../translated/g/golfiya_shakirova_marat_muhin_-_yazlar_bulip_kayt.md)
-- [Гөлфия Шакирова / Мурат Гайсин - Күңелемнең кыллары / Гульфия Шакирова / Мурат Гайсин - Струны моего сердца](../translated/g/golfiya_shakirova_murat_gaysin_-_kunelemnen_killari.md)
-- [Гөлфия Шакирова / Мөдәрис Газетдинов - Иртәләре-кичләре / Гульфия Шакирова / Модарис Газетдинов - По утрам и вечерам](../translated/g/golfiya_shakirova_modaris_gazetdinov_-_irtalare-kichlare.md)
-- [Гөлфия Шакирова / Мөдәрис Газетдинов - Тик икәү / Гульфия Шакирова / Модарис Газетдинов - Только вдвоем](../translated/g/golfiya_shakirova_modaris_gazetdinov_-_tik_ikau.md)
 
 ---
 

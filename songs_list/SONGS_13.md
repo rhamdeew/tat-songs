@@ -1,10 +1,11 @@
 # Татарские песни и их перевод - Страница 13
 
-## Список песен (песни 1201-1300 из 3461)
+## Список песен (песни 1201-1300 из 3505)
 
 [← Предыдущая страница](songs_list/SONGS_12.md) | [Главная страница](../README.md) | [Следующая страница →](songs_list/SONGS_14.md)
 
 
+- [Галиәхмәт Шаһи / Виталий Агапов - Кайтмадың (беренче вариант) / Галиахмат Шахи / Виталий Агапов - Не вернулся (первый вариант)](../translated/g/galiahmat_shahi_vitaliy_agapov_-_kaytmadin_berenche_variant.md)
 - [Галиәхмәт Шаһи / Виталий Агапов - Ник карадың күзләремә? / Галиәхмет Шахи / Виталий Агапов - Зачем глядела в мои глаза?](../translated/g/galiahmat_shahi_vitaliy_agapov_-_nik_karadin_kuzlarema.md)
 - [Галиәхмәт Шаһи / Виталий Агапов - Сабан туе гүзәле / Галиәхмәт Шаһи / Виталий Агаов - Красотка сабантуйская](../translated/g/galiahmat_shahi_vitaliy_agapov_-_saban_tue_guzale.md)
 - [Галиәхмәт Шаһи / Виталий Агапов - Хуш дияргә ашыкма / Галиәхмәт Шахи / Виталий Агапов - Не спеши прощаться](../translated/g/galiahmat_shahi_vitaliy_agapov_-_hush_diyarga_ashikma.md)
@@ -104,7 +105,6 @@
 - [Гульнара Тимержанова - Мин синен очен / Гульнара Тимержанова - Я для тебя](../translated/g/gulnara_timerzhanova-min_sinen_ochen.md)
 - [Гульнара Тимержанова - Мэхэббэт дингезе / Гульнара Тимержанова - Море любви](../translated/g/gulnara_timerzhanova-mehebbet_dingeze.md)
 - [Гульнара Тимержанова - Мэхэббэт ялкыны / Гульнара Тимержанова - Пламя любви](../translated/g/gulnara_timerzhanova-mehebbet_yalkyny.md)
-- [Гульнара Тимержанова - Ой артында шомыртым бар / Гульнара Тимержанова - За домом черёмуха моя](../translated/g/gulnara_timerzhanova-oy_artynda_shomyrtym_bar.md)
 
 ---
 

@@ -1,10 +1,19 @@
 # Татарские песни и их перевод - Страница 20
 
-## Список песен (песни 1901-2000 из 3461)
+## Список песен (песни 1901-2000 из 3505)
 
 [← Предыдущая страница](songs_list/SONGS_19.md) | [Главная страница](../README.md) | [Следующая страница →](songs_list/SONGS_21.md)
 
 
+- [Иркэ - Бутэнне тап / Иркэ - Найди другую](../translated/i/irke-butenne_tap.md)
+- [Иркэ - Бэхетле булыр иден / Иркэ - Была бы счастлива](../translated/i/irke-behetle_bulyr_iden.md)
+- [Иркэ - Жавапсыз мэхэббэт / Иркэ - Безответная любовь](../translated/i/irke-zhavapsyz_mehebbet.md)
+- [Иркэ - Житэ безгэ бер сэгать / Иркэ - Хватит нам одного часа](../translated/i/irke-zhite_bezge_ber_segat.md)
+- [Иркэ - Жэй / Иркэ - Лето](../translated/i/irke-zhey.md)
+- [Иркэ - Кара болыт / Иркэ - Чёрная туча](../translated/i/irke-kara_bolyt.md)
+- [Иркэ - Кил яныма / Иркэ - Приди ко мне](../translated/i/irke-kil_yanyma.md)
+- [Иркэ - Кояшлы янгыр / Иркэ - Солнечный дождь](../translated/i/irke-koyashly_yangyr.md)
+- [Иркэ - Кызлар хэм егетлэр / Иркэ - Девушки и парни](../translated/i/irke-kyzlar_hem_egetler.md)
 - [Иркэ - Кызыма / Иркэ - Моей дочке](../translated/i/irke-kyzyma.md)
 - [Иркэ - Кыр чэчэге / Иркэ - Полевой цветок](../translated/i/irke-kyr_chechege.md)
 - [Иркэ - Мин синен иркэн / Иркэ - Я твоя нежность](../translated/i/irke-min_sinen_irken.md)
@@ -96,15 +105,6 @@
 - [Ландыш Нигметжанова - Кызыл туйда / Ландыш Нигметжанова - На красной свадьбе](../translated/l/landysh_nigmetzhanova-kyzyl_tuyda.md)
 - [Ландыш Нигметжанова - Мин нэрсэ эшлэдем / Ландыш Нигметжанова - Что же я наделала](../translated/l/landysh_nigmetzhanova-min_nerse_eshledem.md)
 - [Ландыш Нигметжанова - Мина ни булды / Ландыш Нигметжанова - Что со мной случилось](../translated/l/landysh_nigmetzhanova-mina_ni_buldy.md)
-- [Ландыш Нигметжанова - Мине эзлэ / Ландыш Нигметжанова - Ищи меня](../translated/l/landysh_nigmetzhanova-mine_ezle.md)
-- [Ландыш Нигметжанова - Мэхэббэт голлэре / Ландыш Нигметжанова - Цветы любви](../translated/l/landysh_nigmetzhanova-mehebbet_gollere.md)
-- [Ландыш Нигметжанова - Ометем йолдызы / Ландыш Нигметжанова - Звезда моих надежд](../translated/l/landysh_nigmetzhanova-ometem_yoldyzy.md)
-- [Ландыш Нигметжанова - Очрашканда / Ландыш Нигметжанова - При встрече](../translated/l/landysh_nigmetzhanova-ochrashkanda.md)
-- [Ландыш Нигметжанова - Ошим тунам / Ландыш Нигметжанова - Замерзаю, плавлюсь](../translated/l/landysh_nigmetzhanova-oshim_tunam.md)
-- [Ландыш Нигметжанова - Сау бул / Ландыш Нигметжанова - Прощай](../translated/l/landysh_nigmetzhanova-sau_bul.md)
-- [Ландыш Нигметжанова - Син ялгышасын / Ландыш Нигметжанова - Ты ошибаешься](../translated/l/landysh_nigmetzhanova-sin_yalgyshasyn.md)
-- [Ландыш Нигметжанова - Сина ярыйсым килэ / Ландыш Нигметжанова - Хочется угодить тебе](../translated/l/landysh_nigmetzhanova-sina_yaryysym_kile.md)
-- [Ландыш Нигметжанова - Сине эзлим / Ландыш Нигметжанова - Тебя ищу](../translated/l/landysh_nigmetzhanova-sine_ezlim.md)
 
 ---
 

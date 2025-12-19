@@ -1,10 +1,19 @@
 # Татарские песни и их перевод - Страница 21
 
-## Список песен (песни 2001-2100 из 3461)
+## Список песен (песни 2001-2100 из 3505)
 
 [← Предыдущая страница](songs_list/SONGS_20.md) | [Главная страница](../README.md) | [Следующая страница →](songs_list/SONGS_22.md)
 
 
+- [Ландыш Нигметжанова - Мине эзлэ / Ландыш Нигметжанова - Ищи меня](../translated/l/landysh_nigmetzhanova-mine_ezle.md)
+- [Ландыш Нигметжанова - Мэхэббэт голлэре / Ландыш Нигметжанова - Цветы любви](../translated/l/landysh_nigmetzhanova-mehebbet_gollere.md)
+- [Ландыш Нигметжанова - Ометем йолдызы / Ландыш Нигметжанова - Звезда моих надежд](../translated/l/landysh_nigmetzhanova-ometem_yoldyzy.md)
+- [Ландыш Нигметжанова - Очрашканда / Ландыш Нигметжанова - При встрече](../translated/l/landysh_nigmetzhanova-ochrashkanda.md)
+- [Ландыш Нигметжанова - Ошим тунам / Ландыш Нигметжанова - Замерзаю, плавлюсь](../translated/l/landysh_nigmetzhanova-oshim_tunam.md)
+- [Ландыш Нигметжанова - Сау бул / Ландыш Нигметжанова - Прощай](../translated/l/landysh_nigmetzhanova-sau_bul.md)
+- [Ландыш Нигметжанова - Син ялгышасын / Ландыш Нигметжанова - Ты ошибаешься](../translated/l/landysh_nigmetzhanova-sin_yalgyshasyn.md)
+- [Ландыш Нигметжанова - Сина ярыйсым килэ / Ландыш Нигметжанова - Хочется угодить тебе](../translated/l/landysh_nigmetzhanova-sina_yaryysym_kile.md)
+- [Ландыш Нигметжанова - Сине эзлим / Ландыш Нигметжанова - Тебя ищу](../translated/l/landysh_nigmetzhanova-sine_ezlim.md)
 - [Ландыш Нигметжанова - Синнэн башка / Ландыш Нигметжанова - Кроме тебя](../translated/l/landysh_nigmetzhanova-sinnen_bashka.md)
 - [Ландыш Нигметжанова - Тошлэремэ кермэ / Ландыш Нигметжанова - Не входи в мои сны](../translated/l/landysh_nigmetzhanova-toshlereme_kerme.md)
 - [Ландыш Нигметжанова - Тылсымлы суз / Ландыш Нигметжанова - Волшебное слово](../translated/l/landysh_nigmetzhanova-tylsymly_suz.md)
@@ -65,6 +74,7 @@
 - [Лилия Хамитова - Тузэ икэн йорэк / Лилия Хамитова - Сердце умеет терпеть](../translated/l/liliya_hamitova-tuze_iken_yorek.md)
 - [Лилия Хамитова - Тылсымлы телэк / Лилия Хамитова - Волшебное пожелание](../translated/l/liliya_hamitova-tylsymly_telek.md)
 - [Лилия Хамитова - Хэерле юл тели хэйкэллэр / Лилия Хамитова - Памятники, желающие счастливого пути](../translated/l/liliya_hamitova-heerle_yul_teli_heykeller.md)
+- [Люция Әблиева / Эльвира Нигъмәтуллина - Иртән / Люция Абляева / Эльвира Нигматуллина - Рано утром](../translated/l/lyutsiya_ablieva_elvira_nigmatullina_-_irtan.md)
 - [Ләбиб Айтуганов / Фасил Әхмәтов - Әй, Кабаным! / Лябиб Айтуганов / Фасиль Ахметов - Эй, Кабаным!](../translated/l/labib_aytuganov_fasil_ahmatov_-_ay_kabanim.md)
 - [Ләбиб Лерон / Айдар Тимербаев - Әбри булыр абзагыз / Ләбиб Лерон / Айдар Тимербаев - Абри будет вашим Абзага](../translated/l/labib_leron_aydar_timerbaev_-_abri_bulir_abzagiz.md)
 - [Ләбиб Лерон / Ризван Хәкимов - Әнием-әникәем / Ләбиб Лерон / Ризван Хәкимов - Мамочка моя, матушка моя](../translated/l/labib_leron_rizvan_hakimov_-_aniem-anikaem.md)
@@ -72,8 +82,10 @@
 - [Ләйлә Дәүләтова / Альфред Якшимбетов - Юк, юк / Ляйля Даулатова / Альфред Якшымбетов - Нет, нет](../translated/l/layla_daulatova_alfred_yakshimbetov_-_yuk_yuk.md)
 - [Ләйлә Дәүләтова / Артур Җамалетдинов - Син булсаң / Ляйля Даулетова / Артур Джамалетдинов - Если ты будешь](../translated/l/layla_daulatova_artur_camaletdinov_-_sin_bulsan.md)
 - [Ләйлә Дәүләтова / Зөфәр Хәйретдинов - Яшисең килеп яшә (беренче вариант) / Ляйля Даулатова / Зөфер Хәйретдинов - Проживи свою жизнь (первый вариант)](../translated/l/layla_daulatova_zofar_hayretdinov_-_yashisen_kilep_yasha_berenche_variant.md)
+- [Ләйлә Дәүләтова / Салават Низаметдинов - Миңа синнән берни кирәк түгел / Ләйлә Дәүләтова / Салават Низаметдинов - Мне от тебя ничего не нужно](../translated/l/layla_daulatova_salavat_nizametdinov_-_mina_sinnan_berni_kirak_tugel.md)
 - [Ләйлә Дәүләтова / Салават Низаметдинов - Рәхмәт сиңа (икенче вариант) / Ляйля Даутлова / Салават Низаметдинов - Спасибо тебе (второй вариант)](../translated/l/layla_daulatova_salavat_nizametdinov_-_rahmat_sina_ikenche_variant.md)
 - [Ләйлә Дәүләтова / Урал Рәшитов - Сөләйман балдагы / Ляйля Даулатова / Урал Рашидов - Сулейман балдагы](../translated/l/layla_daulatova_ural_rashitov_-_solayman_baldagi.md)
+- [Ләйсән Кәшфи / Зиннур Сафиуллин - Тамчылар (икенче вариант) / Ләйсән Кәшфи / Зиннур Сафиуллин - Капли (второй вариант)](../translated/l/laysan_kashfi_zinnur_safiullin_-_tamchilar_ikenche_variant.md)
 - [Малика - Ак бэхет телэрмен / Малика - Желаю белого счастья](../translated/m/malika-ak_behet_telermen.md)
 - [Малика - Бэхетем минем / Малика - Счастье моё](../translated/m/malika-behetem_minem.md)
 - [Малика - Бэхетем шахзадэсе (Шахзадэ) / Малика - Принц моего счастья (Принц)](../translated/m/malika-behetem_shahzadese_shahzade.md)
@@ -93,18 +105,6 @@
 - [Малика - Оныт эле аны / Малика - Забудь её](../translated/m/malika-onyt_ele_any.md)
 - [Малика - Сагынырсын / Малика - Будешь скучать](../translated/m/malika-sagynyrsyn.md)
 - [Малика - Сандугач / Малика - Соловей](../translated/m/malika-sandugach.md)
-- [Малика - Син булганда / Малика - Когда ты есть](../translated/m/malika-sin_bulganda.md)
-- [Малика - Сина килдем / Малика - К тебе пришла](../translated/m/malika-sina_kildem.md)
-- [Малика - Сина, жаным / Малика - Тебе, душа моя](../translated/m/malika-sina_zhanym.md)
-- [Малика - Сукыр шагыйръ / Малика - Слепой поэт](../translated/m/malika-sukyr_shagyyr.md)
-- [Малика - Торналар / Малика - Журавли](../translated/m/malika-tornalar.md)
-- [Малика - Узем анлап алдым / Малика - Сама поняла](../translated/m/malika-uzem_anlap_aldym.md)
-- [Малика - Упкэлэмэ мина / Малика - Не сердись на меня](../translated/m/malika-upkeleme_mina.md)
-- [Малика - Упкэлэмэм сина этием / Малика - Не сержусь на тебя, отец](../translated/m/malika-upkelemem_sina_etiem.md)
-- [Малика - Хыялыма ирешермен мин / Малика - Я достигну своей мечты](../translated/m/malika-hyyalyma_ireshermen_min.md)
-- [Малика - Чияле / Малика - Вишнёвый сад](../translated/m/malika-chiyale.md)
-- [Малика - Эзлэрмен, табармын / Малика - Ищу, найду](../translated/m/malika-ezlermen_tabarmyn.md)
-- [Малика - Эле дэ соям / Малика - Всё ещё люблю](../translated/m/malika-ele_de_soyam.md)
 
 ---
 

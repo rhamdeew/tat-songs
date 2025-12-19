@@ -1,10 +1,13 @@
 # Татарские песни и их перевод - Страница 18
 
-## Список песен (песни 1701-1800 из 3461)
+## Список песен (песни 1701-1800 из 3505)
 
 [← Предыдущая страница](songs_list/SONGS_17.md) | [Главная страница](../README.md) | [Следующая страница →](songs_list/SONGS_19.md)
 
 
+- [Зульфия Камалова - Ай былбылым / Зульфия Камалова - Ах, соловей мой](../translated/z/zulfiya_kamalova-ay_bylbylym.md)
+- [Зульфия Камалова - Ай жаный вай жаный / Зульфия Камалова - Ах, душенька моя](../translated/z/zulfiya_kamalova-ay_zhanyy_vay_zhanyy.md)
+- [Зульфия Камалова - Йокысызлык / Зульфия Камалова - Бессонница](../translated/z/zulfiya_kamalova-yokysyzlyk.md)
 - [Зульфия Камалова - Кубэлэгем / Зульфия Камалова - Бабочка моя](../translated/z/zulfiya_kamalova-kubelegem.md)
 - [Зульфия Камалова - Туган ил / Зульфия Камалова - Родная земля](../translated/z/zulfiya_kamalova-tugan_il.md)
 - [Зульфия Минхажева - Азаккы куперне яндырма / Зульфия Минхажева - Не сжигай последний мост](../translated/z/zulfiya_minhazheva-azakky_kuperne_yandyrma.md)
@@ -32,6 +35,8 @@
 - [Зәйнәп Биишева / Мөфтәдин Гыйләҗев - Гүзәл җыр кебек / Зайнаб Биишева / Муфтадин Гилязев - Как прекрасная песня](../translated/z/zaynap_biisheva_moftadin_giylacev_-_guzal_cir_kebek.md)
 - [Зәйнәп Фәрхетдинова - Гомерлэр зая узмасын / Зейнеп Фархетдинова - Пусть годы зря не проходят](../translated/z/zaynap_farhetdinova-gomerler_zaya_uzmasyn.md)
 - [Зәйнәп Фәрхетдинова - Эче-эче / Зейнеп Фархетдинова - Пей-пей](../translated/z/zaynap_farhetdinova-eche-eche.md)
+- [Зәкия Хәбибуллина / Илфат Миңнегалиев - Сиңа юллар идем / Закия Хабибуллина / Ильфат Миннегалиев - Я тебе тропинки проложил](../translated/z/zakiya_habibullina_ilfat_minnegaliev_-_sina_yullar_idem.md)
+- [Зәлифә Шәймөхәммәтова - Теләүле / Зәлифә Шәймөхәммәтова - Теләүле](../translated/z/zalifa_shaymohammatova_-_telaule.md)
 - [Зөлфия Гыйзетдинова / Рәис Ханнанов - Гомерне ашыктырабыз, бугай / Зөлфия Гыйзетдинова / Рәис Ханнанов - Похоже, мы торопим жизнь](../translated/z/zolfiya_giyzetdinova_rais_hannanov_-_gomerne_ashiktirabiz_bugay.md)
 - [Зөлфия Фәйрушина / Ирек Габдрахманов - Ашыктырма, кәккүк / Зөлфия Фәйрушина / Ирек Габдрахманов - Не торопи, кукушка](../translated/z/zolfiya_fayrushina_irek_gabdrahmanov_-_ashiktirma_kakkuk.md)
 - [Зөлфия Фәйрушина / Флүрә Талипова - Ялгыз ана җыры / Зульфия Файрушина / Флюра Талипова - Песня одинокой матери](../translated/z/zolfiya_fayrushina_flura_talipova_-_yalgiz_ana_ciri.md)
@@ -43,6 +48,7 @@
 - [Зөләйха Минһаҗева / Ринат Гобәйдуллин - Адашкан мәхәббәт / Зөләйха Минхаҗева / Ринат Гобайдуллин - Потерянная любовь](../translated/z/zolayha_minhaceva_rinat_gobaydullin_-_adashkan_mahabbat.md)
 - [Зөһрә Фәйзуллина - Кичерегез / Зухра Файзуллина - Кичерегез](../translated/z/zohra_fayzullina_-_kicheregez.md)
 - [Зөһрә Фәйзуллина / Салават Низаметдинов - Кайда минем батырым / Зухра Файзуллина / Салават Низаметдинов - Где мой герой](../translated/z/zohra_fayzullina_salavat_nizametdinov_-_kayda_minem_batirim.md)
+- [Игорь Дмитриев - Син генә (бишенче вариант) / Игорь Дмитрьев - Только ты (пятый вариант)](../translated/i/igor_dmitriev_-_sin_gena_bishenche_variant.md)
 - [Идэлия - Узенэ / Идэлия - Прошлое](../translated/i/idelia-uzene.md)
 - [Изге Ай - Су буйлап / Изге Ай - Вдоль воды](../translated/i/izge_ay-su_buylap.md)
 - [Изге Ай - Ташлама / Изге Ай - Не оставляй](../translated/i/izge_ay-tashlama.md)
@@ -65,6 +71,7 @@
 - [Илназ Гәрәев / Артур Исламов - Ал канат! / Илназ Гәрәев / Артур Исламов - Алые крылья!](../translated/i/ilnaz_garaev_artur_islamov_-_al_kanat.md)
 - [Илназ Гәрәев / Артур Исламов - Бушлык патшалары / Илназ Гәрәев / Артур Исламов - Короли пустоты](../translated/i/ilnaz_garaev_artur_islamov_-_bushlik_patshalari.md)
 - [Илназ Гәрәев / Артур Исламов - Салкын яңгырлар / Ильназ Гараев / Артур Исламов - Холодные дожди](../translated/i/ilnaz_garaev_artur_islamov_-_salkin_yangirlar.md)
+- [Илназ Гәрәев / Артур Исламов - Язмыш (җиденче вариант) / Илназ Гараев / Артур Исламов - Судьба (седьмой вариант)](../translated/i/ilnaz_garaev_artur_islamov_-_yazmish_cidenche_variant.md)
 - [Илсия Бадретдинова - Азатлык / Илсия Бадретдинова - Свобода](../translated/i/ilsiya_badretdinova-azatlyk.md)
 - [Илсия Бадретдинова - Алабута / Илсия Бадретдинова - Лебеда](../translated/i/ilsiya_badretdinova-alabuta.md)
 - [Илсия Бадретдинова - Алсу / Илсия Бадретдинова - Алсу](../translated/i/ilsiya_badretdinova-alsu.md)
@@ -90,6 +97,7 @@
 - [Илфак Шиһапов - Дала / Ильфак Шихапов - Степь](../translated/i/ilfak_shihapov_-_dala.md)
 - [Илфак Шиһапов - Кайт, Чыңгызхан / Илфак Шихапов - Вернись, Чингизхан](../translated/i/ilfak_shihapov_-_kayt_chingizhan.md)
 - [Илфак Шиһапов - Кунак / Ильфак Шихапов - Гость](../translated/i/ilfak_shihapov_-_kunak.md)
+- [Илфак Шиһапов - Татар / Илфак Шиһапов - Татар](../translated/i/ilfak_shihapov_-_tatar.md)
 - [Илфак Шиһапов - Тукта, вакыт / Илфак Шихапов - Стой, время](../translated/i/ilfak_shihapov_-_tukta_vakit.md)
 - [Илфак Шиһапов - Ябалак / Ильфак Шихапов - Ябалак](../translated/i/ilfak_shihapov_-_yabalak.md)
 - [Илфак Шиһапов - Өзгәләнә йөрәк / Илфак Шихапов - Замерзающее сердце](../translated/i/ilfak_shihapov_-_ozgalana_yorak.md)
@@ -97,14 +105,6 @@
 - [Илшат Валиев - Яратасым килеп тора / Илшат Валиев - Хочется любить](../translated/i/ilshat_valiev-yaratasym_kilep_tora.md)
 - [Илшат Гыйниятуллин / Илдар Ногманов - Туган нигез (дүртенче вариант) / Ильшат Гыйнятуллин / Ильдар Ногманов - Родная земля (четвёртый вариант)](../translated/i/ilshat_giyniyatullin_ildar_nogmanov_-_tugan_nigez_durtenche_variant.md)
 - [Илшат Яппаров - Соеп соелеп яшэ / Илшат Яппаров - Живи любя и любимая](../translated/i/ilshat_yapparov-soep_soelep_yashe.md)
-- [Ильвина - Артларымнан йормэ / Ильвина - Не иди за мной](../translated/i/ilvina-artlarymnan_yorme.md)
-- [Ильвина - Моннар ява / Ильвина - Печаль падает](../translated/i/ilvina-monnar_yava.md)
-- [Ильвина - Син мина кирэк / Ильвина - Ты мне нужен](../translated/i/ilvina-sin_mina_kirek.md)
-- [Ильвина - Якты коннэр / Ильвина - Светлые дни](../translated/i/ilvina-yakty_konner.md)
-- [Ильгэрэй - Балачагым / Ильгэрэй - Моё детство](../translated/i/ilgerey-balachagym.md)
-- [Ильгэрэй - Синен очен / Ильгэрэй - Для тебя](../translated/i/ilgerey-sinen_ochen.md)
-- [Ильгэрэй - Чибэргэ / Ильгэрэй - Красавице](../translated/i/ilgerey-chiberge.md)
-- [Ильдар Ахметов - Адаштырып китмэ / Ильдар Ахметов - Не сбивай с пути](../translated/i/ildar_ahmetov-adashtyryp_kitme.md)
 
 ---
 

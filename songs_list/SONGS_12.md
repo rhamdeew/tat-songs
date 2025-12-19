@@ -1,6 +1,6 @@
 # Татарские песни и их перевод - Страница 12
 
-## Список песен (песни 1101-1200 из 3461)
+## Список песен (песни 1101-1200 из 3505)
 
 [← Предыдущая страница](songs_list/SONGS_11.md) | [Главная страница](../README.md) | [Следующая страница →](songs_list/SONGS_13.md)
 
@@ -65,6 +65,7 @@
 - [Владислав Шәрифуллин - Каридел / Владислав Шарифуллин - Каридель](../translated/v/vladislav_sharifullin_-_karidel.md)
 - [Вәзирә / FIDO - Сиңа җаным / Вәзирә / FIDO - Для тебя, душа моя](../translated/v/vazira_fido_-_sina_canim.md)
 - [Вәзыйх Фатыйхов / Булат Шәрипов - Очар канатым / Вазых Фатыхов / Булат Шарипов - Мои крылья](../translated/v/vaziyh_fatiyhov_bulat_sharipov_-_ochar_kanatim.md)
+- [Вәзыйх Фатыйхов / Нурзадә - Синең хакта (икенче вариант) / Вазих Фатыхов / Нурзада - Про тебя (второй вариант)](../translated/v/vaziyh_fatiyhov_nurzada_-_sinen_hakta_ikenche_variant.md)
 - [Вәзыйх Фатыйхов / Халидин Әхәтов - Соңгы өмет / Вазих Фатихов / Халидин Ахатов - Последняя надежда](../translated/v/vaziyh_fatiyhov_halidin_ahatov_-_songi_omet.md)
 - [Вәлит Илембәтов / Гүзәл Үлмәсколова - Мәңгелеккә кил, иркәм! / Валит Илембатов / Гузель Ульмасколова - Приди навек, любимая!](../translated/v/valit_ilembatov_guzal_ulmaskolova_-_mangelekka_kil_irkam.md)
 - [Вәлит Илембәтов / Роберт Тимербаев - Хәтер җыры (икенче вариант) / Валит Илембатов / Роберт Тимербаев - Песня памяти (второй вариант)](../translated/v/valit_ilembatov_robert_timerbaev_-_hater_ciri_ikenche_variant.md)
@@ -104,7 +105,6 @@
 - [Гакыйль Сәгыйров / Илфат Дәүләтшин - Бәхет (сигезенче вариант) / Гакыйль Сәгыйров / Илфат Дәүләтшин - Счастье (восьмой вариант)](../translated/g/gakiyl_sagiyrov_ilfat_daulatshin_-_bahet_sigezenche_variant.md)
 - [Галия Сафиуллина / Айнур Сәйфиев - Рәхмәтлемен сезгә, газизләрем / Галия Сафиуллина / Айнур Сәйфиев - Спасибо вам, любимые](../translated/g/galiya_safiullina_aynur_sayfiev_-_rahmatlemen_sezga_gazizlarem.md)
 - [Галия Сафиуллина / Айнур Сәйфиев - Язмышларны без язырлык булса / Галия Сафиуллина / Айнур Сәйфиев - Если бы мы могли писать судьбы](../translated/g/galiya_safiullina_aynur_sayfiev_-_yazmishlarni_bez_yazirlik_bulsa.md)
-- [Галиәхмәт Шаһи / Виталий Агапов - Кайтмадың (беренче вариант) / Галиахмат Шахи / Виталий Агапов - Не вернулся (первый вариант)](../translated/g/galiahmat_shahi_vitaliy_agapov_-_kaytmadin_berenche_variant.md)
 
 ---
 

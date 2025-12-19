@@ -1,10 +1,18 @@
 # Татарские песни и их перевод - Страница 19
 
-## Список песен (песни 1801-1900 из 3461)
+## Список песен (песни 1801-1900 из 3505)
 
 [← Предыдущая страница](songs_list/SONGS_18.md) | [Главная страница](../README.md) | [Следующая страница →](songs_list/SONGS_20.md)
 
 
+- [Ильвина - Артларымнан йормэ / Ильвина - Не иди за мной](../translated/i/ilvina-artlarymnan_yorme.md)
+- [Ильвина - Моннар ява / Ильвина - Печаль падает](../translated/i/ilvina-monnar_yava.md)
+- [Ильвина - Син мина кирэк / Ильвина - Ты мне нужен](../translated/i/ilvina-sin_mina_kirek.md)
+- [Ильвина - Якты коннэр / Ильвина - Светлые дни](../translated/i/ilvina-yakty_konner.md)
+- [Ильгэрэй - Балачагым / Ильгэрэй - Моё детство](../translated/i/ilgerey-balachagym.md)
+- [Ильгэрэй - Синен очен / Ильгэрэй - Для тебя](../translated/i/ilgerey-sinen_ochen.md)
+- [Ильгэрэй - Чибэргэ / Ильгэрэй - Красавице](../translated/i/ilgerey-chiberge.md)
+- [Ильдар Ахметов - Адаштырып китмэ / Ильдар Ахметов - Не сбивай с пути](../translated/i/ildar_ahmetov-adashtyryp_kitme.md)
 - [Ильдар Ахметов - Ашыкма гомер козенэ / Ильдар Ахметов - Не спеши, осень жизни](../translated/i/ildar_ahmetov-ashykma_gomer_kozene.md)
 - [Ильдар Ахметов - Утлы чэчэк / Ильдар Ахметов - Огненный цветок](../translated/i/ildar_ahmetov-utly_chechek.md)
 - [Ильдар Ахметов - Хислэргэ бирелэ идем мин / Ильдар Ахметов - Чувствам отдавался бы я](../translated/i/ildar_ahmetov-hislerge_birele_idem_min.md)
@@ -90,21 +98,13 @@
 - [Инзилә Галиуллина / Илгиз Субаев - Юл буенда кызыл миләшләр / Инзеля Галиуллина / Ильгиз Субаев - Красные рябины у дороги](../translated/i/inzila_galiullina_ilgiz_subaev_-_yul_buenda_kizil_milashlar.md)
 - [Инсаф Галимов - Дим буйлары / Инсаф Галимов - По берегам Димы](../translated/i/insaf_galimov-dim_buylary.md)
 - [Ирек Габдрахманов - Вакыт җитми ... / Ирек Габдрахманов - Времени не хватает ...](../translated/i/irek_gabdrahmanov_-_vakit_citmi.md)
+- [Ирек Габдрахманов / Гөлшат Арсланова - Синең белән (икенче вариант) / Ирек Габдрахманов / Гөлшат Арсланова - С тобой (второй вариант)](../translated/i/irek_gabdrahmanov_golshat_arslanova_-_sinen_belan_ikenche_variant.md)
 - [Ирек Кинҗәбулатов / Гүзәл Диникеева - Калган гомерем - сине сөюем / Ирек Кинҗәбулатов / Гүзәл Диникеева - Оставшаяся жизнь моя - любить тебя](../translated/i/irek_kincabulatov_guzal_dinikeeva_-_kalgan_gomerem_sine_soyuem.md)
 - [Ирек Кинҗәбулатов / Насип Кучаев - Мин куанам (беренче вариант) / Ирек Кинчабулатов / Насип Кучаев - Я радуюсь (первый вариант)](../translated/i/irek_kincabulatov_nasip_kuchaev_-_min_kuanam_berenche_variant.md)
 - [Иркэ - Ак буре / Иркэ - Белый волк](../translated/i/irke-ak_bure.md)
 - [Иркэ - Бердэнберем минем / Иркэ - Единственный мой](../translated/i/irke-berdenberem_minem.md)
 - [Иркэ - Беренче кар / Иркэ - Первый снег](../translated/i/irke-berenche_kar.md)
 - [Иркэ - Бул инде дустым гына / Иркэ - Будь теперь только другом](../translated/i/irke-bul_inde_dustym_gyna.md)
-- [Иркэ - Бутэнне тап / Иркэ - Найди другую](../translated/i/irke-butenne_tap.md)
-- [Иркэ - Бэхетле булыр иден / Иркэ - Была бы счастлива](../translated/i/irke-behetle_bulyr_iden.md)
-- [Иркэ - Жавапсыз мэхэббэт / Иркэ - Безответная любовь](../translated/i/irke-zhavapsyz_mehebbet.md)
-- [Иркэ - Житэ безгэ бер сэгать / Иркэ - Хватит нам одного часа](../translated/i/irke-zhite_bezge_ber_segat.md)
-- [Иркэ - Жэй / Иркэ - Лето](../translated/i/irke-zhey.md)
-- [Иркэ - Кара болыт / Иркэ - Чёрная туча](../translated/i/irke-kara_bolyt.md)
-- [Иркэ - Кил яныма / Иркэ - Приди ко мне](../translated/i/irke-kil_yanyma.md)
-- [Иркэ - Кояшлы янгыр / Иркэ - Солнечный дождь](../translated/i/irke-koyashly_yangyr.md)
-- [Иркэ - Кызлар хэм егетлэр / Иркэ - Девушки и парни](../translated/i/irke-kyzlar_hem_egetler.md)
 
 ---
 

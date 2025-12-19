@@ -1,10 +1,13 @@
 # Татарские песни и их перевод - Страница 16
 
-## Список песен (песни 1501-1600 из 3461)
+## Список песен (песни 1501-1600 из 3505)
 
 [← Предыдущая страница](songs_list/SONGS_15.md) | [Главная страница](../README.md) | [Следующая страница →](songs_list/SONGS_17.md)
 
 
+- [Дилбәр Гәрәева / Оскар Усманов - Күңелгә җыр кирәк / Дильбар Гараева / Оскар Усманов - Душе нужна песня](../translated/d/dilbar_garaeva_oskar_usmanov_-_kunelga_cir_kirak.md)
+- [Дилбәр Гәрәева / Оскар Усманов - Мин бәхетле (өченче вариант) / Дильбар Гараева / Оскар Усманов - Я счастлива (третий вариант)](../translated/d/dilbar_garaeva_oskar_usmanov_-_min_bahetle_ochenche_variant.md)
+- [Дилбәр Исламова / Альфред Якшимбетов - Безнең гомер (өченче вариант) / Дильбар Исламова / Альфред Якшимбетов - Наша жизнь (третий вариант)](../translated/d/dilbar_islamova_alfred_yakshimbetov_-_beznen_gomer_ochenche_variant.md)
 - [Дилбәр Исламова / Зөфәр Хәйретдинов - Калдыр сөю / Дильбар Исламова / Зуфар Хайретдинов - Оставь любовь](../translated/d/dilbar_islamova_zofar_hayretdinov_-_kaldir_soyu.md)
 - [Дилбәр Исламова / Зөфәр Хәйретдинов - Карама син йолдызларга / Дильбар Исламова / Зуфар Хайретдинов - Не смотри на звёзды](../translated/d/dilbar_islamova_zofar_hayretdinov_-_karama_sin_yoldizlarga.md)
 - [Дилбәр Хәйзәрова / Юлай Моратов - Бәхет кошым (дүртенче вариант) / Дильбар Хайзарова / Юлай Моратов - Птица счастья (четвертый вариант)](../translated/d/dilbar_hayzarova_yulay_moratov_-_bahet_koshim_durtenche_variant.md)
@@ -102,9 +105,6 @@
 - [Динә Талхина / Салават Низаметдинов - Кояшым (Җырларым) / Дина Талхина / Салават Низаметдинов - Моё солнце (Мои песни)](../translated/d/dina_talhina_salavat_nizametdinov_-_koyashim_cirlarim.md)
 - [Динә Талхина / Салават Низаметдинов - Төшләреңә синең керәм / Дина Талхина / Салават Низаметдинов - Вхожу в твои сны](../translated/d/dina_talhina_salavat_nizametdinov_-_toshlarena_sinen_keram.md)
 - [Динә Талхина / Салават Низаметдинов - Эргәмдә булсаң икән / Дина Талхина / Салават Низаметдинов - Если бы ты был со мной](../translated/d/dina_talhina_salavat_nizametdinov_-_ergamda_bulsan_ikan.md)
-- [Динә Талхина / Фәрит Якшыголов - Яшьлек туе / Дина Талхина / Фарит Якшиголов - Свадьба молодости](../translated/d/dina_talhina_farit_yakshigolov_-_yashlek_tue.md)
-- [Дифгать Сирай / Зиннур Гыйбадуллин - Болгар кызы Ләйлә / Дифгать Сирай / Зиннур Гыйбадуллин - Булгарская дочь Лейла](../translated/d/difgat_siray_zinnur_giybadullin_-_bolgar_kizi_layla.md)
-- [Дифгать Сирай / Зиннур Гыйбадуллин - Җырлыйк әле (өченче вариант) / Дифгать Сирай / Зиннур Гыйбадуллин - Давайте споём (третий вариант)](../translated/d/difgat_siray_zinnur_giybadullin_-_cirliyk_ale_ochenche_variant.md)
 
 ---
 

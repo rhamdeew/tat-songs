@@ -1,10 +1,13 @@
 # Татарские песни и их перевод - Страница 15
 
-## Список песен (песни 1401-1500 из 3461)
+## Список песен (песни 1401-1500 из 3505)
 
 [← Предыдущая страница](songs_list/SONGS_14.md) | [Главная страница](../README.md) | [Следующая страница →](songs_list/SONGS_16.md)
 
 
+- [Гөлфия Шакирова / Мурат Гайсин - Күңелемнең кыллары / Гульфия Шакирова / Мурат Гайсин - Струны моего сердца](../translated/g/golfiya_shakirova_murat_gaysin_-_kunelemnen_killari.md)
+- [Гөлфия Шакирова / Мөдәрис Газетдинов - Иртәләре-кичләре / Гульфия Шакирова / Модарис Газетдинов - По утрам и вечерам](../translated/g/golfiya_shakirova_modaris_gazetdinov_-_irtalare-kichlare.md)
+- [Гөлфия Шакирова / Мөдәрис Газетдинов - Тик икәү / Гульфия Шакирова / Модарис Газетдинов - Только вдвоем](../translated/g/golfiya_shakirova_modaris_gazetdinov_-_tik_ikau.md)
 - [Гөлфия Шакирова / Рамил Әсхәдулла - Кирәк түгел / Гульфия Шакирова / Рамиль Асхадулла - Не нужно](../translated/g/golfiya_shakirova_ramil_ashadulla_-_kirak_tugel.md)
 - [Гөлфия Шакирова / Рима Шакирова - Кояшлы көннәр сезгә / Гульфия Шакирова / Рима Шакирова - Солнечные дни для вас](../translated/g/golfiya_shakirova_rima_shakirova_-_koyashli_konnar_sezga.md)
 - [Гөлфия Шакирова / Ринат Рахматуллин - Яратам дип нигә әйттең син? / Гульфия Шакирова / Ринат Рахматуллин - Зачем ты сказал, что любишь?](../translated/g/golfiya_shakirova_rinat_rahmatullin_-_yaratam_dip_niga_aytten_sin.md)
@@ -102,9 +105,6 @@
 - [Джамиля - Мин килермен янына / Джамиля - Я приду к тебе](../translated/d/dzhamilya-min_kilermen_yanyna.md)
 - [Джамиля - Язма мина хатынны / Джамиля - Не пиши мне письма](../translated/d/dzhamilya-yazma_mina_hatynny.md)
 - [Диана Тажетдинова - Ин зур югалту / Диана Тажетдинова - Самая большая потеря](../translated/d/diana_tazhetdinova-in_zur_yugaltu.md)
-- [Дилбәр Гәрәева / Оскар Усманов - Күңелгә җыр кирәк / Дильбар Гараева / Оскар Усманов - Душе нужна песня](../translated/d/dilbar_garaeva_oskar_usmanov_-_kunelga_cir_kirak.md)
-- [Дилбәр Гәрәева / Оскар Усманов - Мин бәхетле (өченче вариант) / Дильбар Гараева / Оскар Усманов - Я счастлива (третий вариант)](../translated/d/dilbar_garaeva_oskar_usmanov_-_min_bahetle_ochenche_variant.md)
-- [Дилбәр Исламова / Альфред Якшимбетов - Безнең гомер (өченче вариант) / Дильбар Исламова / Альфред Якшимбетов - Наша жизнь (третий вариант)](../translated/d/dilbar_islamova_alfred_yakshimbetov_-_beznen_gomer_ochenche_variant.md)
 
 ---
 
