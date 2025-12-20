@@ -1,10 +1,13 @@
 # Татарские песни и их перевод - Страница 7
 
-## Список песен (песни 601-700 из 3535)
+## Список песен (песни 601-700 из 3663)
 
 [← Предыдущая страница](songs_list/SONGS_6.md) | [Главная страница](../README.md) | [Следующая страница →](songs_list/SONGS_8.md)
 
 
+- [Альбина Шәймарданова / Салават Низаметдинов - Яратам (алтынчы вариант) / Альбина Шаймарданова / Салават Низаметдинов - Люблю (шестой вариант)](../translated/a/albina_shaymardanova_salavat_nizametdinov_-_yaratam_altinchi_variant.md)
+- [Альфина Азгамова - Кайтаваз / Альфина Азгамова - Эхо](../translated/a/alfina_azgamova-kaytavaz.md)
+- [Альфина Азгамова - Мин синен йолдызын / Альфина Азгамова - Я твоя звезда](../translated/a/alfina_azgamova-min_sinen_yoldyzyn.md)
 - [Альфина Азгамова - Мина кирэк жылы сузен / Альфина Азгамова - Мне нужно теплое слово твое](../translated/a/alfina_azgamova-mina_kirek_zhyly_suzen.md)
 - [Альфина Азгамова - Мэхэббэт булмаса доньяда / Альфина Азгамова - Если не будет любви в мире](../translated/a/alfina_azgamova-mehebbet_bulmasa_donyada.md)
 - [Альфина Азгамова - Озаклама / Альфина Азгамова - Не затягивай](../translated/a/alfina_azgamova-ozaklama.md)
@@ -102,9 +105,6 @@
 - [Асылъяр - Минем бэгърем / Асылъяр - Мое дитя](../translated/a/asylyar-minem_begrem.md)
 - [Асылъяр - Миннэн башка син дэ канатсыз / Асылъяр - Кроме меня, и ты без крыльев](../translated/a/asylyar-minnen_bashka_sin_de_kanatsyz.md)
 - [Асылъяр - Сахралар / Асылъяр - Степи](../translated/a/asylyar-sahralar.md)
-- [Асылъяр - Син / Асылъяр - Ты](../translated/a/asylyar-sin.md)
-- [Асылъяр - Синен очен / Асылъяр - Ради тебя](../translated/a/asylyar-sinen_ochen.md)
-- [Асылъяр - Сою хакына / Асылъяр - Ради любви](../translated/a/asylyar-soyu_hakyna.md)
 
 ---
 

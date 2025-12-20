@@ -1,10 +1,13 @@
 # Татарские песни и их перевод - Страница 11
 
-## Список песен (песни 1001-1100 из 3535)
+## Список песен (песни 1001-1100 из 3663)
 
 [← Предыдущая страница](songs_list/SONGS_10.md) | [Главная страница](../README.md) | [Следующая страница →](songs_list/SONGS_12.md)
 
 
+- [Билгесез / Зөфәр Хәйретдинов - Торналар (өченче вариант) / Неизвестен / Зуфар Хайретдинов - Журавли (третий вариант)](../translated/b/bilgesez_zofar_hayretdinov_-_tornalar_ochenche_variant.md)
+- [Билгесез / Зөфәр Хәйретдинов - Әнкәй, җаным мең яшә! / Неизвестен / Зуфар Хайретдинов - Мама, душа моя, живи тысячу лет!](../translated/b/bilgesez_zofar_hayretdinov_-_ankay_canim_men_yasha.md)
+- [Билгесез / Илгиз Закиров - Асылъяр (өченче вариант) / Неизвестен / Ильгиз Закиров - Асылъяр (третий вариант)](../translated/b/bilgesez_ilgiz_zakirov_-_asilyar_ochenche_variant.md)
 - [Билгесез / Илдар Ногманов - Җаным (икенче вариант) / Неизвестен / Ильдар Ногманов - Душа моя (второй вариант)](../translated/b/bilgesez_ildar_nogmanov_-_canim_ikenche_variant.md)
 - [Билгесез / Илдар Хәмидуллин - Соңгы кыңгырау (дүртенче вариант) / Неизвестен / Ильдар Хамидуллин - Последний звонок (четвёртый вариант)](../translated/b/bilgesez_ildar_hamidullin_-_songi_kingirau_durtenche_variant.md)
 - [Билгесез / Илнур Якупов - Сарманда җәй / Неизвестен / Ильнур Якупов - Лето в Сармане](../translated/b/bilgesez_ilnur_yakupov_-_sarmanda_cay.md)
@@ -102,9 +105,6 @@
 - [Булат Нигматуллин - Абый белэн сенел / Булат Нигматуллин - Гордость старшего брата](../translated/b/bulat_nigmatullin-abyy_belen_senel.md)
 - [Булат Нигматуллин - Адаштым / Булат Нигматуллин - Заблудился](../translated/b/bulat_nigmatullin-adashtym.md)
 - [Булат Нигматуллин - Айлы юллар / Булат Нигматуллин - Лунные дороги](../translated/b/bulat_nigmatullin-ayly_yullar.md)
-- [Булат Нигматуллин - Безгэ кирэк юлэр яшьлек / Булат Нигматуллин - Нам нужны дороги молодости](../translated/b/bulat_nigmatullin-bezge_kirek_yuler_yashlek.md)
-- [Булат Нигматуллин - Безнен гомер / Булат Нигматуллин - Наша жизнь](../translated/b/bulat_nigmatullin-beznen_gomer.md)
-- [Булат Нигматуллин - Вакыт житми / Булат Нигматуллин - Времени не хватает](../translated/b/bulat_nigmatullin-vakyt_zhitmi.md)
 
 ---
 

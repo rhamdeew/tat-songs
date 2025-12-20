@@ -1,10 +1,13 @@
 # Татарские песни и их перевод - Страница 10
 
-## Список песен (песни 901-1000 из 3535)
+## Список песен (песни 901-1000 из 3663)
 
 [← Предыдущая страница](songs_list/SONGS_9.md) | [Главная страница](../README.md) | [Следующая страница →](songs_list/SONGS_11.md)
 
 
+- [Билгесез - Нигә генә / Билгесез - Зачем же](../translated/b/bilgesez_-_niga_gena.md)
+- [Билгесез - Нигә икән, нигә? / Билгесез - Зачем, зачем?](../translated/b/bilgesez_-_niga_ikan_niga.md)
+- [Билгесез - Нигә соң минеке түгел син, бәгърем / Билгесез - Почему же ты не моя, моя любовь](../translated/b/bilgesez_-_niga_son_mineke_tugel_sin_bagrem.md)
 - [Билгесез - Ой, үләм, үләм / Неизвестный - Ой, улям, улям](../translated/b/bilgesez_-_oy_ulam_ulam.md)
 - [Билгесез - Онытма мине / Билгесез - Не забывай меня](../translated/b/bilgesez_-_onitma_mine.md)
 - [Билгесез - Очрашу эзләмә / Бильгесез - Не искәтеп очрашу](../translated/b/bilgesez_-_ochrashu_ezlama.md)
@@ -102,9 +105,6 @@
 - [Билгесез / Зиннур Сафиуллин - Һәркем эзли парын / Неизвестен / Зиннур Сафиуллин - Каждый ищет пару](../translated/b/bilgesez_zinnur_safiullin_-_harkem_ezli_parin.md)
 - [Билгесез / Зөфәр Хәйретдинов - Алтын алма / Неизвестен / Зуфар Хайретдинов - Золотое яблоко](../translated/b/bilgesez_zofar_hayretdinov_-_altin_alma.md)
 - [Билгесез / Зөфәр Хәйретдинов - Мин булмам / Неизвестен / Зуфар Хайретдинов - Меня не будет](../translated/b/bilgesez_zofar_hayretdinov_-_min_bulmam.md)
-- [Билгесез / Зөфәр Хәйретдинов - Торналар (өченче вариант) / Неизвестен / Зуфар Хайретдинов - Журавли (третий вариант)](../translated/b/bilgesez_zofar_hayretdinov_-_tornalar_ochenche_variant.md)
-- [Билгесез / Зөфәр Хәйретдинов - Әнкәй, җаным мең яшә! / Неизвестен / Зуфар Хайретдинов - Мама, душа моя, живи тысячу лет!](../translated/b/bilgesez_zofar_hayretdinov_-_ankay_canim_men_yasha.md)
-- [Билгесез / Илгиз Закиров - Асылъяр (өченче вариант) / Неизвестен / Ильгиз Закиров - Асылъяр (третий вариант)](../translated/b/bilgesez_ilgiz_zakirov_-_asilyar_ochenche_variant.md)
 
 ---
 

@@ -1,10 +1,13 @@
 # Татарские песни и их перевод - Страница 9
 
-## Список песен (песни 801-900 из 3535)
+## Список песен (песни 801-900 из 3663)
 
 [← Предыдущая страница](songs_list/SONGS_8.md) | [Главная страница](../README.md) | [Следующая страница →](songs_list/SONGS_10.md)
 
 
+- [Башкорт халык җыры - Шәүрә / Башкирская народная песня - Шаура](../translated/b/bashkort_halik_ciri_-_shaura.md)
+- [Башкорт халык җыры - Элмәлек / Башкирская народная песня - Эльмәлек](../translated/b/bashkort_halik_ciri_-_elmalek.md)
+- [Башкорт халык җыры - Эскадрон / Башкортская народная песня - Эскадрон](../translated/b/bashkort_halik_ciri_-_eskadron.md)
 - [Башкорт халык җыры - Ялчыгол (беренче вариант) / Башкирская народная песня - Ялчыгол (первый вариант)](../translated/b/bashkort_halik_ciri_-_yalchigol_berenche_variant.md)
 - [Башкорт халык җыры - Ялчыгол (икенче вариант) / Башкирская народная песня - Ялчыгол (второй вариант)](../translated/b/bashkort_halik_ciri_-_yalchigol_ikenche_variant.md)
 - [Башкорт халык җыры - Ямьле Агыйдел буйлары (беренче вариант) / Башкирская народная песня - Берега Агидели (первый вариант)](../translated/b/bashkort_halik_ciri_-_yamle_agiydel_buylari_berenche_variant.md)
@@ -102,9 +105,6 @@
 - [Билгесез - Мәхаббәт булмаса дөньяда / Неизвестный - Если бы в мире не было любви](../translated/b/bilgesez_-_mahabbat_bulmasa_donyada.md)
 - [Билгесез - Мәхаббәтем / Билгесез - Моя любовь](../translated/b/bilgesez_-_mahabbatem.md)
 - [Билгесез - Мәхаббәттән юк дәва / Бильгесез - Нет лекарства от любви](../translated/b/bilgesez_-_mahabbattan_yuk_dava.md)
-- [Билгесез - Нигә генә / Билгесез - Зачем же](../translated/b/bilgesez_-_niga_gena.md)
-- [Билгесез - Нигә икән, нигә? / Билгесез - Зачем, зачем?](../translated/b/bilgesez_-_niga_ikan_niga.md)
-- [Билгесез - Нигә соң минеке түгел син, бәгърем / Билгесез - Почему же ты не моя, моя любовь](../translated/b/bilgesez_-_niga_son_mineke_tugel_sin_bagrem.md)
 
 ---
 

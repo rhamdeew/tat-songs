@@ -1,10 +1,13 @@
 # Татарские песни и их перевод - Страница 2
 
-## Список песен (песни 101-200 из 3535)
+## Список песен (песни 101-200 из 3663)
 
 [← Предыдущая страница](songs_list/SONGS_1.md) | [Главная страница](../README.md) | [Следующая страница →](songs_list/SONGS_3.md)
 
 
+- [Абдулхак Игебаев / Фәрит Якшыголов - Онытмадым сине, авылым / Абдулхак Игебаев / Фарит Якшиголов - Не забыл тебя, моя деревня](../translated/a/abdulhak_igebaev_farit_yakshigolov_-_onitmadim_sine_avilim.md)
+- [Абдулхак Игебаев / Хөсәен Әхмәтов - Әллә бөтенләй оныттың / Абдулхак Игебаев / Хусаин Ахматов - Или ты совсем забыла](../translated/a/abdulhak_igebaev_hosaen_ahmatov_-_alla_botenlay_onittin.md)
+- [Абдулхак Игебаев / Шамил Колбарисов - Яшермәче, иркәм (икенче вариант) / Абдулхак Игебаев / Шамиль Колбарисов - Не скрывай, милая (второй вариант)](../translated/a/abdulhak_igebaev_shamil_kolbarisov_-_yashermache_irkam_ikenche_variant.md)
 - [Абдулхак Игебаев / Юлай Моратов - Агыла болыт / Абдулхак Игебаев / Юлай Моратов - Плывут облака](../translated/a/abdulhak_igebaev_yulay_moratov_-_agila_bolit.md)
 - [Абрар Габдрахманов - Төнге серенада / Абрар Габдрахманов - Ночная серенада](../translated/a/abrar_gabdrahmanov_-_tonge_serenada.md)
 - [Абрар Габдрахманов - Әйтче, иркәм! / Абрар Габдрахманов - Скажи, милая!](../translated/a/abrar_gabdrahmanov_-_aytche_irkam.md)
@@ -102,9 +105,6 @@
 - [Айгөл Вәлиуллина / Хәмид Мәткәримов - Бәхет гөле / Айгуль Валиуллина / Хамид Маткаримов - Цветок счастья](../translated/a/aygol_valiullina_hamid_matkarimov_-_bahet_gole.md)
 - [Айгөл Вәлиуллина / Хәмид Мәткәримов - Гашыйк булам көн саен / Айгуль Валиуллина / Хамид Маткаримов - Влюбляюсь каждый день](../translated/a/aygol_valiullina_hamid_matkarimov_-_gashiyk_bulam_kon_saen.md)
 - [Айгөл Вәлиуллина / Хәмид Мәткәримов - Ут яна - минем йөрәгем / Айгуль Валиуллина / Хамид Маткаримов - Горит огонь - моё сердце](../translated/a/aygol_valiullina_hamid_matkarimov_-_ut_yana_minem_yoragem.md)
-- [Айгөл Вәлиуллина / Хәмид Мәткәримов - Әткәйле балачагым / Айгуль Валиуллина / Хамид Маткаримов - Детство с отцом](../translated/a/aygol_valiullina_hamid_matkarimov_-_atkayle_balachagim.md)
-- [Айгөл Гимадиева / Эльвира Хаматнурова - Бер елмай / Айгуль Гимадиева / Эльвира Хаматнурова - Одна улыбка](../translated/a/aygol_gimadieva_elvira_hamatnurova_-_ber_elmay.md)
-- [Айгөл Гимадиева / Эльвира Хаматнурова - Йән дуҫтарым сулпылар / Айгуль Гимадиева / Эльвира Хаматнурова - Мои верные друзья Плеяды](../translated/a/aygol_gimadieva_elvira_hamatnurova_-_yan_duҫtarim_sulpilar.md)
 
 ---
 

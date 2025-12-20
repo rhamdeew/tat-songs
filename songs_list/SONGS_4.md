@@ -1,10 +1,13 @@
 # Татарские песни и их перевод - Страница 4
 
-## Список песен (песни 301-400 из 3535)
+## Список песен (песни 301-400 из 3663)
 
 [← Предыдущая страница](songs_list/SONGS_3.md) | [Главная страница](../README.md) | [Следующая страница →](songs_list/SONGS_5.md)
 
 
+- [Айдар Галимов - Яннарына кайтып килэм / Айдар Галимов - К тебе вернусь](../translated/a/aydar_galimov-yannaryna_kaytyp_kilem.md)
+- [Айдар Галимов - Янына барам эле (Уфа поездлары) / Айдар Галимов - К тебе еду (Уфинские поезда)](../translated/a/aydar_galimov-yanyna_baram_ele_ufa_poezdlary.md)
+- [Айдар Галимов - Ярала аккош / Айдар Галимов - Раненый лебедь](../translated/a/aydar_galimov-yarala_akkosh.md)
 - [Айдар Галимов - Яшь гомер / Айдар Галимов - Молодость](../translated/a/aydar_galimov-yash_gomer.md)
 - [Айдар Галимов - Яшьлек дусларым / Айдар Галимов - Друзья юности](../translated/a/aydar_galimov-yashlek_duslarym.md)
 - [Айдар Галимов - Яшьлек учагым / Айдар Галимов - Костёр юности](../translated/a/aydar_galimov-yashlek_uchagym.md)
@@ -102,9 +105,6 @@
 - [Айдар Юнысов - Тик бер сүзем / Айдар Юнусов - Только одно слово](../translated/a/aydar_yunisov_-_tik_ber_suzem.md)
 - [Айдар Юнысов - Яшик бу дөньяны яратып / Айдар Юнысов - Живи, этот мир любя](../translated/a/aydar_yunisov_-_yashik_bu_donyani_yaratip.md)
 - [Айдар Юнысов - Әллә син, әллә мин / Айдар Юнысов - То ли ты, то ли я](../translated/a/aydar_yunisov_-_alla_sin_alla_min.md)
-- [Айдар Әгъләмов - Яшьлегемә кайтам / Айдар Агламов - Возвращаюсь в молодость](../translated/a/aydar_aglamov_-_yashlegema_kaytam.md)
-- [Айзирә Хаҗиева / Лилия Хаснулова - Иң зур бәхетем / Айзира Хаджиева / Лилия Хаснулова - Моё главное счастье](../translated/a/ayzira_hacieva_liliya_hasnulova_-_in_zur_bahetem.md)
-- [Айкау - Рэйхан / Айкау - Рейхан](../translated/a/aykau-reyhan.md)
 
 ---
 

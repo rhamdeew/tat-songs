@@ -1,10 +1,13 @@
 # Татарские песни и их перевод - Страница 3
 
-## Список песен (песни 201-300 из 3535)
+## Список песен (песни 201-300 из 3663)
 
 [← Предыдущая страница](songs_list/SONGS_2.md) | [Главная страница](../README.md) | [Следующая страница →](songs_list/SONGS_4.md)
 
 
+- [Айгөл Вәлиуллина / Хәмид Мәткәримов - Әткәйле балачагым / Айгуль Валиуллина / Хамид Маткаримов - Детство с отцом](../translated/a/aygol_valiullina_hamid_matkarimov_-_atkayle_balachagim.md)
+- [Айгөл Гимадиева / Эльвира Хаматнурова - Бер елмай / Айгуль Гимадиева / Эльвира Хаматнурова - Одна улыбка](../translated/a/aygol_gimadieva_elvira_hamatnurova_-_ber_elmay.md)
+- [Айгөл Гимадиева / Эльвира Хаматнурова - Йән дуҫтарым сулпылар / Айгуль Гимадиева / Эльвира Хаматнурова - Мои верные друзья Плеяды](../translated/a/aygol_gimadieva_elvira_hamatnurova_-_yan_duҫtarim_sulpilar.md)
 - [Айгөл Гимадиева / Эльвира Хаматнурова - Кыш бабай (икенче вариант) / Айгуль Гимадиева / Эльвира Хаматнурова - Дед Мороз (второй вариант)](../translated/a/aygol_gimadieva_elvira_hamatnurova_-_kish_babay_ikenche_variant.md)
 - [Айгөл Мөсәлләмова / Илназ Мөсәлләмов - Әнкәй күңеле / Айгуль Мусаллямова / Ильназ Мусаллямов - Сердце матери](../translated/a/aygol_mosallamova_ilnaz_mosallamov_-_ankay_kunele.md)
 - [Айгөл Сираҗетдинова / Салават Низаметдинов - Башкортстаным (өченче вариант) / Айгуль Сираджетдинова / Салават Низаметдинов - Мой Башкортостан (третий вариант)](../translated/a/aygol_siracetdinova_salavat_nizametdinov_-_bashkortstanim_ochenche_variant.md)
@@ -102,9 +105,6 @@
 - [Айдар Галимов - Яз сулышы / Айдар Галимов - Весеннее дыхание](../translated/a/aydar_galimov-yaz_sulyshy.md)
 - [Айдар Галимов - Язмыш жиле / Айдар Галимов - Ветер судьбы](../translated/a/aydar_galimov-yazmysh_zhile.md)
 - [Айдар Галимов - Янгантауда яна йорэк / Айдар Галимов - На Янгантау горит сердце](../translated/a/aydar_galimov-yangantauda_yana_yorek.md)
-- [Айдар Галимов - Яннарына кайтып килэм / Айдар Галимов - К тебе вернусь](../translated/a/aydar_galimov-yannaryna_kaytyp_kilem.md)
-- [Айдар Галимов - Янына барам эле (Уфа поездлары) / Айдар Галимов - К тебе еду (Уфинские поезда)](../translated/a/aydar_galimov-yanyna_baram_ele_ufa_poezdlary.md)
-- [Айдар Галимов - Ярала аккош / Айдар Галимов - Раненый лебедь](../translated/a/aydar_galimov-yarala_akkosh.md)
 
 ---
 

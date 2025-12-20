@@ -1,10 +1,13 @@
 # Татарские песни и их перевод - Страница 5
 
-## Список песен (песни 401-500 из 3535)
+## Список песен (песни 401-500 из 3663)
 
 [← Предыдущая страница](songs_list/SONGS_4.md) | [Главная страница](../README.md) | [Следующая страница →](songs_list/SONGS_6.md)
 
 
+- [Айдар Әгъләмов - Яшьлегемә кайтам / Айдар Агламов - Возвращаюсь в молодость](../translated/a/aydar_aglamov_-_yashlegema_kaytam.md)
+- [Айзирә Хаҗиева / Лилия Хаснулова - Иң зур бәхетем / Айзира Хаджиева / Лилия Хаснулова - Моё главное счастье](../translated/a/ayzira_hacieva_liliya_hasnulova_-_in_zur_bahetem.md)
+- [Айкау - Рэйхан / Айкау - Рейхан](../translated/a/aykau-reyhan.md)
 - [Айнур BoooRe Шарапов - Дөбердәтәбез / Айнур BoooRe Шарапов - Потопаем](../translated/a/aynur_booore_sharapov_-_doberdatabez.md)
 - [Айнур BoooRe Шарапов - Каракай / Айнур BoooRe Шарапов - Каракай](../translated/a/aynur_booore_sharapov_-_karakay.md)
 - [Айнур BoooRe Шарапов - Күк төсле күзләр / Айнур BoooRe Шарапов - Глаза цвета неба](../translated/a/aynur_booore_sharapov_-_kuk_tosle_kuzlar.md)
@@ -102,9 +105,6 @@
 - [Алмаз Хәмзин / Марат Хөснуллин - Өмет (беренче вариант) / Алмаз Хамзин / Марат Хуснуллин - Надежда (первый вариант)](../translated/a/almaz_hamzin_marat_hosnullin_-_omet_berenche_variant.md)
 - [Алмаз Хәмзин / Мөхтәр Минһаҗев - Миләшкәем (икенче вариант) / Алмаз Хамзин / Мухтар Минхаджев - Моя рябинушка (второй вариант)](../translated/a/almaz_hamzin_mohtar_minhacev_-_milashkaem_ikenche_variant.md)
 - [Алмаз Хәмзин / Мөхтәр Минһаҗев - Нигә, болыт,елыйсың? / Алмаз Хамзин / Мухтар Минхаджев - Почему ты плачешь, облако?](../translated/a/almaz_hamzin_mohtar_minhacev_-_niga_boliteliysin.md)
-- [Алмаз Хәмзин / Оскар Усманов - Ком сәгате (беренче вариант) / Алмаз Хамзин / Оскар Усманов - Песочные часы (первый вариант)](../translated/a/almaz_hamzin_oskar_usmanov_-_kom_sagate_berenche_variant.md)
-- [Алмаз Хәмзин / Оскар Усманов - Әбием коймаклары / Алмаз Хамзин / Оскар Усманов - Бабушкины коймаки](../translated/a/almaz_hamzin_oskar_usmanov_-_abiem_koymaklari.md)
-- [Алмаз Хәмзин / Рөстәм Вәлиев - Сине көтәм (икенче вариант) / Алмаз Хамзин / Рустам Валиев - Я жду тебя (второй вариант)](../translated/a/almaz_hamzin_rostam_valiev_-_sine_kotam_ikenche_variant.md)
 
 ---
 

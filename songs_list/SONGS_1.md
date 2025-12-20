@@ -1,6 +1,6 @@
 # Татарские песни и их перевод - Страница 1
 
-## Список песен (песни 1-100 из 3535)
+## Список песен (песни 1-100 из 3663)
 
 [Главная страница](../README.md) | [Следующая страница →](songs_list/SONGS_2.md)
 
@@ -37,6 +37,7 @@
 - [Idelia - Тонге уеннар / Idelia - Ночные игры](../translated/i/idelia-tonge_uennar.md)
 - [K-Ru - Бары тик уйларым / K-Ru - Это лишь мои мысли](../translated/k/k-ru-bary_tik_uylarym.md)
 - [Libertas - Хат / Libertas - Письмо](../translated/l/libertas-hat.md)
+- [nariman_kamalov_zofar_hayretdinov_ - Туй чәчәге / Нариман Камалов / Зөфәр Хәйретдинов - Свадебный цветок](../translated/n/nariman_kamalov_zofar_hayretdinov_-_tuy_chachage.md)
 - [Puma - Жыр доньясы / Puma - Мир песни](../translated/p/puma-zhyr_donyasy.md)
 - [Puma - Жэйгэ, кунакка (Безнен жэй) / Puma - К лету, в гости (Наше лето)](../translated/p/puma-zheyge_kunakka_beznen_zhey.md)
 - [robert_minnullin_oskar_usmanov_ - Роберт Миңнуллин / Оскар Усманов - Дуслар булып калыйк, әйдәгез! / Роберт Миңнуллин / Оскар Усманов - Давайте останемся друзьями!](../translated/r/robert_minnullin_oskar_usmanov_-_duslar_bulip_kaliyk_aydagez.md)
@@ -47,11 +48,13 @@
 - [tatar_halik_ciri_ - Татар халык җыры - Зәйнәбем / Татарская народная песня - Зейнабым](../translated/t/tatar_halik_ciri_-_zaynabem.md)
 - [tatar_halik_ciri_ - Татар халык җыры - Көзге ачы җилләрдә (икенче вариант) / татар халик цири - Татарская народная песня - В осенних колючих ветрах (второй вариант)](../translated/t/tatar_halik_ciri_-_kozge_achi_cillarda_ikenche_variant.md)
 - [tatar_halik_ciri_ - Татар халык җыры - Озату (икенче вариант) / Татар халык җыры - Озату (второй вариант)](../translated/t/tatar_halik_ciri_-_ozatu_ikenche_variant.md)
+- [tatar_halik_ciri_ - Татар халык җыры - Сандугач-алмагач / Татарская народная песня - Соловей-яблоня](../translated/t/tatar_halik_ciri_-_sandugach-almagach.md)
 - [tatar_halik_ciri_ - Татар халык җыры - Урам көе (икенче вариант) / tatar_halik_ciri_ - Татарская народная песня - Уличный напев (второй вариант)](../translated/t/tatar_halik_ciri_-_uram_koe_ikenche_variant.md)
 - [tatar_halik_ciri_ - Татар халык җыры - Шөгер / татар халык җыры_ - Татарская народная песня - Шөгер](../translated/t/tatar_halik_ciri_-_shoger.md)
 - [vener_fattah_golnaz_zakirova_ - _isendame_sinnan_bashka / Венер Фаттах / Гульназ Закирова - Помнишь ли (Без тебя)](../translated/v/vener_fattah_golnaz_zakirova_-_isendame_sinnan_bashka.md)
 - [Zaman Egetlere - Ак чэчэклэр / Заман Егетлере - Белые цветы](../translated/z/zaman_egetlere-ak_chechekler.md)
 - [Zaman Egetlere - Алматанын алмасы / Заман Егетлере - Алматинские яблоки](../translated/z/zaman_egetlere-almatanyn_almasy.md)
+- [Zarema Ayupova _bez_bahetlebez - Зарема Әюпова - Без бәхетлебез / Зарема Аюпова - Мы счастливы](../translated/z/zarema_ayupova_-_bez_bahetlebez.md)
 - [А.Салимгәрәев - Җырла әле, әнкәй / А.Салимгараев - Спой же, мамочка](../translated/a/asalimgaraev_-_cirla_ale_ankay.md)
 - [А.Саяпова / Мөдәрис Газетдинов - Онытмыйм / А.Саяпова / Мударис Газетдинов - Не забуду](../translated/a/asayapova_modaris_gazetdinov_-_onitmiym.md)
 - [А.Сәмигуллина / Резидә Сабитова - Авылым каеннары (беренче вариант) / А. Самигуллина / Резида Сабитова - Берёзы моей деревни (первый вариант)](../translated/a/asamigullina_rezida_sabitova_-_avilim_kaennari_berenche_variant.md)
@@ -102,9 +105,6 @@
 - [Абдулхак Игебаев / Рәүф Мортазин - Миңнурый / Абдулхак Игебаев / Рауф Мортазин - Миннурий](../translated/a/abdulhak_igebaev_rauf_mortazin_-_minnuriy.md)
 - [Абдулхак Игебаев / Рәүф Сәлтәшев - Әнкәй (бишенче вариант) / Абдулхак Игебаев / Рауф Салташев - Мамочка (пятый вариант)](../translated/a/abdulhak_igebaev_rauf_saltashev_-_ankay_bishenche_variant.md)
 - [Абдулхак Игебаев / Тәлгать Шәрипов - Сиңа (алтынчы вариант) / Абдулхак Игебаев / Тальгат Шарипов - Тебе (шестой вариант)](../translated/a/abdulhak_igebaev_talgat_sharipov_-_sina_altinchi_variant.md)
-- [Абдулхак Игебаев / Фәрит Якшыголов - Онытмадым сине, авылым / Абдулхак Игебаев / Фарит Якшиголов - Не забыл тебя, моя деревня](../translated/a/abdulhak_igebaev_farit_yakshigolov_-_onitmadim_sine_avilim.md)
-- [Абдулхак Игебаев / Хөсәен Әхмәтов - Әллә бөтенләй оныттың / Абдулхак Игебаев / Хусаин Ахматов - Или ты совсем забыла](../translated/a/abdulhak_igebaev_hosaen_ahmatov_-_alla_botenlay_onittin.md)
-- [Абдулхак Игебаев / Шамил Колбарисов - Яшермәче, иркәм (икенче вариант) / Абдулхак Игебаев / Шамиль Колбарисов - Не скрывай, милая (второй вариант)](../translated/a/abdulhak_igebaev_shamil_kolbarisov_-_yashermache_irkam_ikenche_variant.md)
 
 ---
 

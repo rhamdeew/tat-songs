@@ -1,10 +1,13 @@
 # Татарские песни и их перевод - Страница 8
 
-## Список песен (песни 701-800 из 3535)
+## Список песен (песни 701-800 из 3663)
 
 [← Предыдущая страница](songs_list/SONGS_7.md) | [Главная страница](../README.md) | [Следующая страница →](songs_list/SONGS_9.md)
 
 
+- [Асылъяр - Син / Асылъяр - Ты](../translated/a/asylyar-sin.md)
+- [Асылъяр - Синен очен / Асылъяр - Ради тебя](../translated/a/asylyar-sinen_ochen.md)
+- [Асылъяр - Сою хакына / Асылъяр - Ради любви](../translated/a/asylyar-soyu_hakyna.md)
 - [Асылъяр - Талы-талы / Асылъяр - Ива-ива](../translated/a/asylyar-taly-taly.md)
 - [Асылъяр - Энкэйгэ кайту / Асылъяр - Возвращение к матери](../translated/a/asylyar-enkeyge_kaytu.md)
 - [Асылъяр - Ялгыз конбагыш / Асылъяр - Одинокий подсолнух](../translated/a/asylyar-yalgyz_konbagysh.md)
@@ -102,9 +105,6 @@
 - [Башкорт халык җыры - Хәтирә (беренче вариант) / Башкирская народная песня - Хатиля (первый вариант)](../translated/b/bashkort_halik_ciri_-_hatira_berenche_variant.md)
 - [Башкорт халык җыры - Чулпан йолдыз / Башкорт народная песня - Звезда Венера](../translated/b/bashkort_halik_ciri_-_chulpan_yoldiz.md)
 - [Башкорт халык җыры - Шәл бәйләдем (икенче вариант) / Башкирская народная песня - Я повязал шаль (второй вариант)](../translated/b/bashkort_halik_ciri_-_shal_bayladem_ikenche_variant.md)
-- [Башкорт халык җыры - Шәүрә / Башкирская народная песня - Шаура](../translated/b/bashkort_halik_ciri_-_shaura.md)
-- [Башкорт халык җыры - Элмәлек / Башкирская народная песня - Эльмәлек](../translated/b/bashkort_halik_ciri_-_elmalek.md)
-- [Башкорт халык җыры - Эскадрон / Башкортская народная песня - Эскадрон](../translated/b/bashkort_halik_ciri_-_eskadron.md)
 
 ---
 

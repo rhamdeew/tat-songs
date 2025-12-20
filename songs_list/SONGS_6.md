@@ -1,10 +1,13 @@
 # Татарские песни и их перевод - Страница 6
 
-## Список песен (песни 501-600 из 3535)
+## Список песен (песни 501-600 из 3663)
 
 [← Предыдущая страница](songs_list/SONGS_5.md) | [Главная страница](../README.md) | [Следующая страница →](songs_list/SONGS_7.md)
 
 
+- [Алмаз Хәмзин / Оскар Усманов - Ком сәгате (беренче вариант) / Алмаз Хамзин / Оскар Усманов - Песочные часы (первый вариант)](../translated/a/almaz_hamzin_oskar_usmanov_-_kom_sagate_berenche_variant.md)
+- [Алмаз Хәмзин / Оскар Усманов - Әбием коймаклары / Алмаз Хамзин / Оскар Усманов - Бабушкины коймаки](../translated/a/almaz_hamzin_oskar_usmanov_-_abiem_koymaklari.md)
+- [Алмаз Хәмзин / Рөстәм Вәлиев - Сине көтәм (икенче вариант) / Алмаз Хамзин / Рустам Валиев - Я жду тебя (второй вариант)](../translated/a/almaz_hamzin_rostam_valiev_-_sine_kotam_ikenche_variant.md)
 - [Алмаз Хәмзин / Фирзәр Мортазин - Казанда торсаң иде / Алмаз Хамзин / Фирзар Мортазин - Если б ты жил в Казани](../translated/a/almaz_hamzin_firzar_mortazin_-_kazanda_torsan_ide.md)
 - [Алмаз Хәмзин / Фирзәр Мортазин - Туган көн (беренче вариант) / Алмаз Хамзин / Фирзар Мортазин - День рождения (первый вариант)](../translated/a/almaz_hamzin_firzar_mortazin_-_tugan_kon_berenche_variant.md)
 - [Алмаз Хәмзин / Әлфис Кыямов - Баянчы җыры / Алмаз Хамзин / Альфис Кыямов - Песня баяниста](../translated/a/almaz_hamzin_alfis_kiyamov_-_bayanchi_ciri.md)
@@ -102,9 +105,6 @@
 - [Альбина Хакимова - Апама / Альбина Хакимова - Сестре моей](../translated/a/albina_hakimova-apama.md)
 - [Альбина Хакимова - Кил эле яныма / Альбина Хакимова - Приходи ко мне](../translated/a/albina_hakimova-kil_ele_yanyma.md)
 - [Альбина Хакимова - Син белмисен эле мине / Альбина Хакимова - Ты не знаешь меня](../translated/a/albina_hakimova-sin_belmisen_ele_mine.md)
-- [Альбина Шәймарданова / Салават Низаметдинов - Яратам (алтынчы вариант) / Альбина Шаймарданова / Салават Низаметдинов - Люблю (шестой вариант)](../translated/a/albina_shaymardanova_salavat_nizametdinov_-_yaratam_altinchi_variant.md)
-- [Альфина Азгамова - Кайтаваз / Альфина Азгамова - Эхо](../translated/a/alfina_azgamova-kaytavaz.md)
-- [Альфина Азгамова - Мин синен йолдызын / Альфина Азгамова - Я твоя звезда](../translated/a/alfina_azgamova-min_sinen_yoldyzyn.md)
 
 ---
 

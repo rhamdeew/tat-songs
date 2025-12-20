@@ -1,10 +1,13 @@
 # Татарские песни и их перевод - Страница 12
 
-## Список песен (песни 1101-1200 из 3535)
+## Список песен (песни 1101-1200 из 3663)
 
 [← Предыдущая страница](songs_list/SONGS_11.md) | [Главная страница](../README.md) | [Следующая страница →](songs_list/SONGS_13.md)
 
 
+- [Булат Нигматуллин - Безгэ кирэк юлэр яшьлек / Булат Нигматуллин - Нам нужны дороги молодости](../translated/b/bulat_nigmatullin-bezge_kirek_yuler_yashlek.md)
+- [Булат Нигматуллин - Безнен гомер / Булат Нигматуллин - Наша жизнь](../translated/b/bulat_nigmatullin-beznen_gomer.md)
+- [Булат Нигматуллин - Вакыт житми / Булат Нигматуллин - Времени не хватает](../translated/b/bulat_nigmatullin-vakyt_zhitmi.md)
 - [Булат Нигматуллин - Душэмбикэм / Булат Нигматуллин - Дюшембике](../translated/b/bulat_nigmatullin-dushembikem.md)
 - [Булат Нигматуллин - Ир-ат бэхете / Булат Нигматуллин - Мужское счастье](../translated/b/bulat_nigmatullin-ir-at_behete.md)
 - [Булат Нигматуллин - Йорэк жыры / Булат Нигматуллин - Песня сердца](../translated/b/bulat_nigmatullin-yorek_zhyry.md)
@@ -34,9 +37,12 @@
 - [Василя Фаттахова - Умырзая / Василя Фаттахова - Надежда](../translated/v/vasilya_fattahova-umyrzaya.md)
 - [Василя Фаттахова - Этиемэ / Василя Фаттахова - Моя мама](../translated/v/vasilya_fattahova-etieme.md)
 - [Венер Котдусов - Ак томаннар тарала (Томаннар) / Венер Котдусов - Белые туманы рассеиваются (Туманы)](../translated/v/vener_kotdusov_-_ak_tomannar_tarala_tomannar.md)
+- [Венер Котдусов - Ерак китмәм (Саумы, авылым) / Венер Котдусов - Не уеду далеко (Прощай, мой аул)](../translated/v/vener_kotdusov_-_erak_kitmam_saumi_avilim.md)
 - [Венер Котдусов - Чакмагыш (икенче вариант) / Венер Котдусов - Чакмагыш (второй вариант)](../translated/v/vener_kotdusov_-_chakmagish_ikenche_variant.md)
+- [Венер Котдусов - Җилфер-җилфер җил искәндә (икенче вариант) / Венер Котдусов - Когда ветер шелестит (второй вариант)](../translated/v/vener_kotdusov_-_cilfer-cilfer_cil_iskanda_ikenche_variant.md)
 - [Венер Фәттах / Зарема Әюпова - Ага сулар (алтынчы вариант) / Венер Фәттах / Зарема Әюпова - Текут воды (шестой вариант)](../translated/v/vener_fattah_zarema_ayupova_-_aga_sular_altinchi_variant.md)
 - [Венер Фәттах / Лилия Вахитова - Биим әле! / Венер Фәттах / Лилия Вахитова - Танцую еще!](../translated/v/vener_fattah_liliya_vahitova_-_biim_ale.md)
+- [Венер Фәттах / Наил Сөләйманов - Адашкан бәхет / Венер Фаттах / Наиль Сулейманов - Заблудившееся счастье](../translated/v/vener_fattah_nail_solaymanov_-_adashkan_bahet.md)
 - [Венера Асаева / Роберт Тимербаев - Исләремә төшәр кебек / Венера Асаева / Роберт Тимербаев - Будто в память падет](../translated/v/venera_asaeva_robert_timerbaev_-_islarema_toshar_kebek.md)
 - [Венера Ганиева - Ак каен / Венера Ганиева - Белая береза](../translated/v/venera_ganieva-ak_kaen.md)
 - [Венера Ганиева - Еллар уза / Венера Ганиева - Годы проходят](../translated/v/venera_ganieva-ellar_uza.md)
@@ -52,11 +58,15 @@
 - [Венера Шамиева - Гади кешелэр / Венера Шамиева - Простые люди](../translated/v/venera_shamieva-gadi_kesheler.md)
 - [Венера Шамиева - Саклана кур / Венера Шамиева - Береги себя](../translated/v/venera_shamieva-saklana_kur.md)
 - [Венера Шамиева - Узен киттен / Венера Шамиева - Сам ушёл](../translated/v/venera_shamieva-uzen_kitten.md)
+- [Вил Казыйханов / Мөфтәдин Гыйләҗев - Хуш, мәктәбем! / Виль Казыйханов / Мөфтадин Гиляжев - Прощай, моя школа!](../translated/v/vil_kaziyhanov_moftadin_giylacev_-_hush_maktabem.md)
+- [Вилдан Вәлиев / Венер Мөхәммәдиев - Ачытау (икенче вариант) / Вилдан Валиев / Венер Мухаммадиев - Ачытау (второй вариант)](../translated/v/vildan_valiev_vener_mohammadiev_-_achitau_ikenche_variant.md)
 - [Виль Усманов - Юкка тугел юкка тугелдер / Виль Усманов - Не напрасно, не напрасно](../translated/v/vil_usmanov-yukka_tugel_yukka_tugelder.md)
 - [Виниса Фәттахова / Инсаф Хәбибуллин - Саубуллашу җыры / Виниса Фаттахова / Инсаф Хабибуллин - Песня прощания](../translated/v/vinisa_fattahova_insaf_habibullin_-_saubullashu_ciri.md)
 - [Виталий Агапов - Авылым минем Сәвәләй (Сандугач тавы) / Виталий Агапов - Моя деревня Савелай (Гора Сандугач)](../translated/v/vitaliy_agapov_-_avilim_minem_savalay_sandugach_tavi.md)
 - [Виталий Агапов - Бала сагышы / Виталий Агапов - Детская тоска](../translated/v/vitaliy_agapov_-_bala_sagishi.md)
+- [Виталий Агапов - Зәй буе шомыртлары / Виталий Агапов - Черёмухи над рекой Зай](../translated/v/vitaliy_agapov_-_zay_bue_shomirtlari.md)
 - [Виталий Агапов - Сонга калдым / Виталий Агапов - Остался последним](../translated/v/vitaliy_agapov-songa_kaldym.md)
+- [Виталий Агапов - Төнбоеклар бүләккә / Виталий Агапов - Кувшинки в подарок](../translated/v/vitaliy_agapov_-_tonboeklar_bulakka.md)
 - [Виталий Агапов - Уйларымда мәктәп еллары / Виталий Агапов - В моих мыслях школьные годы](../translated/v/vitaliy_agapov_-_uylarimda_maktap_ellari.md)
 - [Виталий Агапов - Энкэй голе / Виталий Агапов - Материнский цветок](../translated/v/vitaliy_agapov-enkey_gole.md)
 - [Виталий Агапов - Эх, Сәвәләй, Сәвәләй / Виталий Агапов - Ах, Савалай, Савалай](../translated/v/vitaliy_agapov_-_eh_savalay_savalay.md)
@@ -95,16 +105,6 @@
 - [Габдельфат Сафин - Укенеч / Габдельфат Сафин - Сожаление](../translated/g/gabdelfat_safin-ukenech.md)
 - [Габдельфат Сафин - Чиялэр / Габдельфат Сафин - Вишни](../translated/g/gabdelfat_safin-chiyaler.md)
 - [Габдельфат Сафин - Шимберем / Габдельфат Сафин - Мой Шимбер](../translated/g/gabdelfat_safin-shimberem.md)
-- [Габдельфат Сафин - Юллар язам / Габдельфат Сафин - Прокладываю дороги](../translated/g/gabdelfat_safin-yullar_yazam.md)
-- [Габдельфат Сафин - Язмыш / Габдельфат Сафин - Судьба](../translated/g/gabdelfat_safin-yazmysh.md)
-- [Габдельфат Сафин - Ялгыз парлылар / Габдельфат Сафин - Одинокие красавицы](../translated/g/gabdelfat_safin-yalgyz_parlylar.md)
-- [Габдельфат Сафин - Япь-яшь чаклар бар иде / Габдельфат Сафин - Юные времена были](../translated/g/gabdelfat_safin-yap-yash_chaklar_bar_ide.md)
-- [Габдулла Байбурин / Данил Хәсәншин - Күк томан / Габдулла Байбурин / Данил Хасаншин - Синий туман](../translated/g/gabdulla_bayburin_danil_hasanshin_-_kuk_toman.md)
-- [Габдулла Тукай / Мансур Мозаффаров - Бер рәсемгә (беренче вариант) / Габдулла Тукай / Мансур Мозаффаров - К одному портрету (первый вариант)](../translated/g/gabdulla_tukay_mansur_mozaffarov_-_ber_rasemga_berenche_variant.md)
-- [Габдулла Тукай / Мәсгуть Имашев - Театр / Габдулла Тукай / Мәсгуть Имашев - Театр](../translated/g/gabdulla_tukay_masgut_imashev_-_teatr.md)
-- [Гакыйль Сәгыйров / Илфат Дәүләтшин - Бәхет (сигезенче вариант) / Гакыйль Сәгыйров / Илфат Дәүләтшин - Счастье (восьмой вариант)](../translated/g/gakiyl_sagiyrov_ilfat_daulatshin_-_bahet_sigezenche_variant.md)
-- [Галимҗан Латыйпов / Сара Садыйкова - Бөтен гомергә / Галимжан Латыпов / Сара Садыкова - На всю жизнь](../translated/g/galimcan_latiypov_sara_sadiykova_-_boten_gomerga.md)
-- [Галия Сафиуллина / Айнур Сәйфиев - Рәхмәтлемен сезгә, газизләрем / Галия Сафиуллина / Айнур Сәйфиев - Спасибо вам, любимые](../translated/g/galiya_safiullina_aynur_sayfiev_-_rahmatlemen_sezga_gazizlarem.md)
 
 ---
 
