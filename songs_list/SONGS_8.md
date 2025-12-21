@@ -1,10 +1,19 @@
 # Татарские песни и их перевод - Страница 8
 
-## Список песен (песни 701-800 из 3663)
+## Список песен (песни 701-800 из 3970)
 
 [← Предыдущая страница](songs_list/SONGS_7.md) | [Главная страница](../README.md) | [Следующая страница →](songs_list/SONGS_9.md)
 
 
+- [Асылъяр - Ай кебек син / Асылъяр - Ты словно месяц](../translated/a/asylyar-ay_kebek_sin.md)
+- [Асылъяр - Бэхетегез булсын гомергэ / Асылъяр - Пусть счастье ваше будет на всю жизнь](../translated/a/asylyar-behetegez_bulsyn_gomerge.md)
+- [Асылъяр - Искэ тошер эле / Асылъяр - Вспомнится](../translated/a/asylyar-iske_tosher_ele.md)
+- [Асылъяр - Кайткан чакта адашма берук / Асылъяр - Когда вернешься, не заблудись](../translated/a/asylyar-kaytkan_chakta_adashma_beruk.md)
+- [Асылъяр - Карлыгачлар / Асылъяр - Ласточки](../translated/a/asylyar-karlygachlar.md)
+- [Асылъяр - Куз нурым / Асылъяр - Свет глаз моих](../translated/a/asylyar-kuz_nurym.md)
+- [Асылъяр - Минем бэгърем / Асылъяр - Мое дитя](../translated/a/asylyar-minem_begrem.md)
+- [Асылъяр - Миннэн башка син дэ канатсыз / Асылъяр - Кроме меня, и ты без крыльев](../translated/a/asylyar-minnen_bashka_sin_de_kanatsyz.md)
+- [Асылъяр - Сахралар / Асылъяр - Степи](../translated/a/asylyar-sahralar.md)
 - [Асылъяр - Син / Асылъяр - Ты](../translated/a/asylyar-sin.md)
 - [Асылъяр - Синен очен / Асылъяр - Ради тебя](../translated/a/asylyar-sinen_ochen.md)
 - [Асылъяр - Сою хакына / Асылъяр - Ради любви](../translated/a/asylyar-soyu_hakyna.md)
@@ -96,15 +105,6 @@
 - [Башкорт халык җыры - Таштугай / Башкорт народная песня - Таштугай](../translated/b/bashkort_halik_ciri_-_tashtugay.md)
 - [Башкорт халык җыры - Уел (беренче вариант) / Башкирская народная песня - Уэл (первый вариант)](../translated/b/bashkort_halik_ciri_-_uel_berenche_variant.md)
 - [Башкорт халык җыры - Уел (дүртенче вариант) / Башкирская народная песня - Уйыл (четвертый вариант)](../translated/b/bashkort_halik_ciri_-_uel_durtenche_variant.md)
-- [Башкорт халык җыры - Уел (икенче вариант) / Башкирская народная песня - Песня (второй вариант)](../translated/b/bashkort_halik_ciri_-_uel_ikenche_variant.md)
-- [Башкорт халык җыры - Уел (өченче вариант) / Башкирская народная песня - Уйал (третий вариант)](../translated/b/bashkort_halik_ciri_-_uel_ochenche_variant.md)
-- [Башкорт халык җыры - Уйнат гармуннарыңны / Башкирская народная песня - Играть на гармошке](../translated/b/bashkort_halik_ciri_-_uynat_garmunnarinni.md)
-- [Башкорт халык җыры - Урманнарга барсаң (Урманнарга керсәң)... / Башкирская народная песня - Если в лес пойдешь (Если в лес войдешь)...](../translated/b/bashkort_halik_ciri_-_urmannarga_barsan_urmannarga_kersan.md)
-- [Башкорт халык җыры - Урманнарга керсәң... / Башкирская народная песня - Если в леса войдешь...](../translated/b/bashkort_halik_ciri_-_urmannarga_kersan.md)
-- [Башкорт халык җыры - Хәйрүләкәй / Башкирская народная песня - Хайрулакай](../translated/b/bashkort_halik_ciri_-_hayrulakay.md)
-- [Башкорт халык җыры - Хәтирә (беренче вариант) / Башкирская народная песня - Хатиля (первый вариант)](../translated/b/bashkort_halik_ciri_-_hatira_berenche_variant.md)
-- [Башкорт халык җыры - Чулпан йолдыз / Башкорт народная песня - Звезда Венера](../translated/b/bashkort_halik_ciri_-_chulpan_yoldiz.md)
-- [Башкорт халык җыры - Шәл бәйләдем (икенче вариант) / Башкирская народная песня - Я повязал шаль (второй вариант)](../translated/b/bashkort_halik_ciri_-_shal_bayladem_ikenche_variant.md)
 
 ---
 

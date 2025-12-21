@@ -1,10 +1,19 @@
 # Татарские песни и их перевод - Страница 4
 
-## Список песен (песни 301-400 из 3663)
+## Список песен (песни 301-400 из 3970)
 
 [← Предыдущая страница](songs_list/SONGS_3.md) | [Главная страница](../README.md) | [Следующая страница →](songs_list/SONGS_5.md)
 
 
+- [Айдар Галимов - Эйтмэ, син, авыр суз / Айдар Галимов - Не говори тяжёлых слов](../translated/a/aydar_galimov-eytme_sin_avyr_suz.md)
+- [Айдар Галимов - Этигэ жыр / Айдар Галимов - Песня об отце](../translated/a/aydar_galimov-etige_zhyr.md)
+- [Айдар Галимов - Эх, алмасы / Айдар Галимов - Ах, яблочко](../translated/a/aydar_galimov-eh_almasy.md)
+- [Айдар Галимов - Юллар / Айдар Галимов - Дороги](../translated/a/aydar_galimov-yullar.md)
+- [Айдар Галимов - Ябалаклап ява карлар / Айдар Галимов - Хлопьями идёт снег](../translated/a/aydar_galimov-yabalaklap_yava_karlar.md)
+- [Айдар Галимов - Яз мизгеле / Айдар Галимов - Весенняя пора](../translated/a/aydar_galimov-yaz_mizgele.md)
+- [Айдар Галимов - Яз сулышы / Айдар Галимов - Весеннее дыхание](../translated/a/aydar_galimov-yaz_sulyshy.md)
+- [Айдар Галимов - Язмыш жиле / Айдар Галимов - Ветер судьбы](../translated/a/aydar_galimov-yazmysh_zhile.md)
+- [Айдар Галимов - Янгантауда яна йорэк / Айдар Галимов - На Янгантау горит сердце](../translated/a/aydar_galimov-yangantauda_yana_yorek.md)
 - [Айдар Галимов - Яннарына кайтып килэм / Айдар Галимов - К тебе вернусь](../translated/a/aydar_galimov-yannaryna_kaytyp_kilem.md)
 - [Айдар Галимов - Янына барам эле (Уфа поездлары) / Айдар Галимов - К тебе еду (Уфинские поезда)](../translated/a/aydar_galimov-yanyna_baram_ele_ufa_poezdlary.md)
 - [Айдар Галимов - Ярала аккош / Айдар Галимов - Раненый лебедь](../translated/a/aydar_galimov-yarala_akkosh.md)
@@ -96,15 +105,6 @@
 - [Айдар Минһаҗев / Фәрид Низамиев - Җиләк / Айдар Минхаджев / Фарид Низамиев - Ягода](../translated/a/aydar_minhacev_farid_nizamiev_-_cilak.md)
 - [Айдар Минһаҗев / Фәрид Низамиев - Ә алмалар кызармады / Айдар Минхажев / Фарид Низамиев - А яблоки не покраснели](../translated/a/aydar_minhacev_farid_nizamiev_-_a_almalar_kizarmadi.md)
 - [Айдар Тимербаев - Гафу итмә / Айдар Тимербаев - Не прощай меня](../translated/a/aydar_timerbaev_-_gafu_itma.md)
-- [Айдар Тимербаев - Кагылма кеше ярына / Айдар Тимербаев - Не прикасайся к чужой любимой](../translated/a/aydar_timerbaev_-_kagilma_keshe_yarina.md)
-- [Айдар Файзрахманов - Су буеннан энкэй кайтып килэ / Айдар Файзрахманов - Мать возвращается от реки](../translated/a/aydar_fayzrahmanov-su_buennan_enkey_kaytyp_kile.md)
-- [Айдар Хәлим / Зөлфия Хәлилова - Бишек җыры (тугызынчы вариант) / Айдар Халим / Зульфия Халилова - Колыбельная (девятый вариант)](../translated/a/aydar_halim_zolfiya_halilova_-_bishek_ciri_tugizinchi_variant.md)
-- [Айдар Шакиров - Иркэмэ / Айдар Шакиров - Моей милой](../translated/a/aydar_shakirov-irkeme.md)
-- [Айдар Шакиров - Экълимэ / Айдар Шакиров - Эклиме](../translated/a/aydar_shakirov-eklime.md)
-- [Айдар Юнысов - Кайтыйк әле туган якка / Айдар Юнусов - Вернёмся же на родину](../translated/a/aydar_yunisov_-_kaytiyk_ale_tugan_yakka.md)
-- [Айдар Юнысов - Тик бер сүзем / Айдар Юнусов - Только одно слово](../translated/a/aydar_yunisov_-_tik_ber_suzem.md)
-- [Айдар Юнысов - Яшик бу дөньяны яратып / Айдар Юнысов - Живи, этот мир любя](../translated/a/aydar_yunisov_-_yashik_bu_donyani_yaratip.md)
-- [Айдар Юнысов - Әллә син, әллә мин / Айдар Юнысов - То ли ты, то ли я](../translated/a/aydar_yunisov_-_alla_sin_alla_min.md)
 
 ---
 

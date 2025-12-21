@@ -1,10 +1,19 @@
 # Татарские песни и их перевод - Страница 5
 
-## Список песен (песни 401-500 из 3663)
+## Список песен (песни 401-500 из 3970)
 
 [← Предыдущая страница](songs_list/SONGS_4.md) | [Главная страница](../README.md) | [Следующая страница →](songs_list/SONGS_6.md)
 
 
+- [Айдар Тимербаев - Кагылма кеше ярына / Айдар Тимербаев - Не прикасайся к чужой любимой](../translated/a/aydar_timerbaev_-_kagilma_keshe_yarina.md)
+- [Айдар Файзрахманов - Су буеннан энкэй кайтып килэ / Айдар Файзрахманов - Мать возвращается от реки](../translated/a/aydar_fayzrahmanov-su_buennan_enkey_kaytyp_kile.md)
+- [Айдар Хәлим / Зөлфия Хәлилова - Бишек җыры (тугызынчы вариант) / Айдар Халим / Зульфия Халилова - Колыбельная (девятый вариант)](../translated/a/aydar_halim_zolfiya_halilova_-_bishek_ciri_tugizinchi_variant.md)
+- [Айдар Шакиров - Иркэмэ / Айдар Шакиров - Моей милой](../translated/a/aydar_shakirov-irkeme.md)
+- [Айдар Шакиров - Экълимэ / Айдар Шакиров - Эклиме](../translated/a/aydar_shakirov-eklime.md)
+- [Айдар Юнысов - Кайтыйк әле туган якка / Айдар Юнусов - Вернёмся же на родину](../translated/a/aydar_yunisov_-_kaytiyk_ale_tugan_yakka.md)
+- [Айдар Юнысов - Тик бер сүзем / Айдар Юнусов - Только одно слово](../translated/a/aydar_yunisov_-_tik_ber_suzem.md)
+- [Айдар Юнысов - Яшик бу дөньяны яратып / Айдар Юнысов - Живи, этот мир любя](../translated/a/aydar_yunisov_-_yashik_bu_donyani_yaratip.md)
+- [Айдар Юнысов - Әллә син, әллә мин / Айдар Юнысов - То ли ты, то ли я](../translated/a/aydar_yunisov_-_alla_sin_alla_min.md)
 - [Айдар Әгъләмов - Яшьлегемә кайтам / Айдар Агламов - Возвращаюсь в молодость](../translated/a/aydar_aglamov_-_yashlegema_kaytam.md)
 - [Айзирә Хаҗиева / Лилия Хаснулова - Иң зур бәхетем / Айзира Хаджиева / Лилия Хаснулова - Моё главное счастье](../translated/a/ayzira_hacieva_liliya_hasnulova_-_in_zur_bahetem.md)
 - [Айкау - Рэйхан / Айкау - Рейхан](../translated/a/aykau-reyhan.md)
@@ -96,15 +105,6 @@
 - [Алмаз Миргаязов / Айдар Тимербаев - Ялгыз эт / Алмаз Миргаязов / Айдар Тимербаев - Одинокий пёс](../translated/a/almaz_mirgayazov_aydar_timerbaev_-_yalgiz_et.md)
 - [Алмаз Миргаязов / Айдар Әгъләмов - Зоопарк / Алмаз Миргаязов / Айдар Агламов - Зоопарк](../translated/a/almaz_mirgayazov_aydar_aglamov_-_zoopark.md)
 - [Алмаз Мурзабаев / Ангел Камиль - Мәхәббәт (беренче вариант) / Алмаз Мурзабаев / Ангел Камиль - Любовь (первый вариант)](../translated/a/almaz_murzabaev_angel_kamil_-_mahabbat_berenche_variant.md)
-- [Алмаз Хәмзин - Бар, кайт! / Алмаз Хамзин - Уходи, возвращайся!](../translated/a/almaz_hamzin_-_bar_kayt.md)
-- [Алмаз Хәмзин - Чәчәкләр (беренче вариант) / Алмаз Хамзин - Цветы (первый вариант)](../translated/a/almaz_hamzin_-_chachaklar_berenche_variant.md)
-- [Алмаз Хәмзин / Илфат Дәүләтшин - Булсын тик сөенеч / Алмаз Хамзин / Ильфат Даулетшин - Пусть будет лишь радость](../translated/a/almaz_hamzin_ilfat_daulatshin_-_bulsin_tik_soenech.md)
-- [Алмаз Хәмзин / Марат Хөснуллин - Зәйтүнәм / Алмаз Хамзин / Марат Хоснуллин - Зайтуна моя](../translated/a/almaz_hamzin_marat_hosnullin_-_zaytunam.md)
-- [Алмаз Хәмзин / Марат Хөснуллин - Сыерчыклы, сандугачлы яз / Алмаз Хамзин / Марат Хоснуллин - Весна со скворцами и соловьями](../translated/a/almaz_hamzin_marat_hosnullin_-_sierchikli_sandugachli_yaz.md)
-- [Алмаз Хәмзин / Марат Хөснуллин - Әтиләргә / Алмаз Хамзин / Марат Хуснуллин - Отцам](../translated/a/almaz_hamzin_marat_hosnullin_-_atilarga.md)
-- [Алмаз Хәмзин / Марат Хөснуллин - Өмет (беренче вариант) / Алмаз Хамзин / Марат Хуснуллин - Надежда (первый вариант)](../translated/a/almaz_hamzin_marat_hosnullin_-_omet_berenche_variant.md)
-- [Алмаз Хәмзин / Мөхтәр Минһаҗев - Миләшкәем (икенче вариант) / Алмаз Хамзин / Мухтар Минхаджев - Моя рябинушка (второй вариант)](../translated/a/almaz_hamzin_mohtar_minhacev_-_milashkaem_ikenche_variant.md)
-- [Алмаз Хәмзин / Мөхтәр Минһаҗев - Нигә, болыт,елыйсың? / Алмаз Хамзин / Мухтар Минхаджев - Почему ты плачешь, облако?](../translated/a/almaz_hamzin_mohtar_minhacev_-_niga_boliteliysin.md)
 
 ---
 

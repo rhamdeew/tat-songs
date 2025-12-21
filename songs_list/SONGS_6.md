@@ -1,10 +1,19 @@
 # Татарские песни и их перевод - Страница 6
 
-## Список песен (песни 501-600 из 3663)
+## Список песен (песни 501-600 из 3970)
 
 [← Предыдущая страница](songs_list/SONGS_5.md) | [Главная страница](../README.md) | [Следующая страница →](songs_list/SONGS_7.md)
 
 
+- [Алмаз Хәмзин - Бар, кайт! / Алмаз Хамзин - Уходи, возвращайся!](../translated/a/almaz_hamzin_-_bar_kayt.md)
+- [Алмаз Хәмзин - Чәчәкләр (беренче вариант) / Алмаз Хамзин - Цветы (первый вариант)](../translated/a/almaz_hamzin_-_chachaklar_berenche_variant.md)
+- [Алмаз Хәмзин / Илфат Дәүләтшин - Булсын тик сөенеч / Алмаз Хамзин / Ильфат Даулетшин - Пусть будет лишь радость](../translated/a/almaz_hamzin_ilfat_daulatshin_-_bulsin_tik_soenech.md)
+- [Алмаз Хәмзин / Марат Хөснуллин - Зәйтүнәм / Алмаз Хамзин / Марат Хоснуллин - Зайтуна моя](../translated/a/almaz_hamzin_marat_hosnullin_-_zaytunam.md)
+- [Алмаз Хәмзин / Марат Хөснуллин - Сыерчыклы, сандугачлы яз / Алмаз Хамзин / Марат Хоснуллин - Весна со скворцами и соловьями](../translated/a/almaz_hamzin_marat_hosnullin_-_sierchikli_sandugachli_yaz.md)
+- [Алмаз Хәмзин / Марат Хөснуллин - Әтиләргә / Алмаз Хамзин / Марат Хуснуллин - Отцам](../translated/a/almaz_hamzin_marat_hosnullin_-_atilarga.md)
+- [Алмаз Хәмзин / Марат Хөснуллин - Өмет (беренче вариант) / Алмаз Хамзин / Марат Хуснуллин - Надежда (первый вариант)](../translated/a/almaz_hamzin_marat_hosnullin_-_omet_berenche_variant.md)
+- [Алмаз Хәмзин / Мөхтәр Минһаҗев - Миләшкәем (икенче вариант) / Алмаз Хамзин / Мухтар Минхаджев - Моя рябинушка (второй вариант)](../translated/a/almaz_hamzin_mohtar_minhacev_-_milashkaem_ikenche_variant.md)
+- [Алмаз Хәмзин / Мөхтәр Минһаҗев - Нигә, болыт,елыйсың? / Алмаз Хамзин / Мухтар Минхаджев - Почему ты плачешь, облако?](../translated/a/almaz_hamzin_mohtar_minhacev_-_niga_boliteliysin.md)
 - [Алмаз Хәмзин / Оскар Усманов - Ком сәгате (беренче вариант) / Алмаз Хамзин / Оскар Усманов - Песочные часы (первый вариант)](../translated/a/almaz_hamzin_oskar_usmanov_-_kom_sagate_berenche_variant.md)
 - [Алмаз Хәмзин / Оскар Усманов - Әбием коймаклары / Алмаз Хамзин / Оскар Усманов - Бабушкины коймаки](../translated/a/almaz_hamzin_oskar_usmanov_-_abiem_koymaklari.md)
 - [Алмаз Хәмзин / Рөстәм Вәлиев - Сине көтәм (икенче вариант) / Алмаз Хамзин / Рустам Валиев - Я жду тебя (второй вариант)](../translated/a/almaz_hamzin_rostam_valiev_-_sine_kotam_ikenche_variant.md)
@@ -96,15 +105,6 @@
 - [Альбина Бәширова - Ялгышу (икенче вариант) / Альбина Баширова - Ошибка (второй вариант)](../translated/a/albina_bashirova_-_yalgishu_ikenche_variant.md)
 - [Альбина Бәширова / Булат Шәрипов - Алинәкәй / Альбина Баширова / Булат Шарипов - Алиночка](../translated/a/albina_bashirova_bulat_sharipov_-_alinakay.md)
 - [Альбина Бәширова / Илнур Ганиев - Мәхәббәт сере / Альбина Баширова / Ильнур Ганиев - Тайна любви](../translated/a/albina_bashirova_ilnur_ganiev_-_mahabbat_sere.md)
-- [Альбина Бәширова / Нияз Вәлиев - Әти-әни (икенче вариант) / Альбина Баширова / Нияз Валиев - Отец и мать (второй вариант)](../translated/a/albina_bashirova_niyaz_valiev_-_ati-ani_ikenche_variant.md)
-- [Альбина Бәширова / Фларид Минкаһиров - Елама, бәгырькәем / Альбина Баширова / Фларид Минкахиров - Не плачь, родная](../translated/a/albina_bashirova_flarid_minkahirov_-_elama_bagirkaem.md)
-- [Альбина Мортазина / Рамил Әсхәдулла - Дөрли әле / Альбина Мортазина / Рамил Асхадулла - Еще трепещет](../translated/a/albina_mortazina_ramil_ashadulla_-_dorli_ale.md)
-- [Альбина Мортазина / Рамил Әсхәдулла - Миңа син генә кирәк / Альбина Мортазина / Рамил Асхадулла - Мне нужна только ты](../translated/a/albina_mortazina_ramil_ashadulla_-_mina_sin_gena_kirak.md)
-- [Альбина Мортазина / Рамил Әсхәдулла - Язмыш бүләге / Альбина Мортазина / Рамиль Асхадулла - Дар судьбы](../translated/a/albina_mortazina_ramil_ashadulla_-_yazmish_bulage.md)
-- [Альбина Мортазина / Рамил Әсхәдулла - Язмышымның иң зур табышы / Альбина Мортазина / Рамиль Асхадулла - Моей судьбы величайшая находка](../translated/a/albina_mortazina_ramil_ashadulla_-_yazmishimnin_in_zur_tabishi.md)
-- [Альбина Хакимова - Апама / Альбина Хакимова - Сестре моей](../translated/a/albina_hakimova-apama.md)
-- [Альбина Хакимова - Кил эле яныма / Альбина Хакимова - Приходи ко мне](../translated/a/albina_hakimova-kil_ele_yanyma.md)
-- [Альбина Хакимова - Син белмисен эле мине / Альбина Хакимова - Ты не знаешь меня](../translated/a/albina_hakimova-sin_belmisen_ele_mine.md)
 
 ---
 

@@ -1,10 +1,19 @@
 # Татарские песни и их перевод - Страница 9
 
-## Список песен (песни 801-900 из 3663)
+## Список песен (песни 801-900 из 3970)
 
 [← Предыдущая страница](songs_list/SONGS_8.md) | [Главная страница](../README.md) | [Следующая страница →](songs_list/SONGS_10.md)
 
 
+- [Башкорт халык җыры - Уел (икенче вариант) / Башкирская народная песня - Песня (второй вариант)](../translated/b/bashkort_halik_ciri_-_uel_ikenche_variant.md)
+- [Башкорт халык җыры - Уел (өченче вариант) / Башкирская народная песня - Уйал (третий вариант)](../translated/b/bashkort_halik_ciri_-_uel_ochenche_variant.md)
+- [Башкорт халык җыры - Уйнат гармуннарыңны / Башкирская народная песня - Играть на гармошке](../translated/b/bashkort_halik_ciri_-_uynat_garmunnarinni.md)
+- [Башкорт халык җыры - Урманнарга барсаң (Урманнарга керсәң)... / Башкирская народная песня - Если в лес пойдешь (Если в лес войдешь)...](../translated/b/bashkort_halik_ciri_-_urmannarga_barsan_urmannarga_kersan.md)
+- [Башкорт халык җыры - Урманнарга керсәң... / Башкирская народная песня - Если в леса войдешь...](../translated/b/bashkort_halik_ciri_-_urmannarga_kersan.md)
+- [Башкорт халык җыры - Хәйрүләкәй / Башкирская народная песня - Хайрулакай](../translated/b/bashkort_halik_ciri_-_hayrulakay.md)
+- [Башкорт халык җыры - Хәтирә (беренче вариант) / Башкирская народная песня - Хатиля (первый вариант)](../translated/b/bashkort_halik_ciri_-_hatira_berenche_variant.md)
+- [Башкорт халык җыры - Чулпан йолдыз / Башкорт народная песня - Звезда Венера](../translated/b/bashkort_halik_ciri_-_chulpan_yoldiz.md)
+- [Башкорт халык җыры - Шәл бәйләдем (икенче вариант) / Башкирская народная песня - Я повязал шаль (второй вариант)](../translated/b/bashkort_halik_ciri_-_shal_bayladem_ikenche_variant.md)
 - [Башкорт халык җыры - Шәүрә / Башкирская народная песня - Шаура](../translated/b/bashkort_halik_ciri_-_shaura.md)
 - [Башкорт халык җыры - Элмәлек / Башкирская народная песня - Эльмәлек](../translated/b/bashkort_halik_ciri_-_elmalek.md)
 - [Башкорт халык җыры - Эскадрон / Башкортская народная песня - Эскадрон](../translated/b/bashkort_halik_ciri_-_eskadron.md)
@@ -96,15 +105,6 @@
 - [Билгесез - Көнләшәм җилләрдән / Бильгесез - Скрываюсь ли я от ветров](../translated/b/bilgesez_-_konlasham_cillardan.md)
 - [Билгесез - Ламбада (икенче вариант) / Билгесез - Ламбада (второй вариант)](../translated/b/bilgesez_-_lambada_ikenche_variant.md)
 - [Билгесез - Матур гөлем / Бильгесез - Прекрасный цветок мой](../translated/b/bilgesez_-_matur_golem.md)
-- [Билгесез - Миләүшәләр (икенче вариант) / Билгесез - Миләүшәләр (второй вариант)](../translated/b/bilgesez_-_milaushalar_ikenche_variant.md)
-- [Билгесез - Мин дә сине яратмыйм / Билгесез - И я тебя не люблю](../translated/b/bilgesez_-_min_da_sine_yaratmiym.md)
-- [Билгесез - Мин Казанда сине эзләп таптым / Билгесез - Я тебя нашёл в Казани](../translated/b/bilgesez_-_min_kazanda_sine_ezlap_taptim.md)
-- [Билгесез - Мин синеке, син минеке / Бильгесез - Я твоя, ты моя](../translated/b/bilgesez_-_min_sineke_sin_mineke.md)
-- [Билгесез - Мин синең бәхетең / Бильгесез - Я твое счастье](../translated/b/bilgesez_-_min_sinen_baheten.md)
-- [Билгесез - Мишәр кызы (икенче вариант) / Билгесез - Девушка-мишарка (второй вариант)](../translated/b/bilgesez_-_mishar_kizi_ikenche_variant.md)
-- [Билгесез - Мәхаббәт булмаса дөньяда / Неизвестный - Если бы в мире не было любви](../translated/b/bilgesez_-_mahabbat_bulmasa_donyada.md)
-- [Билгесез - Мәхаббәтем / Билгесез - Моя любовь](../translated/b/bilgesez_-_mahabbatem.md)
-- [Билгесез - Мәхаббәттән юк дәва / Бильгесез - Нет лекарства от любви](../translated/b/bilgesez_-_mahabbattan_yuk_dava.md)
 
 ---
 

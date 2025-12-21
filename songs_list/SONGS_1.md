@@ -1,6 +1,6 @@
 # Татарские песни и их перевод - Страница 1
 
-## Список песен (песни 1-100 из 3663)
+## Список песен (песни 1-100 из 3970)
 
 [Главная страница](../README.md) | [Следующая страница →](songs_list/SONGS_2.md)
 
@@ -35,17 +35,26 @@
 - [Idelia - Кунелем синдэ генэ / Idelia - Моя душа только в тебе](../translated/i/idelia-kunelem_sinde_gene.md)
 - [Idelia - Тонге тизлек / Idelia - Ночная скорость](../translated/i/idelia-tonge_tizlek.md)
 - [Idelia - Тонге уеннар / Idelia - Ночные игры](../translated/i/idelia-tonge_uennar.md)
+- [ildar_yuzeev_alik_lokmanov_ - Әллә күрешәбез, әллә юк (икенче вариант) / Илдар Юзеев / Алик Локманов - То ли встретимся, то ли нет (второй вариант)](../translated/i/ildar_yuzeev_alik_lokmanov_-_alla_kureshabez_alla_yuk_ikenche_variant.md)
 - [K-Ru - Бары тик уйларым / K-Ru - Это лишь мои мысли](../translated/k/k-ru-bary_tik_uylarym.md)
+- [kerashen_halik_ciri_ - Керәшен халык җыры - Станок / Керәшен народная песня - Станок](../translated/k/kerashen_halik_ciri_-_stanok.md)
 - [Libertas - Хат / Libertas - Письмо](../translated/l/libertas-hat.md)
 - [nariman_kamalov_zofar_hayretdinov_ - Туй чәчәге / Нариман Камалов / Зөфәр Хәйретдинов - Свадебный цветок](../translated/n/nariman_kamalov_zofar_hayretdinov_-_tuy_chachage.md)
 - [Puma - Жыр доньясы / Puma - Мир песни](../translated/p/puma-zhyr_donyasy.md)
 - [Puma - Жэйгэ, кунакка (Безнен жэй) / Puma - К лету, в гости (Наше лето)](../translated/p/puma-zheyge_kunakka_beznen_zhey.md)
 - [robert_minnullin_oskar_usmanov_ - Роберт Миңнуллин / Оскар Усманов - Дуслар булып калыйк, әйдәгез! / Роберт Миңнуллин / Оскар Усманов - Давайте останемся друзьями!](../translated/r/robert_minnullin_oskar_usmanov_-_duslar_bulip_kaliyk_aydagez.md)
+- [Ruslan Chernov / Aidar Timerbaev - Әрнемә әле күңел / Руслан Чернов / Айдар Тимербаев - Не болей пока, душа](../translated/r/ruslan_chernov_aydar_timerbaev_-_arnema_ale_kunel.md)
+- [san - Сан-Франциско татарлары җыры - Абау, уф аллам / san - Песня татар Сан-Франциско - Абау, уф Аллам](../translated/s/san-frantsisko_tatarlari_ciri_-_abau_uf_allam.md)
 - [saniya_idrisova_ - Сания Идрисова - Гомер (өченче вариант) / Сания Идрисова - Жизнь (третий вариант)](../translated/s/saniya_idrisova_-_gomer_ochenche_variant.md)
+- [tatar_ - Татар - Башкорт халык - Эх, Идел буйлары / Татар - Башкорт халык - Ах, прибрежья Иделя](../translated/t/tatar_-_bashkort_halik_-_eh_idel_buylari.md)
 - [tatar_ - Татар - Башкорт халык җыры - Авыл көе (унынчы вариант) / tatar_ - Башкирская народная песня - Деревенская мелодия (десятый вариант)](../translated/t/tatar_-_bashkort_halik_ciri_-_avil_koe_uninchi_variant.md)
+- [tatar_ - Татар - Башкорт халык җыры - Безнең урам (икенче вариант) / Татар - Башкирская народная песня - Наша улица (второй вариант)](../translated/t/tatar_-_bashkort_halik_ciri_-_beznen_uram_ikenche_variant.md)
+- [tatar_halik_ciri_ - Дусларым (өченче вариант) / Татар халык җыры - Друзья мои (третий вариант)](../translated/t/tatar_halik_ciri_-_duslarim_ochenche_variant.md)
 - [tatar_halik_ciri_ - Татар халык җыры - Авыл көе (Карачтау җыры) (беренче вариант) / Татар халык җыры - Авыл көе (Карачтау җыры) (беренче вариант)](../translated/t/tatar_halik_ciri_-_avil_koe_karachtau_ciri_berenche_variant.md)
+- [tatar_halik_ciri_ - Татар халык җыры - Аллы-гөлле гөлчәчәк (икенче вариант) / Татар халык җыры - Пёстрый цветок гөлчәчәк (второй вариант)](../translated/t/tatar_halik_ciri_-_alli-golle_golchachak_ikenche_variant.md)
 - [tatar_halik_ciri_ - Татар халык җыры - Гармун, гармун / Татар халык җыры - Гармонь, гармонь](../translated/t/tatar_halik_ciri_-_garmun_garmun.md)
 - [tatar_halik_ciri_ - Татар халык җыры - Зәйнәбем / Татарская народная песня - Зейнабым](../translated/t/tatar_halik_ciri_-_zaynabem.md)
+- [tatar_halik_ciri_ - Татар халык җыры - Керфекләрең нигә кара? (беренче вариант) / Татарская народная песня - Почему твои ресницы черны? (первый вариант)](../translated/t/tatar_halik_ciri_-_kerfeklaren_niga_kara_berenche_variant.md)
 - [tatar_halik_ciri_ - Татар халык җыры - Көзге ачы җилләрдә (икенче вариант) / татар халик цири - Татарская народная песня - В осенних колючих ветрах (второй вариант)](../translated/t/tatar_halik_ciri_-_kozge_achi_cillarda_ikenche_variant.md)
 - [tatar_halik_ciri_ - Татар халык җыры - Озату (икенче вариант) / Татар халык җыры - Озату (второй вариант)](../translated/t/tatar_halik_ciri_-_ozatu_ikenche_variant.md)
 - [tatar_halik_ciri_ - Татар халык җыры - Сандугач-алмагач / Татарская народная песня - Соловей-яблоня](../translated/t/tatar_halik_ciri_-_sandugach-almagach.md)
@@ -96,15 +105,6 @@
 - [Абдулхак Игебаев / Радик Шамратов - Һай, туган җир, газиз җир! / Абдулхак Игебаев / Радик Шамратов - О, родная земля, священная земля!](../translated/a/abdulhak_igebaev_radik_shamratov_-_hay_tugan_cir_gaziz_cir.md)
 - [Абдулхак Игебаев / Рафик Сәлмәнов - Дилбәр / Абдулхак Игебаев / Рафик Салманов - Дильбар](../translated/a/abdulhak_igebaev_rafik_salmanov_-_dilbar.md)
 - [Абдулхак Игебаев / Рафик Сәлмәнов - Сөю җыры (өченче вариант) / Абдулхак Игебаев / Рафик Салманов - Песня любви (третий вариант)](../translated/a/abdulhak_igebaev_rafik_salmanov_-_soyu_ciri_ochenche_variant.md)
-- [Абдулхак Игебаев / Рим Хәсәнов - Ләйсән яңгыр (беренче вариант) / Абдулхак Игебаев / Рим Хасанов - Майский дождь (первый вариант)](../translated/a/abdulhak_igebaev_rim_hasanov_-_laysan_yangir_berenche_variant.md)
-- [Абдулхак Игебаев / Рим Хәсәнов - Сакмар сукайлары / Абдулхак Игебаев / Рим Хасанов - Воды Сакмары](../translated/a/abdulhak_igebaev_rim_hasanov_-_sakmar_sukaylari.md)
-- [Абдулхак Игебаев / Ришат Акъегет - Яшермәче, иркәм (беренче вариант) / Абдулхак Игебаев / Ришат Акъегет - Не скрывай, любимая (первый вариант)](../translated/a/abdulhak_igebaev_rishat_akeget_-_yashermache_irkam_berenche_variant.md)
-- [Абдулхак Игебаев / Роза Сәхәүетдинова - Рәхмәт сиңа, җыр! / Абдулхак Игебаев / Роза Сахауетдинова - Спасибо тебе, песня!](../translated/a/abdulhak_igebaev_roza_sahauetdinova_-_rahmat_sina_cir.md)
-- [Абдулхак Игебаев / Рәшит Җиһанов - Иң кадерле минутлар / Абдулхак Игебаев / Рашит Джиханов - Самые дорогие минуты](../translated/a/abdulhak_igebaev_rashit_cihanov_-_in_kaderle_minutlar.md)
-- [Абдулхак Игебаев / Рәшит Җиһанов - Сакмарымның сары таллары / Абдулхак Игебаев / Рашит Джиханов - Жёлтые ивы моей Сакмары](../translated/a/abdulhak_igebaev_rashit_cihanov_-_sakmarimnin_sari_tallari.md)
-- [Абдулхак Игебаев / Рәүф Мортазин - Миңнурый / Абдулхак Игебаев / Рауф Мортазин - Миннурий](../translated/a/abdulhak_igebaev_rauf_mortazin_-_minnuriy.md)
-- [Абдулхак Игебаев / Рәүф Сәлтәшев - Әнкәй (бишенче вариант) / Абдулхак Игебаев / Рауф Салташев - Мамочка (пятый вариант)](../translated/a/abdulhak_igebaev_rauf_saltashev_-_ankay_bishenche_variant.md)
-- [Абдулхак Игебаев / Тәлгать Шәрипов - Сиңа (алтынчы вариант) / Абдулхак Игебаев / Тальгат Шарипов - Тебе (шестой вариант)](../translated/a/abdulhak_igebaev_talgat_sharipov_-_sina_altinchi_variant.md)
 
 ---
 

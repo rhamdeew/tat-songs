@@ -1,10 +1,19 @@
 # Татарские песни и их перевод - Страница 10
 
-## Список песен (песни 901-1000 из 3663)
+## Список песен (песни 901-1000 из 3970)
 
 [← Предыдущая страница](songs_list/SONGS_9.md) | [Главная страница](../README.md) | [Следующая страница →](songs_list/SONGS_11.md)
 
 
+- [Билгесез - Миләүшәләр (икенче вариант) / Билгесез - Миләүшәләр (второй вариант)](../translated/b/bilgesez_-_milaushalar_ikenche_variant.md)
+- [Билгесез - Мин дә сине яратмыйм / Билгесез - И я тебя не люблю](../translated/b/bilgesez_-_min_da_sine_yaratmiym.md)
+- [Билгесез - Мин Казанда сине эзләп таптым / Билгесез - Я тебя нашёл в Казани](../translated/b/bilgesez_-_min_kazanda_sine_ezlap_taptim.md)
+- [Билгесез - Мин синеке, син минеке / Бильгесез - Я твоя, ты моя](../translated/b/bilgesez_-_min_sineke_sin_mineke.md)
+- [Билгесез - Мин синең бәхетең / Бильгесез - Я твое счастье](../translated/b/bilgesez_-_min_sinen_baheten.md)
+- [Билгесез - Мишәр кызы (икенче вариант) / Билгесез - Девушка-мишарка (второй вариант)](../translated/b/bilgesez_-_mishar_kizi_ikenche_variant.md)
+- [Билгесез - Мәхаббәт булмаса дөньяда / Неизвестный - Если бы в мире не было любви](../translated/b/bilgesez_-_mahabbat_bulmasa_donyada.md)
+- [Билгесез - Мәхаббәтем / Билгесез - Моя любовь](../translated/b/bilgesez_-_mahabbatem.md)
+- [Билгесез - Мәхаббәттән юк дәва / Бильгесез - Нет лекарства от любви](../translated/b/bilgesez_-_mahabbattan_yuk_dava.md)
 - [Билгесез - Нигә генә / Билгесез - Зачем же](../translated/b/bilgesez_-_niga_gena.md)
 - [Билгесез - Нигә икән, нигә? / Билгесез - Зачем, зачем?](../translated/b/bilgesez_-_niga_ikan_niga.md)
 - [Билгесез - Нигә соң минеке түгел син, бәгърем / Билгесез - Почему же ты не моя, моя любовь](../translated/b/bilgesez_-_niga_son_mineke_tugel_sin_bagrem.md)
@@ -96,15 +105,6 @@
 - [Билгесез - Әткәй кайтыр кебек тоела / Бильгез - Вернись, словно белая птица](../translated/b/bilgesez_-_atkay_kaytir_kebek_toela.md)
 - [Билгесез / Азат Хөсәенов - Аермагыз йөрәкләрне (Тормышны яратыгыз!) / Неизвестен / Азат Хусаинов - Не разлучайте сердца (Любите жизнь!)](../translated/b/bilgesez_azat_hosaenov_-_aermagiz_yoraklarne_tormishni_yaratigiz.md)
 - [Билгесез / Альфред Якшимбетов - Нигә миңа карамадың / Неизвестен / Альфред Якшимбетов - Почему ты не посмотрела на меня](../translated/b/bilgesez_alfred_yakshimbetov_-_niga_mina_karamadin.md)
-- [Билгесез / Альфред Якшимбетов - Ярсулар / Неизвестен / Альфред Якшимбетов - Берега](../translated/b/bilgesez_alfred_yakshimbetov_-_yarsular.md)
-- [Билгесез / Артур Туктаголов - Кавказ дустыма / Неизвестен / Артур Туктаголов - Кавказскому другу](../translated/b/bilgesez_artur_tuktagolov_-_kavkaz_dustima.md)
-- [Билгесез / Виталий Агапов - Килер булсаң, соңлама / Неизвестен / Виталий Агапов - Если придёшь, не медли](../translated/b/bilgesez_vitaliy_agapov_-_kiler_bulsan_sonlama.md)
-- [Билгесез / Владислав Шәрифуллин - Булмасын сугыш! / Неизвестен / Владислав Шарифуллин - Пусть не будет войны!](../translated/b/bilgesez_vladislav_sharifullin_-_bulmasin_sugish.md)
-- [Билгесез / Гали Ильясов - Ни өчен икән? / Неизвестен / Гали Ильясов - Почему же так?](../translated/b/bilgesez_gali_ilyasov_-_ni_ochen_ikan.md)
-- [Билгесез / Дамир Әделбаев - Бәйрәм җыры (икенче вариант) / Неизвестен / Дамир Аделбаев - Праздничная песня (второй вариант)](../translated/b/bilgesez_damir_adelbaev_-_bayram_ciri_ikenche_variant.md)
-- [Билгесез / Зиннур Сафиуллин - Һәркем эзли парын / Неизвестен / Зиннур Сафиуллин - Каждый ищет пару](../translated/b/bilgesez_zinnur_safiullin_-_harkem_ezli_parin.md)
-- [Билгесез / Зөфәр Хәйретдинов - Алтын алма / Неизвестен / Зуфар Хайретдинов - Золотое яблоко](../translated/b/bilgesez_zofar_hayretdinov_-_altin_alma.md)
-- [Билгесез / Зөфәр Хәйретдинов - Мин булмам / Неизвестен / Зуфар Хайретдинов - Меня не будет](../translated/b/bilgesez_zofar_hayretdinov_-_min_bulmam.md)
 
 ---
 

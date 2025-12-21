@@ -1,10 +1,19 @@
 # Татарские песни и их перевод - Страница 11
 
-## Список песен (песни 1001-1100 из 3663)
+## Список песен (песни 1001-1100 из 3970)
 
 [← Предыдущая страница](songs_list/SONGS_10.md) | [Главная страница](../README.md) | [Следующая страница →](songs_list/SONGS_12.md)
 
 
+- [Билгесез / Альфред Якшимбетов - Ярсулар / Неизвестен / Альфред Якшимбетов - Берега](../translated/b/bilgesez_alfred_yakshimbetov_-_yarsular.md)
+- [Билгесез / Артур Туктаголов - Кавказ дустыма / Неизвестен / Артур Туктаголов - Кавказскому другу](../translated/b/bilgesez_artur_tuktagolov_-_kavkaz_dustima.md)
+- [Билгесез / Виталий Агапов - Килер булсаң, соңлама / Неизвестен / Виталий Агапов - Если придёшь, не медли](../translated/b/bilgesez_vitaliy_agapov_-_kiler_bulsan_sonlama.md)
+- [Билгесез / Владислав Шәрифуллин - Булмасын сугыш! / Неизвестен / Владислав Шарифуллин - Пусть не будет войны!](../translated/b/bilgesez_vladislav_sharifullin_-_bulmasin_sugish.md)
+- [Билгесез / Гали Ильясов - Ни өчен икән? / Неизвестен / Гали Ильясов - Почему же так?](../translated/b/bilgesez_gali_ilyasov_-_ni_ochen_ikan.md)
+- [Билгесез / Дамир Әделбаев - Бәйрәм җыры (икенче вариант) / Неизвестен / Дамир Аделбаев - Праздничная песня (второй вариант)](../translated/b/bilgesez_damir_adelbaev_-_bayram_ciri_ikenche_variant.md)
+- [Билгесез / Зиннур Сафиуллин - Һәркем эзли парын / Неизвестен / Зиннур Сафиуллин - Каждый ищет пару](../translated/b/bilgesez_zinnur_safiullin_-_harkem_ezli_parin.md)
+- [Билгесез / Зөфәр Хәйретдинов - Алтын алма / Неизвестен / Зуфар Хайретдинов - Золотое яблоко](../translated/b/bilgesez_zofar_hayretdinov_-_altin_alma.md)
+- [Билгесез / Зөфәр Хәйретдинов - Мин булмам / Неизвестен / Зуфар Хайретдинов - Меня не будет](../translated/b/bilgesez_zofar_hayretdinov_-_min_bulmam.md)
 - [Билгесез / Зөфәр Хәйретдинов - Торналар (өченче вариант) / Неизвестен / Зуфар Хайретдинов - Журавли (третий вариант)](../translated/b/bilgesez_zofar_hayretdinov_-_tornalar_ochenche_variant.md)
 - [Билгесез / Зөфәр Хәйретдинов - Әнкәй, җаным мең яшә! / Неизвестен / Зуфар Хайретдинов - Мама, душа моя, живи тысячу лет!](../translated/b/bilgesez_zofar_hayretdinov_-_ankay_canim_men_yasha.md)
 - [Билгесез / Илгиз Закиров - Асылъяр (өченче вариант) / Неизвестен / Ильгиз Закиров - Асылъяр (третий вариант)](../translated/b/bilgesez_ilgiz_zakirov_-_asilyar_ochenche_variant.md)
@@ -96,15 +105,6 @@
 - [Булат Зиганшин - Хыянэтнен утында / Булат Зиганшин - В огне предательства](../translated/b/bulat_ziganshin-hyyanetnen_utynda.md)
 - [Булат Зиганшин - Хэбибэ / Булат Зиганшин - Хабиба](../translated/b/bulat_ziganshin-hebibe.md)
 - [Булат Зиганшин - Янгырлы кон / Булат Зиганшин - Дождливый день](../translated/b/bulat_ziganshin-yangyrly_kon.md)
-- [Булат Зиганшин - Ятимнэр / Булат Зиганшин - Сироты](../translated/b/bulat_ziganshin-yatimner.md)
-- [Булат Ибраһимов / Илнур Ганиев - Дуслык җыры (җиденче вариант) / Булат Ибрагимов / Ильнур Ганиев - Песня дружбы (седьмой вариант)](../translated/b/bulat_ibrahimov_ilnur_ganiev_-_duslik_ciri_cidenche_variant.md)
-- [Булат Ибраһимов / Илнур Ганиев - Исем эзлим песиемә / Булат Ибрагимов / Ильнур Ганиев - Ищу имя котёнку](../translated/b/bulat_ibrahimov_ilnur_ganiev_-_isem_ezlim_pesiema.md)
-- [Булат Ибраһимов / Илнур Ганиев - Җиңү алып кайттык / Булат Ибрагимов / Ильнур Ганиев - Мы вернулись с победой](../translated/b/bulat_ibrahimov_ilnur_ganiev_-_cinu_alip_kayttik.md)
-- [Булат Йосыпов / Зөфәр Хәйретдинов - Шомырткаем / Булат Йосыпов / Зуфар Хайретдинов - Моя черёмуха](../translated/b/bulat_yosipov_zofar_hayretdinov_-_shomirtkaem.md)
-- [Булат Йәнекәев - Туган авылым (бишенче вариант) / Булат Янекеев - Родная деревня (пятый вариант)](../translated/b/bulat_yanekaev_-_tugan_avilim_bishenche_variant.md)
-- [Булат Нигматуллин - Абый белэн сенел / Булат Нигматуллин - Гордость старшего брата](../translated/b/bulat_nigmatullin-abyy_belen_senel.md)
-- [Булат Нигматуллин - Адаштым / Булат Нигматуллин - Заблудился](../translated/b/bulat_nigmatullin-adashtym.md)
-- [Булат Нигматуллин - Айлы юллар / Булат Нигматуллин - Лунные дороги](../translated/b/bulat_nigmatullin-ayly_yullar.md)
 
 ---
 

@@ -1,10 +1,19 @@
 # Татарские песни и их перевод - Страница 2
 
-## Список песен (песни 101-200 из 3663)
+## Список песен (песни 101-200 из 3970)
 
 [← Предыдущая страница](songs_list/SONGS_1.md) | [Главная страница](../README.md) | [Следующая страница →](songs_list/SONGS_3.md)
 
 
+- [Абдулхак Игебаев / Рим Хәсәнов - Ләйсән яңгыр (беренче вариант) / Абдулхак Игебаев / Рим Хасанов - Майский дождь (первый вариант)](../translated/a/abdulhak_igebaev_rim_hasanov_-_laysan_yangir_berenche_variant.md)
+- [Абдулхак Игебаев / Рим Хәсәнов - Сакмар сукайлары / Абдулхак Игебаев / Рим Хасанов - Воды Сакмары](../translated/a/abdulhak_igebaev_rim_hasanov_-_sakmar_sukaylari.md)
+- [Абдулхак Игебаев / Ришат Акъегет - Яшермәче, иркәм (беренче вариант) / Абдулхак Игебаев / Ришат Акъегет - Не скрывай, любимая (первый вариант)](../translated/a/abdulhak_igebaev_rishat_akeget_-_yashermache_irkam_berenche_variant.md)
+- [Абдулхак Игебаев / Роза Сәхәүетдинова - Рәхмәт сиңа, җыр! / Абдулхак Игебаев / Роза Сахауетдинова - Спасибо тебе, песня!](../translated/a/abdulhak_igebaev_roza_sahauetdinova_-_rahmat_sina_cir.md)
+- [Абдулхак Игебаев / Рәшит Җиһанов - Иң кадерле минутлар / Абдулхак Игебаев / Рашит Джиханов - Самые дорогие минуты](../translated/a/abdulhak_igebaev_rashit_cihanov_-_in_kaderle_minutlar.md)
+- [Абдулхак Игебаев / Рәшит Җиһанов - Сакмарымның сары таллары / Абдулхак Игебаев / Рашит Джиханов - Жёлтые ивы моей Сакмары](../translated/a/abdulhak_igebaev_rashit_cihanov_-_sakmarimnin_sari_tallari.md)
+- [Абдулхак Игебаев / Рәүф Мортазин - Миңнурый / Абдулхак Игебаев / Рауф Мортазин - Миннурий](../translated/a/abdulhak_igebaev_rauf_mortazin_-_minnuriy.md)
+- [Абдулхак Игебаев / Рәүф Сәлтәшев - Әнкәй (бишенче вариант) / Абдулхак Игебаев / Рауф Салташев - Мамочка (пятый вариант)](../translated/a/abdulhak_igebaev_rauf_saltashev_-_ankay_bishenche_variant.md)
+- [Абдулхак Игебаев / Тәлгать Шәрипов - Сиңа (алтынчы вариант) / Абдулхак Игебаев / Тальгат Шарипов - Тебе (шестой вариант)](../translated/a/abdulhak_igebaev_talgat_sharipov_-_sina_altinchi_variant.md)
 - [Абдулхак Игебаев / Фәрит Якшыголов - Онытмадым сине, авылым / Абдулхак Игебаев / Фарит Якшиголов - Не забыл тебя, моя деревня](../translated/a/abdulhak_igebaev_farit_yakshigolov_-_onitmadim_sine_avilim.md)
 - [Абдулхак Игебаев / Хөсәен Әхмәтов - Әллә бөтенләй оныттың / Абдулхак Игебаев / Хусаин Ахматов - Или ты совсем забыла](../translated/a/abdulhak_igebaev_hosaen_ahmatov_-_alla_botenlay_onittin.md)
 - [Абдулхак Игебаев / Шамил Колбарисов - Яшермәче, иркәм (икенче вариант) / Абдулхак Игебаев / Шамиль Колбарисов - Не скрывай, милая (второй вариант)](../translated/a/abdulhak_igebaev_shamil_kolbarisov_-_yashermache_irkam_ikenche_variant.md)
@@ -96,15 +105,6 @@
 - [Айгөл Вәлиуллина / Риваль Хисмәтуллин - Яшәрмен синсез дә / Айгуль Валиуллина / Риваль Хисматуллин - Проживу и без тебя](../translated/a/aygol_valiullina_rival_hismatullin_-_yasharmen_sinsez_da.md)
 - [Айгөл Вәлиуллина / Риваль Хисмәтуллин - Җәйге авыл кичләре / Айгуль Валиуллина / Риваль Хисматуллин - Летние деревенские вечера](../translated/a/aygol_valiullina_rival_hismatullin_-_cayge_avil_kichlare.md)
 - [Айгөл Вәлиуллина / Риваль Хисмәтуллин - Үзең сизмәдең / Айгуль Валиуллина / Риваль Хисматуллин - Ты не заметил](../translated/a/aygol_valiullina_rival_hismatullin_-_uzen_sizmaden.md)
-- [Айгөл Вәлиуллина / Риваль Хисмәтуллин - Үпкәләттемме әллә? / Айгуль Валиуллина / Риваль Хисматуллин - Обидела ли я тебя?](../translated/a/aygol_valiullina_rival_hismatullin_-_upkalattemme_alla.md)
-- [Айгөл Вәлиуллина / Риназ Фазлыйәхмәтов - Мин яратам сине, тормыш! / Айгуль Валиуллина / Риназ Фазлыяхметов - Я люблю тебя, жизнь!](../translated/a/aygol_valiullina_rinaz_fazliyahmatov_-_min_yaratam_sine_tormish.md)
-- [Айгөл Вәлиуллина / Риназ Фазлыйәхмәтов - Мәктәп бакчасының шомыртлары / Айгуль Валиуллина / Риназ Фазлыяхматов - Сирень школьного сада](../translated/a/aygol_valiullina_rinaz_fazliyahmatov_-_maktap_bakchasinin_shomirtlari.md)
-- [Айгөл Вәлиуллина / Риназ Фазлыйәхмәтов - Таптым да яраттым / Айгуль Валиуллина / Риназ Фазлыяхметов - Нашла и полюбила](../translated/a/aygol_valiullina_rinaz_fazliyahmatov_-_taptim_da_yarattim.md)
-- [Айгөл Вәлиуллина / Риназ Фазлыйәхмәтов - Җилләр булып / Айгуль Валиуллина / Риназ Фазлыяхматов - Став ветрами](../translated/a/aygol_valiullina_rinaz_fazliyahmatov_-_cillar_bulip.md)
-- [Айгөл Вәлиуллина / Фирзәр Мортазин - Газаплы сөю / Айгуль Валиуллина / Фирзар Мортазин - Мучительная любовь](../translated/a/aygol_valiullina_firzar_mortazin_-_gazapli_soyu.md)
-- [Айгөл Вәлиуллина / Хәмид Мәткәримов - Бәхет гөле / Айгуль Валиуллина / Хамид Маткаримов - Цветок счастья](../translated/a/aygol_valiullina_hamid_matkarimov_-_bahet_gole.md)
-- [Айгөл Вәлиуллина / Хәмид Мәткәримов - Гашыйк булам көн саен / Айгуль Валиуллина / Хамид Маткаримов - Влюбляюсь каждый день](../translated/a/aygol_valiullina_hamid_matkarimov_-_gashiyk_bulam_kon_saen.md)
-- [Айгөл Вәлиуллина / Хәмид Мәткәримов - Ут яна - минем йөрәгем / Айгуль Валиуллина / Хамид Маткаримов - Горит огонь - моё сердце](../translated/a/aygol_valiullina_hamid_matkarimov_-_ut_yana_minem_yoragem.md)
 
 ---
 

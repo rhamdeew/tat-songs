@@ -1,10 +1,19 @@
 # Татарские песни и их перевод - Страница 7
 
-## Список песен (песни 601-700 из 3663)
+## Список песен (песни 601-700 из 3970)
 
 [← Предыдущая страница](songs_list/SONGS_6.md) | [Главная страница](../README.md) | [Следующая страница →](songs_list/SONGS_8.md)
 
 
+- [Альбина Бәширова / Нияз Вәлиев - Әти-әни (икенче вариант) / Альбина Баширова / Нияз Валиев - Отец и мать (второй вариант)](../translated/a/albina_bashirova_niyaz_valiev_-_ati-ani_ikenche_variant.md)
+- [Альбина Бәширова / Фларид Минкаһиров - Елама, бәгырькәем / Альбина Баширова / Фларид Минкахиров - Не плачь, родная](../translated/a/albina_bashirova_flarid_minkahirov_-_elama_bagirkaem.md)
+- [Альбина Мортазина / Рамил Әсхәдулла - Дөрли әле / Альбина Мортазина / Рамил Асхадулла - Еще трепещет](../translated/a/albina_mortazina_ramil_ashadulla_-_dorli_ale.md)
+- [Альбина Мортазина / Рамил Әсхәдулла - Миңа син генә кирәк / Альбина Мортазина / Рамил Асхадулла - Мне нужна только ты](../translated/a/albina_mortazina_ramil_ashadulla_-_mina_sin_gena_kirak.md)
+- [Альбина Мортазина / Рамил Әсхәдулла - Язмыш бүләге / Альбина Мортазина / Рамиль Асхадулла - Дар судьбы](../translated/a/albina_mortazina_ramil_ashadulla_-_yazmish_bulage.md)
+- [Альбина Мортазина / Рамил Әсхәдулла - Язмышымның иң зур табышы / Альбина Мортазина / Рамиль Асхадулла - Моей судьбы величайшая находка](../translated/a/albina_mortazina_ramil_ashadulla_-_yazmishimnin_in_zur_tabishi.md)
+- [Альбина Хакимова - Апама / Альбина Хакимова - Сестре моей](../translated/a/albina_hakimova-apama.md)
+- [Альбина Хакимова - Кил эле яныма / Альбина Хакимова - Приходи ко мне](../translated/a/albina_hakimova-kil_ele_yanyma.md)
+- [Альбина Хакимова - Син белмисен эле мине / Альбина Хакимова - Ты не знаешь меня](../translated/a/albina_hakimova-sin_belmisen_ele_mine.md)
 - [Альбина Шәймарданова / Салават Низаметдинов - Яратам (алтынчы вариант) / Альбина Шаймарданова / Салават Низаметдинов - Люблю (шестой вариант)](../translated/a/albina_shaymardanova_salavat_nizametdinov_-_yaratam_altinchi_variant.md)
 - [Альфина Азгамова - Кайтаваз / Альфина Азгамова - Эхо](../translated/a/alfina_azgamova-kaytavaz.md)
 - [Альфина Азгамова - Мин синен йолдызын / Альфина Азгамова - Я твоя звезда](../translated/a/alfina_azgamova-min_sinen_yoldyzyn.md)
@@ -96,15 +105,6 @@
 - [Асхәр Кашфуллин / Миңнегали Дәүләтбаев - Әле дә сөям / Асхар Кашфуллин / Миннегали Даулетбаев - Всё ещё люблю](../translated/a/ashar_kashfullin_minnegali_daulatbaev_-_ale_da_soyam.md)
 - [Асылъяр - Агыйдел каты ага / Асылъяр - Агидель быстро течет](../translated/a/asylyar-agyydel_katy_aga.md)
 - [Асылъяр - Адаштым / Асылъяр - Я заблудился](../translated/a/asylyar-adashtym.md)
-- [Асылъяр - Ай кебек син / Асылъяр - Ты словно месяц](../translated/a/asylyar-ay_kebek_sin.md)
-- [Асылъяр - Бэхетегез булсын гомергэ / Асылъяр - Пусть счастье ваше будет на всю жизнь](../translated/a/asylyar-behetegez_bulsyn_gomerge.md)
-- [Асылъяр - Искэ тошер эле / Асылъяр - Вспомнится](../translated/a/asylyar-iske_tosher_ele.md)
-- [Асылъяр - Кайткан чакта адашма берук / Асылъяр - Когда вернешься, не заблудись](../translated/a/asylyar-kaytkan_chakta_adashma_beruk.md)
-- [Асылъяр - Карлыгачлар / Асылъяр - Ласточки](../translated/a/asylyar-karlygachlar.md)
-- [Асылъяр - Куз нурым / Асылъяр - Свет глаз моих](../translated/a/asylyar-kuz_nurym.md)
-- [Асылъяр - Минем бэгърем / Асылъяр - Мое дитя](../translated/a/asylyar-minem_begrem.md)
-- [Асылъяр - Миннэн башка син дэ канатсыз / Асылъяр - Кроме меня, и ты без крыльев](../translated/a/asylyar-minnen_bashka_sin_de_kanatsyz.md)
-- [Асылъяр - Сахралар / Асылъяр - Степи](../translated/a/asylyar-sahralar.md)
 
 ---
 

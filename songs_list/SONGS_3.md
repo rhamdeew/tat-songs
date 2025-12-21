@@ -1,10 +1,19 @@
 # Татарские песни и их перевод - Страница 3
 
-## Список песен (песни 201-300 из 3663)
+## Список песен (песни 201-300 из 3970)
 
 [← Предыдущая страница](songs_list/SONGS_2.md) | [Главная страница](../README.md) | [Следующая страница →](songs_list/SONGS_4.md)
 
 
+- [Айгөл Вәлиуллина / Риваль Хисмәтуллин - Үпкәләттемме әллә? / Айгуль Валиуллина / Риваль Хисматуллин - Обидела ли я тебя?](../translated/a/aygol_valiullina_rival_hismatullin_-_upkalattemme_alla.md)
+- [Айгөл Вәлиуллина / Риназ Фазлыйәхмәтов - Мин яратам сине, тормыш! / Айгуль Валиуллина / Риназ Фазлыяхметов - Я люблю тебя, жизнь!](../translated/a/aygol_valiullina_rinaz_fazliyahmatov_-_min_yaratam_sine_tormish.md)
+- [Айгөл Вәлиуллина / Риназ Фазлыйәхмәтов - Мәктәп бакчасының шомыртлары / Айгуль Валиуллина / Риназ Фазлыяхматов - Сирень школьного сада](../translated/a/aygol_valiullina_rinaz_fazliyahmatov_-_maktap_bakchasinin_shomirtlari.md)
+- [Айгөл Вәлиуллина / Риназ Фазлыйәхмәтов - Таптым да яраттым / Айгуль Валиуллина / Риназ Фазлыяхметов - Нашла и полюбила](../translated/a/aygol_valiullina_rinaz_fazliyahmatov_-_taptim_da_yarattim.md)
+- [Айгөл Вәлиуллина / Риназ Фазлыйәхмәтов - Җилләр булып / Айгуль Валиуллина / Риназ Фазлыяхматов - Став ветрами](../translated/a/aygol_valiullina_rinaz_fazliyahmatov_-_cillar_bulip.md)
+- [Айгөл Вәлиуллина / Фирзәр Мортазин - Газаплы сөю / Айгуль Валиуллина / Фирзар Мортазин - Мучительная любовь](../translated/a/aygol_valiullina_firzar_mortazin_-_gazapli_soyu.md)
+- [Айгөл Вәлиуллина / Хәмид Мәткәримов - Бәхет гөле / Айгуль Валиуллина / Хамид Маткаримов - Цветок счастья](../translated/a/aygol_valiullina_hamid_matkarimov_-_bahet_gole.md)
+- [Айгөл Вәлиуллина / Хәмид Мәткәримов - Гашыйк булам көн саен / Айгуль Валиуллина / Хамид Маткаримов - Влюбляюсь каждый день](../translated/a/aygol_valiullina_hamid_matkarimov_-_gashiyk_bulam_kon_saen.md)
+- [Айгөл Вәлиуллина / Хәмид Мәткәримов - Ут яна - минем йөрәгем / Айгуль Валиуллина / Хамид Маткаримов - Горит огонь - моё сердце](../translated/a/aygol_valiullina_hamid_matkarimov_-_ut_yana_minem_yoragem.md)
 - [Айгөл Вәлиуллина / Хәмид Мәткәримов - Әткәйле балачагым / Айгуль Валиуллина / Хамид Маткаримов - Детство с отцом](../translated/a/aygol_valiullina_hamid_matkarimov_-_atkayle_balachagim.md)
 - [Айгөл Гимадиева / Эльвира Хаматнурова - Бер елмай / Айгуль Гимадиева / Эльвира Хаматнурова - Одна улыбка](../translated/a/aygol_gimadieva_elvira_hamatnurova_-_ber_elmay.md)
 - [Айгөл Гимадиева / Эльвира Хаматнурова - Йән дуҫтарым сулпылар / Айгуль Гимадиева / Эльвира Хаматнурова - Мои верные друзья Плеяды](../translated/a/aygol_gimadieva_elvira_hamatnurova_-_yan_duҫtarim_sulpilar.md)
@@ -96,15 +105,6 @@
 - [Айдар Галимов - Чияле Шафран / Айдар Галимов - Шафран с вишнями](../translated/a/aydar_galimov-chiyale_shafran.md)
 - [Айдар Галимов - Шаулама син, Кара дингез / Айдар Галимов - Не шуми, Чёрное море](../translated/a/aydar_galimov-shaulama_sin_kara_dingez.md)
 - [Айдар Галимов - Эйтелмэгэн мэхэббэт / Айдар Галимов - Невысказанная любовь](../translated/a/aydar_galimov-eytelmegen_mehebbet.md)
-- [Айдар Галимов - Эйтмэ, син, авыр суз / Айдар Галимов - Не говори тяжёлых слов](../translated/a/aydar_galimov-eytme_sin_avyr_suz.md)
-- [Айдар Галимов - Этигэ жыр / Айдар Галимов - Песня об отце](../translated/a/aydar_galimov-etige_zhyr.md)
-- [Айдар Галимов - Эх, алмасы / Айдар Галимов - Ах, яблочко](../translated/a/aydar_galimov-eh_almasy.md)
-- [Айдар Галимов - Юллар / Айдар Галимов - Дороги](../translated/a/aydar_galimov-yullar.md)
-- [Айдар Галимов - Ябалаклап ява карлар / Айдар Галимов - Хлопьями идёт снег](../translated/a/aydar_galimov-yabalaklap_yava_karlar.md)
-- [Айдар Галимов - Яз мизгеле / Айдар Галимов - Весенняя пора](../translated/a/aydar_galimov-yaz_mizgele.md)
-- [Айдар Галимов - Яз сулышы / Айдар Галимов - Весеннее дыхание](../translated/a/aydar_galimov-yaz_sulyshy.md)
-- [Айдар Галимов - Язмыш жиле / Айдар Галимов - Ветер судьбы](../translated/a/aydar_galimov-yazmysh_zhile.md)
-- [Айдар Галимов - Янгантауда яна йорэк / Айдар Галимов - На Янгантау горит сердце](../translated/a/aydar_galimov-yangantauda_yana_yorek.md)
 
 ---
 
