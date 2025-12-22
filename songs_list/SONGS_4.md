@@ -1,10 +1,11 @@
 # Татарские песни и их перевод - Страница 4
 
-## Список песен (песни 301-400 из 3970)
+## Список песен (песни 301-400 из 4115)
 
 [← Предыдущая страница](songs_list/SONGS_3.md) | [Главная страница](../README.md) | [Следующая страница →](songs_list/SONGS_5.md)
 
 
+- [Айдар Галимов - Эйтелмэгэн мэхэббэт / Айдар Галимов - Невысказанная любовь](../translated/a/aydar_galimov-eytelmegen_mehebbet.md)
 - [Айдар Галимов - Эйтмэ, син, авыр суз / Айдар Галимов - Не говори тяжёлых слов](../translated/a/aydar_galimov-eytme_sin_avyr_suz.md)
 - [Айдар Галимов - Этигэ жыр / Айдар Галимов - Песня об отце](../translated/a/aydar_galimov-etige_zhyr.md)
 - [Айдар Галимов - Эх, алмасы / Айдар Галимов - Ах, яблочко](../translated/a/aydar_galimov-eh_almasy.md)
@@ -104,7 +105,6 @@
 - [Айдар Минһаҗев / Фәрид Низамиев - Сине күрсәм (икенче вариант) / Айдар Минхажев / Фарид Низамиев - Когда увижу тебя (второй вариант)](../translated/a/aydar_minhacev_farid_nizamiev_-_sine_kursam_ikenche_variant.md)
 - [Айдар Минһаҗев / Фәрид Низамиев - Җиләк / Айдар Минхаджев / Фарид Низамиев - Ягода](../translated/a/aydar_minhacev_farid_nizamiev_-_cilak.md)
 - [Айдар Минһаҗев / Фәрид Низамиев - Ә алмалар кызармады / Айдар Минхажев / Фарид Низамиев - А яблоки не покраснели](../translated/a/aydar_minhacev_farid_nizamiev_-_a_almalar_kizarmadi.md)
-- [Айдар Тимербаев - Гафу итмә / Айдар Тимербаев - Не прощай меня](../translated/a/aydar_timerbaev_-_gafu_itma.md)
 
 ---
 

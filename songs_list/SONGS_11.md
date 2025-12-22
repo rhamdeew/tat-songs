@@ -1,10 +1,11 @@
 # Татарские песни и их перевод - Страница 11
 
-## Список песен (песни 1001-1100 из 3970)
+## Список песен (песни 1001-1100 из 4115)
 
 [← Предыдущая страница](songs_list/SONGS_10.md) | [Главная страница](../README.md) | [Следующая страница →](songs_list/SONGS_12.md)
 
 
+- [Билгесез / Альфред Якшимбетов - Нигә миңа карамадың / Неизвестен / Альфред Якшимбетов - Почему ты не посмотрела на меня](../translated/b/bilgesez_alfred_yakshimbetov_-_niga_mina_karamadin.md)
 - [Билгесез / Альфред Якшимбетов - Ярсулар / Неизвестен / Альфред Якшимбетов - Берега](../translated/b/bilgesez_alfred_yakshimbetov_-_yarsular.md)
 - [Билгесез / Артур Туктаголов - Кавказ дустыма / Неизвестен / Артур Туктаголов - Кавказскому другу](../translated/b/bilgesez_artur_tuktagolov_-_kavkaz_dustima.md)
 - [Билгесез / Виталий Агапов - Килер булсаң, соңлама / Неизвестен / Виталий Агапов - Если придёшь, не медли](../translated/b/bilgesez_vitaliy_agapov_-_kiler_bulsan_sonlama.md)
@@ -104,7 +105,6 @@
 - [Булат Зиганшин - Улым / Булат Зиганшин - Мой сын](../translated/b/bulat_ziganshin-ulym.md)
 - [Булат Зиганшин - Хыянэтнен утында / Булат Зиганшин - В огне предательства](../translated/b/bulat_ziganshin-hyyanetnen_utynda.md)
 - [Булат Зиганшин - Хэбибэ / Булат Зиганшин - Хабиба](../translated/b/bulat_ziganshin-hebibe.md)
-- [Булат Зиганшин - Янгырлы кон / Булат Зиганшин - Дождливый день](../translated/b/bulat_ziganshin-yangyrly_kon.md)
 
 ---
 

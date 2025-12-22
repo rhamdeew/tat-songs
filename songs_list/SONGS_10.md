@@ -1,10 +1,11 @@
 # Татарские песни и их перевод - Страница 10
 
-## Список песен (песни 901-1000 из 3970)
+## Список песен (песни 901-1000 из 4115)
 
 [← Предыдущая страница](songs_list/SONGS_9.md) | [Главная страница](../README.md) | [Следующая страница →](songs_list/SONGS_11.md)
 
 
+- [Билгесез - Матур гөлем / Бильгесез - Прекрасный цветок мой](../translated/b/bilgesez_-_matur_golem.md)
 - [Билгесез - Миләүшәләр (икенче вариант) / Билгесез - Миләүшәләр (второй вариант)](../translated/b/bilgesez_-_milaushalar_ikenche_variant.md)
 - [Билгесез - Мин дә сине яратмыйм / Билгесез - И я тебя не люблю](../translated/b/bilgesez_-_min_da_sine_yaratmiym.md)
 - [Билгесез - Мин Казанда сине эзләп таптым / Билгесез - Я тебя нашёл в Казани](../translated/b/bilgesez_-_min_kazanda_sine_ezlap_taptim.md)
@@ -104,7 +105,6 @@
 - [Билгесез - Әткәй йорты (өченче вариант) / Билгесез - Өй Әткәя (третий вариант)](../translated/b/bilgesez_-_atkay_yorti_ochenche_variant.md)
 - [Билгесез - Әткәй кайтыр кебек тоела / Бильгез - Вернись, словно белая птица](../translated/b/bilgesez_-_atkay_kaytir_kebek_toela.md)
 - [Билгесез / Азат Хөсәенов - Аермагыз йөрәкләрне (Тормышны яратыгыз!) / Неизвестен / Азат Хусаинов - Не разлучайте сердца (Любите жизнь!)](../translated/b/bilgesez_azat_hosaenov_-_aermagiz_yoraklarne_tormishni_yaratigiz.md)
-- [Билгесез / Альфред Якшимбетов - Нигә миңа карамадың / Неизвестен / Альфред Якшимбетов - Почему ты не посмотрела на меня](../translated/b/bilgesez_alfred_yakshimbetov_-_niga_mina_karamadin.md)
 
 ---
 

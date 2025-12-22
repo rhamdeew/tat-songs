@@ -1,10 +1,11 @@
 # Татарские песни и их перевод - Страница 3
 
-## Список песен (песни 201-300 из 3970)
+## Список песен (песни 201-300 из 4115)
 
 [← Предыдущая страница](songs_list/SONGS_2.md) | [Главная страница](../README.md) | [Следующая страница →](songs_list/SONGS_4.md)
 
 
+- [Айгөл Вәлиуллина / Риваль Хисмәтуллин - Үзең сизмәдең / Айгуль Валиуллина / Риваль Хисматуллин - Ты не заметил](../translated/a/aygol_valiullina_rival_hismatullin_-_uzen_sizmaden.md)
 - [Айгөл Вәлиуллина / Риваль Хисмәтуллин - Үпкәләттемме әллә? / Айгуль Валиуллина / Риваль Хисматуллин - Обидела ли я тебя?](../translated/a/aygol_valiullina_rival_hismatullin_-_upkalattemme_alla.md)
 - [Айгөл Вәлиуллина / Риназ Фазлыйәхмәтов - Мин яратам сине, тормыш! / Айгуль Валиуллина / Риназ Фазлыяхметов - Я люблю тебя, жизнь!](../translated/a/aygol_valiullina_rinaz_fazliyahmatov_-_min_yaratam_sine_tormish.md)
 - [Айгөл Вәлиуллина / Риназ Фазлыйәхмәтов - Мәктәп бакчасының шомыртлары / Айгуль Валиуллина / Риназ Фазлыяхматов - Сирень школьного сада](../translated/a/aygol_valiullina_rinaz_fazliyahmatov_-_maktap_bakchasinin_shomirtlari.md)
@@ -104,7 +105,6 @@
 - [Айдар Галимов - Чибэр ханыма / Айдар Галимов - Красивая госпожа](../translated/a/aydar_galimov-chiber_hanyma.md)
 - [Айдар Галимов - Чияле Шафран / Айдар Галимов - Шафран с вишнями](../translated/a/aydar_galimov-chiyale_shafran.md)
 - [Айдар Галимов - Шаулама син, Кара дингез / Айдар Галимов - Не шуми, Чёрное море](../translated/a/aydar_galimov-shaulama_sin_kara_dingez.md)
-- [Айдар Галимов - Эйтелмэгэн мэхэббэт / Айдар Галимов - Невысказанная любовь](../translated/a/aydar_galimov-eytelmegen_mehebbet.md)
 
 ---
 

@@ -13,6 +13,7 @@ class SongTranslator
   def initialize
     ensure_directories
     @processed_count = 0
+    @locked_files = []
   end
   
   def run
@@ -24,24 +25,36 @@ class SongTranslator
       puts "Processing batch of #{files.length} files..."
       puts "Files: #{files.map { |f| File.basename(f) }.join(', ')}"
       
-      # Prepare batch data
-      batch_data = prepare_batch_data(files)
+      # Lock files for processing
+      lock_files(files)
       
-      # Get translations from Claude
-      translations = get_translations(batch_data)
-      
-      if translations
-        # Process and save translations
-        process_translations(translations, files)
+      begin
+        # Prepare batch data
+        batch_data = prepare_batch_data(files)
         
-        # Remove original files
-        remove_processed_files(files)
+        # Get translations from Claude
+        translations = get_translations(batch_data)
         
-        @processed_count += files.length
-        puts "✓ Successfully processed #{files.length} files (Total: #{@processed_count})"
-      else
-        puts "✗ Translation failed for this batch, skipping..."
+        if translations
+          # Process and save translations
+          process_translations(translations, files)
+          
+          # Remove original files
+          remove_processed_files(files)
+          
+          @processed_count += files.length
+          puts "✓ Successfully processed #{files.length} files (Total: #{@processed_count})"
+        else
+          puts "✗ Translation failed for this batch, skipping..."
+          break
+        end
+      rescue => e
+        puts "✗ Error processing batch: #{e.message}"
+        puts e.backtrace.first(5).join("\n")
         break
+      ensure
+        # Always unlock files, even if an error occurred
+        unlock_files(files)
       end
       
       # Small delay to avoid rate limiting
@@ -80,9 +93,66 @@ class SongTranslator
   end
   
   def get_next_batch
-    Dir.glob(File.join(TAT_DIR, '*.md'))
-       .shuffle
-       .first(BATCH_SIZE)
+    available_files = Dir.glob(File.join(TAT_DIR, '*.md'))
+    
+    # Try to find unlocked files
+    available_files.shuffle.each_slice(BATCH_SIZE) do |batch|
+      batch_fhs = {}
+      can_lock = true
+      
+      batch.each do |file|
+        begin
+          fh = File.open(file, 'r')
+          # Try non-blocking lock
+          if fh.flock(File::LOCK_EX | File::LOCK_NB)
+            batch_fhs[file] = fh
+          else
+            fh.close
+            can_lock = false
+            break
+          end
+        rescue Errno::ENOENT
+          # File was deleted by another process
+          can_lock = false
+          break
+        end
+      end
+      
+      if can_lock
+        # Keep the locks and return the files
+        @locked_files.concat(batch_fhs.values)
+        return batch
+      else
+        # Release any locks we acquired
+        batch_fhs.values.each { |fh| fh.close }
+        next
+      end
+    end
+    
+    []
+  end
+  
+  def lock_files(files)
+    # Files are already locked by get_next_batch
+  end
+  
+  def unlock_files(files)
+    files.each do |file|
+      # Find and close the file handle for this file
+      @locked_files.delete_if do |fh|
+        begin
+          if fh.path == file
+            fh.flock(File::LOCK_UN)
+            fh.close
+            true
+          else
+            false
+          end
+        rescue
+          true
+        end
+      end
+    end
   end
   
   def prepare_batch_data(files)
@@ -118,46 +188,59 @@ class SongTranslator
   end
   
   def get_translations(batch_data)
-    # Prepare Claude command with JSON data directly in the prompt
-    json_data = JSON.pretty_generate(batch_data)
+    max_attempts = 3
     
-    claude_input = <<~PROMPT
-      Translate the following Tatar song lyrics to Russian.
-      Return ONLY a valid JSON array with translations, no explanations or markdown.
-      Follow the format specified in CLAUDE.md.
+    max_attempts.times do |attempt|
+      attempt_number = attempt + 1
       
-      Input JSON:
-      #{json_data}
-    PROMPT
+      # Prepare Claude command with JSON data directly in the prompt
+      json_data = JSON.pretty_generate(batch_data)
 
-    puts claude_input
-    
-    begin
-      # Execute Claude command
-      stdout, stderr, status = Open3.capture3('claude', stdin_data: claude_input)
-      
-      if status.success?
-        # Extract JSON from response
-        json_match = stdout.match(/\[.*\]/m)
-        if json_match
-          json_str = json_match[0]
-          # Clean up problematic characters before parsing
-          json_str = sanitize_json_response(json_str)
-          translations = JSON.parse(json_str)
-          return translations
+      claude_input = <<~PROMPT
+        Translate the following Tatar song lyrics to Russian.
+        Return ONLY a valid JSON array with translations, no explanations or markdown.
+        Follow the format specified in CLAUDE.md.
+
+        Input JSON:
+        #{json_data}
+      PROMPT
+
+      puts claude_input
+      puts "\nAttempt #{attempt_number}/#{max_attempts}..." if attempt > 0
+
+      begin
+        # Execute Claude command
+        stdout, stderr, status = Open3.capture3('claude', stdin_data: claude_input)
+
+        if status.success?
+          # Extract JSON from response
+          json_match = stdout.match(/\[.*\]/m)
+          if json_match
+            json_str = json_match[0]
+            # Clean up problematic characters before parsing
+            json_str = sanitize_json_response(json_str)
+            translations = JSON.parse(json_str)
+            return translations
+          else
+            puts "Warning: Could not find JSON in Claude response"
+            puts "Response: #{stdout[0..500]}..." if stdout.length > 500
+          end
         else
-          puts "Warning: Could not find JSON in Claude response"
-          puts "Response: #{stdout[0..500]}..." if stdout.length > 500
+          puts "Error running Claude: #{stderr}"
         end
-      else
-        puts "Error running Claude: #{stderr}"
+      rescue JSON::ParserError => e
+        puts "Error parsing JSON response: #{e.message}"
+      rescue => e
+        puts "Error: #{e.message}"
       end
-    rescue JSON::ParserError => e
-      puts "Error parsing JSON response: #{e.message}"
-    rescue => e
-      puts "Error: #{e.message}"
+
+      if attempt < max_attempts - 1
+        puts "Retrying in 3 seconds..."
+        sleep(3)
+      end
     end
-    
+
+    puts "Failed after #{max_attempts} attempts. Giving up."
     nil
   end
   

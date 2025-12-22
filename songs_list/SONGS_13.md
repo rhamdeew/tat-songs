@@ -1,10 +1,18 @@
 # Татарские песни и их перевод - Страница 13
 
-## Список песен (песни 1201-1300 из 3970)
+## Список песен (песни 1201-1300 из 4115)
 
 [← Предыдущая страница](songs_list/SONGS_12.md) | [Главная страница](../README.md) | [Следующая страница →](songs_list/SONGS_14.md)
 
 
+- [Вәрис Акбашев / Урал Рәшитов - Карлы буран / Вәрис Акбашев / Урал Рәшитов - Снежный буран](../translated/v/varis_akbashev_ural_rashitov_-_karli_buran.md)
+- [Вәрис Акбашев / Юлай Үзәнбаев - Аем / Вәрис Акбашев / Юлай Үзәнбаев - Луна моя](../translated/v/varis_akbashev_yulay_uzanbaev_-_aem.md)
+- [Вәсимә Хәйруллина / Ләйсән Мәхмүтова - Дәшмәгез / Вәсимә Хәйруллина / Ләйсән Мәхмүтова - Не зовите](../translated/v/vasima_hayrullina_laysan_mahmutova_-_dashmagez.md)
+- [Вәсимә Хәйруллина / Ләйсән Мәхмүтова - Һич булмый сезгә ярап / Вәсимә Хәйруллина / Ләйсән Мәхмүтова - Никак вам не угодить](../translated/v/vasima_hayrullina_laysan_mahmutova_-_hich_bulmiy_sezga_yarap.md)
+- [Вәсимә Хәйруллина / Нәфисә Хәкимова - Их, гармуннар уйный белсәм / Васима Хайруллина / Нэфисэ Хакимова - Эх, если бы я умел играть на гармони](../translated/v/vasima_hayrullina_nafisa_hakimova_-_ih_garmunnar_uyniy_belsam.md)
+- [Габделфат Сафин - Гашыйк ит / Габделфат Сафин - Полюби](../translated/g/gabdelfat_safin-gashyyk_it.md)
+- [Габделфат Сафин - Зэйтунэм / Габделфат Сафин - Зайтуна](../translated/g/gabdelfat_safin-zeytunem.md)
+- [Габделфат Сафин - Ирадэ / Габделфат Сафин - Воля](../translated/g/gabdelfat_safin-irade.md)
 - [Габделфат Сафин - Кугэрченем / Габделфат Сафин - Голубочек мой](../translated/g/gabdelfat_safin-kugerchenem.md)
 - [Габделфат Сафин - Кызым туе / Габделфат Сафин - Свадьба дочери](../translated/g/gabdelfat_safin-kyzym_tue.md)
 - [Габделфат Сафин - Кэрэзле телефон / Габделфат Сафин - Карманный телефон](../translated/g/gabdelfat_safin-kerezle_telefon.md)
@@ -33,6 +41,7 @@
 - [Габдулла Тукай / Билгесез - Яңгыр (беренче вариант) / Габдулла Тукай / Билгесез - Дождь (первый вариант)](../translated/g/gabdulla_tukay_bilgesez_-_yangir_berenche_variant.md)
 - [Габдулла Тукай / Заһид Хәбибуллин - Бабай / Габдулла Тукай / Заһид Хәбибуллин - Дедушка](../translated/g/gabdulla_tukay_zahid_habibullin_-_babay.md)
 - [Габдулла Тукай / Заһид Хәбибуллин - Карга / Габдулла Тукай / Заһид Хәбибуллин - Ворона](../translated/g/gabdulla_tukay_zahid_habibullin_-_karga.md)
+- [Габдулла Тукай / Заһид Хәбибуллин - Кошларга (икенче вариант) / Габдулла Тукай / Захид Хабибуллин - Птицам (второй вариант)](../translated/g/gabdulla_tukay_zahid_habibullin_-_koshlarga_ikenche_variant.md)
 - [Габдулла Тукай / Мансур Мозаффаров - Бер рәсемгә (беренче вариант) / Габдулла Тукай / Мансур Мозаффаров - К одному портрету (первый вариант)](../translated/g/gabdulla_tukay_mansur_mozaffarov_-_ber_rasemga_berenche_variant.md)
 - [Габдулла Тукай / Мәсгуть Имашев - Театр / Габдулла Тукай / Мәсгуть Имашев - Театр](../translated/g/gabdulla_tukay_masgut_imashev_-_teatr.md)
 - [Габдулла Әхмәтшин / Мәсәлим Вәлиев - Зәңгәр чәчкәләр / Габдулла Ахматшин / Масалим Валиев - Голубые цветы](../translated/g/gabdulla_ahmatshin_masalim_valiev_-_zangar_chachkalar.md)
@@ -54,11 +63,13 @@
 - [Галиәхмәт Шаһи / Виталий Агапов - Җырларымда яшим / Галиәхмәт Шаһи / Виталий Агапов - Я живу в моих песнях](../translated/g/galiahmat_shahi_vitaliy_agapov_-_cirlarimda_yashim.md)
 - [Галиәхмәт Шаһи / Виталий Агапов - Җырлый-җырлый хушлашам / Галиахмат Шахи / Виталий Агапов - Песня-песня, прощай](../translated/g/galiahmat_shahi_vitaliy_agapov_-_cirliy-cirliy_hushlasham.md)
 - [Галиәхмәт Шаһи / Виталий Агапов - Әтинең туган көне / Галиахмат Шаи / Виталий Агапов - Дня рождения отца](../translated/g/galiahmat_shahi_vitaliy_agapov_-_atinen_tugan_kone.md)
+- [Галиәхмәт Шаһи / Илмир Залеев - Соң дисең микән (Соң дисеңме әллә) / Галиахмат Шахи / Ильмир Залеев - Скажешь ли «потом» (Скажешь ли «потом», а может)](../translated/g/galiahmat_shahi_ilmir_zaleev_-_son_disen_mikan_son_disenme_alla.md)
 - [Галиәхмәт Шаһи / Мөдәрис Газетдинов - Гомер мизгелләре / Галиахмат Шахи / Мударис Газетдинов - Мгновения жизни](../translated/g/galiahmat_shahi_modaris_gazetdinov_-_gomer_mizgellare.md)
 - [Галиәхмәт Шаһи / Ринат Гобәйдуллин - Яныңа барам әле / Галиәхмәт Шаһи / Ринат Гобәйдуллин - Я всё ещё еду к тебе](../translated/g/galiahmat_shahi_rinat_gobaydullin_-_yanina_baram_ale.md)
 - [Гамил Афзал / Сара Садыйкова - Дөнья матур, дөнья киң / Гамил Афзал / Сара Садыйкова - Мир прекрасен, мир широк](../translated/g/gamil_afzal_sara_sadiykova_-_donya_matur_donya_kin.md)
 - [Гамил Афзал / Сәйдәш Чәчәнбаев - Әгәр дә син / Гамиль Афзал / Саидеш Чачанбаев - Если бы ты](../translated/g/gamil_afzal_saydash_chachanbaev_-_agar_da_sin.md)
 - [Гамил Афзал / Фәрит Хатыйпов - Гөлнарым / Гамиль Афзал / Фарит Хатыйпов - Гөлнарым](../translated/g/gamil_afzal_farit_hatiypov_-_golnarim.md)
+- [Гамил Афзал / Җәүдәт Фәйзи - Газинур турында баллада / Гамиль Афзаль / Джаудат Файзи - Баллада о Газинуре](../translated/g/gamil_afzal_caudat_fayzi_-_gazinur_turinda_ballada.md)
 - [Гамир Насрый / Заһид Хәбибуллин - Иркәмә / Гамир Насрый / Заһид Хәбибуллин - К моей любимой](../translated/g/gamir_nasriy_zahid_habibullin_-_irkama.md)
 - [Гамир Насрый / Салих Сәйдәшев - Мәхәббәт җыры (беренче вариант) / Гамир Насрий / Салих Сәйдәшев - Песня любви (первый вариант)](../translated/g/gamir_nasriy_salih_saydashev_-_mahabbat_ciri_berenche_variant.md)
 - [Гамир Насрый / Татар халык көе - Шома бас / Гамир Насрый / Татарская народная мелодия - Шома бас](../translated/g/gamir_nasriy_tatar_halik_koe_-_shoma_bas.md)
@@ -94,17 +105,6 @@
 - [Гузель Ахметова - Килен тошэ / Гузель Ахметова - Невеста едет](../translated/g/guzel_ahmetova-kilen_toshe.md)
 - [Гузель Ахметова - Конлэшэм жиллэрдэн / Гузель Ахметова - С ветрами беседую](../translated/g/guzel_ahmetova-konleshem_zhillerden.md)
 - [Гузель Ахметова - Кузлэремэ кара / Гузель Ахметова - Загляни в мои глаза](../translated/g/guzel_ahmetova-kuzlereme_kara.md)
-- [Гузель Ахметова - Парлы бию / Гузель Ахметова - Парный танец](../translated/g/guzel_ahmetova-parly_biyu.md)
-- [Гузель Ахметова - Ромашка / Гузель Ахметова - Ромашка](../translated/g/guzel_ahmetova-romashka.md)
-- [Гузель Ахметова - Саубулыгыз, ак каеннар / Гузель Ахметова - Прощайте, белые берёзы](../translated/g/guzel_ahmetova-saubulygyz_ak_kaennar.md)
-- [Гузель Ахметова - Хыялым / Гузель Ахметова - Моя мечта](../translated/g/guzel_ahmetova-hyyalym.md)
-- [Гузель Ахметова - Чыкма юлларыма / Гузель Ахметова - Не выходи на мои дороги](../translated/g/guzel_ahmetova-chykma_yullaryma.md)
-- [Гузель Уразова - Ак пароход / Гузель Уразова - Белый пароход](../translated/g/guzel_urazova-ak_parohod.md)
-- [Гузель Уразова - Бала эйткэн авыр суз / Гузель Уразова - Тяжелое слово сказанное ребенком](../translated/g/guzel_urazova-bala_eytken_avyr_suz.md)
-- [Гузель Уразова - Балан жыя энкэй / Гузель Уразова - Мать собирает детские осколки](../translated/g/guzel_urazova-balan_zhyya_enkey.md)
-- [Гузель Уразова - Без кабызган учаклар / Гузель Уразова - Костры что мы зажгли](../translated/g/guzel_urazova-bez_kabyzgan_uchaklar.md)
-- [Гузель Уразова - Былбылым / Гузель Уразова - Соловей мой](../translated/g/guzel_urazova-bylbylym.md)
-- [Гузель Уразова - Бэхетле итэ алдын / Гузель Уразова - Ты смогла осчастливить](../translated/g/guzel_urazova-behetle_ite_aldyn.md)
 
 ---
 

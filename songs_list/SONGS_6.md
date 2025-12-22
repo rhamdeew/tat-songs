@@ -1,10 +1,11 @@
 # Татарские песни и их перевод - Страница 6
 
-## Список песен (песни 501-600 из 3970)
+## Список песен (песни 501-600 из 4115)
 
 [← Предыдущая страница](songs_list/SONGS_5.md) | [Главная страница](../README.md) | [Следующая страница →](songs_list/SONGS_7.md)
 
 
+- [Алмаз Мурзабаев / Ангел Камиль - Мәхәббәт (беренче вариант) / Алмаз Мурзабаев / Ангел Камиль - Любовь (первый вариант)](../translated/a/almaz_murzabaev_angel_kamil_-_mahabbat_berenche_variant.md)
 - [Алмаз Хәмзин - Бар, кайт! / Алмаз Хамзин - Уходи, возвращайся!](../translated/a/almaz_hamzin_-_bar_kayt.md)
 - [Алмаз Хәмзин - Чәчәкләр (беренче вариант) / Алмаз Хамзин - Цветы (первый вариант)](../translated/a/almaz_hamzin_-_chachaklar_berenche_variant.md)
 - [Алмаз Хәмзин / Илфат Дәүләтшин - Булсын тик сөенеч / Алмаз Хамзин / Ильфат Даулетшин - Пусть будет лишь радость](../translated/a/almaz_hamzin_ilfat_daulatshin_-_bulsin_tik_soenech.md)
@@ -104,7 +105,6 @@
 - [Альбина Апанаева - Яшел чэй / Альбина Апанаева - Зеленый чай](../translated/a/albina_apanaeva-yashel_chey.md)
 - [Альбина Бәширова - Ялгышу (икенче вариант) / Альбина Баширова - Ошибка (второй вариант)](../translated/a/albina_bashirova_-_yalgishu_ikenche_variant.md)
 - [Альбина Бәширова / Булат Шәрипов - Алинәкәй / Альбина Баширова / Булат Шарипов - Алиночка](../translated/a/albina_bashirova_bulat_sharipov_-_alinakay.md)
-- [Альбина Бәширова / Илнур Ганиев - Мәхәббәт сере / Альбина Баширова / Ильнур Ганиев - Тайна любви](../translated/a/albina_bashirova_ilnur_ganiev_-_mahabbat_sere.md)
 
 ---
 

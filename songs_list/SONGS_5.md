@@ -1,10 +1,11 @@
 # Татарские песни и их перевод - Страница 5
 
-## Список песен (песни 401-500 из 3970)
+## Список песен (песни 401-500 из 4115)
 
 [← Предыдущая страница](songs_list/SONGS_4.md) | [Главная страница](../README.md) | [Следующая страница →](songs_list/SONGS_6.md)
 
 
+- [Айдар Тимербаев - Гафу итмә / Айдар Тимербаев - Не прощай меня](../translated/a/aydar_timerbaev_-_gafu_itma.md)
 - [Айдар Тимербаев - Кагылма кеше ярына / Айдар Тимербаев - Не прикасайся к чужой любимой](../translated/a/aydar_timerbaev_-_kagilma_keshe_yarina.md)
 - [Айдар Файзрахманов - Су буеннан энкэй кайтып килэ / Айдар Файзрахманов - Мать возвращается от реки](../translated/a/aydar_fayzrahmanov-su_buennan_enkey_kaytyp_kile.md)
 - [Айдар Хәлим / Зөлфия Хәлилова - Бишек җыры (тугызынчы вариант) / Айдар Халим / Зульфия Халилова - Колыбельная (девятый вариант)](../translated/a/aydar_halim_zolfiya_halilova_-_bishek_ciri_tugizinchi_variant.md)
@@ -104,7 +105,6 @@
 - [Алмаз Миргаязов / Айдар Тимербаев - Саклыйк әниләрнең күз яшен / Алмаз Миргаязов / Айдар Тимербаев - Сбережём материнские слёзы](../translated/a/almaz_mirgayazov_aydar_timerbaev_-_sakliyk_anilarnen_kuz_yashen.md)
 - [Алмаз Миргаязов / Айдар Тимербаев - Ялгыз эт / Алмаз Миргаязов / Айдар Тимербаев - Одинокий пёс](../translated/a/almaz_mirgayazov_aydar_timerbaev_-_yalgiz_et.md)
 - [Алмаз Миргаязов / Айдар Әгъләмов - Зоопарк / Алмаз Миргаязов / Айдар Агламов - Зоопарк](../translated/a/almaz_mirgayazov_aydar_aglamov_-_zoopark.md)
-- [Алмаз Мурзабаев / Ангел Камиль - Мәхәббәт (беренче вариант) / Алмаз Мурзабаев / Ангел Камиль - Любовь (первый вариант)](../translated/a/almaz_murzabaev_angel_kamil_-_mahabbat_berenche_variant.md)
 
 ---
 

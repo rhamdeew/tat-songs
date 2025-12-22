@@ -1,10 +1,11 @@
 # Татарские песни и их перевод - Страница 12
 
-## Список песен (песни 1101-1200 из 3970)
+## Список песен (песни 1101-1200 из 4115)
 
 [← Предыдущая страница](songs_list/SONGS_11.md) | [Главная страница](../README.md) | [Следующая страница →](songs_list/SONGS_13.md)
 
 
+- [Булат Зиганшин - Янгырлы кон / Булат Зиганшин - Дождливый день](../translated/b/bulat_ziganshin-yangyrly_kon.md)
 - [Булат Зиганшин - Ятимнэр / Булат Зиганшин - Сироты](../translated/b/bulat_ziganshin-yatimner.md)
 - [Булат Ибраһимов / Илнур Ганиев - Дуслык җыры (җиденче вариант) / Булат Ибрагимов / Ильнур Ганиев - Песня дружбы (седьмой вариант)](../translated/b/bulat_ibrahimov_ilnur_ganiev_-_duslik_ciri_cidenche_variant.md)
 - [Булат Ибраһимов / Илнур Ганиев - Исем эзлим песиемә / Булат Ибрагимов / Ильнур Ганиев - Ищу имя котёнку](../translated/b/bulat_ibrahimov_ilnur_ganiev_-_isem_ezlim_pesiema.md)
@@ -51,6 +52,7 @@
 - [Венер Котдусов - Чакмагыш (икенче вариант) / Венер Котдусов - Чакмагыш (второй вариант)](../translated/v/vener_kotdusov_-_chakmagish_ikenche_variant.md)
 - [Венер Котдусов - Язмыш урап узмады / Венер Котдусов - Судьба не прошла стороной](../translated/v/vener_kotdusov_-_yazmish_urap_uzmadi.md)
 - [Венер Котдусов - Җилфер-җилфер җил искәндә (икенче вариант) / Венер Котдусов - Когда ветер шелестит (второй вариант)](../translated/v/vener_kotdusov_-_cilfer-cilfer_cil_iskanda_ikenche_variant.md)
+- [Венер Фәттах / Вәгыйзь Газизов - Сәлам сезгә / Венер Фаттах / Вагыйзь Газизов - Привет вам](../translated/v/vener_fattah_vagiyz_gazizov_-_salam_sezga.md)
 - [Венер Фәттах / Зарема Әюпова - Ага сулар (алтынчы вариант) / Венер Фәттах / Зарема Әюпова - Текут воды (шестой вариант)](../translated/v/vener_fattah_zarema_ayupova_-_aga_sular_altinchi_variant.md)
 - [Венер Фәттах / Лилия Вахитова - Биим әле! / Венер Фәттах / Лилия Вахитова - Танцую еще!](../translated/v/vener_fattah_liliya_vahitova_-_biim_ale.md)
 - [Венер Фәттах / Наил Сөләйманов - Адашкан бәхет / Венер Фаттах / Наиль Сулейманов - Заблудившееся счастье](../translated/v/vener_fattah_nail_solaymanov_-_adashkan_bahet.md)
@@ -74,16 +76,19 @@
 - [Венера Шамиева - Узен киттен / Венера Шамиева - Сам ушёл](../translated/v/venera_shamieva-uzen_kitten.md)
 - [Вил Гомәров (Ғүмәров) / Рамил Гыймрани - Таныйсыңмы мине / Вил Гомәров (Ғүмәров) / Рамил Гыймрани - Узнаешь ли меня](../translated/v/vil_gomarov_ғumarov_ramil_giymrani_-_taniysinmi_mine.md)
 - [Вил Казыйханов / Мөфтәдин Гыйләҗев - Зәңгәр яулык / Вил Казыйханов / Муфтадин Гиляжев - Голубой платок](../translated/v/vil_kaziyhanov_moftadin_giylacev_-_zangar_yaulik.md)
+- [Вил Казыйханов / Мөфтәдин Гыйләҗев - Туган як моңнары / Вил Казыйханов / Мөфтәдин Гыйләҗев - Мелодии родного края](../translated/v/vil_kaziyhanov_moftadin_giylacev_-_tugan_yak_monnari.md)
 - [Вил Казыйханов / Мөфтәдин Гыйләҗев - Хуш, мәктәбем! / Виль Казыйханов / Мөфтадин Гиляжев - Прощай, моя школа!](../translated/v/vil_kaziyhanov_moftadin_giylacev_-_hush_maktabem.md)
 - [Вил Казыйханов / Мөфтәдин Гыйләҗев - Яшь безнең күңелләр / Виль Казыйханов / Мөфтәдин Гыйләҗев - Молоды наши сердца](../translated/v/vil_kaziyhanov_moftadin_giylacev_-_yash_beznen_kunellar.md)
 - [Вил Казыйханов / Мөфтәдин Гыйләҗев - Өфеләргә барам әле / Вил Казыйханов / Мөфтәдин Гыйләҗев - Снова поеду в Уфу](../translated/v/vil_kaziyhanov_moftadin_giylacev_-_ofelarga_baram_ale.md)
 - [Вилдан Вәлиев / Венер Мөхәммәдиев - Ачытау (икенче вариант) / Вилдан Валиев / Венер Мухаммадиев - Ачытау (второй вариант)](../translated/v/vildan_valiev_vener_mohammadiev_-_achitau_ikenche_variant.md)
 - [Виль Усманов - Юкка тугел юкка тугелдер / Виль Усманов - Не напрасно, не напрасно](../translated/v/vil_usmanov-yukka_tugel_yukka_tugelder.md)
 - [Виниса Фәттахова / Инсаф Хәбибуллин - Саубуллашу җыры / Виниса Фаттахова / Инсаф Хабибуллин - Песня прощания](../translated/v/vinisa_fattahova_insaf_habibullin_-_saubullashu_ciri.md)
+- [Виниса Фәттахова / Наил Шәймарданов - Атлыйсы юллар алда / Виниса Фаттахова / Наил Шаймарданов - Впереди дороги предстоят](../translated/v/vinisa_fattahova_nail_shaymardanov_-_atliysi_yullar_alda.md)
 - [Виталий Агапов - Авылым минем Сәвәләй (Сандугач тавы) / Виталий Агапов - Моя деревня Савелай (Гора Сандугач)](../translated/v/vitaliy_agapov_-_avilim_minem_savalay_sandugach_tavi.md)
 - [Виталий Агапов - Бала сагышы / Виталий Агапов - Детская тоска](../translated/v/vitaliy_agapov_-_bala_sagishi.md)
 - [Виталий Агапов - Зәй буе шомыртлары / Виталий Агапов - Черёмухи над рекой Зай](../translated/v/vitaliy_agapov_-_zay_bue_shomirtlari.md)
 - [Виталий Агапов - Сонга калдым / Виталий Агапов - Остался последним](../translated/v/vitaliy_agapov-songa_kaldym.md)
+- [Виталий Агапов - Сәвәләй чишмәләре / Виталий Агапов - Савалейские родники](../translated/v/vitaliy_agapov_-_savalay_chishmalare.md)
 - [Виталий Агапов - Төнбоеклар бүләккә / Виталий Агапов - Кувшинки в подарок](../translated/v/vitaliy_agapov_-_tonboeklar_bulakka.md)
 - [Виталий Агапов - Уйларымда мәктәп еллары / Виталий Агапов - В моих мыслях школьные годы](../translated/v/vitaliy_agapov_-_uylarimda_maktap_ellari.md)
 - [Виталий Агапов - Энкэй голе / Виталий Агапов - Материнский цветок](../translated/v/vitaliy_agapov-enkey_gole.md)
@@ -97,14 +102,9 @@
 - [Вәзыйх Фатыйхов / Халидин Әхәтов - Соңгы өмет / Вазих Фатихов / Халидин Ахатов - Последняя надежда](../translated/v/vaziyh_fatiyhov_halidin_ahatov_-_songi_omet.md)
 - [Вәлит Илембәтов / Гүзәл Үлмәсколова - Мәңгелеккә кил, иркәм! / Валит Илембатов / Гузель Ульмасколова - Приди навек, любимая!](../translated/v/valit_ilembatov_guzal_ulmaskolova_-_mangelekka_kil_irkam.md)
 - [Вәлит Илембәтов / Нәфисә Хәкимова - Яшьлек белән хушлашу (Мәхәббәтем кала, Яшьлегем сагышы) / Вәлит Илембәтов / Нәфисә Хәкимова - Прощание с юностью (Моя любовь остаётся, Тоска по юности)](../translated/v/valit_ilembatov_nafisa_hakimova_-_yashlek_belan_hushlashu_mahabbatem_kala_yashlegem_sagishi.md)
+- [Вәлит Илембәтов / Рамил Медъяр-Камал - Бураннарга каршы барам (икенче вариант) / Валит Илембәтов / Рамил Медъяр-Камал - Иду навстречу буранам (второй вариант)](../translated/v/valit_ilembatov_ramil_medyar-kamal_-_burannarga_karshi_baram_ikenche_variant.md)
 - [Вәлит Илембәтов / Роберт Тимербаев - Хәтер җыры (икенче вариант) / Валит Илембатов / Роберт Тимербаев - Песня памяти (второй вариант)](../translated/v/valit_ilembatov_robert_timerbaev_-_hater_ciri_ikenche_variant.md)
 - [Вәлит Илембәтов / Фәнир Галимов - Дуска (беренче вариант) / Вәлит Илембәтов / Фәнир Галимов - Другу (первый вариант)](../translated/v/valit_ilembatov_fanir_galimov_-_duska_berenche_variant.md)
-- [Вәрис Акбашев / Урал Рәшитов - Карлы буран / Вәрис Акбашев / Урал Рәшитов - Снежный буран](../translated/v/varis_akbashev_ural_rashitov_-_karli_buran.md)
-- [Вәрис Акбашев / Юлай Үзәнбаев - Аем / Вәрис Акбашев / Юлай Үзәнбаев - Луна моя](../translated/v/varis_akbashev_yulay_uzanbaev_-_aem.md)
-- [Вәсимә Хәйруллина / Нәфисә Хәкимова - Их, гармуннар уйный белсәм / Васима Хайруллина / Нэфисэ Хакимова - Эх, если бы я умел играть на гармони](../translated/v/vasima_hayrullina_nafisa_hakimova_-_ih_garmunnar_uyniy_belsam.md)
-- [Габделфат Сафин - Гашыйк ит / Габделфат Сафин - Полюби](../translated/g/gabdelfat_safin-gashyyk_it.md)
-- [Габделфат Сафин - Зэйтунэм / Габделфат Сафин - Зайтуна](../translated/g/gabdelfat_safin-zeytunem.md)
-- [Габделфат Сафин - Ирадэ / Габделфат Сафин - Воля](../translated/g/gabdelfat_safin-irade.md)
 
 ---
 

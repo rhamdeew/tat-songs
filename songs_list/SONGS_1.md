@@ -1,6 +1,6 @@
 # Татарские песни и их перевод - Страница 1
 
-## Список песен (песни 1-100 из 3970)
+## Список песен (песни 1-100 из 4115)
 
 [Главная страница](../README.md) | [Следующая страница →](songs_list/SONGS_2.md)
 
@@ -58,6 +58,7 @@
 - [tatar_halik_ciri_ - Татар халык җыры - Көзге ачы җилләрдә (икенче вариант) / татар халик цири - Татарская народная песня - В осенних колючих ветрах (второй вариант)](../translated/t/tatar_halik_ciri_-_kozge_achi_cillarda_ikenche_variant.md)
 - [tatar_halik_ciri_ - Татар халык җыры - Озату (икенче вариант) / Татар халык җыры - Озату (второй вариант)](../translated/t/tatar_halik_ciri_-_ozatu_ikenche_variant.md)
 - [tatar_halik_ciri_ - Татар халык җыры - Сандугач-алмагач / Татарская народная песня - Соловей-яблоня](../translated/t/tatar_halik_ciri_-_sandugach-almagach.md)
+- [tatar_halik_ciri_ - Татар халык җыры - Су буйлап (бишенче вариант) / Татарская народная песня - У реки (пятый вариант)](../translated/t/tatar_halik_ciri_-_su_buylap_bishenche_variant.md)
 - [tatar_halik_ciri_ - Татар халык җыры - Урам көе (икенче вариант) / tatar_halik_ciri_ - Татарская народная песня - Уличный напев (второй вариант)](../translated/t/tatar_halik_ciri_-_uram_koe_ikenche_variant.md)
 - [tatar_halik_ciri_ - Татар халык җыры - Шөгер / татар халык җыры_ - Татарская народная песня - Шөгер](../translated/t/tatar_halik_ciri_-_shoger.md)
 - [vener_fattah_golnaz_zakirova_ - _isendame_sinnan_bashka / Венер Фаттах / Гульназ Закирова - Помнишь ли (Без тебя)](../translated/v/vener_fattah_golnaz_zakirova_-_isendame_sinnan_bashka.md)
@@ -104,7 +105,6 @@
 - [Абдулхак Игебаев / Нәфисә Хәкимова - Гомерләр уза икән / Абдулхак Игебаев / Нафиса Хакимова - Проходят годы](../translated/a/abdulhak_igebaev_nafisa_hakimova_-_gomerlar_uza_ikan.md)
 - [Абдулхак Игебаев / Радик Шамратов - Һай, туган җир, газиз җир! / Абдулхак Игебаев / Радик Шамратов - О, родная земля, священная земля!](../translated/a/abdulhak_igebaev_radik_shamratov_-_hay_tugan_cir_gaziz_cir.md)
 - [Абдулхак Игебаев / Рафик Сәлмәнов - Дилбәр / Абдулхак Игебаев / Рафик Салманов - Дильбар](../translated/a/abdulhak_igebaev_rafik_salmanov_-_dilbar.md)
-- [Абдулхак Игебаев / Рафик Сәлмәнов - Сөю җыры (өченче вариант) / Абдулхак Игебаев / Рафик Салманов - Песня любви (третий вариант)](../translated/a/abdulhak_igebaev_rafik_salmanov_-_soyu_ciri_ochenche_variant.md)
 
 ---
 

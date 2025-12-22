@@ -1,10 +1,21 @@
 # Татарские песни и их перевод - Страница 14
 
-## Список песен (песни 1301-1400 из 3970)
+## Список песен (песни 1301-1400 из 4115)
 
 [← Предыдущая страница](songs_list/SONGS_13.md) | [Главная страница](../README.md) | [Следующая страница →](songs_list/SONGS_15.md)
 
 
+- [Гузель Ахметова - Парлы бию / Гузель Ахметова - Парный танец](../translated/g/guzel_ahmetova-parly_biyu.md)
+- [Гузель Ахметова - Ромашка / Гузель Ахметова - Ромашка](../translated/g/guzel_ahmetova-romashka.md)
+- [Гузель Ахметова - Саубулыгыз, ак каеннар / Гузель Ахметова - Прощайте, белые берёзы](../translated/g/guzel_ahmetova-saubulygyz_ak_kaennar.md)
+- [Гузель Ахметова - Хыялым / Гузель Ахметова - Моя мечта](../translated/g/guzel_ahmetova-hyyalym.md)
+- [Гузель Ахметова - Чыкма юлларыма / Гузель Ахметова - Не выходи на мои дороги](../translated/g/guzel_ahmetova-chykma_yullaryma.md)
+- [Гузель Уразова - Ак пароход / Гузель Уразова - Белый пароход](../translated/g/guzel_urazova-ak_parohod.md)
+- [Гузель Уразова - Бала эйткэн авыр суз / Гузель Уразова - Тяжелое слово сказанное ребенком](../translated/g/guzel_urazova-bala_eytken_avyr_suz.md)
+- [Гузель Уразова - Балан жыя энкэй / Гузель Уразова - Мать собирает детские осколки](../translated/g/guzel_urazova-balan_zhyya_enkey.md)
+- [Гузель Уразова - Без кабызган учаклар / Гузель Уразова - Костры что мы зажгли](../translated/g/guzel_urazova-bez_kabyzgan_uchaklar.md)
+- [Гузель Уразова - Былбылым / Гузель Уразова - Соловей мой](../translated/g/guzel_urazova-bylbylym.md)
+- [Гузель Уразова - Бэхетле итэ алдын / Гузель Уразова - Ты смогла осчастливить](../translated/g/guzel_urazova-behetle_ite_aldyn.md)
 - [Гузель Уразова - Голжамал / Гузель Уразова - Гульджамал](../translated/g/guzel_urazova-golzhamal.md)
 - [Гузель Уразова - Жаным / Гузель Уразова - Душа моя](../translated/g/guzel_urazova-zhanym.md)
 - [Гузель Уразова - Жырларымны сина багышлыйм / Гузель Уразова - Песни свои тебе посвящаю](../translated/g/guzel_urazova-zhyrlarymny_sina_bagyshlyym.md)
@@ -94,17 +105,6 @@
 - [Гүзәл Уразова - Рамай / Гүзәл Уразова - Рамай](../translated/g/guzel_urazova-ramay.md)
 - [Гүзәл Уразова - Рэхмэтлемен Ходаема / Гүзәл Уразова - Благодарю Бога моего](../translated/g/guzel_urazova-rehmetlemen_hodaema.md)
 - [Гүзәл Уразова - Сабырлык / Гүзәл Уразова - Терпение](../translated/g/guzel_urazova-sabyrlyk.md)
-- [Гүзәл Уразова - Сандугач / Гүзәл Уразова - Соловей](../translated/g/guzel_urazova-sandugach.md)
-- [Гүзәл Уразова - Сездэ кала ярты жаныбыз / Гүзәл Уразова - У вас остается половина нашей души](../translated/g/guzel_urazova-sezde_kala_yarty_zhanybyz.md)
-- [Гүзәл Уразова - Син / Гүзәл Уразова - Ты](../translated/g/guzel_urazova-sin.md)
-- [Гүзәл Уразова - Син дэ мина бер генэ / Гүзәл Уразова - И ты мне единственный](../translated/g/guzel_urazova-sin_de_mina_ber_gene.md)
-- [Гүзәл Уразова - Шафран чиялэре / Гүзәл Уразова - Шафранские вишни](../translated/g/guzel_urazova-shafran_chiyalere.md)
-- [Гүзәл Уразова - Шахта / Гүзәл Уразова - Шахта](../translated/g/guzel_urazova-shahta.md)
-- [Гүзәлия / Фирзәр Мортазин - Назлы ярым / Гүзәлия / Фирзәр Мортазин - Нежная моя](../translated/g/guzaliya_firzar_mortazin_-_nazli_yarim.md)
-- [Гәдилә Гыйльманова / Фәнзәл Котдысов - Уйлама әле картаям дип / Гадиля Гильмянова / Фанзаль Кутдысов - Не думай пока, что старею](../translated/g/gadila_giylmanova_fanzal_kotdisov_-_uylama_ale_kartayam_dip.md)
-- [Гәрәй Рәхим / Людмила Аланлы - Дөнья сиңа килешә / Гарай Рахим / Людмила Аланлы - Мир тебе так к лицу](../translated/g/garay_rahim_lyudmila_alanli_-_donya_sina_kilesha.md)
-- [Гәрәй Рәхим / Мәсгудә Шәмсетдинова - Гомер (беренче вариант) / Гәрәй Рәхим / Мәсгудә Шәмсетдинова - Жизнь (первый вариант)](../translated/g/garay_rahim_masguda_shamsetdinova_-_gomer_berenche_variant.md)
-- [Гәрәй Рәхим / Рифкать Сәйфетдинов - Кызыбыз сине көтә / Гарей Рахим / Рифкат Сайфетдинов - Наша дочь ждёт тебя](../translated/g/garay_rahim_rifkat_sayfetdinov_-_kizibiz_sine_kota.md)
 
 ---
 

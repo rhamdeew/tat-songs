@@ -1,10 +1,11 @@
 # Татарские песни и их перевод - Страница 9
 
-## Список песен (песни 801-900 из 3970)
+## Список песен (песни 801-900 из 4115)
 
 [← Предыдущая страница](songs_list/SONGS_8.md) | [Главная страница](../README.md) | [Следующая страница →](songs_list/SONGS_10.md)
 
 
+- [Башкорт халык җыры - Уел (дүртенче вариант) / Башкирская народная песня - Уйыл (четвертый вариант)](../translated/b/bashkort_halik_ciri_-_uel_durtenche_variant.md)
 - [Башкорт халык җыры - Уел (икенче вариант) / Башкирская народная песня - Песня (второй вариант)](../translated/b/bashkort_halik_ciri_-_uel_ikenche_variant.md)
 - [Башкорт халык җыры - Уел (өченче вариант) / Башкирская народная песня - Уйал (третий вариант)](../translated/b/bashkort_halik_ciri_-_uel_ochenche_variant.md)
 - [Башкорт халык җыры - Уйнат гармуннарыңны / Башкирская народная песня - Играть на гармошке](../translated/b/bashkort_halik_ciri_-_uynat_garmunnarinni.md)
@@ -104,7 +105,6 @@
 - [Билгесез - Көнләшмә (икенче вариант) / Билгесез - Не ворчи (второй вариант)](../translated/b/bilgesez_-_konlashma_ikenche_variant.md)
 - [Билгесез - Көнләшәм җилләрдән / Бильгесез - Скрываюсь ли я от ветров](../translated/b/bilgesez_-_konlasham_cillardan.md)
 - [Билгесез - Ламбада (икенче вариант) / Билгесез - Ламбада (второй вариант)](../translated/b/bilgesez_-_lambada_ikenche_variant.md)
-- [Билгесез - Матур гөлем / Бильгесез - Прекрасный цветок мой](../translated/b/bilgesez_-_matur_golem.md)
 
 ---
 

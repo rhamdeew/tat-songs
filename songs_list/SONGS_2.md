@@ -1,10 +1,11 @@
 # Татарские песни и их перевод - Страница 2
 
-## Список песен (песни 101-200 из 3970)
+## Список песен (песни 101-200 из 4115)
 
 [← Предыдущая страница](songs_list/SONGS_1.md) | [Главная страница](../README.md) | [Следующая страница →](songs_list/SONGS_3.md)
 
 
+- [Абдулхак Игебаев / Рафик Сәлмәнов - Сөю җыры (өченче вариант) / Абдулхак Игебаев / Рафик Салманов - Песня любви (третий вариант)](../translated/a/abdulhak_igebaev_rafik_salmanov_-_soyu_ciri_ochenche_variant.md)
 - [Абдулхак Игебаев / Рим Хәсәнов - Ләйсән яңгыр (беренче вариант) / Абдулхак Игебаев / Рим Хасанов - Майский дождь (первый вариант)](../translated/a/abdulhak_igebaev_rim_hasanov_-_laysan_yangir_berenche_variant.md)
 - [Абдулхак Игебаев / Рим Хәсәнов - Сакмар сукайлары / Абдулхак Игебаев / Рим Хасанов - Воды Сакмары](../translated/a/abdulhak_igebaev_rim_hasanov_-_sakmar_sukaylari.md)
 - [Абдулхак Игебаев / Ришат Акъегет - Яшермәче, иркәм (беренче вариант) / Абдулхак Игебаев / Ришат Акъегет - Не скрывай, любимая (первый вариант)](../translated/a/abdulhak_igebaev_rishat_akeget_-_yashermache_irkam_berenche_variant.md)
@@ -104,7 +105,6 @@
 - [Айгөл Вәлиуллина / Риваль Хисмәтуллин - Юк, теләмим! / Айгуль Валиуллина / Риваль Хисматуллин - Нет, не хочу!](../translated/a/aygol_valiullina_rival_hismatullin_-_yuk_telamim.md)
 - [Айгөл Вәлиуллина / Риваль Хисмәтуллин - Яшәрмен синсез дә / Айгуль Валиуллина / Риваль Хисматуллин - Проживу и без тебя](../translated/a/aygol_valiullina_rival_hismatullin_-_yasharmen_sinsez_da.md)
 - [Айгөл Вәлиуллина / Риваль Хисмәтуллин - Җәйге авыл кичләре / Айгуль Валиуллина / Риваль Хисматуллин - Летние деревенские вечера](../translated/a/aygol_valiullina_rival_hismatullin_-_cayge_avil_kichlare.md)
-- [Айгөл Вәлиуллина / Риваль Хисмәтуллин - Үзең сизмәдең / Айгуль Валиуллина / Риваль Хисматуллин - Ты не заметил](../translated/a/aygol_valiullina_rival_hismatullin_-_uzen_sizmaden.md)
 
 ---
 

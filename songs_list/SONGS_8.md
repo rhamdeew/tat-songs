@@ -1,10 +1,11 @@
 # Татарские песни и их перевод - Страница 8
 
-## Список песен (песни 701-800 из 3970)
+## Список песен (песни 701-800 из 4115)
 
 [← Предыдущая страница](songs_list/SONGS_7.md) | [Главная страница](../README.md) | [Следующая страница →](songs_list/SONGS_9.md)
 
 
+- [Асылъяр - Адаштым / Асылъяр - Я заблудился](../translated/a/asylyar-adashtym.md)
 - [Асылъяр - Ай кебек син / Асылъяр - Ты словно месяц](../translated/a/asylyar-ay_kebek_sin.md)
 - [Асылъяр - Бэхетегез булсын гомергэ / Асылъяр - Пусть счастье ваше будет на всю жизнь](../translated/a/asylyar-behetegez_bulsyn_gomerge.md)
 - [Асылъяр - Искэ тошер эле / Асылъяр - Вспомнится](../translated/a/asylyar-iske_tosher_ele.md)
@@ -104,7 +105,6 @@
 - [Башкорт халык җыры - Таулар биек (икенче вариант) / Башкирская народная песня - Высокие горы (второй вариант)](../translated/b/bashkort_halik_ciri_-_taular_biek_ikenche_variant.md)
 - [Башкорт халык җыры - Таштугай / Башкорт народная песня - Таштугай](../translated/b/bashkort_halik_ciri_-_tashtugay.md)
 - [Башкорт халык җыры - Уел (беренче вариант) / Башкирская народная песня - Уэл (первый вариант)](../translated/b/bashkort_halik_ciri_-_uel_berenche_variant.md)
-- [Башкорт халык җыры - Уел (дүртенче вариант) / Башкирская народная песня - Уйыл (четвертый вариант)](../translated/b/bashkort_halik_ciri_-_uel_durtenche_variant.md)
 
 ---
 

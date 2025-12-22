@@ -1,10 +1,11 @@
 # Татарские песни и их перевод - Страница 7
 
-## Список песен (песни 601-700 из 3970)
+## Список песен (песни 601-700 из 4115)
 
 [← Предыдущая страница](songs_list/SONGS_6.md) | [Главная страница](../README.md) | [Следующая страница →](songs_list/SONGS_8.md)
 
 
+- [Альбина Бәширова / Илнур Ганиев - Мәхәббәт сере / Альбина Баширова / Ильнур Ганиев - Тайна любви](../translated/a/albina_bashirova_ilnur_ganiev_-_mahabbat_sere.md)
 - [Альбина Бәширова / Нияз Вәлиев - Әти-әни (икенче вариант) / Альбина Баширова / Нияз Валиев - Отец и мать (второй вариант)](../translated/a/albina_bashirova_niyaz_valiev_-_ati-ani_ikenche_variant.md)
 - [Альбина Бәширова / Фларид Минкаһиров - Елама, бәгырькәем / Альбина Баширова / Фларид Минкахиров - Не плачь, родная](../translated/a/albina_bashirova_flarid_minkahirov_-_elama_bagirkaem.md)
 - [Альбина Мортазина / Рамил Әсхәдулла - Дөрли әле / Альбина Мортазина / Рамил Асхадулла - Еще трепещет](../translated/a/albina_mortazina_ramil_ashadulla_-_dorli_ale.md)
@@ -104,7 +105,6 @@
 - [Асия Юнысова / Тәслимә Низами - Айлы юл / Асия Юнысова / Таслима Низами - Лунная дорога](../translated/a/asiya_yunisova_taslima_nizami_-_ayli_yul.md)
 - [Асхәр Кашфуллин / Миңнегали Дәүләтбаев - Әле дә сөям / Асхар Кашфуллин / Миннегали Даулетбаев - Всё ещё люблю](../translated/a/ashar_kashfullin_minnegali_daulatbaev_-_ale_da_soyam.md)
 - [Асылъяр - Агыйдел каты ага / Асылъяр - Агидель быстро течет](../translated/a/asylyar-agyydel_katy_aga.md)
-- [Асылъяр - Адаштым / Асылъяр - Я заблудился](../translated/a/asylyar-adashtym.md)
 
 ---
 
