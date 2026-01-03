@@ -1,6 +1,6 @@
 # Татарские песни и их перевод
 
-Всего песен: 5693
+Всего песен: 6667
 
 ## Список песен
 
@@ -60,7 +60,17 @@
 - [Песни 5301-5400](songs_list/SONGS_54.md)
 - [Песни 5401-5500](songs_list/SONGS_55.md)
 - [Песни 5501-5600](songs_list/SONGS_56.md)
-- [Песни 5601-5693](songs_list/SONGS_57.md)
+- [Песни 5601-5700](songs_list/SONGS_57.md)
+- [Песни 5701-5800](songs_list/SONGS_58.md)
+- [Песни 5801-5900](songs_list/SONGS_59.md)
+- [Песни 5901-6000](songs_list/SONGS_60.md)
+- [Песни 6001-6100](songs_list/SONGS_61.md)
+- [Песни 6101-6200](songs_list/SONGS_62.md)
+- [Песни 6201-6300](songs_list/SONGS_63.md)
+- [Песни 6301-6400](songs_list/SONGS_64.md)
+- [Песни 6401-6500](songs_list/SONGS_65.md)
+- [Песни 6501-6600](songs_list/SONGS_66.md)
+- [Песни 6601-6667](songs_list/SONGS_67.md)
 
 ---
 
