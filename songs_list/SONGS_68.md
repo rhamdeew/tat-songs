@@ -5,7 +5,6 @@
 [← Предыдущая страница](SONGS_67.md) | [Главная страница](../README.md) | [Следующая страница →](SONGS_69.md)
 
 
-- [Рөстәм Зариф / Фәрит Хатыйпов - Сагыш (алтынчы вариант) / Рөстәм Зариф / Фәрит Хатыйпов - Тоска (шестой вариант)](../translated/r/rostam_zarif_farit_hatiypov_-_sagish_altinchi_variant.md)
 - [Рөстәм Зәкуан / Айдар Тимербаев - Авыл көтә һәрбер баласын / Рустам Закуан / Айдар Тимербаев - Деревня ждёт каждого из детей своих](../translated/r/rostam_zakuan_aydar_timerbaev_-_avil_kota_harber_balasin.md)
 - [Рөстәм Зәкуан / Альфред Якшимбетов - Гөлләрем минем / Рөстәм Зәкуан / Альфред Якшимбетов - Цветы мои](../translated/r/rostam_zakuan_alfred_yakshimbetov_-_gollarem_minem.md)
 - [Рөстәм Зәкуан / Альфред Якшимбетов - Картаясы килми һич тә / Рөстәм Зәкуан / Альфред Якшимбетов - Совсем не хочется стареть](../translated/r/rostam_zakuan_alfred_yakshimbetov_-_kartayasi_kilmi_hich_ta.md)
@@ -33,18 +32,18 @@
 - [Рөстәм Зәкуан / Фирзәр Мортазин - Яратып яшик (беренче вариант) / Рустам Закуан / Фирзар Мортазин - Будем жить любя (первый вариант)](../translated/r/rostam_zakuan_firzar_mortazin_-_yaratip_yashik_berenche_variant.md)
 - [Рөстәм Зәкуан / Фирзәр Мортазин - Әй бу гомер дигәннәре / Рөстәм Зәкуан / Фирзәр Мортазин - Ах, этот век](../translated/r/rostam_zakuan_firzar_mortazin_-_ay_bu_gomer_digannare.md)
 - [Рөстәм Мингалим / Камил Хәсәнов - Синең юллар / Рөстәм Мингалим / Камил Хәсәнов - Твои дороги](../translated/r/rostam_mingalim_kamil_hasanov_-_sinen_yullar.md)
-- [Рөстәм Мингалим / Мәсгуть Имашев - Каерылмасын канатым / Рөстәм Мингалим / Мәсгуть Имашев - Пусть не сломается моё крыло](../translated/r/rostam_mingalim_masgut_imashev_-_kaerilmasin_kanatim.md)
+- [Рөстәм Мингалим / Мәсгут Имашев - Каерылмасын канатым / Рөстәм Мингалим / Мәсгут Имашев - Пусть не сломается моё крыло](../translated/r/rostam_mingalim_masgut_imashev_-_kaerilmasin_kanatim.md)
 - [Рөстәм Мингалим / Фасил Әхмәтов - Уйныйк әле дулкыннардай / Рөстәм Мингалим / Фасил Әхмәтов - Сыграем, словно волны](../translated/r/rostam_mingalim_fasil_ahmatov_-_uyniyk_ale_dulkinnarday.md)
-- [Рөстәм Мингалим / Фәрит Хатыйпов - Елмай әле бер генә! / Ростэм Мингалим / Фарит Хатыпов - Улыбнись хоть разочек!](../translated/r/rostam_mingalim_farit_hatiypov_-_elmay_ale_ber_gena.md)
+- [Рөстәм Мингалим / Фәрит Хатыйпов - Елмай әле бер генә! / Рөстәм Мингалим / Фарит Хатыпов - Улыбнись хоть разочек!](../translated/r/rostam_mingalim_farit_hatiypov_-_elmay_ale_ber_gena.md)
 - [Рөстәм Миңнуллин / Мәсгудә Шәмсетдинова - Уятыйм әле Җир шарын / Ростам Миннуллин / Масгуда Шамсетдинова - Стыжусь я, Земной шар](../translated/r/rostam_minnullin_masguda_shamsetdinova_-_uyatiym_ale_cir_sharin.md)
 - [Рөстәм Сүлти / Инсаф Хәбибуллин - Гармун сайлый егет / Ростэм Сюлти / Инсаф Хабибуллин - Парень играет на гармошке](../translated/r/rostam_sulti_insaf_habibullin_-_garmun_sayliy_eget.md)
-- [Рөстәм Фәйзуллин (Акъегет) / Алмаз Монасыйпов - Бел син, яме / Ростям Файзуллин (Акъегет) / Алмаз Монасыпов - Знаешь, милая](../translated/r/rostam_fayzullin_akeget_almaz_monasiypov_-_bel_sin_yame.md)
+- [Рөстәм Фәйзуллин (Акъегет) / Алмаз Монасыйпов - Бел син, яме / Ростям Файзуллин (Акъегет) / Алмаз Монасыйпов - Знаешь, милая](../translated/r/rostam_fayzullin_akeget_almaz_monasiypov_-_bel_sin_yame.md)
 - [Рөстәм Фәйзуллин (Акъегет) / Луиза Хәйретдинова - Сәлам әйт, җил / Рөстәм Фәйзуллин (Акъегет) / Луиза Хәйретдинова - Передай привет, ветер](../translated/r/rostam_fayzullin_akeget_luiza_hayretdinova_-_salam_ayt_cil.md)
 - [Рөстәм Фәйзуллин (Акъегет) / Рәшит Кәлимуллин - Ашкыну (беренче вариант) / Рөстәм Фәйзуллин (Акъегет) / Рәшит Кәлимуллин - Порыв (первый вариант)](../translated/r/rostam_fayzullin_akeget_rashit_kalimullin_-_ashkinu_berenche_variant.md)
-- [Рөстәм Яхин - Хатыннар күңеле / Роберт Миннуллин / Рөстэм Яхин - Женские сердца](../translated/r/robert_minnullin_rostam_yahin_-_hatinnar_kunele.md)
+- [Рөстәм Яхин - Хатыннар күңеле / Роберт Миңнуллин / Рөстәм Яхин - Женские сердца](../translated/r/robert_minnullin_rostam_yahin_-_hatinnar_kunele.md)
 - [Рөстәм Әсәдуллин - Яшьлегем (өченче вариант) / Рөстәм Әсәдуллин - Моя юность (третий вариант)](../translated/r/rostam_asadullin_-_yashlegem_ochenche_variant.md)
 - [С. Фәрхетдинова / Фәнир Галимов - Чишмә җыры (икенче вариант) / С. Фәрхетдинова / Фәнир Галимов - Песня родника (второй вариант)](../translated/s/s_farhetdinova_fanir_galimov_-_chishma_ciri_ikenche_variant.md)
-- [С. Әхтәмова / Илгиз Закиров - Лилиягә / С. Ахтамова / Ильгиз Закиров - Лилии](../translated/s/s_ahtamova_ilgiz_zakirov_-_liliyaga.md)
+- [С. Әхтәмова / Илгиз Закиров - Лилиягә / С. Ахтамова / Илгиз Закиров - Лилии](../translated/s/s_ahtamova_ilgiz_zakirov_-_liliyaga.md)
 - [Сабина - 17 яшь / Сабина - 17 лет](../translated/s/sabina-17_yash.md)
 - [Сабит Моканов / Латыйф Хәмиди - Казах вальсы / Сабит Моканов / Латыйф Хәмиди - Казахский вальс](../translated/s/sabit_mokanov_latiyf_hamidi_-_kazah_valsi.md)
 - [Сагит Гибашев - Син союдэн чибэр / Сагит Гибашев - Ты прекрасней любви](../translated/s/sagit_gibashev-sin_soyuden_chiber.md)
@@ -105,6 +104,7 @@
 - [Салават Фатхетдинов - Рэнжемэ / Салават Фатхетдинов - Не обижайся](../translated/s/salavat_fathetdinov-renzheme.md)
 - [Салават Фатхетдинов - Сагынам сине гузэлем / Салават Фатхетдинов - Скучаю по тебе, красавица](../translated/s/salavat_fathetdinov-sagynam_sine_guzelem.md)
 - [Салават Фатхетдинов - Сонгы карашын / Салават Фатхетдинов - Последний взгляд](../translated/s/salavat_fathetdinov-songy_karashyn.md)
+- [Салават Фатхетдинов - Сонлама / Салават Фатхетдинов - Не увядай](../translated/s/salavat_fathetdinov-sonlama.md)
 
 ---
 

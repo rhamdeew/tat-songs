@@ -5,7 +5,6 @@
 [← Предыдущая страница](SONGS_40.md) | [Главная страница](../README.md) | [Следующая страница →](SONGS_42.md)
 
 
-- [Лилия Хамитова - Мин энкэем сина сокланам / Лилия Хамитова - Мама, я восхищаюсь тобой](../translated/l/liliya_hamitova-min_enkeem_sina_soklanam.md)
 - [Лилия Хамитова - Мэхэббэт шушыдыр / Лилия Хамитова - Вот что такое любовь](../translated/l/liliya_hamitova-mehebbet_shushydyr.md)
 - [Лилия Хамитова - Оннэремдэ хэзер тош кебек / Лилия Хамитова - Теперь в памяти, как сон](../translated/l/liliya_hamitova-onneremde_hezer_tosh_kebek.md)
 - [Лилия Хамитова - Тузэ икэн йорэк / Лилия Хамитова - Сердце умеет терпеть](../translated/l/liliya_hamitova-tuze_iken_yorek.md)
@@ -43,7 +42,7 @@
 - [Ләбиб Айтуганов / Илһам Шакиров - Һаман истә / Ләбиб Айтуганов / Илһам Шакиров - Все еще в памяти](../translated/l/labib_aytuganov_ilham_shakirov_-_haman_ista.md)
 - [Ләбиб Айтуганов / Ифрат Хисамов - Балыкчы җыры (беренче вариант) / Ләбиб Айтуганов / Ифрат Хисамов - Песня рыбака (первый вариант)](../translated/l/labib_aytuganov_ifrat_hisamov_-_balikchi_ciri_berenche_variant.md)
 - [Ләбиб Айтуганов / Рөстәм Яхин - Ышанам (беренче вариант) / Ләбиб Айтуганов / Рөстәм Яхин - Верю (первый вариант)](../translated/l/labib_aytuganov_rostam_yahin_-_ishanam_berenche_variant.md)
-- [Ләбиб Айтуганов / Фасил Әхмәтов - Әй, Кабаным! / Лябиб Айтуганов / Фасиль Ахметов - Эй, Кабаным!](../translated/l/labib_aytuganov_fasil_ahmatov_-_ay_kabanim.md)
+- [Ләбиб Айтуганов / Фасил Әхмәтов - Әй, Кабаным! / Лябиб Айтуганов / Фасил Ахметов - Эй, Кабаным!](../translated/l/labib_aytuganov_fasil_ahmatov_-_ay_kabanim.md)
 - [Ләбиб Лерон / Айдар Тимербаев - Халкым минем (Кем син?) / Лябиб Лерон / Айдар Тимербаев - Народ мой (Кто ты?)](../translated/l/labib_leron_aydar_timerbaev_-_halkim_minem_kem_sin.md)
 - [Ләбиб Лерон / Айдар Тимербаев - Әбри булыр абзагыз / Ләбиб Лерон / Айдар Тимербаев - Абри будет вашим Абзага](../translated/l/labib_leron_aydar_timerbaev_-_abri_bulir_abzagiz.md)
 - [Ләбиб Лерон / Ильяс Вәлишаһ - Безнең сөю (Гашыйклар җыры) / Ләбиб Лерон / Ильяс Вәлишаһ - Наша любовь (Песня влюбленных)](../translated/l/labib_leron_ilyas_valishah_-_beznen_soyu_gashiyklar_ciri.md)
@@ -62,7 +61,7 @@
 - [Ләйлә Дәүләтова / Альфред Якшимбетов - Мин яратам сине (беренче вариант) / Ләйлә Дәүләтова / Альфред Якшимбетов - Я люблю тебя (первый вариант)](../translated/l/layla_daulatova_alfred_yakshimbetov_-_min_yaratam_sine_berenche_variant.md)
 - [Ләйлә Дәүләтова / Альфред Якшимбетов - Сер / Ләйлә Дәүләтова / Альфред Якшимбетов - Секрет](../translated/l/layla_daulatova_alfred_yakshimbetov_-_ser.md)
 - [Ләйлә Дәүләтова / Альфред Якшимбетов - Юк, юк / Ляйля Даулатова / Альфред Якшымбетов - Нет, нет](../translated/l/layla_daulatova_alfred_yakshimbetov_-_yuk_yuk.md)
-- [Ләйлә Дәүләтова / Артур Җамалетдинов - Син булсаң / Ляйля Даулетова / Артур Джамалетдинов - Если ты будешь](../translated/l/layla_daulatova_artur_camaletdinov_-_sin_bulsan.md)
+- [Ләйлә Дәүләтова / Артур Җамалетдинов - Син булсаң / Ляйля Даулетова / Артур Җамалетдинов - Если ты будешь](../translated/l/layla_daulatova_artur_camaletdinov_-_sin_bulsan.md)
 - [Ләйлә Дәүләтова / Билгесез - Чакыр мине (икенче вариант) / Лейла Даутова / Неизвестный - Позови меня (второй вариант)](../translated/l/layla_daulatova_bilgesez_-_chakir_mine_ikenche_variant.md)
 - [Ләйлә Дәүләтова / Вардан Аракелян - Ирекле кош / Ләйлә Дәүләтова / Вардан Аракелян - Свободная птица](../translated/l/layla_daulatova_vardan_arakelyan_-_irekle_kosh.md)
 - [Ләйлә Дәүләтова / Зөфәр Хәйретдинов - Мин сине яратмас идем (беренче вариант) / Ляйля Даутова / Зуфар Хайретдинов - Я бы тебя не любила (первый вариант)](../translated/l/layla_daulatova_zofar_hayretdinov_-_min_sine_yaratmas_idem_berenche_variant.md)
@@ -79,7 +78,7 @@
 - [Ләйлә Дәүләтова / Мурат Гайсин - Бала әйткән авыр сүз / Ляйля Даулятова / Мурат Гайсин - Тяжёлое слово, сказанное ребёнком](../translated/l/layla_daulatova_murat_gaysin_-_bala_aytkan_avir_suz.md)
 - [Ләйлә Дәүләтова / Оскар Усманов - Бәхет икебезгә берәү / Ләйлә Дәүләтова / Оскар Усманов - Счастье одно на двоих](../translated/l/layla_daulatova_oskar_usmanov_-_bahet_ikebezga_berau.md)
 - [Ләйлә Дәүләтова / Оскар Усманов - Гомер буе көткән бәхетем / Ләйлә Дәүләтова / Оскар Усманов - Счастье, которого я ждала всю жизнь](../translated/l/layla_daulatova_oskar_usmanov_-_gomer_bue_kotkan_bahetem.md)
-- [Ләйлә Дәүләтова / Оскар Усманов - Ир-ат бәхете / Лейла Даултова / Оскар Усманов - Мужское счастье](../translated/l/layla_daulatova_oskar_usmanov_-_ir-at_bahete.md)
+- [Ләйлә Дәүләтова / Оскар Усманов - Ир-ат бәхете / Лейла Даутова / Оскар Усманов - Мужское счастье](../translated/l/layla_daulatova_oskar_usmanov_-_ir-at_bahete.md)
 - [Ләйлә Дәүләтова / Оскар Усманов - Син бәхетле булсын өчен / Ләйлә Дәүләтова / Оскар Усманов - Чтобы ты была счастлива](../translated/l/layla_daulatova_oskar_usmanov_-_sin_bahetle_bulsin_ochen.md)
 - [Ләйлә Дәүләтова / Оскар Усманов - Тик бәхетле генә бул, җаным / Ляйля Даулетова / Оскар Усманов - Будь лишь счастлива, душа моя](../translated/l/layla_daulatova_oskar_usmanov_-_tik_bahetle_gena_bul_canim.md)
 - [Ләйлә Дәүләтова / Оскар Усманов - Хатын-кыз бәхете (беренче вариант) / Ләйлә Дәүләтова / Оскар Усманов - Женское счастье (первый вариант)](../translated/l/layla_daulatova_oskar_usmanov_-_hatin-kiz_bahete_berenche_variant.md)
@@ -87,12 +86,12 @@
 - [Ләйлә Дәүләтова / Оскар Усманов - Ялгыз булу гөнаһ диләр / Ләйлә Дәүләтова / Оскар Усманов - Говорят, грех быть одиноким](../translated/l/layla_daulatova_oskar_usmanov_-_yalgiz_bulu_gonah_dilar.md)
 - [Ләйлә Дәүләтова / Оскар Усманов - Ярату (җиденче вариант) / Ляйля Даулятова / Оскар Усманов - Любовь (седьмой вариант)](../translated/l/layla_daulatova_oskar_usmanov_-_yaratu_cidenche_variant.md)
 - [Ләйлә Дәүләтова / Рамил Агишев - Татлы бүләк / Ләйлә Дәүләтова / Рамил Агишев - Сладкий дар](../translated/l/layla_daulatova_ramil_agishev_-_tatli_bulak.md)
-- [Ләйлә Дәүләтова / Рамил Әсхәдулла - Сине түгел / Ляйля Даутова / Рамиль Асхадулла - Не ты](../translated/l/layla_daulatova_ramil_ashadulla_-_sine_tugel.md)
+- [Ләйлә Дәүләтова / Рамил Әсхәдулла - Сине түгел / Ляйля Даутова / Рамил Асхадулла - Не ты](../translated/l/layla_daulatova_ramil_ashadulla_-_sine_tugel.md)
 - [Ләйлә Дәүләтова / Рәис Ханнанов - Туган якка сәяхәт / Ләйлә Дәүләтова / Рәис Ханнанов - Путешествие в родной край](../translated/l/layla_daulatova_rais_hannanov_-_tugan_yakka_sayahat.md)
 - [Ләйлә Дәүләтова / Салават Низаметдинов - Күпме көттек бу мизгелне / Ләйлә Дәүләтова / Салават Низаметдинов - Сколько ждали мы этот миг](../translated/l/layla_daulatova_salavat_nizametdinov_-_kupme_kottek_bu_mizgelne.md)
 - [Ләйлә Дәүләтова / Салават Низаметдинов - Мин сине яратмас идем (икенче вариант) / Ләйлә Дәүләтова / Салават Низаметдинов - Я бы тебя не любила (второй вариант)](../translated/l/layla_daulatova_salavat_nizametdinov_-_min_sine_yaratmas_idem_ikenche_variant.md)
 - [Ләйлә Дәүләтова / Салават Низаметдинов - Миңа синнән берни кирәк түгел / Ләйлә Дәүләтова / Салават Низаметдинов - Мне от тебя ничего не нужно](../translated/l/layla_daulatova_salavat_nizametdinov_-_mina_sinnan_berni_kirak_tugel.md)
-- [Ләйлә Дәүләтова / Салават Низаметдинов - Рәхмәт сиңа (икенче вариант) / Ляйля Даутлова / Салават Низаметдинов - Спасибо тебе (второй вариант)](../translated/l/layla_daulatova_salavat_nizametdinov_-_rahmat_sina_ikenche_variant.md)
+- [Ләйлә Дәүләтова / Салават Низаметдинов - Рәхмәт сиңа (икенче вариант) / Ляйля Даутова / Салават Низаметдинов - Спасибо тебе (второй вариант)](../translated/l/layla_daulatova_salavat_nizametdinov_-_rahmat_sina_ikenche_variant.md)
 - [Ләйлә Дәүләтова / Салават Низаметдинов - Сөюемне сагынам (икенче вариант) / Ләйлә Дәүләтова / Салават Низаметдинов - Скучаю по своей любви (второй вариант)](../translated/l/layla_daulatova_salavat_nizametdinov_-_soyuemne_saginam_ikenche_variant.md)
 - [Ләйлә Дәүләтова / Салават Низаметдинов - Тыңлаусыз мәхәббәт / Ләйлә Дәүләтова / Салават Низаметдинов - Непослушная любовь](../translated/l/layla_daulatova_salavat_nizametdinov_-_tinlausiz_mahabbat.md)
 - [Ләйлә Дәүләтова / Салават Низаметдинов - Яратмас идем / Ләйлә Дәүләтова / Салават Низаметдинов - Я бы не любил](../translated/l/layla_daulatova_salavat_nizametdinov_-_yaratmas_idem.md)
@@ -105,6 +104,7 @@
 - [Ләйлә Кадыйрова / Ильмира Нәгыймова - Онытылмый, иркәм, сүзләрең / Ләйлә Кадыйрова / Ильмира Нәгыймова - Не забываются, милая, твои слова](../translated/l/layla_kadiyrova_ilmira_nagiymova_-_onitilmiy_irkam_suzlaren.md)
 - [Ләйлә Кәрамова - Канатларым булса очар идем / Ләйлә Кәрамова - Если бы крылья, я б взлетела](../translated/l/layla_karamova_-_kanatlarim_bulsa_ochar_idem.md)
 - [Ләйсән Гайнетдинова / Илнур Мусин - Син бит үзең шулай теләдең / Ләйсән Гайнетдинова / Илнур Мусин - Ты ведь сама так хотела](../translated/l/laysan_gaynetdinova_ilnur_musin_-_sin_bit_uzen_shulay_teladen.md)
+- [Ләйсән Гайнетдинова / Илшат Фатыйхов - Җаным-җаныкаем / Ләйсән Гайнетдинова / Илшат Фатыйхов - Душа моя, душенька](../translated/l/laysan_gaynetdinova_ilshat_fatiyhov_-_canim-canikaem.md)
 
 ---
 

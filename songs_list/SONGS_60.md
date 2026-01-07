@@ -5,7 +5,6 @@
 [← Предыдущая страница](SONGS_59.md) | [Главная страница](../README.md) | [Следующая страница →](SONGS_61.md)
 
 
-- [Резеда Вәлиева / Мәсгудә Шәмсетдинова - Кышкы ямь / Резеда Валиева / Масгуда Шамсетдинова - Зимняя краса](../translated/r/rezeda_valieva_masguda_shamsetdinova_-_kishki_yam.md)
 - [Резеда Вәлиева / Мәсгудә Шәмсетдинова - Сыерыбыз югалды / Резеда Валеева / Мәсгудә Шәмсетдинова - Наша корова пропала](../translated/r/rezeda_valieva_masguda_shamsetdinova_-_sieribiz_yugaldi.md)
 - [Резеда Вәлиева / Мәсгудә Шәмсетдинова - Шуны да бит белмиләр / Резеда Валиева / Масгуда Шамсетдинова - Этого они не знают](../translated/r/rezeda_valieva_masguda_shamsetdinova_-_shuni_da_bit_belmilar.md)
 - [Резеда Вәлиева / Мөдәрис Морзаханов - Сүрелмәс җырым син (икенче вариант) / Резеда Вәлиева / Мөдәрис Морзаханов - Несгораемая песня моя - ты (второй вариант)](../translated/r/rezeda_valieva_modaris_morzahanov_-_surelmas_cirim_sin_ikenche_variant.md)
@@ -15,7 +14,7 @@
 - [Резеда Вәлиева / Оскар Усманов - Сипкелле кыз / Резеда Валеева / Оскар Усманов - Девушка с веснушками](../translated/r/rezeda_valieva_oskar_usmanov_-_sipkelle_kiz.md)
 - [Резеда Вәлиева / Оскар Усманов - Язгы Казан / Резеда Валиева / Оскар Усманов - Весенняя Казань](../translated/r/rezeda_valieva_oskar_usmanov_-_yazgi_kazan.md)
 - [Резеда Вәлиева / Оскар Усманов - Яраттым шул, яраттым (беренче вариант) / Резеда Валиева / Оскар Усманов - Полюбила так, полюбила (первый вариант)](../translated/r/rezeda_valieva_oskar_usmanov_-_yarattim_shul_yarattim_berenche_variant.md)
-- [Резеда Вәлиева / Рамил Хаҗиев - Эх, Зилә / Резеда Валиева / Рамиль Хаджиев - Эх, Зиля](../translated/r/rezeda_valieva_ramil_haciev_-_eh_zila.md)
+- [Резеда Вәлиева / Рамиль Хаҗиев - Эх, Зилә / Резеда Валиева / Рамиль Хаҗиев - Эх, Зиля](../translated/r/rezeda_valieva_ramil_haciev_-_eh_zila.md)
 - [Резеда Вәлиева / Рафаил Бакиров - Бәхетле булыгыз, дусларым! ... / Резеда Вәлиева / Рафаил Бакиров - Будьте счастливы, друзья!](../translated/r/rezeda_valieva_rafail_bakirov_-_bahetle_buligiz_duslarim.md)
 - [Резеда Вәлиева / Рафаил Бакиров - Оч син, җырым ... / Резеда Вәлиева / Рафаил Бакиров - Лети, песня моя...](../translated/r/rezeda_valieva_rafail_bakirov_-_och_sin_cirim.md)
 - [Резеда Вәлиева / Рафаил Бакиров - Пар алмагач / Резеда Вәлиева / Рафаил Бакиров - Пара яблонь](../translated/r/rezeda_valieva_rafail_bakirov_-_par_almagach.md)
@@ -30,9 +29,9 @@
 - [Резеда Вәлиева / Сәүбән Чуганаев - Кошлар кайткан чак иде / Резеда Вәлиева / Сәүбән Чуганаев - Когда птицы возвращались](../translated/r/rezeda_valieva_sauban_chuganaev_-_koshlar_kaytkan_chak_ide.md)
 - [Резеда Вәлиева / Сәүбән Чуганаев - Яран гөл / Резеда Валиева / Саубан Чуганаев - Цветок дружбы](../translated/r/rezeda_valieva_sauban_chuganaev_-_yaran_gol.md)
 - [Резеда Вәлиева / Сәүбән Чуганаев - Үрмәгөл / Резеда Вәлиева / Сәүбән Чуганаев - Вьющаяся роза](../translated/r/rezeda_valieva_sauban_chuganaev_-_urmagol.md)
-- [Резеда Вәлиева / Таңсылу Габидуллина - Йөрәгемә куштым / Резеда Валиева / Тансылу Габидуллина - Сердцу велела](../translated/r/rezeda_valieva_tansilu_gabidullina_-_yoragema_kushtim.md)
+- [Резеда Вәлиева / Таңсылу Габидуллина - Йөрәгемә куштым / Резеда Валиева / Таңсылу Габидуллина - Сердцу велела](../translated/r/rezeda_valieva_tansilu_gabidullina_-_yoragema_kushtim.md)
 - [Резеда Вәлиева / Фәрид Низамиев - Көнче күбәләккәем / Резеда Вәлиева / Фәрид Низамиев - Бабочка-капустница](../translated/r/rezeda_valieva_farid_nizamiev_-_konche_kubalakkaem.md)
-- [Резеда Вәлиева / Фәрит Хатыйпов - Сине эзләп йөрдем / Резеда Валиева / Фарит Хатыйпов - Тебя искал я](../translated/r/rezeda_valieva_farit_hatiypov_-_sine_ezlap_yordem.md)
+- [Резеда Вәлиева / Фәрит Хатыйпов - Сине эзләп йөрдем / Резеда Валиева / Фарит Хатыпов - Тебя искал я](../translated/r/rezeda_valieva_farit_hatiypov_-_sine_ezlap_yordem.md)
 - [Резеда Вәлиева / Фәрүәз Килдеголов - Тау җиләге / Резеда Валиева / Фаруаз Килдеголов - Горная ягода](../translated/r/rezeda_valieva_faruaz_kildegolov_-_tau_cilage.md)
 - [Резеда Вәлиева / Харис Ибрагимов - Бишек җыры (беренче вариант) / Резеда Валиева / Харис Ибрагимов - Колыбельная (первый вариант)](../translated/r/rezeda_valieva_haris_ibragimov_-_bishek_ciri_berenche_variant.md)
 - [Резеда Вәлиева / Харис Ибрагимов - Их, Әлкием яклары / Резеда Валиева / Харис Ибрагимов - Ах, Алкинские края](../translated/r/rezeda_valieva_haris_ibragimov_-_ih_alkiem_yaklari.md)
@@ -74,7 +73,7 @@
 - [Ренат Галиәскәр / Илдус Дәүләнов - Син үзеңне бел, яме / Ренат Галиәскәр / Илдус Дәүләнов - Сама себя знай, ладно](../translated/r/renat_galiaskar_ildus_daulanov_-_sin_uzenne_bel_yame.md)
 - [Ренат Галиәскәр / Илназ Гарипов - Кемне көтәләр? / Ренат Галиаскар / Илназ Гарипов - Кого ждут?](../translated/r/renat_galiaskar_ilnaz_garipov_-_kemne_kotalar.md)
 - [Ренат Галиәскәр / Илназ Гарипов - Курчаклар / Ренат Галиәскәр / Илназ Гарипов - Куклы](../translated/r/renat_galiaskar_ilnaz_garipov_-_kurchaklar.md)
-- [Ренат Галиәскәр / Илназ Гарипов - Туй җыры (җиденче вариант) / Ренат Галиаскар / Ильназ Гарипов - Свадебная песня (седьмой вариант)](../translated/r/renat_galiaskar_ilnaz_garipov_-_tuy_ciri_cidenche_variant.md)
+- [Ренат Галиәскәр / Илназ Гарипов - Туй җыры (җиденче вариант) / Ренат Галиаскар / Илназ Гарипов - Свадебная песня (седьмой вариант)](../translated/r/renat_galiaskar_ilnaz_garipov_-_tuy_ciri_cidenche_variant.md)
 - [Ренат Галиәскәр / Илназ Гарипов - Яратам, бетте-китте / Ренат Галиәскәр / Илназ Гарипов - Люблю, и всё](../translated/r/renat_galiaskar_ilnaz_garipov_-_yaratam_bette-kitte.md)
 - [Ренат Галиәскәр / Әбри Хәбриев - Смайлик куеп елмайсам да... / Ренат Галиаскар / Әбри Хәбриев - Даже ставя смайлик, я улыбаюсь...](../translated/r/renat_galiaskar_abri_habriev_-_smaylik_kuep_elmaysam_da.md)
 - [Ренат Ибрагимов - Жомга / Ренат Ибрагимов - Пятница](../translated/r/renat_ibragimov-zhomga.md)
@@ -84,7 +83,7 @@
 - [Ренат Харис / Мирсәет Яруллин - Татарстаным минем / Ренат Харис / Мирсәет Яруллин - Татарстаным мой](../translated/r/renat_haris_mirsaet_yarullin_-_tatarstanim_minem.md)
 - [Ренат Харис / Мирсәет Яруллин - Җирдә бер кояш / Ренат Харис / Мирсаэт Яруллин - На земле одно солнце](../translated/r/renat_haris_mirsaet_yarullin_-_cirda_ber_koyash.md)
 - [Ренат Харис / Нәҗип Җиһанов - Камаздашлар / Ренат Харис / Нәҗип Җиһанов - Камазовцы](../translated/r/renat_haris_nacip_cihanov_-_kamazdashlar.md)
-- [Ренат Харис / Равил Сәйфетдинов - Җылы буран / Ренат Харис / Равиль Сәйфетдинов - Тёплая метель](../translated/r/renat_haris_ravil_sayfetdinov_-_cili_buran.md)
+- [Ренат Харис / Равил Сәйфетдинов - Җылы буран / Ренат Харис / Равил Сәйфетдинов - Тёплая метель](../translated/r/renat_haris_ravil_sayfetdinov_-_cili_buran.md)
 - [Ренат Харис / Резеда Ахиярова - Август / Ренат Харис / Резеда Ахиярова - Август](../translated/r/renat_haris_rezeda_ahiyarova_-_avgust.md)
 - [Ренат Харис / Резеда Ахиярова - Ак кәгазь / Ренат Харис / Резеда Ахиярова - Белая бумага](../translated/r/renat_haris_rezeda_ahiyarova_-_ak_kagaz.md)
 - [Ренат Харис / Резеда Ахиярова - Ак теләк / Ренат Харис / Резеда Ахиярова - Белое пожелание](../translated/r/renat_haris_rezeda_ahiyarova_-_ak_telak.md)
@@ -105,6 +104,7 @@
 - [Ренат Харис / Эльмир Низамов - Күзләр сөйләште / Ренат Харис / Эльмир Низамов - Глаза говорили](../translated/r/renat_haris_elmir_nizamov_-_kuzlar_soylashte.md)
 - [Ренат Харис / Эльмир Низамов - Мин ышанам сиңа, Казан! / Ренат Харис / Эльмир Низамов - Я верю тебе, Казан!](../translated/r/renat_haris_elmir_nizamov_-_min_ishanam_sina_kazan.md)
 - [Ренат Харис / Эльмир Низамов - Рәхмәт сиңа (бишенче вариант) / Ренат Харис / Эльмир Низамов - Спасибо тебе (пятая версия)](../translated/r/renat_haris_elmir_nizamov_-_rahmat_sina_bishenche_variant.md)
+- [Ренат Харис / Эльмир Низамов - Татарстанга мәдхия / Ренат Харис / Эльмир Низамов - Ода Татарстану](../translated/r/renat_haris_elmir_nizamov_-_tatarstanga_madhiya.md)
 
 ---
 

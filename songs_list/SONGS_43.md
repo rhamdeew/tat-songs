@@ -5,7 +5,6 @@
 [← Предыдущая страница](SONGS_42.md) | [Главная страница](../README.md) | [Следующая страница →](SONGS_44.md)
 
 
-- [Мансур Шиһапов / Сафьян Ибраһимов - Җан ярсуы / Мансур Шиһапов / Сафьян Ибраһимов - Буйство души](../translated/m/mansur_shihapov_safyan_ibrahimov_-_can_yarsui.md)
 - [Мансур Шиһапов / Фәрит Хатыйпов - Көт мине (беренче вариант) / Мансур Шиһапов / Фәрит Хатыйпов - Жди меня (первый вариант)](../translated/m/mansur_shihapov_farit_hatiypov_-_kot_mine_berenche_variant.md)
 - [Мансур Шиһапов / Фәрит Хатыйпов - Синең турыңда / Мансур Шиһапов / Фәрит Хатыйпов - О тебе](../translated/m/mansur_shihapov_farit_hatiypov_-_sinen_turinda.md)
 - [Марат Гобайдуллин - Казаным (первый вариант) / Марат Гобайдуллин - Моя Казань (первый вариант)](../translated/m/marat_gobaydullin_-_kazanim_berenche_variant.md)
@@ -69,7 +68,7 @@
 - [Марат Гобәйдуллин - Язгы хисләр (дүртенче вариант) / Марат Гобайдуллин - Весенние чувства (четвертый вариант)](../translated/m/marat_gobaydullin_-_yazgi_hislar_durtenche_variant.md)
 - [Марат Гобәйдуллин - Язны сагыну (беренче вариант) / Марат Гобайдуллин - Тоска по весне (первый вариант)](../translated/m/marat_gobaydullin_-_yazni_saginu_berenche_variant.md)
 - [Марат Гобәйдуллин - Якты моң (икенче вариант) / Марат Гобайдуллин - Светлая мелодия (второй вариант)](../translated/m/marat_gobaydullin_-_yakti_mon_ikenche_variant.md)
-- [Марат Гобәйдуллин - Ялгыз ана (икенче вариант) / Марат Гобайдулин - Одинокая мать (второй вариант)](../translated/m/marat_gobaydullin_-_yalgiz_ana_ikenche_variant.md)
+- [Марат Гобәйдуллин - Ялгыз ана (икенче вариант) / Марат Гобайдуллин - Одинокая мать (второй вариант)](../translated/m/marat_gobaydullin_-_yalgiz_ana_ikenche_variant.md)
 - [Марат Гобәйдуллин - Ялгыз каен (өченче вариант) / Марат Гобайдуллин - Одинокая берёза (третий вариант)](../translated/m/marat_gobaydullin_-_yalgiz_kaen_ochenche_variant.md)
 - [Марат Гобәйдуллин - Яшь туристлар җыры / Марат Гобәйдуллин - Песня молодых туристов](../translated/m/marat_gobaydullin_-_yash_turistlar_ciri.md)
 - [Марат Гобәйдуллин - Яшьлегем сукмаклары (икенче вариант) / Марат Гобәйдуллин - Тропинки моей юности (второй вариант)](../translated/m/marat_gobaydullin_-_yashlegem_sukmaklari_ikenche_variant.md)
@@ -95,9 +94,9 @@
 - [Марат Гобәйдуллин - Өмет (дүртенче вариант) / Марат Гобайдуллин - Надежда (четвертый вариант)](../translated/m/marat_gobaydullin_-_omet_durtenche_variant.md)
 - [Марат Гобәйдуллин / Джеймс Пьерпонт - Яңа ел җыры (икенче вариант) / Марат Гобайдуллин / Джеймс Пьерпонт - Песня Нового года (вторая версия)](../translated/m/marat_gobaydullin_dzheyms_perpont_-_yana_el_ciri_ikenche_variant.md)
 - [Марат Гобәйдуллин / Илгиз Субаев - Кабат килер язлар / Марат Гобәйдуллин / Илгиз Субаев - Снова придут весны](../translated/m/marat_gobaydullin_ilgiz_subaev_-_kabat_kiler_yazlar.md)
-- [Марат Гобәйдуллин / Илгиз Субаев - Кунак кызлары / Марат Гобайдуллин / Ильгиз Субаев - Гостевые девушки](../translated/m/marat_gobaydullin_ilgiz_subaev_-_kunak_kizlari.md)
+- [Марат Гобәйдуллин / Илгиз Субаев - Кунак кызлары / Марат Гобайдуллин / Илгиз Субаев - Гостевые девушки](../translated/m/marat_gobaydullin_ilgiz_subaev_-_kunak_kizlari.md)
 - [Марат Гобәйдуллин / Илгиз Субаев - Сөю кадере / Марат Гобәйдуллин / Илгиз Субаев - Счастье любви](../translated/m/marat_gobaydullin_ilgiz_subaev_-_soyu_kadere.md)
-- [Марат Гобәйдуллин / Илгиз Субаев - Туган авылым (беренче вариант) / Марат Гобайдуллин / Ильгиз Субаев - Родная деревня (первый вариант)](../translated/m/marat_gobaydullin_ilgiz_subaev_-_tugan_avilim_berenche_variant.md)
+- [Марат Гобәйдуллин / Илгиз Субаев - Туган авылым (беренче вариант) / Марат Гобайдуллин / Илгиз Субаев - Родная деревня (первый вариант)](../translated/m/marat_gobaydullin_ilgiz_subaev_-_tugan_avilim_berenche_variant.md)
 - [Марат Гобәйдуллин / Илгиз Субаев - Туган көн җыры / Марат Гобәйдуллин / Илгиз Субаев - Песня дня рождения](../translated/m/marat_gobaydullin_ilgiz_subaev_-_tugan_kon_ciri.md)
 - [Марат Гобәйдуллин / Илгиз Субаев - Туган ягым (бишенче вариант) / Марат Гобаевдуллин / Илгиз Субаев - Родной край (пятый вариант)](../translated/m/marat_gobaydullin_ilgiz_subaev_-_tugan_yagim_bishenche_variant.md)
 - [Марат Гобәйдуллин / Илгиз Субаев - Язгы гөлем (икенче вариант) / Марат Гобайдуллин / Илгиз Субаев - Весенний цветок (вторая версия)](../translated/m/marat_gobaydullin_ilgiz_subaev_-_yazgi_golem_ikenche_variant.md)
@@ -105,6 +104,7 @@
 - [Марат Гобәйдуллин / Илгиз Субаев - Яшим һаман сине яратып / Марат Гобайдуллин / Илгиз Субаев - Буду жить, вечно тебя любя](../translated/m/marat_gobaydullin_ilgiz_subaev_-_yashim_haman_sine_yaratip.md)
 - [Марат Гобәйдуллин / Илгиз Субаев - Яшьлек эзләре / Марат Гобайдуллин / Илгиз Субаев - Следы юности](../translated/m/marat_gobaydullin_ilgiz_subaev_-_yashlek_ezlare.md)
 - [Марат Гобәйдуллин / Илгиз Субаев - Әнкәй (икенче вариант) / Марат Гобәйдуллин / Илгиз Субаев - Мамочка (второй вариант)](../translated/m/marat_gobaydullin_ilgiz_subaev_-_ankay_ikenche_variant.md)
+- [Марат Гобәйдуллин / Луиза Батыр-Болгари - Бәхетем чишмәсе / Марат Гобайдуллин / Луиза Батыр-Болгари - Родник моего счастья](../translated/m/marat_gobaydullin_luiza_batir-bolgari_-_bahetem_chishmase.md)
 
 ---
 

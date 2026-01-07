@@ -5,7 +5,6 @@
 [← Предыдущая страница](SONGS_43.md) | [Главная страница](../README.md) | [Следующая страница →](SONGS_45.md)
 
 
-- [Марат Гобәйдуллин / Луиза Батыр-Болгари - Бәхетем чишмәсе / Марат Гобайдуллин / Луиза Батыр-Болгари - Родник моего счастья](../translated/m/marat_gobaydullin_luiza_batir-bolgari_-_bahetem_chishmase.md)
 - [Марат Гобәйдуллин / Татар халык - Замана гыйбрәтләре / Марат Гобайдуллин / Татарский народ - Назидания времени](../translated/m/marat_gobaydullin_tatar_halik_-_zamana_giybratlare.md)
 - [Марат Гобәйдуллин / Әнис Сафиуллин - Күзгә никтер йокы керми һаман / Марат Гобайдуллин / Анис Сафиуллин - Почему-то не ложится сон на глаза](../translated/m/marat_gobaydullin_anis_safiullin_-_kuzga_nikter_yoki_kermi_haman.md)
 - [Марат Кәбиров / Айдар Тимербаев - Мизгелләр бүтәндер / Марат Кәбиров / Айдар Тимербаев - Мгновения иные](../translated/m/marat_kabirov_aydar_timerbaev_-_mizgellar_butander.md)
@@ -21,17 +20,17 @@
 - [Марат Кәбиров / Илдар Низамов - Авыл / Марат Кәбиров / Илдар Низамов - Деревня](../translated/m/marat_kabirov_ildar_nizamov_-_avil.md)
 - [Марат Кәбиров / Илдар Низамов - Дим башы / Марат Кәбиров / Илдар Низамов - Исток Дима](../translated/m/marat_kabirov_ildar_nizamov_-_dim_bashi.md)
 - [Марат Кәбиров / Илдар Низамов - Елмаеп карале / Марат Кабиров / Илдар Низамов - Улыбнись, красавица](../translated/m/marat_kabirov_ildar_nizamov_-_elmaep_karale.md)
-- [Марат Кәбиров / Илдар Низамов - Карама күзләремә / Марат Кабиров / Ильдар Низамов - Не смотри в мои глаза](../translated/m/marat_kabirov_ildar_nizamov_-_karama_kuzlarema.md)
+- [Марат Кәбиров / Илдар Низамов - Карама күзләремә / Марат Кабиров / Илдар Низамов - Не смотри в мои глаза](../translated/m/marat_kabirov_ildar_nizamov_-_karama_kuzlarema.md)
 - [Марат Кәбиров / Илдар Низамов - Кышкы таңнар / Марат Кәбиров / Илдар Низамов - Зимние рассветы](../translated/m/marat_kabirov_ildar_nizamov_-_kishki_tannar.md)
-- [Марат Кәбиров / Илдар Низамов - Сез мине әрнеми дисезме? / Марат Кабиров / Ильдар Низамов - Вы не знаете меня, правда?](../translated/m/marat_kabirov_ildar_nizamov_-_sez_mine_arnemi_disezme.md)
-- [Марат Кәбиров / Илдар Низамов - Туган көн бүләге / Марат Кабиров / Ильдар Низамов - Подарок на день рождения](../translated/m/marat_kabirov_ildar_nizamov_-_tugan_kon_bulage.md)
+- [Марат Кәбиров / Илдар Низамов - Сез мине әрнеми дисезме? / Марат Кабиров / Илдар Низамов - Вы не знаете меня, правда?](../translated/m/marat_kabirov_ildar_nizamov_-_sez_mine_arnemi_disezme.md)
+- [Марат Кәбиров / Илдар Низамов - Туган көн бүләге / Марат Кабиров / Илдар Низамов - Подарок на день рождения](../translated/m/marat_kabirov_ildar_nizamov_-_tugan_kon_bulage.md)
 - [Марат Кәбиров / Илдар Низамов - Туганнарым (беренче вариант) / Марат Кәбиров / Илдар Низамов - Родные мои (первый вариант)](../translated/m/marat_kabirov_ildar_nizamov_-_tugannarim_berenche_variant.md)
-- [Марат Кәбиров / Илдар Низамов - Утларга салып киттең / Марат Кабиров / Ильдар Низамов - Бросил в огонь](../translated/m/marat_kabirov_ildar_nizamov_-_utlarga_salip_kitten.md)
-- [Марат Кәбиров / Илдар Низамов - Язлар эзләп / Марат Кабиров / Ильдар Низамов - В поисках лет](../translated/m/marat_kabirov_ildar_nizamov_-_yazlar_ezlap.md)
+- [Марат Кәбиров / Илдар Низамов - Утларга салып киттең / Марат Кабиров / Илдар Низамов - Бросил в огонь](../translated/m/marat_kabirov_ildar_nizamov_-_utlarga_salip_kitten.md)
+- [Марат Кәбиров / Илдар Низамов - Язлар эзләп / Марат Кабиров / Илдар Низамов - В поисках лет](../translated/m/marat_kabirov_ildar_nizamov_-_yazlar_ezlap.md)
 - [Марат Кәбиров / Илдар Низамов - Җилләр (беренче вариант) / Марат Кәбиров / Илдар Низамов - Ветры (первый вариант)](../translated/m/marat_kabirov_ildar_nizamov_-_cillar_berenche_variant.md)
-- [Марат Кәбиров / Илдар Низамов - Әни (икенче вариант) / Марат Кабиров / Ильдар Низамов - Мама (второй вариант)](../translated/m/marat_kabirov_ildar_nizamov_-_ani_ikenche_variant.md)
+- [Марат Кәбиров / Илдар Низамов - Әни (икенче вариант) / Марат Кабиров / Илдар Низамов - Мама (второй вариант)](../translated/m/marat_kabirov_ildar_nizamov_-_ani_ikenche_variant.md)
 - [Марат Кәбиров / Илдар Шәрипов - Әнкәйләр сабырлыгы / Марат Кабиров / Илдар Шарипов - Терпение матерей](../translated/m/marat_kabirov_ildar_sharipov_-_ankaylar_sabirligi.md)
-- [Марат Кәбиров / Илнур Ганиев - Карыйм бөдрә талларга / Марат Кабиров / Ильнур Ганиев - Смотрю на кудрявые ивы](../translated/m/marat_kabirov_ilnur_ganiev_-_kariym_bodra_tallarga.md)
+- [Марат Кәбиров / Илнур Ганиев - Карыйм бөдрә талларга / Марат Кабиров / Илнур Ганиев - Смотрю на кудрявые ивы](../translated/m/marat_kabirov_ilnur_ganiev_-_kariym_bodra_tallarga.md)
 - [Марат Кәбиров / Илшат Фатыйхов - Сөеп-сөелеп яшә / Марат Кабиров / Ильшат Фатыхов - Живи, любя и любимой](../translated/m/marat_kabirov_ilshat_fatiyhov_-_soep-soelep_yasha.md)
 - [Марат Кәбиров / Ирек Шәрипов - Хатын-кызның яшен сорамыйлар / Марат Кабиров / Ирек Шарипов - Возраст женщины не спрашивают](../translated/m/marat_kabirov_irek_sharipov_-_hatin-kiznin_yashen_soramiylar.md)
 - [Марат Кәбиров / Марсель Иванов - Елмаю (беренче вариант) / Марат Кябиров / Марсель Иванов - Улыбка (первый вариант)](../translated/m/marat_kabirov_marsel_ivanov_-_elmayu_berenche_variant.md)
@@ -105,6 +104,7 @@
 - [Марат Мухин - Карлыгачлар / Марат Мухин - Ласточки](../translated/m/marat_muhin_-_karligachlar.md)
 - [Марат Таҗетдинов / Нәҗип Җиһанов - Җир йөзендә әкият бар / Марат Таҗетдинов / Нәҗип Җиһанов - На земле есть сказка](../translated/m/marat_tacetdinov_nacip_cihanov_-_cir_yozenda_akiyat_bar.md)
 - [Марат Файрушин - Синен язлар / Марат Файрушин - Твои весны](../translated/m/marat_fayrushin-sinen_yazlar.md)
+- [Марат Хәйруллин - Авылым - Балыклы Чүкәй / Марат Хайруллин - Деревня моя - Балыклы Чукей](../translated/m/marat_hayrullin_-_avilim_balikli_chukay.md)
 
 ---
 

@@ -5,7 +5,6 @@
 [← Предыдущая страница](SONGS_36.md) | [Главная страница](../README.md) | [Следующая страница →](SONGS_38.md)
 
 
-- [Ирек Габдрахманов - Җилкәннәр җилдә сынала / Ирек Габдрахманов - Паруса в ветру закаляются](../translated/i/irek_gabdrahmanov_-_cilkannar_cilda_sinala.md)
 - [Ирек Габдрахманов - Әнием, елама! / Ирек Габдрахманов - Мама, не плачь!](../translated/i/irek_gabdrahmanov_-_aniem_elama.md)
 - [Ирек Габдрахманов / Булат Шәрипов - Син онытма (икенче вариант) / Ирек Габдрахманов / Булат Шарипов - Не забывай (второй вариант)](../translated/i/irek_gabdrahmanov_bulat_sharipov_-_sin_onitma_ikenche_variant.md)
 - [Ирек Габдрахманов / Гөлназ Даутова - Яшәп калыйк! / Ирек Габдрахманов / Гөлназ Даутова - Давайте жить!](../translated/i/irek_gabdrahmanov_golnaz_dautova_-_yashap_kaliyk.md)
@@ -28,7 +27,7 @@
 - [Ирек Сакаев - Карлыгач (икенче вариант) / Ирек Сакаев - Ласточка (второй вариант)](../translated/i/irek_sakaev_-_karligach_ikenche_variant.md)
 - [Ирек Сакаев - Кичке уен / Ирек Сакаев - Вечерняя игра](../translated/i/irek_sakaev_-_kichke_uen.md)
 - [Ирек Сакаев - Ялган сөю / Ирек Сакаев - Ложная любовь](../translated/i/irek_sakaev_-_yalgan_soyu.md)
-- [Ирина Гарифҗанова / Рәзидә Әхмәтова - Кал янымда (икенче вариант) / Ирина Гарифжанова / Резида Ахметова - Останься рядом (второй вариант)](../translated/i/irina_garifcanova_razida_ahmatova_-_kal_yanimda_ikenche_variant.md)
+- [Ирина Гарифҗанова / Рәзидә Әхмәтова - Кал янымда (икенче вариант) / Ирина Гарифҗанова / Резида Ахметова - Останься рядом (второй вариант)](../translated/i/irina_garifcanova_razida_ahmatova_-_kal_yanimda_ikenche_variant.md)
 - [Ирина Ибушева-Ипкеева / Булат Шәрипов - Туганнарым (дүртенче вариант) / Ирина Ибушева-Ипкеева / Булат Шарипов - Родные мои (четвёртый вариант)](../translated/i/irina_ibusheva-ipkeeva_bulat_sharipov_-_tugannarim_durtenche_variant.md)
 - [Ирина Мусина / Рамил Вәлиев - Кичер мине (дүртенче вариант) / Ирина Мусина / Рамил Вәлиев - Прости меня (четвертый вариант)](../translated/i/irina_musina_ramil_valiev_-_kicher_mine_durtenche_variant.md)
 - [Ирина Мусина / Рамил Вәлиев - Үпкәләмә (беренче вариант) / Ирина Мусина / Рамил Вәлиев - Не обижайся (первый вариант)](../translated/i/irina_musina_ramil_valiev_-_upkalama_berenche_variant.md)
@@ -70,7 +69,7 @@
 - [Иркэ - Янадан тудым / Иркэ - Заново родилась](../translated/i/irke-yanadan_tudym.md)
 - [Иркэ - Яратам / Иркэ - Люблю](../translated/i/irke-yaratam.md)
 - [Иркэ - Яратма мине / Иркэ - Не люби меня](../translated/i/irke-yaratma_mine.md)
-- [Искандер Биктагиров - Ак яулыклы энием минем / Искандер Биктагиров - Моя мать в белом платке](../translated/i/iskander_biktagirov-ak_yaulykly_eniem_minem.md)
+- [Искәндәр Биктаһиров - Ак яулыклы энием минем / Искәндәр Биктаһиров - Моя мать в белом платке](../translated/i/iskander_biktagirov-ak_yaulykly_eniem_minem.md)
 - [Исмәгзәм Исмәгыйлев / Рим Хәсәнов - Тормыш күперләре / Исмагзям Исмагилев / Рим Хасанов - Мосты жизни](../translated/i/ismagzam_ismagiylev_rim_hasanov_-_tormish_kuperlare.md)
 - [Исхак Фәйзи - Нигә сөйми башладың? / Исхак Фәйзи - Почему перестал любить?](../translated/i/ishak_fayzi_-_niga_soymi_bashladin.md)
 - [Исхак Фәйзи - Сары күлмәк (икенче вариант) / Исхак Фәйзи - Жёлтое платье (второй вариант)](../translated/i/ishak_fayzi_-_sari_kulmak_ikenche_variant.md)
@@ -81,8 +80,8 @@
 - [Исхак Фәйзи / Дамир Фейсханов - Яшәргә тырышыгыз / Исхак Файзи / Дамир Фейсханов - Старайтесь жить](../translated/i/ishak_fayzi_damir_feyshanov_-_yasharga_tirishigiz.md)
 - [Исхак Фәйзи / Ильяс Киньягулов - Ак кораб (бишенче вариант) / Исхак Фәйзи / Ильяс Киньягулов - Белый корабль (пятый вариант)](../translated/i/ishak_fayzi_ilyas_kinyagulov_-_ak_korab_bishenche_variant.md)
 - [Исхак Фәйзи / Фәрид Низамиев - Ике ярда - икебез / Исхак Файзи / Фарид Низамиев - На двух берегах - мы двое](../translated/i/ishak_fayzi_farid_nizamiev_-_ike_yarda_ikebez.md)
-- [Исхак Фәйзи / Фәрид Низамиев - Шомырт чәчәкләре (икенче вариант) / Исхак Фэйзи / Фарид Низамиев - Цветы черемухи (второй вариант)](../translated/i/ishak_fayzi_farid_nizamiev_-_shomirt_chachaklare_ikenche_variant.md)
-- [Исхак Фәйзи / Фәрид Низамиев - Ялгыз ай / Исхак Фейзи / Фарид Низамиев - Одинокая луна](../translated/i/ishak_fayzi_farid_nizamiev_-_yalgiz_ay.md)
+- [Исхак Фәйзи / Фәрид Низамиев - Шомырт чәчәкләре (икенче вариант) / Исхак Фәйзи / Фарид Низамиев - Цветы черемухи (второй вариант)](../translated/i/ishak_fayzi_farid_nizamiev_-_shomirt_chachaklare_ikenche_variant.md)
+- [Исхак Фәйзи / Фәрид Низамиев - Ялгыз ай / Исхак Фәйзи / Фарид Низамиев - Одинокая луна](../translated/i/ishak_fayzi_farid_nizamiev_-_yalgiz_ay.md)
 - [Иттифак - Barbecue / Иттифак - Барбекю](../translated/i/ittifaq-barbecue.md)
 - [Иттифак - Fake intro / Иттифак - Фальшивое вступление](../translated/i/ittifaq-fake_intro.md)
 - [Иттифак - Kazan story / Иттифак - Казанская история](../translated/i/ittifaq-kazan_story.md)
@@ -105,6 +104,7 @@
 - [Иттифак - Ялгызлык / Иттифак - Одиночество](../translated/i/ittifaq-yalgyzlyk.md)
 - [Иттифак - Ятимнэр хыялы / Иттифак - Грёза сирот](../translated/i/ittifaq-yatimner_hyyaly.md)
 - [Иттифак - Яшь коч / Иттифак - Молодая сила](../translated/i/ittifaq-yash_koch.md)
+- [Ишмулла Дилмөхәмәтов - Кара каш, зәңгәр күз / Ишмулла Дилмохаматов - Черные брови, синие глаза](../translated/i/ishmulla_dilmohamatov_-_kara_kash_zangar_kuz.md)
 
 ---
 

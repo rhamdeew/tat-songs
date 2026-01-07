@@ -23,7 +23,7 @@
 - [Айрат Сөләймәнов - Илүзә / Айрат Сулейманов - Илюза](../translated/a/ayrat_solaymanov_-_iluza.md)
 - [Айрат Шәйхетдинов / Айдар Тимербаев - Парлы ялгызлар / Айрат Шайхетдинов / Айдар Тимербаев - Парные одиночки](../translated/a/ayrat_shayhetdinov_aydar_timerbaev_-_parli_yalgizlar.md)
 - [Айрат Шәйхетдинов / Айдар Тимербаев - Үткәннәр / Айрат Шайхетдинов / Айдар Тимербаев - Прошлое](../translated/a/ayrat_shayhetdinov_aydar_timerbaev_-_utkannar.md)
-- [Айрат Җамалетдинов - Мин, син, без, сез / Айрат Джамалетдинов - Я, ты, мы, вы](../translated/a/ayrat_camaletdinov_-_min_sin_bez_sez.md)
+- [Айрат Җамалетдинов - Мин, син, без, сез / Айрат Җамалетдинов - Я, ты, мы, вы](../translated/a/ayrat_camaletdinov_-_min_sin_bez_sez.md)
 - [Айсылу Гарифуллина / Артур Туктаголов - Кайтам әле туган якларыма / Айсылу Гарифуллина / Артур Туктаголов - Вернусь я в родные края](../translated/a/aysilu_garifullina_artur_tuktagolov_-_kaytam_ale_tugan_yaklarima.md)
 - [Айфара - Аерылмыйк / Айфара - Не расставайтесь](../translated/a/ayfara-aerylmyyk.md)
 - [Айфара - Ак каен / Айфара - Белая береза](../translated/a/ayfara-ak_kaen.md)
@@ -85,7 +85,7 @@
 - [Алия Солтан / Эльвира Хаматнурова - Ятларга бирмә мине / Алия Солтан / Эльвира Хаматнурова - Не отдавай меня чужим](../translated/a/aliya_soltan_elvira_hamatnurova_-_yatlarga_birma_mine.md)
 - [Алия Солтан / Эльвира Хаматнурова - Җилләр (өченче вариант) / Алия Солтан / Эльвира Хаматнурова - Ветра (третий вариант)](../translated/a/aliya_soltan_elvira_hamatnurova_-_cillar_ochenche_variant.md)
 - [Алия Шарафутдинова - Ярый эле син бар / Алия Шарафутдинова - Хорошо, что ты есть](../translated/a/aliya_sharafutdinova-yaryy_ele_sin_bar.md)
-- [Алия Әзмәгулова / Фирдүс Тямаев - Сайра, әйдә, сандугач / Алия Азмагулова / Фирдус Тямаев - Пой, давай, соловей](../translated/a/aliya_azmagulova_firdus_tyamaev_-_sayra_ayda_sandugach.md)
+- [Алия Әзмәгулова / Фирдүс Тямаев - Сайра, әйдә, сандугач / Алия Азмагулова / Фирдүс Тямаев - Пой, давай, соловей](../translated/a/aliya_azmagulova_firdus_tyamaev_-_sayra_ayda_sandugach.md)
 - [Алканат - 160 житез ат / Алканат - 160 резвых коней](../translated/a/alkanat-160_zhitez_at.md)
 - [Алканат - Дустыма / Алканат - Моему другу](../translated/a/alkanat-dustyma.md)
 - [Алмаз Галин / Венер Мөхәммәдиев - Хәтеремдә, әткәй / Алмаз Галин / Венер Мухаммадиев - В памяти моей, отец](../translated/a/almaz_galin_vener_mohammadiev_-_hateremda_atkay.md)
@@ -102,8 +102,8 @@
 - [Алмаз Хәмзин / Марат Хөснуллин - Сыерчыклы, сандугачлы яз / Алмаз Хамзин / Марат Хоснуллин - Весна со скворцами и соловьями](../translated/a/almaz_hamzin_marat_hosnullin_-_sierchikli_sandugachli_yaz.md)
 - [Алмаз Хәмзин / Марат Хөснуллин - Әтиләргә / Алмаз Хамзин / Марат Хуснуллин - Отцам](../translated/a/almaz_hamzin_marat_hosnullin_-_atilarga.md)
 - [Алмаз Хәмзин / Марат Хөснуллин - Өмет (беренче вариант) / Алмаз Хамзин / Марат Хуснуллин - Надежда (первый вариант)](../translated/a/almaz_hamzin_marat_hosnullin_-_omet_berenche_variant.md)
-- [Алмаз Хәмзин / Мөхтәр Минһаҗев - Миләшкәем (икенче вариант) / Алмаз Хамзин / Мухтар Минхаджев - Моя рябинушка (второй вариант)](../translated/a/almaz_hamzin_mohtar_minhacev_-_milashkaem_ikenche_variant.md)
-- [Алмаз Хәмзин / Мөхтәр Минһаҗев - Нигә, болыт,елыйсың? / Алмаз Хамзин / Мухтар Минхаджев - Почему ты плачешь, облако?](../translated/a/almaz_hamzin_mohtar_minhacev_-_niga_boliteliysin.md)
+- [Алмаз Хәмзин / Мөхтәр Минһаҗев - Миләшкәем (икенче вариант) / Алмаз Хамзин / Мухтар Минхажев - Моя рябинушка (второй вариант)](../translated/a/almaz_hamzin_mohtar_minhacev_-_milashkaem_ikenche_variant.md)
+- [Алмаз Хәмзин / Мөхтәр Минһаҗев - Нигә, болыт,елыйсың? / Алмаз Хамзин / Мухтар Минхажев - Почему ты плачешь, облако?](../translated/a/almaz_hamzin_mohtar_minhacev_-_niga_boliteliysin.md)
 - [Алмаз Хәмзин / Оскар Усманов - Ком сәгате (беренче вариант) / Алмаз Хамзин / Оскар Усманов - Песочные часы (первый вариант)](../translated/a/almaz_hamzin_oskar_usmanov_-_kom_sagate_berenche_variant.md)
 
 ---

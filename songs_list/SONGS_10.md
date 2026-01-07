@@ -98,7 +98,7 @@
 - [Билгесез / Альфред Якшимбетов - Ярсулар / Неизвестен / Альфред Якшимбетов - Берега](../translated/b/bilgesez_alfred_yakshimbetov_-_yarsular.md)
 - [Билгесез / Артур Туктаголов - Кавказ дустыма / Неизвестен / Артур Туктаголов - Кавказскому другу](../translated/b/bilgesez_artur_tuktagolov_-_kavkaz_dustima.md)
 - [Билгесез / Виталий Агапов - Килер булсаң, соңлама / Неизвестен / Виталий Агапов - Если придёшь, не медли](../translated/b/bilgesez_vitaliy_agapov_-_kiler_bulsan_sonlama.md)
-- [Билгесез / Владислав Шәрифуллин - Булмасын сугыш! / Неизвестен / Владислав Шарифуллин - Пусть не будет войны!](../translated/b/bilgesez_vladislav_sharifullin_-_bulmasin_sugish.md)
+- [Билгесез / Владислав Шарифуллин - Булмасын сугыш! / Неизвестен / Владислав Шарифуллин - Пусть не будет войны!](../translated/b/bilgesez_vladislav_sharifullin_-_bulmasin_sugish.md)
 - [Билгесез / Гали Ильясов - Ни өчен икән? / Неизвестен / Гали Ильясов - Почему же так?](../translated/b/bilgesez_gali_ilyasov_-_ni_ochen_ikan.md)
 - [Билгесез / Дамир Әделбаев - Бәйрәм җыры (икенче вариант) / Неизвестен / Дамир Аделбаев - Праздничная песня (второй вариант)](../translated/b/bilgesez_damir_adelbaev_-_bayram_ciri_ikenche_variant.md)
 - [Билгесез / Зиннур Сафиуллин - Һәркем эзли парын / Неизвестен / Зиннур Сафиуллин - Каждый ищет пару](../translated/b/bilgesez_zinnur_safiullin_-_harkem_ezli_parin.md)

@@ -5,7 +5,7 @@
 [← Предыдущая страница](SONGS_28.md) | [Главная страница](../README.md) | [Следующая страница →](SONGS_30.md)
 
 
-- [Зиннәт Вәли / Сара Садыйкова - Иртәнге нур / Зиннат Вэли / Сара Садыкова - Утренний луч](../translated/z/zinnat_vali_sara_sadiykova_-_irtange_nur.md)
+- [Зиннәт Вәли / Сара Садыкова - Иртәнге нур / Зиннат Вэли / Сара Садыкова - Утренний луч](../translated/z/zinnat_vali_sara_sadiykova_-_irtange_nur.md)
 - [Зифа Нагаева - Авыл миче / Зифа Нагаева - Деревенская печь](../translated/z/zifa_nagaeva_-_avil_miche.md)
 - [Зифа Нагаева - Авыл юлларыннан үтәм / Зифа Нагаева - Прохожу по сельским дорогам](../translated/z/zifa_nagaeva_-_avil_yullarinnan_utam.md)
 - [Зифа Нагаева - Ак халатлы дусларга / Зифа Нагаева - Другам в белых халатах](../translated/z/zifa_nagaeva_-_ak_halatli_duslarga.md)

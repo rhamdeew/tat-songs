@@ -5,7 +5,6 @@
 [← Предыдущая страница](SONGS_86.md) | [Главная страница](../README.md) | [Следующая страница →](SONGS_88.md)
 
 
-- [Элина Балагутдинова - Бие дустым / Элина Балагутдинова - Мои любимые танцы](../translated/e/elina_balagutdinova_-_bie_dustim.md)
 - [Элина Балагутдинова - Әнием күзләре / Элина Балагутдинова - Глаза матери моей](../translated/e/elina_balagutdinova_-_aniem_kuzlare.md)
 - [Элина Балагутдинова / Илнар Гыйльманшин - Тырышканнар ташка кадак кагар / Элина Балагутдинова / Ильнар Гильманшин - Труды камнями отмечаются](../translated/e/elina_balagutdinova_ilnar_giylmanshin_-_tirishkannar_tashka_kadak_kagar.md)
 - [Элина Балагутдинова / Шахзат Размәтов - Бәхет сере / Элина Балагутдинова / Шахзат Разматов - Секрет счастья](../translated/e/elina_balagutdinova_shahzat_razmatov_-_bahet_sere.md)
@@ -16,11 +15,11 @@
 - [Эльвира Сафина / Артур Минһаҗев - Бер күрүдә сиңа гашыйк булдым / Эльвира Сафина / Артур Минхаҗев - Одним взглядом влюбился в тебя](../translated/e/elvira_safina_artur_minhacev_-_ber_kuruda_sina_gashiyk_buldim.md)
 - [Эльвира Сафина / Владимир Федоров - Балаларым / Эльвира Сафина / Владимир Федоров - Мои дети](../translated/e/elvira_safina_vladimir_fedorov_-_balalarim.md)
 - [Эльвира Сафина / Владимир Федоров - Посмотри күзләремә (Җаныкаем, без бергә) / Эльвира Сафина / Владимир Федоров - Посмотри в глаза мои (Тоскаю, мы вдвоём)](../translated/e/elvira_safina_vladimir_fedorov_-_posmotri_kuzlarema_canikaem_bez_berga.md)
-- [Эльвира Сафина / Гүзәл Уразова - Очраттым сине / Эльвира Сафина / Гузель Уразова - Встретил тебя](../translated/e/elvira_safina_guzal_urazova_-_ochrattim_sine.md)
+- [Эльвира Сафина / Гүзәл Уразова - Очраттым сине / Эльвира Сафина / Гүзәл Уразова - Встретил тебя](../translated/e/elvira_safina_guzal_urazova_-_ochrattim_sine.md)
 - [Эльвира Сафина / Гүзәлия - Рәнҗетмәгез хатын-кызны / Эльвира Сафина / Гузалия - Не обижайте женщину](../translated/e/elvira_safina_guzaliya_-_rancetmagez_hatin-kizni.md)
 - [Эльвира Сафина / Гөлназ Закирова - Күңелемдә наз гына (Наз гына) / Эльвира Сафина / Гульнара Закирова - В моём сердце только нежность (Только нежность)](../translated/e/elvira_safina_golnaz_zakirova_-_kunelemda_naz_gina_naz_gina.md)
-- [Эльвира Сафина / Гөлназ Закирова - Яннарымда кал әле / Эльвира Сафина / Гульнар Закирова - Останься со мной ещё](../translated/e/elvira_safina_golnaz_zakirova_-_yannarimda_kal_ale.md)
-- [Эльвира Сафина / Гөлназ Закирова - Җырларымда син генә / Эльвира Сафина / Гульнар Закирова - В моих песнях только ты](../translated/e/elvira_safina_golnaz_zakirova_-_cirlarimda_sin_gena.md)
+- [Эльвира Сафина / Гөлназ Закирова - Яннарымда кал әле / Эльвира Сафина / Гульнара Закирова - Останься со мной ещё](../translated/e/elvira_safina_golnaz_zakirova_-_yannarimda_kal_ale.md)
+- [Эльвира Сафина / Гөлназ Закирова - Җырларымда син генә / Эльвира Сафина / Гульнара Закирова - В моих песнях только ты](../translated/e/elvira_safina_golnaz_zakirova_-_cirlarimda_sin_gena.md)
 - [Эльвира Сафина / Ленур Зәйнуллин - Синең белән рәхәт / Эльвира Сафина / Ленур Зайнуллин - С тобой мне легко](../translated/e/elvira_safina_lenur_zaynullin_-_sinen_belan_rahat.md)
 - [Эльвира Сафина / Лилия Муллагалиева - Аяз булсын күкләр / Эльвира Сафина / Лилия Муллагалиева - Да будет ледяным небо](../translated/e/elvira_safina_liliya_mullagalieva_-_ayaz_bulsin_kuklar.md)
 - [Эльвира Сафина / Лилия Муллагалиева - Без бит авыл кызлары (беренче вариант) / Эльвира Сафина / Лилия Муллагалиева - Мы, деревенские девушки (первый вариант)](../translated/e/elvira_safina_liliya_mullagalieva_-_bez_bit_avil_kizlari_berenche_variant.md)
@@ -66,7 +65,8 @@
 - [Эльмира Шәймәрданова / Альфред Якшимбетов - Яратмый калалмассың / Эльмира Шаймарданова / Альфред Яхшимбетов - Не перестанешь любить](../translated/e/elmira_shaymardanova_alfred_yakshimbetov_-_yaratmiy_kalalmassin.md)
 - [Эльмира Шәрифуллина / Азат Хөсәенов - Тәкыя үрәм / Эльмира Шарифуллина / Азат Хусаинов - Тыкая сердца](../translated/e/elmira_sharifullina_azat_hosaenov_-_takiya_uram.md)
 - [Эльмира Шәрифуллина / Виталий Агапов - Әбием әкиятләре / Эльмира Шарифуллина / Виталий Агапов - Сказки моей бабушки](../translated/e/elmira_sharifullina_vitaliy_agapov_-_abiem_akiyatlare.md)
-- [Эльмира Шәрифуллина / Илгиз Закиров - Безнең күңел (беренче вариант) / Эльмира Шарифуллина / Ильгиз Закиров - Наша душа (первый вариант)](../translated/e/elmira_sharifullina_ilgiz_zakirov_-_beznen_kunel_berenche_variant.md)
+- [Эльмира Шәрифуллина / Илгиз Закиров - Безнең күңел (беренче вариант) / Эльмира Шарифуллина / Илгиз Закиров - Наша душа (первый вариант)](../translated/e/elmira_sharifullina_ilgiz_zakirov_-_beznen_kunel_berenche_variant.md)
+- [Эльмира Шәрифуллина / Луиза Батыр-Болгари - Әбиемнең васыятьләре / Эльмира Шәрифуллина / Луиза Батыр-Болгари - Завещание бабушки](../translated/a/almira_sharifullina_luiza_batir-bolgari_-_abiemnen_vasiyatlare.md)
 - [Эльмира Шәрифуллина / Мәсгудә Шәмсетдинова - Булсаң янда / Эльмира Шарифуллина / Масгуда Шамсетдинова - Будь рядом](../translated/e/elmira_sharifullina_masguda_shamsetdinova_-_bulsan_yanda.md)
 - [Эльмира Шәрифуллина / Риф Гатауллин - Бергә чакларда / Эльмира Шарифуллина / Риф Гатауллин - Вместе в эти времена](../translated/e/elmira_sharifullina_rif_gataullin_-_berga_chaklarda.md)
 - [Эльмира Шәрифуллина / Рәис Нәгыймов - Актанышым - ак илем / Эльмира Шарифуллина / Райс Нагимов - Актаныш - белое мое поле](../translated/e/elmira_sharifullina_rais_nagiymov_-_aktanishim_ak_ilem.md)
@@ -79,6 +79,7 @@
 - [Эльмира Шәрифуллина / Фәрит Хатыйпов - Исемеңне яздым... / Эльмира Шарифуллина / Фарит Хатыпов - Написал твое имя...](../translated/e/elmira_sharifullina_farit_hatiypov_-_isemenne_yazdim.md)
 - [Эльмира Шәрифуллина / Фәрит Хатыйпов - Кояшлы уен / Эльмира Шарифуллина / Фарит Хатыпов - Солнечная игра](../translated/e/elmira_sharifullina_farit_hatiypov_-_koyashli_uen.md)
 - [Эльмира Шәрифуллина / Фәрит Хатыйпов - Сине бик сагынам / Эльмира Шарифуллина / Фарит Хатыпов - Тебя очень скучаю](../translated/e/elmira_sharifullina_farit_hatiypov_-_sine_bik_saginam.md)
+- [Эльмира Шәрифуллина / Фәрит Хатыйпов - Шәһәр белән авыл арасы / Эльмира Шәрифуллина / Фарит Хатыпов - Между городом и деревней](../translated/i/ilmira_sharifullina_farit_hatiypov_-_shahar_belan_avil_arasi.md)
 - [Эльмира Шәрифуллина / Чулпан Зиннәтуллина - Елмайган иреннәр үпсеннәр / Эльмира Шарифуллина / Чулпан Зиннатуллина - Любимые не плачут](../translated/e/elmira_sharifullina_chulpan_zinnatullina_-_elmaygan_irennar_upsennar.md)
 - [Эльмира Шәрифуллина / Әнвәр Бакиров - Ямьле безнең Минзәләбез / Эльмира Шарифуллина / Анвәр Бакиров - Золотой наш Мензелинск](../translated/e/elmira_sharifullina_anvar_bakirov_-_yamle_beznen_minzalabez.md)
 - [Эльмира Җәлилова / Альфред Якшимбетов - Кычыткан чыпчыгы (икенче вариант) / Эльмира Джалилова / Альфред Якшимбетов - Певчая пичуга (второй вариант)](../translated/e/elmira_calilova_alfred_yakshimbetov_-_kichitkan_chipchigi_ikenche_variant.md)
@@ -103,8 +104,7 @@
 - [Эльнара Нурмухаметова - Ике фэрештэ / Эльнара Нурмухаметова - Два ангела](../translated/e/elnara_nurmuhametova-ike_fereshte.md)
 - [Эльнара Нурмухаметова - Нигэ / Эльнара Нурмухаметова - Почему](../translated/e/elnara_nurmuhametova-nige.md)
 - [Эльнара Нурмухаметова - Тик син диеп / Эльнара Нурмухаметова - Только тебя говоря](../translated/e/elnara_nurmuhametova-tik_sin_diep.md)
-- [Эльс Гадел / Рөстәм Яхин - Салагышта үскән камыш мин / Эльс Гадель / Ростам Яхин - Я тростник, выросший в тоске](../translated/e/els_gadel_rostam_yahin_-_salagishta_uskan_kamish_min.md)
-- [Эмиль Айзатулла - Алдама / Эмиль Айзатулла - Не обманывай](../translated/e/emil_ayzatulla-aldama.md)
+- [Эльс Гадел / Рөстәм Яхин - Салагышта үскән камыш мин / Эльс Гадел / Ростам Яхин - Я тростник, выросший в тоске](../translated/e/els_gadel_rostam_yahin_-_salagishta_uskan_kamish_min.md)
 
 ---
 
