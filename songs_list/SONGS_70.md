@@ -5,11 +5,6 @@
 [← Предыдущая страница](SONGS_69.md) | [Главная страница](../README.md) | [Следующая страница →](SONGS_71.md)
 
 
-- [Рәүф Сәлтәшев - Яшьләр туе / Рәүф Сәлтәшев - Свадьба ребят](../translated/r/rauf_saltashev_-_yashlar_tue.md)
-- [Рәүфә Нурмөхәммәтова - Апама (беренче вариант) / Рәүфә Нурмөхәммәтова - Моей сестре (первый вариант)](../translated/r/raufa_nurmohammatova_-_apama_berenche_variant.md)
-- [Рәүфә Нурмөхәммәтова - Арада кыш / Рауфа Нурмухаметова - Между нами зима](../translated/r/raufa_nurmohammatova_-_arada_kish.md)
-- [Рәүфә Нурмөхәммәтова - Ашыкма, әле яшьлегем / Рәүфә Нурмөхәммәтова - Не спеши, моя молодость](../translated/r/raufa_nurmohammatova_-_ashikma_ale_yashlegem.md)
-- [Рәүфә Нурмөхәммәтова - Бир түзем / Рәүфә Нурмөхәммәтова - Дай терпения](../translated/r/raufa_nurmohammatova_-_bir_tuzem.md)
 - [Рәүфә Нурмөхәммәтова - Бәхетле бул, кызым / Рауфа Нурмухаметова - Будь счастлива, доченька](../translated/r/raufa_nurmohammatova_-_bahetle_bul_kizim.md)
 - [Рәүфә Нурмөхәммәтова - Еллар чакыра / Рауфа Нурмухаметова - Годы зовут](../translated/r/raufa_nurmohammatova_-_ellar_chakira.md)
 - [Рәүфә Нурмөхәммәтова - Исән чакта / Рәүфә Нурмөхәммәтова - Пока живы](../translated/r/raufa_nurmohammatova_-_isan_chakta.md)
@@ -105,6 +100,11 @@
 - [Салават Фатхетдинов - Ах егетлэр егетлэр / Салават Фатхетдинов - Ах парни, парни](../translated/s/salavat_fathetdinov-ah_egetler_egetler.md)
 - [Салават Фатхетдинов - Ашыкма вакыт / Салават Фатхетдинов - Не спеши, время](../translated/s/salavat_fathetdinov-ashykma_vakyt.md)
 - [Салават Фатхетдинов - Бала / Салават Фатхетдинов - Дитя](../translated/s/salavat_fathetdinov-bala.md)
+- [Салават Фатхетдинов - Баланы читкэ жибэру / Салават Фатхетдинов - Отправляя дитя в мир](../translated/s/salavat_fathetdinov-balany_chitke_zhiberu.md)
+- [Салават Фатхетдинов - Башкортстан татарлары / Салават Фатхетдинов - Татары Башкортостана](../translated/s/salavat_fathetdinov-bashkortstan_tatarlary.md)
+- [Салават Фатхетдинов - Белсэн иде хэлемне / Салават Фатхетдинов - Знала бы ты мое состояние](../translated/s/salavat_fathetdinov-belsen_ide_helemne.md)
+- [Салават Фатхетдинов - Бер егет гармун сайлый / Салават Фатхетдинов - Парень играет на гармони](../translated/s/salavat_fathetdinov-ber_eget_garmun_saylyy.md)
+- [Салават Фатхетдинов - Бик курэсем килэ / Салават Фатхетдинов - Так хочется увидеть](../translated/s/salavat_fathetdinov-bik_kuresem_kile.md)
 
 ---
 

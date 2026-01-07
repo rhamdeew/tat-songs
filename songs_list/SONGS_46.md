@@ -5,12 +5,6 @@
 [← Предыдущая страница](SONGS_45.md) | [Главная страница](../README.md) | [Следующая страница →](SONGS_47.md)
 
 
-- [Малика - Гашыйк булдынмы эллэ / Малика - Неужели влюбилась](../translated/m/malika-gashyyk_buldynmy_elle.md)
-- [Малика - Жырлар жырлыйм сина / Малика - Песни пою для тебя](../translated/m/malika-zhyrlar_zhyrlyym_sina.md)
-- [Малика - Их, иркэм / Малика - Ах, милый мой](../translated/m/malika-ih_irkem.md)
-- [Малика - Йорэгемэ минем кагылма / Малика - Не касайся моего сердца](../translated/m/malika-yoregeme_minem_kagylma.md)
-- [Малика - Йорэк сере / Малика - Тайна сердца](../translated/m/malika-yorek_sere.md)
-- [Малика - Казаныма мэдхия / Малика - Гимн моей Казани](../translated/m/malika-kazanyma_medhiya.md)
 - [Малика - Кияу белэн кэлэш / Малика - Жених и невеста](../translated/m/malika-kiyau_belen_kelesh.md)
 - [Малика - Котеп алган бэйрэм / Малика - Долгожданный праздник](../translated/m/malika-kotep_algan_beyrem.md)
 - [Малика - Матур кош / Малика - Прекрасная птица](../translated/m/malika-matur_kosh.md)
@@ -105,6 +99,12 @@
 - [Марат Гобәйдуллин - Сау бул, мәктәп (беренче вариант) / Марат Гобәйдуллин - Прощай, школа (первый вариант)](../translated/m/marat_gobaydullin_-_sau_bul_maktap_berenche_variant.md)
 - [Марат Гобәйдуллин - Син янымда булмагач (беренче вариант) / Марат Гобәйдуллин - Без син янымда булмагач (беренче вариант)](../translated/m/marat_gobaydullin_-_sin_yanimda_bulmagach_berenche_variant.md)
 - [Марат Гобәйдуллин - Сәламеңне яз әле / Марат Гобәйдуллин - Напиши мне весть](../translated/m/marat_gobaydullin_-_salamenne_yaz_ale.md)
+- [Марат Гобәйдуллин - Татарстан - гүзәл республикам / Марат Гобәйдуллин - Татарстан - прекрасная республика](../translated/m/marat_gobaydullin_-_tatarstan_guzal_respublikam.md)
+- [Марат Гобәйдуллин - Тик син диеп тибә йөрәгем / Марат Гобайдуллин - Лишь тобою бьется мое сердце](../translated/m/marat_gobaydullin_-_tik_sin_diep_tiba_yoragem.md)
+- [Марат Гобәйдуллин - Туган авылым - Айбаш (беренче вариант) / Марат Гобайдуллин - Родная деревня моя - Айбаш (первый вариант)](../translated/m/marat_gobaydullin_-_tugan_avilim_aybash_berenche_variant.md)
+- [Марат Гобәйдуллин - Туган авылым - Каракүл / Марат Гобәйдуллин - Родная деревня - Каракуль](../translated/m/marat_gobaydullin_-_tugan_avilim_karakul.md)
+- [Марат Гобәйдуллин - Туган ягым Биектау / Марат Гобәйдуллин - Родной мой Биектау](../translated/m/marat_gobaydullin_-_tugan_yagim_biektau.md)
+- [Марат Гобәйдуллин - Туган як (җиденче вариант) / Марат Гобәйдуллин - Родной край (седьмой вариант)](../translated/m/marat_gobaydullin_-_tugan_yak_cidenche_variant.md)
 
 ---
 

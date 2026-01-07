@@ -5,16 +5,6 @@
 [← Предыдущая страница](SONGS_19.md) | [Главная страница](../README.md) | [Следующая страница →](SONGS_21.md)
 
 
-- [Габдулла Тукай / Заһид Хәбибуллин - Пар ат / Габдулла Тукай / Заһид Хәбибуллин - Пара коней](../translated/g/gabdulla_tukay_zahid_habibullin_-_par_at.md)
-- [Габдулла Тукай / Ильяс Халиков - Кадер кич / Габдулла Тукай / Ильяс Халиков - Ночь Кадр](../translated/g/gabdulla_tukay_ilyas_halikov_-_kader_kich.md)
-- [Габдулла Тукай / Мансур Мозаффаров - Бер рәсемгә (беренче вариант) / Габдулла Тукай / Мансур Мозаффаров - К одному портрету (первый вариант)](../translated/g/gabdulla_tukay_mansur_mozaffarov_-_ber_rasemga_berenche_variant.md)
-- [Габдулла Тукай / Мәсгудә Шәмсетдинова - Байроннан / Габдулла Тукай / Мәсгудә Шәмсетдинова - Из Байрона](../translated/g/gabdulla_tukay_masguda_shamsetdinova_-_bayronnan.md)
-- [Габдулла Тукай / Мәсгудә Шәмсетдинова - Бакчага чыгам / Габдулла Тукай / Мәсгудә Шәмсетдинова - Выхожу в сад](../translated/g/gabdulla_tukay_masguda_shamsetdinova_-_bakchaga_chigam.md)
-- [Габдулла Тукай / Мәсгудә Шәмсетдинова - Бер рәсемгә (икенче вариант) / Габдулла Тукай / Мәсгудә Шәмсетдинова - К одному портрету (второй вариант)](../translated/g/gabdulla_tukay_masguda_shamsetdinova_-_ber_rasemga_ikenche_variant.md)
-- [Габдулла Тукай / Мәсгудә Шәмсетдинова - Уянмас йокы / Габдулла Тукай / Мәсгудә Шәмсетдинова - Непробудный сон](../translated/g/gabdulla_tukay_masguda_shamsetdinova_-_uyanmas_yoki.md)
-- [Габдулла Тукай / Мәсгудә Шәмсетдинова - Фатыйма белән Сандугач / Габдулла Тукай / Мәсгудә Шәмсетдинова - Фатыйма и Соловей](../translated/g/gabdulla_tukay_masguda_shamsetdinova_-_fatiyma_belan_sandugach.md)
-- [Габдулла Тукай / Мәсгуть Имашев - Театр / Габдулла Тукай / Мәсгуть Имашев - Театр](../translated/g/gabdulla_tukay_masgut_imashev_-_teatr.md)
-- [Габдулла Тукай / Рөстәм Яхин - Кем белер кадереңне? / Габдулла Тукай / Рөстәм Яхин - Кто узнает твою цену?](../translated/g/gabdulla_tukay_rostam_yahin_-_kem_beler_kaderenne.md)
 - [Габдулла Тукай / Сара Садыйкова - Мәхәббәт җыры (бишенче вариант) / Габдулла Тукай / Сара Садиева - Песня о любви (пятый вариант)](../translated/g/gabdulla_tukay_sara_sadiykova_-_mahabbat_ciri_bishenche_variant.md)
 - [Габдулла Тукай / Татар  халык - Сеңлем бер мәләк / Габдулла Тукай / Татарский народ - Сестренка - ангелочек](../translated/g/gabdulla_tukay_tatar_halik_-_senlem_ber_malak.md)
 - [Габдулла Тукай / Татар халык көе - Туган тел (беренче вариант) / Габдулла Тукай / Татарская народная мелодия - Родной язык (первый вариант)](../translated/g/gabdulla_tukay_tatar_halik_koe_-_tugan_tel_berenche_variant.md)
@@ -37,6 +27,7 @@
 - [Гакыйль Сәгыйров / Сәит Абдуллин - Төнге яңгыр / Гакыйль Сәгыйров / Сәит Абдуллин - Ночной дождь](../translated/g/gakiyl_sagiyrov_sait_abdullin_-_tonge_yangir.md)
 - [Гали Хуҗиев / Сара Садыйкова - Сагыну балладасы / Гали Хуҗиев / Сара Садыйкова - Баллада о тоске](../translated/g/gali_huciev_sara_sadiykova_-_saginu_balladasi.md)
 - [Галим Дәүләтов / Булат Йәнекәев - Гөлләремә / Галим Дәүләтов / Булат Йәнекәев - Моим цветам](../translated/g/galim_daulatov_bulat_yanekaev_-_gollarema.md)
+- [Галим Дәүләтов / Рәис Касыймов - Гөлнара / Галим Давлетов / Раис Касымов - Гульнара](../translated/g/galim_daulatov_rais_kasiymov_-_golnara.md)
 - [Галим Дәүләтов / Салават Низаметдинов - Төнге такси / Галим Даутов / Салават Низаметдинов - Ночное такси](../translated/g/galim_daulatov_salavat_nizametdinov_-_tonge_taksi.md)
 - [Галимулла Нәбиев / Илдус Низамов - Яшьлек кыңгыраулары / Галимулла Набиев / Илдус Низамов - Колокола молодости](../translated/g/galimulla_nabiev_ildus_nizamov_-_yashlek_kingiraulari.md)
 - [Галимҗан Гыйльманов / Ганс Сәйфуллин - Сиңа килдем (беренче вариант) / Галимҗан Гыйльманов / Ганс Сәйфуллин - К тебе пришел (первый вариант)](../translated/g/galimcan_giylmanov_gans_sayfullin_-_sina_kildem_berenche_variant.md)
@@ -105,6 +96,15 @@
 - [Галиәхмәт Шаһи / Миңнегали Дәүләтбаев - Сукыр шагыйръ / Галиәхмәт Шаһи / Миңнегали Дәүләтбаев - Слепой поэт](../translated/g/galiahmat_shahi_minnegali_daulatbaev_-_sukir_shagiyr.md)
 - [Галиәхмәт Шаһи / Миңнегали Дәүләтбаев - Җырлар җырлыйм сиңа / Галиәхмәт Шаһи / Миңнегали Дәүләтбаев - Пою тебе песни](../translated/g/galiahmat_shahi_minnegali_daulatbaev_-_cirlar_cirliym_sina.md)
 - [Галиәхмәт Шаһи / Мөдәрис Газетдинов - Гомер мизгелләре / Галиахмат Шахи / Мударис Газетдинов - Мгновения жизни](../translated/g/galiahmat_shahi_modaris_gazetdinov_-_gomer_mizgellare.md)
+- [Галиәхмәт Шаһи / Ринат Гобәйдуллин - Апама (өченче вариант) / Галиәхмәт Шаһи / Ринат Гобәйдуллин - Апама (третий вариант)](../translated/g/galiahmat_shahi_rinat_gobaydullin_-_apama_ochenche_variant.md)
+- [Галиәхмәт Шаһи / Ринат Гобәйдуллин - Рәхмәт, тормыш! / Галиәхмәт Шаһи / Ринат Гобәйдуллин - Спасибо, жизнь!](../translated/g/galiahmat_shahi_rinat_gobaydullin_-_rahmat_tormish.md)
+- [Галиәхмәт Шаһи / Ринат Гобәйдуллин - Яныңа барам әле / Галиәхмәт Шаһи / Ринат Гобәйдуллин - Я всё ещё еду к тебе](../translated/g/galiahmat_shahi_rinat_gobaydullin_-_yanina_baram_ale.md)
+- [Галиәхмәт Шаһи / Рөстәм Әхмәтханов - Гомерләр уза ... / Галияхмет Шахи / Рустам Ахметханов - Годы уходят ...](../translated/g/galiahmat_shahi_rostam_ahmathanov_-_gomerlar_uza.md)
+- [Галиәхмәт Шаһи / Салават Шәрәфиев - Исәнмесез! / Галиәхмәт Шаһи / Салават Шәрәфиев - Здравствуйте!](../translated/g/galiahmat_shahi_salavat_sharafiev_-_isanmesez.md)
+- [Галиәхмәт Шаһи / Салават Шәрәфиев - Кулларыма сузма сары яфрак (Үзең кирәк) / Галиәхмәт Шаһи / Салават Шәрәфиев - Не тяни ко мне жёлтый лист (Ты нужна)](../translated/g/galiahmat_shahi_salavat_sharafiev_-_kullarima_suzma_sari_yafrak_uzen_kirak.md)
+- [Галиәхмәт Шаһи / Эльвира Нигъмәтҗанова - Яратам (икенче вариант) / Галиахмат Шахи / Эльвира Нигматзянова - Люблю (второй вариант)](../translated/g/galiahmat_shahi_elvira_nigmatcanova_-_yaratam_ikenche_variant.md)
+- [Гамил Афзал / Айдар Фәйзрахманов - Туган җиреңнән китмә / Гамил Афзал / Айдар Файзрахманов - Не уходи с родной земли](../translated/g/gamil_afzal_aydar_fayzrahmanov_-_tugan_cirennan_kitma.md)
+- [Гамил Афзал / Илһам Шакиров - Гөлмәрьям / Гамил Афзал / Илһам Шакиров - Гульмарьям](../translated/g/gamil_afzal_ilham_shakirov_-_golmaryam.md)
 
 ---
 

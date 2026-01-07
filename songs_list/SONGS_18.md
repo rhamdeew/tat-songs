@@ -5,16 +5,6 @@
 [← Предыдущая страница](SONGS_17.md) | [Главная страница](../README.md) | [Следующая страница →](SONGS_19.md)
 
 
-- [Венера Мәҗитова / Айрат Нәбиев - Әнигә / Венера Мачитова / Айрат Набиев - Маме](../translated/v/venera_macitova_ayrat_nabiev_-_aniga.md)
-- [Венера Мәҗитова / Ризван Хәкимов - Сирень гөлем - йөрәк серем / Венера Мәҗитова / Ризван Хәкимов - Сирень-цветок - тайна сердца](../translated/v/venera_macitova_rizvan_hakimov_-_siren_golem_yorak_serem.md)
-- [Венера Фәррахова / Флүрә Талипова - Туган авылым (алтынчы вариант) / Венера Фаррахова / Флюра Талипова - Мой родной город (шестой вариант)](../translated/v/venera_farrahova_flura_talipova_-_tugan_avilim_altinchi_variant.md)
-- [Венера Фәррахова / Флүрә Талипова - Ярат әле язларны / Венера Фәррахова / Флүрә Талипова - Люби еще весны](../translated/v/venera_farrahova_flura_talipova_-_yarat_ale_yazlarni.md)
-- [Венера Фәттахова / Ришат Төхвәтуллин - Тап син мине / Венера Фаттахова / Ришат Тухватуллин - Найди меня](../translated/v/venera_fattahova_rishat_tohvatullin_-_tap_sin_mine.md)
-- [Венера Хәбибрахманова / Виталий Агапов - Авылымны сагынып / Венера Хабибрахманова / Виталий Агапов - Скучая по деревне](../translated/v/venera_habibrahmanova_vitaliy_agapov_-_avilimni_saginip.md)
-- [Венера Хәбибрахманова / Виталий Агапов - Көтелмәгән очрашу (беренче вариант) / Венера Хәбибрахманова / Виталий Агапов - Неожиданная встреча (первый вариант)](../translated/v/venera_habibrahmanova_vitaliy_agapov_-_kotelmagan_ochrashu_berenche_variant.md)
-- [Венера Хәбибрахманова / Илдус Камалов - Яңа ел (алтынчы вариант) / Венера Хабибрахманова / Илдус Камалов - Новый год (шестой вариант)](../translated/v/venera_habibrahmanova_ildus_kamalov_-_yana_el_altinchi_variant.md)
-- [Венера Шамиева - Гади кешелэр / Венера Шамиева - Простые люди](../translated/v/venera_shamieva-gadi_kesheler.md)
-- [Венера Шамиева - Саклана кур / Венера Шамиева - Береги себя](../translated/v/venera_shamieva-saklana_kur.md)
 - [Венера Шамиева - Узен киттен / Венера Шамиева - Сам ушёл](../translated/v/venera_shamieva-uzen_kitten.md)
 - [Венера Шәрипова / Флера Шәрипова - Кызарып пешкән чагым / Венера Шарипова / Флера Шарипова - Пора, когда я спелая, алая](../translated/v/venera_sharipova_flera_sharipova_-_kizarip_peshkan_chagim.md)
 - [Венера Шәрәфисламова / Зарема Әюпова - Исмә, җилкәй / Венера Шарафисламова / Зарема Аюпова - Не рви, голубка](../translated/v/venera_sharafislamova_zarema_ayupova_-_isma_cilkay.md)
@@ -105,6 +95,16 @@
 - [Вәзыйх Фатыйхов / Ришат Төхвәтуллин - Сагынам да кабат / Вазих Фатыхов / Ришат Тухватуллин - Соскучился и опять](../translated/v/vaziyh_fatiyhov_rishat_tohvatullin_-_saginam_da_kabat.md)
 - [Вәзыйх Фатыйхов / Урал Рәшитов - Кызым туе / Вазыйх Фатыхов / Урал Рашитов - Свадьба моей дочери](../translated/v/vaziyh_fatiyhov_ural_rashitov_-_kizim_tue.md)
 - [Вәзыйх Фатыйхов / Халидин Әхәтов - Ландышлар (икенче вариант) / Вәзыйх Фатыйхов / Халидин Әхәтов - Ландыши (второй вариант)](../translated/v/vaziyh_fatiyhov_halidin_ahatov_-_landishlar_ikenche_variant.md)
+- [Вәзыйх Фатыйхов / Халидин Әхәтов - Пар канатлар кирәк / Вәзыйх Фатыйхов / Халидин Әхәтов - Нужны парные крылья](../translated/v/vaziyh_fatiyhov_halidin_ahatov_-_par_kanatlar_kirak.md)
+- [Вәзыйх Фатыйхов / Халидин Әхәтов - Соңгы өмет / Вазих Фатихов / Халидин Ахатов - Последняя надежда](../translated/v/vaziyh_fatiyhov_halidin_ahatov_-_songi_omet.md)
+- [Вәзыйх Фатыйхов / Халидин Әхәтов - Яшьлегем хисләре (икенче вариант) / Вәзыйх Фатыйхов / Халидин Әхәтов - Чувства моей юности (второй вариант)](../translated/v/vaziyh_fatiyhov_halidin_ahatov_-_yashlegem_hislare_ikenche_variant.md)
+- [Вәзыйх Фатыйхов / Эльвира Хаматнурова - Йөрәкләр сөюле ялкында / Вәзыйх Фатыйхов / Эльвира Хаматнурова - Сердца в пламени любви](../translated/v/vaziyh_fatiyhov_elvira_hamatnurova_-_yoraklar_soyule_yalkinda.md)
+- [Вәзыйх Фатыйхов / Юлай Үзәнбаев - Эй, хыялый, сантый кыз бала (беренче вариант) / Вазих Фатыхов / Юлай Узянбаев - Эй, мечтательница, сто лет девочка (первый вариант)](../translated/v/vaziyh_fatiyhov_yulay_uzanbaev_-_ey_hiyaliy_santiy_kiz_bala_berenche_variant.md)
+- [Вәлит Илембәтов / Артур Туктаголов - Үткәннәргә үкенмик / Вәлит Илембәтов / Артур Туктаголов - Не будем жалеть о прошлом](../translated/v/valit_ilembatov_artur_tuktagolov_-_utkannarga_ukenmik.md)
+- [Вәлит Илембәтов / Артур Туктаголов - Әнкәемнең моңлы тавышы / Вәлит Илембәтов / Артур Туктаголов - Мелодичный голос моей матери](../translated/v/valit_ilembatov_artur_tuktagolov_-_ankaemnen_monli_tavishi.md)
+- [Вәлит Илембәтов / Венер Мөхәммәдиев - Аңла инде (Юкка үпкәләмә) / Вәлит Илембәтов / Венер Мөхәммәдиев - Пойми же (Напрасно не обижайся)](../translated/v/valit_ilembatov_vener_mohammadiev_-_anla_inde_yukka_upkalama.md)
+- [Вәлит Илембәтов / Гүзәл Үлмәсколова - Мәңгелеккә кил, иркәм! / Валит Илембатов / Гузель Ульмасколова - Приди навек, любимая!](../translated/v/valit_ilembatov_guzal_ulmaskolova_-_mangelekka_kil_irkam.md)
+- [Вәлит Илембәтов / Зәбих Мәмәлимов - Соң очраштык ... / Валит Илембатов / Зябих Мамалимов - Мы встретились в последний раз...](../translated/v/valit_ilembatov_zabih_mamalimov_-_son_ochrashtik.md)
 
 ---
 

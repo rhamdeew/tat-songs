@@ -5,13 +5,6 @@
 [← Предыдущая страница](SONGS_36.md) | [Главная страница](../README.md) | [Следующая страница →](SONGS_38.md)
 
 
-- [Илдар Нуртдинов / Лилия Вахитова - Өзгәләнмә җаным! / Ильдар Нуртдинов / Лилия Вахитова - Не изменяйся, душа моя!](../translated/i/ildar_nurtdinov_liliya_vahitova_-_ozgalanma_canim.md)
-- [Илдар Сафин / Алия Ганиева - Кочаклама яратмыйча / Илдар Сафин / Алия Ганиева - Не обнимай без любви](../translated/i/ildar_safin_aliya_ganieva_-_kochaklama_yaratmiycha.md)
-- [Илдар Сафин / Алия Ганиева - Чәчләреңнән килә иркәлисе / Ильдар Сафин / Алия Ганиева - Из твоих волос льётся нежность](../translated/i/ildar_safin_aliya_ganieva_-_chachlarennan_kila_irkalise.md)
-- [Илдар Фазлетдинов / Мөдәрис Газетдинов - Сөям әле / Ильдар Фазлетдинов / Мударис Газетдинов - Люблю еще](../translated/i/ildar_fazletdinov_modaris_gazetdinov_-_soyam_ale.md)
-- [Илдар Хөсни / Зиннур Сафиуллин - Сердәш миләшләр / Илдар Хөсни / Зиннур Сафиуллин - Рябины-собеседницы](../translated/i/ildar_hosni_zinnur_safiullin_-_serdash_milashlar.md)
-- [Илдар Хөсни / Зиннур Сафиуллин - Юксынам / Ильдар Хосни / Зиннур Сафиуллин - Скучаю](../translated/i/ildar_hosni_zinnur_safiullin_-_yuksinam.md)
-- [Илдар Шәрипов - Бәхетлемен (икенче вариант) / Ильдар Шарипов - Счастлив я (второй вариант)](../translated/i/ildar_sharipov_-_bahetlemen_ikenche_variant.md)
 - [Илдар Шәрипов - Кулга кул тотынып / Илдар Шарипов - Держась за руки](../translated/i/ildar_sharipov_-_kulga_kul_totinip.md)
 - [Илдар Шәрипов / Ризван Хәкимов - Төшләремә керә Кандагар / Ильдар Шарипов / Ризван Хакимов - Входит в мои сны Кандагар](../translated/i/ildar_sharipov_rizvan_hakimov_-_toshlarema_kera_kandagar.md)
 - [Илдар Юзеев / Айдар Фәйзрахманов - Ак болытны юлдаш итәр идем / Илдар Юзеев / Айдар Файзрахманов - Белое облако сделал бы спутником](../translated/i/ildar_yuzeev_aydar_fayzrahmanov_-_ak_bolitni_yuldash_itar_idem.md)
@@ -105,6 +98,13 @@
 - [Илназ Гәрәев / Артур Исламов - Көзге җыр (икенче вариант) / Илназ Гәрәев / Артур Исламов - Осенняя песня (второй вариант)](../translated/i/ilnaz_garaev_artur_islamov_-_kozge_cir_ikenche_variant.md)
 - [Илназ Гәрәев / Артур Исламов - Салкын яңгырлар / Ильназ Гараев / Артур Исламов - Холодные дожди](../translated/i/ilnaz_garaev_artur_islamov_-_salkin_yangirlar.md)
 - [Илназ Гәрәев / Артур Исламов - Язмыш (җиденче вариант) / Илназ Гараев / Артур Исламов - Судьба (седьмой вариант)](../translated/i/ilnaz_garaev_artur_islamov_-_yazmish_cidenche_variant.md)
+- [Илназ Гәрәев / Артур Исламов - Ялган / Илназ Гәрәев / Артур Исламов - Ложь](../translated/i/ilnaz_garaev_artur_islamov_-_yalgan.md)
+- [Илназ Мөсәлләмов - Сагынам яшьлегемне / Ильназ Мусаллямов - Скучаю по моему детству](../translated/i/ilnaz_mosallamov_-_saginam_yashlegemne.md)
+- [Илназ Сафиуллин - Мин яратам сине (икенче вариант) / Ильназ Сафиуллин - Я люблю тебя (второй вариант)](../translated/i/ilnaz_safiullin_-_min_yaratam_sine_ikenche_variant.md)
+- [Илнат Фәрхуллин - Карлыгачым (икенче вариант) / Илнат Фәрхуллин - Ласточка моя (второй вариант)](../translated/i/ilnat_farhullin_-_karligachim_ikenche_variant.md)
+- [Илнат Фәрхуллин - Сары розалар (беренче вариант) / Илнат Фәрхуллин - Жёлтые розы (первый вариант)](../translated/i/ilnat_farhullin_-_sari_rozalar_berenche_variant.md)
+- [Илнат Фәрхуллин - Сөйдерәсең / Илнат Фәрхуллин - Заставляешь любить](../translated/i/ilnat_farhullin_-_soyderasen.md)
+- [Илнат Фәрхуллин - Талларым елап кала / Ильнат Фархуллин - Ивы плачут](../translated/i/ilnat_farhullin_-_tallarim_elap_kala.md)
 
 ---
 

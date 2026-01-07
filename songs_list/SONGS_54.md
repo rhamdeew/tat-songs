@@ -5,11 +5,6 @@
 [← Предыдущая страница](SONGS_53.md) | [Главная страница](../README.md) | [Следующая страница →](SONGS_55.md)
 
 
-- [Наҗар Нәҗми / Рим Хәсәнов - Миндә син бар!.. / Наҗар Нәҗми / Рим Хәсәнов - Во мне ты есть!..](../translated/n/nacar_nacmi_rim_hasanov_-_minda_sin_bar.md)
-- [Наҗар Нәҗми / Рим Хәсәнов - Мине юллар чакыра / Нажар Нажми / Рим Хасанов - Меня дороги зовут](../translated/n/nacar_nacmi_rim_hasanov_-_mine_yullar_chakira.md)
-- [Наҗар Нәҗми / Рим Хәсәнов - Сиңа барам (беренче вариант) / Наджар Наджми / Рим Хасанов - Иду к тебе (первый вариант)](../translated/n/nacar_nacmi_rim_hasanov_-_sina_baram_berenche_variant.md)
-- [Наҗар Нәҗми / Рим Хәсәнов - Сиңа тагын мин бер киләм әле / Нәҗар Нәҗми / Рим Хәсәнов - Я к тебе еще раз приду](../translated/n/nacar_nacmi_rim_hasanov_-_sina_tagin_min_ber_kilam_ale.md)
-- [Наҗар Нәҗми / Рим Хәсәнов - Сөю җырын җырла сөйгәнеңә / Назар Наджми / Рим Хасанов - Пой песню любви любимой](../translated/n/nacar_nacmi_rim_hasanov_-_soyu_cirin_cirla_soyganena.md)
 - [Наҗар Нәҗми / Рим Хәсәнов - Телефоннар шалтырыйлар / Наҗар Нәҗми / Рим Хәсәнов - Телефоны звонят](../translated/n/nacar_nacmi_rim_hasanov_-_telefonnar_shaltiriylar.md)
 - [Наҗар Нәҗми / Рим Хәсәнов - Юкка түгел, юкка түгелдер / Наджар Наджми / Рим Хасанов - Не напрасно, не напрасно](../translated/n/nacar_nacmi_rim_hasanov_-_yukka_tugel_yukka_tugelder.md)
 - [Наҗар Нәҗми / Рим Хәсәнов - Үкенерлек түгел үткәннәр / Наджар Надми / Рим Хасанов - Не о чем жалеть в прошедшем](../translated/n/nacar_nacmi_rim_hasanov_-_ukenerlek_tugel_utkannar.md)
@@ -105,6 +100,11 @@
 - [Нурия Абдуллина - Нәфсе дәрьяларын буйламыйк / Нурия Абдуллина - Не будем мерить глубину души](../translated/n/nuriya_abdullina_-_nafse_daryalarin_buylamiyk.md)
 - [Нурия Абдуллина - Рәхмәт сезгә, әткәй-әнкәй! / Нурия Абдуллина - Спасибо вам, отец и мать!](../translated/n/nuriya_abdullina_-_rahmat_sezga_atkay-ankay.md)
 - [Нурия Абдуллина - Туган көн (бишенче вариант) / Нурия Абдуллина - День рождения (пятый вариант)](../translated/n/nuriya_abdullina_-_tugan_kon_bishenche_variant.md)
+- [Нурия Абдуллина - Туганнар (икенче вариант) / Нурия Абдуллина - Родные (второй вариант)](../translated/n/nuriya_abdullina_-_tugannar_ikenche_variant.md)
+- [Нурия Абдуллина - Утыр әле, әнкәй, яннарыма / Нурия Абдуллина - Присядь, мама, рядом со мной](../translated/n/nuriya_abdullina_-_utir_ale_ankay_yannarima.md)
+- [Нурия Гыйләҗева / Ризида Мөхәммәтҗанова - Рәхмәтлемен (беренче вариант) / Нурия Гыйләҗева / Ризида Мөхәммәтҗанова - Благодарна (первый вариант)](../translated/n/nuriya_giylaceva_rizida_mohammatcanova_-_rahmatlemen_berenche_variant.md)
+- [Нурия Гыйләҗева / Ризида Мөхәммәтҗанова - Эх, гармун, гитара! / Нурия Гильяжева / Ризида Мухаммаджанова - Ах, гармонь, гитара!](../translated/n/nuriya_giylaceva_rizida_mohammatcanova_-_eh_garmun_gitara.md)
+- [Нурия Измайлова / Илһам Хисмәтуллин - Адаштым (беренче вариант) / Нурия Измайлова / Ильхам Хисматуллин - Заблудилась (первый вариант)](../translated/n/nuriya_izmaylova_ilham_hismatullin_-_adashtim_berenche_variant.md)
 
 ---
 

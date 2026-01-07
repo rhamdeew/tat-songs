@@ -5,18 +5,6 @@
 [← Предыдущая страница](SONGS_13.md) | [Главная страница](../README.md) | [Следующая страница →](SONGS_15.md)
 
 
-- [Бикә Рәхимова / Фәрит Шәрифуллин - Шаяру / Бика Рахимова / Фарит Шарифуллин - Шаяру](../translated/b/bika_rahimova_farit_sharifullin_-_shayaru.md)
-- [Бикә Рәхимова / Шамил Шәрифуллин - Син биергә мине чакыр / Бика Рахимова / Шамиль Шарифуллин - Позови меня танцевать](../translated/b/bika_rahimova_shamil_sharifullin_-_sin_bierga_mine_chakir.md)
-- [Билгесез - Авылым юлы / Билгесез - Дорога в мою деревню](../translated/b/bilgesez_-_avilim_yuli.md)
-- [Билгесез - Аерылыштык бик азга / Бильгесез - Мы расстались ненадолго](../translated/b/bilgesez_-_aerilishtik_bik_azga.md)
-- [Билгесез - Ай тулганда / Билгесез - Когда луна полна](../translated/b/bilgesez_-_ay_tulganda.md)
-- [Билгесез - Ай, Уралым / Билгесез - Ай, Уралым](../translated/b/bilgesez_-_ay_uralim.md)
-- [Билгесез - Аккош сагышы / Неизвестен - Печаль лебедей](../translated/b/bilgesez_-_akkosh_sagishi.md)
-- [Билгесез - Ал зар геннәем / Билгесез - Ах, как ярюсь я по тебе](../translated/b/bilgesez_-_al_zar_gennaem.md)
-- [Билгесез - Алтын көз / Билгесез - Золотая осень](../translated/b/bilgesez_-_altin_koz.md)
-- [Билгесез - Ах, Җырларым / Бильгесез - Ах, Песни мои](../translated/b/bilgesez_-_ah_cirlarim.md)
-- [Билгесез - Ачы балан / Билгесез - Горькое дитя](../translated/b/bilgesez_-_achi_balan.md)
-- [Билгесез - Без ике фәрештә / Бильгесез - Мы двое ангелов](../translated/b/bilgesez_-_bez_ike_fareshta.md)
 - [Билгесез - Бер күрүгә / Билгесез - Одному взгляду](../translated/b/bilgesez_-_ber_kuruga.md)
 - [Билгесез - Бер күрүдән (икенче вариант) / Бильгесез - Одним взором (второй вариант)](../translated/b/bilgesez_-_ber_kurudan_ikenche_variant.md)
 - [Билгесез - Бергә булыйк! / Билгесез - Давай вместе будем!](../translated/b/bilgesez_-_berga_buliyk.md)
@@ -105,6 +93,18 @@
 - [Билгесез - Син янымда булмагач (өченче вариант) / Неизвестен - Когда тебя нет рядом (третий вариант)](../translated/b/bilgesez_-_sin_yanimda_bulmagach_ochenche_variant.md)
 - [Билгесез - Син, әти / Билгесез - Сын, оте](../translated/b/bilgesez_-_sin_ati.md)
 - [Билгесез - Синең куллар (Әнкәйне сагынганда) / Неизвестен - Твои руки (Когда скучаю по маме)](../translated/b/bilgesez_-_sinen_kullar_ankayne_saginganda.md)
+- [Билгесез - Синең тәрәзәңдә ут яна / Неизвестен - В твоём окне горит огонь](../translated/b/bilgesez_-_sinen_tarazanda_ut_yana.md)
+- [Билгесез - Синең язларымда яшим / Неизвестен - Я живу в твоих вёснах](../translated/b/bilgesez_-_sinen_yazlarimda_yashim.md)
+- [Билгесез - Сиңа барам (өченче вариант) / Неизвестен - Иду к тебе (третий вариант)](../translated/b/bilgesez_-_sina_baram_ochenche_variant.md)
+- [Билгесез - Соңгы сөйләшү / Неизвестен - Последний разговор](../translated/b/bilgesez_-_songi_soylashu.md)
+- [Билгесез - Сыналган мәхаббәтем / Неизвестен - Проверенная любовь](../translated/b/bilgesez_-_sinalgan_mahabbatem.md)
+- [Билгесез - Сәламләү / Бильгесез - Приветствие](../translated/b/bilgesez_-_salamlau.md)
+- [Билгесез - Татар авыллары / Неизвестен - Татарские деревни](../translated/b/bilgesez_-_tatar_avillari.md)
+- [Билгесез - Татар егете / Неизвестен - Татарский джигит](../translated/b/bilgesez_-_tatar_egete.md)
+- [Билгесез - Теләче (өченче вариант) / Неизвестен - Желающий (третий вариант)](../translated/b/bilgesez_-_telache_ochenche_variant.md)
+- [Билгесез - Туган авыл (икенче вариант) / Неизвестен - Родная деревня (второй вариант)](../translated/b/bilgesez_-_tugan_avil_ikenche_variant.md)
+- [Билгесез - Туган көн (унынчы вариант) / Неизвестен - День рождения (десятый вариант)](../translated/b/bilgesez_-_tugan_kon_uninchi_variant.md)
+- [Билгесез - Туган якта / Неизвестен - На родной земле](../translated/b/bilgesez_-_tugan_yakta.md)
 
 ---
 

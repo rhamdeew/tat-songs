@@ -5,11 +5,6 @@
 [← Предыдущая страница](SONGS_70.md) | [Главная страница](../README.md) | [Следующая страница →](SONGS_72.md)
 
 
-- [Салават Фатхетдинов - Баланы читкэ жибэру / Салават Фатхетдинов - Отправляя дитя в мир](../translated/s/salavat_fathetdinov-balany_chitke_zhiberu.md)
-- [Салават Фатхетдинов - Башкортстан татарлары / Салават Фатхетдинов - Татары Башкортостана](../translated/s/salavat_fathetdinov-bashkortstan_tatarlary.md)
-- [Салават Фатхетдинов - Белсэн иде хэлемне / Салават Фатхетдинов - Знала бы ты мое состояние](../translated/s/salavat_fathetdinov-belsen_ide_helemne.md)
-- [Салават Фатхетдинов - Бер егет гармун сайлый / Салават Фатхетдинов - Парень играет на гармони](../translated/s/salavat_fathetdinov-ber_eget_garmun_saylyy.md)
-- [Салават Фатхетдинов - Бик курэсем килэ / Салават Фатхетдинов - Так хочется увидеть](../translated/s/salavat_fathetdinov-bik_kuresem_kile.md)
 - [Салават Фатхетдинов - Былбылым / Салават Фатхетдинов - Мой соловей](../translated/s/salavat_fathetdinov-bylbylym.md)
 - [Салават Фатхетдинов - Бэхет булэк итэ алмадым / Салават Фатхетдинов - Не смог подарить счастье](../translated/s/salavat_fathetdinov-behet_bulek_ite_almadym.md)
 - [Салават Фатхетдинов - Бэхет кошы / Салават Фатхетдинов - Птица счастья](../translated/s/salavat_fathetdinov-behet_koshy.md)
@@ -105,6 +100,11 @@
 - [Самат Шакир / Фәрит Хатыйпов - Башын иеп тора өч нарат / Самат Шакир / Фарит Хатыпов - Три сосны склонили головы](../translated/s/samat_shakir_farit_hatiypov_-_bashin_iep_tora_och_narat.md)
 - [Самат Шакир / Әнвәр Бакиров - Төнбоеклы күл буенда / Самат Шакир / Энвер Бакиров - У озера с кувшинками](../translated/s/samat_shakir_anvar_bakirov_-_tonboekli_kul_buenda.md)
 - [Сания Гомәрова / Луиза Батыр-Болгари - Әгәр күзләремә син карасаң / Сания Гомарова / Луиза Батыр-Болгари - Если бы ты посмотрел мне в глаза](../translated/s/saniya_gomarova_luiza_batir-bolgari_-_agar_kuzlarema_sin_karasan.md)
+- [Сания Гомәрова / Мәсгуть Имашев - Синең кулда язмышы / Сания Гомарова / Мәсгут Имашев - Судьба в твоих руках](../translated/s/saniya_gomarova_masgut_imashev_-_sinen_kulda_yazmishi.md)
+- [Сания Хисаметдинова / Җәмил Миңгалиев - Яшьлегем чишмәләрен сагынам / Сания Хисаметдинова / Җәмил Миңгалиев - Скучаю по родникам моей юности](../translated/s/saniya_hisametdinova_camil_mingaliev_-_yashlegem_chishmalaren_saginam.md)
+- [Сания Әхмәтҗанова / Айдар Тимербаев - Алмагач бураны / Сания Ахматжанова / Айдар Тимербаев - Метель яблонь](../translated/s/saniya_ahmatcanova_aydar_timerbaev_-_almagach_burani.md)
+- [Сания Әхмәтҗанова / Айдар Фәйзрахманов - Гөлбишек / Сания Ахматджанова / Айдар Файзрахманов - Колыбель цветов](../translated/s/saniya_ahmatcanova_aydar_fayzrahmanov_-_golbishek.md)
+- [Сания Әхмәтҗанова / Айдар Фәйзрахманов - Кайту (Авылга кайтканда) / Сания Әхмәтҗанова / Айдар Фәйзрахманов - Возвращение (Когда едешь в деревню)](../translated/s/saniya_ahmatcanova_aydar_fayzrahmanov_-_kaytu_avilga_kaytkanda.md)
 
 ---
 

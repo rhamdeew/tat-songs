@@ -5,18 +5,6 @@
 [← Предыдущая страница](SONGS_14.md) | [Главная страница](../README.md) | [Следующая страница →](SONGS_16.md)
 
 
-- [Билгесез - Синең тәрәзәңдә ут яна / Неизвестен - В твоём окне горит огонь](../translated/b/bilgesez_-_sinen_tarazanda_ut_yana.md)
-- [Билгесез - Синең язларымда яшим / Неизвестен - Я живу в твоих вёснах](../translated/b/bilgesez_-_sinen_yazlarimda_yashim.md)
-- [Билгесез - Сиңа барам (өченче вариант) / Неизвестен - Иду к тебе (третий вариант)](../translated/b/bilgesez_-_sina_baram_ochenche_variant.md)
-- [Билгесез - Соңгы сөйләшү / Неизвестен - Последний разговор](../translated/b/bilgesez_-_songi_soylashu.md)
-- [Билгесез - Сыналган мәхаббәтем / Неизвестен - Проверенная любовь](../translated/b/bilgesez_-_sinalgan_mahabbatem.md)
-- [Билгесез - Сәламләү / Бильгесез - Приветствие](../translated/b/bilgesez_-_salamlau.md)
-- [Билгесез - Татар авыллары / Неизвестен - Татарские деревни](../translated/b/bilgesez_-_tatar_avillari.md)
-- [Билгесез - Татар егете / Неизвестен - Татарский джигит](../translated/b/bilgesez_-_tatar_egete.md)
-- [Билгесез - Теләче (өченче вариант) / Неизвестен - Желающий (третий вариант)](../translated/b/bilgesez_-_telache_ochenche_variant.md)
-- [Билгесез - Туган авыл (икенче вариант) / Неизвестен - Родная деревня (второй вариант)](../translated/b/bilgesez_-_tugan_avil_ikenche_variant.md)
-- [Билгесез - Туган көн (унынчы вариант) / Неизвестен - День рождения (десятый вариант)](../translated/b/bilgesez_-_tugan_kon_uninchi_variant.md)
-- [Билгесез - Туган якта / Неизвестен - На родной земле](../translated/b/bilgesez_-_tugan_yakta.md)
 - [Билгесез - Туганыма / Неизвестен - Родному](../translated/b/bilgesez_-_tuganima.md)
 - [Билгесез - Туй калфагы / Неизвестен - Свадебный калфак](../translated/b/bilgesez_-_tuy_kalfagi.md)
 - [Билгесез - Тулпар атым / Неизвестен - Мой конь-тулпар](../translated/b/bilgesez_-_tulpar_atim.md)
@@ -105,6 +93,18 @@
 - [Билгесез / Ризван Хәкимов - Исләреңә төшәрмен / Неизвестен / Ризван Хакимов - Приду в твои воспоминания](../translated/b/bilgesez_rizvan_hakimov_-_islarena_tosharmen.md)
 - [Билгесез / Ризван Хәкимов - Көнләшмәгез / Неизвестен / Ризван Хакимов - Не завидуйте](../translated/b/bilgesez_rizvan_hakimov_-_konlashmagez.md)
 - [Билгесез / Ризван Хәкимов - Мин сагынам синең яшьлегеңне / Неизвестен / Ризван Хакимов - Я скучаю по твоей молодости](../translated/b/bilgesez_rizvan_hakimov_-_min_saginam_sinen_yashlegenne.md)
+- [Билгесез / Ризван Хәкимов - Сагыну (тугызынчы вариант) / Неизвестен / Ризван Хакимов - Тоска (девятый вариант)](../translated/b/bilgesez_rizvan_hakimov_-_saginu_tugizinchi_variant.md)
+- [Билгесез / Ризван Хәкимов - Син - минем фәрештәм / Неизвестен / Ризван Хакимов - Ты мой ангел](../translated/b/bilgesez_rizvan_hakimov_-_sin_minem_fareshtam.md)
+- [Билгесез / Ризван Хәкимов - Син белмисең инде мине / Неизвестен / Ризван Хакимов - Ты больше не знаешь меня](../translated/b/bilgesez_rizvan_hakimov_-_sin_belmisen_inde_mine.md)
+- [Билгесез / Ризван Хәкимов - Сөю кабатланмый / Неизвестен / Ризван Хакимов - Любовь не повторяется](../translated/b/bilgesez_rizvan_hakimov_-_soyu_kabatlanmiy.md)
+- [Билгесез / Ризван Хәкимов - Ышану / Неизвестен / Ризван Хакимов - Вера](../translated/b/bilgesez_rizvan_hakimov_-_ishanu.md)
+- [Билгесез / Ризван Хәкимов - Ялгызлыктан өшемәсен / Неизвестен / Ризван Хакимов - Чтоб не замёрзла душа от одиночества](../translated/b/bilgesez_rizvan_hakimov_-_yalgizliktan_oshemasen.md)
+- [Билгесез / Ризван Хәкимов - Яшьлегем язы / Неизвестен / Ризван Хакимов - Весна моей юности](../translated/b/bilgesez_rizvan_hakimov_-_yashlegem_yazi.md)
+- [Билгесез / Рим Хәсәнов - Мәктәбем (икенче вариант) / Неизвестен / Рим Хасанов - Моя школа (второй вариант)](../translated/b/bilgesez_rim_hasanov_-_maktabem_ikenche_variant.md)
+- [Билгесез / Ринат Гобәйдуллин - Мәхәббәт җыры (сигезенче вариант) / Неизвестен / Ринат Гобайдуллин - Песня любви (восьмой вариант)](../translated/b/bilgesez_rinat_gobaydullin_-_mahabbat_ciri_sigezenche_variant.md)
+- [Билгесез / Риф Арслан - Ай утыра елмаеп / Неизвестен / Риф Арслан - Луна сидит, улыбаясь](../translated/b/bilgesez_rif_arslan_-_ay_utira_elmaep.md)
+- [Билгесез / Риф Арслан - Башкортстаным - могҗизалар иле / Неизвестен / Риф Арслан - Башкортостан мой - страна чудес](../translated/b/bilgesez_rif_arslan_-_bashkortstanim_mogcizalar_ile.md)
+- [Билгесез / Роза Мостафиева - Вәгъдә итә алмам / Неизвестен / Роза Мостафиева - Не могу обещать](../translated/b/bilgesez_roza_mostafieva_-_vagda_ita_almam.md)
 
 ---
 

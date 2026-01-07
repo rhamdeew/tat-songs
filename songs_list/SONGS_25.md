@@ -5,15 +5,6 @@
 [← Предыдущая страница](SONGS_24.md) | [Главная страница](../README.md) | [Следующая страница →](SONGS_26.md)
 
 
-- [Гөлнара Рәшитова / Мөдәрис Газетдинов - Сине өзелеп яратам / Гульнара Рашитова / Мударис Газетдинов - Тебя безмерно люблю](../translated/g/golnara_rashitova_modaris_gazetdinov_-_sine_ozelep_yaratam.md)
-- [Гөлнара Рәшитова / Мөдәрис Газетдинов - Тормышымның яме / Гульнара Рашитова / Мударис Газетдинов - Отрада моей жизни](../translated/g/golnara_rashitova_modaris_gazetdinov_-_tormishimnin_yame.md)
-- [Гөлнара Рәшитова / Мөфтәдин Гыйләҗев - Язмыш (өченче вариант) / Гөлнара Рәшитова / Мөфтәдин Гыйләҗев - Судьба (третий вариант)](../translated/g/golnara_rashitova_moftadin_giylacev_-_yazmish_ochenche_variant.md)
-- [Гөлнара Рәшитова / Нур Даутов - Моңнар ява / Гөлнара Рәшитова / Нур Даутов - Льются мелодии](../translated/g/golnara_rashitova_nur_dautov_-_monnar_yava.md)
-- [Гөлнара Рәшитова / Оскар Усманов - Рәхмәт сезгә! / Гульнара Рашитова / Оскар Усманов - Спасибо вам!](../translated/g/golnara_rashitova_oskar_usmanov_-_rahmat_sezga.md)
-- [Гөлнара Рәшитова / Радик Юлъякшин - Бәхет кошы (икенче вариант) / Гөлнара Рәшитова / Радик Юлъякшин - Птица счастья (второй вариант)](../translated/g/golnara_rashitova_radik_yulyakshin_-_bahet_koshi_ikenche_variant.md)
-- [Гөлнара Рәшитова / Радик Юлъякшин - Гомерләр бер генә (беренче вариант) / Гульнара Рашитова / Радик Юлъякшин - Жизнь одна (первый вариант)](../translated/g/golnara_rashitova_radik_yulyakshin_-_gomerlar_ber_gena_berenche_variant.md)
-- [Гөлнара Рәшитова / Радик Юлъякшин - Үз йолдызым / Гөлнара Рәшитова / Радик Юлъякшин - Моя звезда](../translated/g/golnara_rashitova_radik_yulyakshin_-_uz_yoldizim.md)
-- [Гөлнара Рәшитова / Риф Арслан - Бирешмәдем / Гөлнара Рәшитова / Риф Арслан - Не сдался](../translated/g/golnara_rashitova_rif_arslan_-_bireshmadem.md)
 - [Гөлнара Рәшитова / Рөстәм Гыйззәтуллин - Моң (беренче вариант) / Гөлнара Рәшитова / Рөстәм Гыйззәтуллин - Моң (первый вариант)](../translated/g/golnara_rashitova_rostam_giyzzatullin_-_mon_berenche_variant.md)
 - [Гөлнара Рәшитова / Урал Рәшитов - Газиз Өфем / Гөлнара Рәшитова / Урал Рәшитов - Дорогая Уфа](../translated/g/golnara_rashitova_ural_rashitov_-_gaziz_ofem.md)
 - [Гөлнара Рәшитова / Урал Рәшитов - Кызыл розалар / Гульнара Рахимова / Урал Рахимов - Красные розы](../translated/g/golnara_rashitova_ural_rashitov_-_kizil_rozalar.md)
@@ -105,6 +96,15 @@
 - [Гөлсәрвәр / Николай Янеев - Кияү белән кәләш / Гөлсәрвәр / Николай Янеев - Жених и невеста](../translated/g/golsarvar_nikolay_yaneev_-_kiyau_belan_kalash.md)
 - [Гөлсәрвәр / Николай Янеев - Матур кош / Гөлсәрвәр / Николай Янеев - Красивая птица](../translated/g/golsarvar_nikolay_yaneev_-_matur_kosh.md)
 - [Гөлсәрвәр / Николай Янеев - Үпкәләмәм сиңа, әтием / Гульсарвар / Николай Янеев - Не обижаюсь на тебя, отец](../translated/g/golsarvar_nikolay_yaneev_-_upkalamam_sina_atiem.md)
+- [Гөлсәрвәр / Оскар Усманов - Айның нуры / Гөлсәрвәр / Оскар Усманов - Лунный свет](../translated/g/golsarvar_oskar_usmanov_-_aynin_nuri.md)
+- [Гөлсәрвәр / Оскар Усманов - Бәхет кадере / Гөлсәрвәр / Оскар Усманов - Цена счастья](../translated/g/golsarvar_oskar_usmanov_-_bahet_kadere.md)
+- [Гөлсәрвәр / Оскар Усманов - Изге хисләр / Гөлсәрвәр / Оскар Усманов - Святые чувства](../translated/g/golsarvar_oskar_usmanov_-_izge_hislar.md)
+- [Гөлсәрвәр / Оскар Усманов - Йөрәк үз тиңен тапты / Гөлсәрвәр / Оскар Усманов - Сердце нашло свою пару](../translated/g/golsarvar_oskar_usmanov_-_yorak_uz_tinen_tapti.md)
+- [Гөлсәрвәр / Оскар Усманов - Йөрәк өмет өзми / Гөлсәрвәр / Оскар Усманов - Сердце надежды не теряет](../translated/g/golsarvar_oskar_usmanov_-_yorak_omet_ozmi.md)
+- [Гөлсәрвәр / Оскар Усманов - Кем идең син / Гульсарвар / Оскар Усманов - Кто же ты была](../translated/g/golsarvar_oskar_usmanov_-_kem_iden_sin.md)
+- [Гөлсәрвәр / Оскар Усманов - Күбәләк гомере / Гөлсәрвәр / Оскар Усманов - Бабочка жизни](../translated/g/golsarvar_oskar_usmanov_-_kubalak_gomere.md)
+- [Гөлсәрвәр / Оскар Усманов - Көн яктысы кебек / Гөлсәрвәр / Оскар Усманов - Как дневной свет](../translated/g/golsarvar_oskar_usmanov_-_kon_yaktisi_kebek.md)
+- [Гөлсәрвәр / Оскар Усманов - Мин көтәм сине / Гюльсарвар / Оскар Усманов - Я тебя жду](../translated/g/golsarvar_oskar_usmanov_-_min_kotam_sine.md)
 
 ---
 

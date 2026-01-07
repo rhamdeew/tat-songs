@@ -5,18 +5,6 @@
 [← Предыдущая страница](SONGS_9.md) | [Главная страница](../README.md) | [Следующая страница →](SONGS_11.md)
 
 
-- [Айфара - Гузэлем / Айфара - Красавица](../translated/a/ayfara-guzelem.md)
-- [Айфара - Егет тэкъдиме / Айфара - Предложение парня](../translated/a/ayfara-eget_tekdime.md)
-- [Айфара - Кара кыз / Айфара - Смуглая девушка](../translated/a/ayfara-kara_kyz.md)
-- [Айфара - Кем син / Айфара - Кто ты](../translated/a/ayfara-kem_sin.md)
-- [Айфара - Кил генэ котэрмен / Айфара - Приходи, просто жду](../translated/a/ayfara-kil_gene_kotermen.md)
-- [Айфара - Кирэген бер тиен / Айфара - Нужен один тиын](../translated/a/ayfara-kiregen_ber_tien.md)
-- [Айфара - Курше авыл кызы / Айфара - Девушка из соседней деревни](../translated/a/ayfara-kurshe_avyl_kyzy.md)
-- [Айфара - Мин гаепле / Айфара - Я виноват](../translated/a/ayfara-min_gaeple.md)
-- [Айфара - Мин сине сагынам / Айфара - Я скучаю по тебе](../translated/a/ayfara-min_sine_sagynam.md)
-- [Айфара - Назлы голем голназым / Айфара - Нежный мой цветок Гульназ](../translated/a/ayfara-nazly_golem_golnazym.md)
-- [Айфара - Сау бул / Айфара - Прощай](../translated/a/ayfara-sau_bul.md)
-- [Айфара - Сау бул жэй / Айфара - Прощай, лето](../translated/a/ayfara-sau_bul_zhey.md)
 - [Айфара - Сина / Айфара - Тебе](../translated/a/ayfara-sina.md)
 - [Айфара - Синен тэрэзэндэ ут яна / Айфара - В твоем окне горит огонь](../translated/a/ayfara-sinen_terezende_ut_yana.md)
 - [Айфара - Сонгы тапкыр / Айфара - Последний раз](../translated/a/ayfara-songy_tapkyr.md)
@@ -105,6 +93,18 @@
 - [Алсу - Сандугачым гузэлем / Алсу - Соловей мой прекрасный](../translated/a/alsu-sandugachym_guzelem.md)
 - [Алсу - Син гомер агышларым / Алсу - Ты течение жизни моей](../translated/a/alsu-sin_gomer_agyshlarym.md)
 - [Алсу - Туган тел / Алсу - Родной язык](../translated/a/alsu-tugan_tel.md)
+- [Алсу - Уфа юкэлэре / Алсу - Липы Уфы](../translated/a/alsu-ufa_yukelere.md)
+- [Алсу - Шэл бэйлэдем / Алсу - Платок повязала](../translated/a/alsu-shel_beyledem.md)
+- [Алсу - Эткэй / Алсу - Папа](../translated/a/alsu-etkey.md)
+- [Алсу Васикова / Алия Ганиева - Ак бәхетләр телим сезгә / Алсу Васикова / Алия Ганиева - Светлого счастья желаю вам](../translated/a/alsu_vasikova_aliya_ganieva_-_ak_bahetlar_telim_sezga.md)
+- [Алсу Васикова / Алия Ганиева - Өмет итәм бу язга / Алсу Васикова / Алия Ганиева - Надеюсь на эту весну](../translated/a/alsu_vasikova_aliya_ganieva_-_omet_itam_bu_yazga.md)
+- [Алсу Васикова / Гөлия Закирова - Якты уйлар / Алсу Васикова / Гюлия Закирова - Светлые мысли](../translated/a/alsu_vasikova_goliya_zakirova_-_yakti_uylar.md)
+- [Алсу Гарипова - Йөрәгемдәге хисләрем / Алсу Гарипова - Чувства в моём сердце](../translated/a/alsu_garipova_-_yoragemdage_hislarem.md)
+- [Алсу Гарипова / Наил Кадыйров - Яратамын сезне, дусларым / Алсу Гарипова / Наил Кадыйров - Люблю вас, друзья мои](../translated/a/alsu_garipova_nail_kadiyrov_-_yaratamin_sezne_duslarim.md)
+- [Алсу Зарипова / Илдар Ногманов - Адаштырдың мине / Алсу Зарипова / Илдар Ногманов - Ты меня обманул](../translated/a/alsu_zaripova_ildar_nogmanov_-_adashtirdin_mine.md)
+- [Алсу Нәфыйкова - Гомер буе бергә атлагыз / Алсу Нафийкова - Шагайте вместе всю жизнь](../translated/a/alsu_nafiykova_-_gomer_bue_berga_atlagiz.md)
+- [Алсу Нәфыйкова - Рәхмәтлебез язмышка / Алсу Нафикова - Благодарны судьбе](../translated/a/alsu_nafiykova_-_rahmatlebez_yazmishka.md)
+- [Алсу Таҗетдинова - Әнкәем (алтынчы вариант) / Алсу Таджетдинова - Мамочка (шестой вариант)](../translated/a/alsu_tacetdinova_-_ankaem_altinchi_variant.md)
 
 ---
 

@@ -5,11 +5,6 @@
 [← Предыдущая страница](SONGS_55.md) | [Главная страница](../README.md) | [Следующая страница →](SONGS_57.md)
 
 
-- [Нәфисә Сабирҗанова / Владимир Федоров - Бәхетле буласы бар әле / Нафиса Сабирджанова / Владимир Фёдоров - Ещё быть счастливыми нам](../translated/n/nafisa_sabircanova_vladimir_fedorov_-_bahetle_bulasi_bar_ale.md)
-- [Нәфисә Сабирҗанова / Владимир Федоров - Кайтып киләм / Нәфисә Сабирҗанова / Владимир Фёдоров - Возвращаюсь](../translated/n/nafisa_sabircanova_vladimir_fedorov_-_kaytip_kilam.md)
-- [Нәфисә Сабирҗанова / Владимир Федоров - Ромашкалар (дүртенче вариант) / Нафиса Сабиржанова / Владимир Федоров - Ромашки (четвёртый вариант)](../translated/n/nafisa_sabircanova_vladimir_fedorov_-_romashkalar_durtenche_variant.md)
-- [Нәфисә Сабирҗанова / Владимир Федоров - Яныңдагыны ярат / Нәфисә Сабирҗанова / Владимир Федоров - Люби того, кто рядом](../translated/n/nafisa_sabircanova_vladimir_fedorov_-_yanindagini_yarat.md)
-- [Нәфисә Сабирҗанова / Зиннур Сафиуллин - Ак хыяллар / Нәфисә Сабирҗанова / Зиннур Сафиуллин - Белые мечты](../translated/n/nafisa_sabircanova_zinnur_safiullin_-_ak_hiyallar.md)
 - [Нәфисә Сабирҗанова / Зиннур Сафиуллин - Җанга җылы сүз кирәк / Нафиса Сабиржанова / Зиннур Сафиуллин - Душе нужны тёплые слова](../translated/n/nafisa_sabircanova_zinnur_safiullin_-_canga_cili_suz_kirak.md)
 - [Нәфисә Сабирҗанова / Илнур Фәйзуллин - Үзем әни булгач аңладым / Нәфисә Сабирҗанова / Ильнур Файзуллин - Став матерью, поняла](../translated/n/nafisa_sabircanova_ilnur_fayzullin_-_uzem_ani_bulgach_anladim.md)
 - [Нәфисә Сабирҗанова / Людмила Аланлы - Сары алма (беренче вариант) / Нәфисә Сабирҗанова / Людмила Аланлы - Желтое яблоко (первый вариант)](../translated/n/nafisa_sabircanova_lyudmila_alanli_-_sari_alma_berenche_variant.md)
@@ -105,6 +100,11 @@
 - [Равил Каюмов - Ятим  иттең, әнкәй / Равил Каюмов - Ты сиротой сделала, мама](../translated/r/ravil_kayumov_-_yatim_itten_ankay.md)
 - [Равил Кузнецов - Авыл урамнары / Равил Кузнецов - Деревенские улицы](../translated/r/ravil_kuznetsov_-_avil_uramnari.md)
 - [Равил Кузнецов - Изге ай / Равил Кузнецов - Святая луна](../translated/r/ravil_kuznetsov_-_izge_ay.md)
+- [Равил Кузнецов - Ишкәкләр сынды / Равил Кузнецов - Весла сломались](../translated/r/ravil_kuznetsov_-_ishkaklar_sindi.md)
+- [Равил Кузнецов - Кайтам әле авылыма / Равил Кузнецов - Возвращаюсь в родную деревню](../translated/r/ravil_kuznetsov_-_kaytam_ale_avilima.md)
+- [Равил Кузнецов - Кайтам әле туган ягыма / Равил Кузнецов - Возвращаюсь в родные края](../translated/r/ravil_kuznetsov_-_kaytam_ale_tugan_yagima.md)
+- [Равил Кузнецов - Менәр идем тауга / Равил Кузнецов - Поднялся бы я в горы](../translated/r/ravil_kuznetsov_-_menar_idem_tauga.md)
+- [Равил Кузнецов - Сагынам әниемне / Равил Кузнецов - Скучаю по маме](../translated/r/ravil_kuznetsov_-_saginam_aniemne.md)
 
 ---
 

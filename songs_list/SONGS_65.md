@@ -5,11 +5,6 @@
 [← Предыдущая страница](SONGS_64.md) | [Главная страница](../README.md) | [Следующая страница →](SONGS_66.md)
 
 
-- [Ринат Рахматуллин - Этиемэ / Ринат Рахматуллин - Отец мой](../translated/r/rinat_rahmatullin-etieme.md)
-- [Ринат Рахматуллин - Юк, юк, ташлап китмә син / Ринат Рахматуллин - Нет, нет, не уходи](../translated/r/rinat_rahmatullin_-_yuk_yuk_tashlap_kitma_sin.md)
-- [Ринат Рахматуллин - Ярату / Ринат Рахматуллин - Любовь](../translated/r/rinat_rahmatullin-yaratu.md)
-- [Ринат Сөләймәнов / Илмир Моратов - Яшьлек юлларым / Ринат Сөләйменов / Илмир Муратов - Дороги моей юности](../translated/r/rinat_solaymanov_ilmir_moratov_-_yashlek_yullarim.md)
-- [Ринат Хәйри / Вәсил Галимов - Баланнар әчесе / Ринат Хайри / Васил Галимов - Горечь калины](../translated/r/rinat_hayri_vasil_galimov_-_balannar_achese.md)
 - [Ринат Хәйри / Вәсил Галимов - Минем хакта уйлыйсыңмы? / Ринат Хайри / Васил Галимов - Думаешь ли обо мне?](../translated/r/rinat_hayri_vasil_galimov_-_minem_hakta_uyliysinmi.md)
 - [Ринат Хәйри / Вәсил Галимов - Туган як каеннары (беренче вариант) / Ринат Хайри / Василий Галимов - Клёны родного края (первый вариант)](../translated/r/rinat_hayri_vasil_galimov_-_tugan_yak_kaennari_berenche_variant.md)
 - [Ринат Хәйри / Мөдәрис Газетдинов - Мин ышанам таңнарга / Ринат Хәйри / Мөдәрис Газетдинов - Я верю в рассветы](../translated/r/rinat_hayri_modaris_gazetdinov_-_min_ishanam_tannarga.md)
@@ -105,6 +100,11 @@
 - [Роберт Миңнуллин / Оскар Усманов - Буран дулый / Роберт Миннуллин / Оскар Усманов - Буран ревёт](../translated/r/robert_minnullin_oskar_usmanov_-_buran_duliy.md)
 - [Роберт Миңнуллин / Оскар Усманов - Гомер аты / Роберт Миңнуллин / Оскар Усманов - Конь жизни](../translated/r/robert_minnullin_oskar_usmanov_-_gomer_ati.md)
 - [Роберт Миңнуллин / Оскар Усманов - Гомерләр үтә икән ул / Роберт Миннуллин / Оскар Усманов - Пути проходят, как обычно](../translated/r/robert_minnullin_oskar_usmanov_-_gomerlar_uta_ikan_ul.md)
+- [Роберт Миңнуллин / Оскар Усманов - Зилә-Зилә-Зиләйлүк / Роберт Миңнуллин / Оскар Усманов - Зиля-Зиля-Зилейлюк](../translated/r/robert_minnullin_oskar_usmanov_-_zila-zila-zilayluk.md)
+- [Роберт Миңнуллин / Оскар Усманов - Исәнмесез (беренче вариант) / Роберт Миннуллин / Оскар Усманов - Здравствуйте (первый вариант)](../translated/r/robert_minnullin_oskar_usmanov_-_isanmesez_berenche_variant.md)
+- [Роберт Миңнуллин / Оскар Усманов - Каеннар арасында / Роберт Миңнуллин / Оскар Усманов - Среди берез](../translated/r/robert_minnullin_oskar_usmanov_-_kaennar_arasinda.md)
+- [Роберт Миңнуллин / Оскар Усманов - Кайтабыз да китәбез шул / Роберт Миңнуллин / Оскар Усманов - Возвращаемся и уходим мы](../translated/r/robert_minnullin_oskar_usmanov_-_kaytabiz_da_kitabez_shul.md)
+- [Роберт Миңнуллин / Оскар Усманов - Кайтып киләм сине озатып / Роберт Миңнуллин / Оскар Усманов - Возвращаюсь, проводив тебя](../translated/r/robert_minnullin_oskar_usmanov_-_kaytip_kilam_sine_ozatip.md)
 
 ---
 

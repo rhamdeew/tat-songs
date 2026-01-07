@@ -5,12 +5,6 @@
 [← Предыдущая страница](SONGS_46.md) | [Главная страница](../README.md) | [Следующая страница →](SONGS_48.md)
 
 
-- [Марат Гобәйдуллин - Татарстан - гүзәл республикам / Марат Гобәйдуллин - Татарстан - прекрасная республика](../translated/m/marat_gobaydullin_-_tatarstan_guzal_respublikam.md)
-- [Марат Гобәйдуллин - Тик син диеп тибә йөрәгем / Марат Гобайдуллин - Лишь тобою бьется мое сердце](../translated/m/marat_gobaydullin_-_tik_sin_diep_tiba_yoragem.md)
-- [Марат Гобәйдуллин - Туган авылым - Айбаш (беренче вариант) / Марат Гобайдуллин - Родная деревня моя - Айбаш (первый вариант)](../translated/m/marat_gobaydullin_-_tugan_avilim_aybash_berenche_variant.md)
-- [Марат Гобәйдуллин - Туган авылым - Каракүл / Марат Гобәйдуллин - Родная деревня - Каракуль](../translated/m/marat_gobaydullin_-_tugan_avilim_karakul.md)
-- [Марат Гобәйдуллин - Туган ягым Биектау / Марат Гобәйдуллин - Родной мой Биектау](../translated/m/marat_gobaydullin_-_tugan_yagim_biektau.md)
-- [Марат Гобәйдуллин - Туган як (җиденче вариант) / Марат Гобәйдуллин - Родной край (седьмой вариант)](../translated/m/marat_gobaydullin_-_tugan_yak_cidenche_variant.md)
 - [Марат Гобәйдуллин - Туган якны сагыну / Марат Гобайдуллин - Тоска по родному краю](../translated/m/marat_gobaydullin_-_tugan_yakni_saginu.md)
 - [Марат Гобәйдуллин - Туган җир (өченче вариант) / Марат Гобайдуллин - Родная земля (третий вариант)](../translated/m/marat_gobaydullin_-_tugan_cir_ochenche_variant.md)
 - [Марат Гобәйдуллин - Туган җир ул бер генә / Марат Гобәйдуллин - Родная земля одна](../translated/m/marat_gobaydullin_-_tugan_cir_ul_ber_gena.md)
@@ -105,6 +99,12 @@
 - [Марат Кәбиров / Ризван Хәкимов - Вальс / Марат Кабиров / Ризван Хакимов - Вальс](../translated/m/marat_kabirov_rizvan_hakimov_-_vals.md)
 - [Марат Кәбиров / Ризван Хәкимов - Гомер буйлап барам / Марат Кәбиров / Ризван Хәкимов - По жизни иду](../translated/m/marat_kabirov_rizvan_hakimov_-_gomer_buylap_baram.md)
 - [Марат Кәбиров / Ризван Хәкимов - Гөнаһ / Марат Кәбиров / Ризван Хәкимов - Грех](../translated/m/marat_kabirov_rizvan_hakimov_-_gonah.md)
+- [Марат Кәбиров / Ризван Хәкимов - Дуслар җыелган җирдә (Дусларыма) / Марат Кабиров / Ризван Хакимов - Там, где собрались друзья (Друзьям)](../translated/m/marat_kabirov_rizvan_hakimov_-_duslar_cielgan_cirda_duslarima.md)
+- [Марат Кәбиров / Ризван Хәкимов - Идел дулый / Марат Кабиров / Ризван Хакимов - Итель шумит](../translated/m/marat_kabirov_rizvan_hakimov_-_idel_duliy.md)
+- [Марат Кәбиров / Ризван Хәкимов - Исмә әле җил / Марат Кабиров / Ризван Хакимов - Дуй, ветер](../translated/m/marat_kabirov_rizvan_hakimov_-_isma_ale_cil.md)
+- [Марат Кәбиров / Ризван Хәкимов - Кил әле яныма / Марат Кабиров / Ризван Хакимов - Приди же ко мне](../translated/m/marat_kabirov_rizvan_hakimov_-_kil_ale_yanima.md)
+- [Марат Кәбиров / Ризван Хәкимов - Кичү / Марат Кәбиров / Ризван Хәкимов - Переправа](../translated/m/marat_kabirov_rizvan_hakimov_-_kichu.md)
+- [Марат Кәбиров / Ризван Хәкимов - Кузгала поезд / Марат Кабиров / Ризван Хакимов - Поезд трогается](../translated/m/marat_kabirov_rizvan_hakimov_-_kuzgala_poezd.md)
 
 ---
 

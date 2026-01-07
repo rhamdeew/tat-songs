@@ -5,12 +5,6 @@
 [← Предыдущая страница](SONGS_43.md) | [Главная страница](../README.md) | [Следующая страница →](SONGS_45.md)
 
 
-- [Лейсан Сунгатова - Син / Лейсан Сунгатова - Ты](../translated/l/leysan_sungatova-sin.md)
-- [Лейсан Сунгатова - Эзлэмэ / Лейсан Сунгатова - Не ищи](../translated/l/leysan_sungatova-ezleme.md)
-- [Лейсан Таишева - Кубэлэк / Лейсан Таишева - Бабочка](../translated/l/leysan_taisheva-kubelek.md)
-- [Лейсан Таишева - Сою котэм / Лейсан Таишева - Жду любимую](../translated/l/leysan_taisheva-soyu_kotem.md)
-- [Лена Шагыйрьҗан / Айдар Тимербаев - Мәхәббәт көянтәсе / Лена Шагыйрьҗан / Айдар Тимербаев - Любовное ярмо](../translated/l/lena_shagiyrcan_aydar_timerbaev_-_mahabbat_koyantase.md)
-- [Лена Шагыйрьҗан / Айдар Тимербаев - Үземнеке бөтенләйгә / Лена Шагиърҗан / Айдар Тимербаев - Совсем моя теперь](../translated/l/lena_shagiyrcan_aydar_timerbaev_-_uzemneke_botenlayga.md)
 - [Лена Шагыйрьҗан / Искәндәр Биктаһиров - Җир әйләнә, җыр әйләнә / Лена Шагыйрьҗан / Искәндәр Биктаһиров - Земля кружится, песня кружится](../translated/l/lena_shagiyrcan_iskandar_biktahirov_-_cir_aylana_cir_aylana.md)
 - [Лена Шагыйрьҗан / Наилә Фатехова - Иман яңартырга вакыт / Лена Шагырджан / Наиля Фатехова - Время обновить веру](../translated/l/lena_shagiyrcan_naila_fatehova_-_iman_yanartirga_vakit.md)
 - [Лена Шагыйрьҗан / Сара Садыйкова - Иркәң буласым килә / Лена Шагирджан / Сара Садыкова - Хочу быть твоей нежностью](../translated/l/lena_shagiyrcan_sara_sadiykova_-_irkan_bulasim_kila.md)
@@ -105,6 +99,12 @@
 - [Люция Әблиева / Флера Шәрипова - Җиде ятлар идек / Люция Әблиева / Флера Шәрипова - Мы были семью чужими](../translated/l/lyutsiya_ablieva_flera_sharipova_-_cide_yatlar_idek.md)
 - [Люция Әблиева / Эльвира Нигъмәтуллина - Иртән / Люция Абляева / Эльвира Нигматуллина - Рано утром](../translated/l/lyutsiya_ablieva_elvira_nigmatullina_-_irtan.md)
 - [Ләбиб Айтуганов / Алмаз Монасыйпов - Кыр казлары (икенче вариант) / Ләбиб Айтуганов / Алмаз Монасыйпов - Полевые гуси (второй вариант)](../translated/l/labib_aytuganov_almaz_monasiypov_-_kir_kazlari_ikenche_variant.md)
+- [Ләбиб Айтуганов / Алмаз Монасыйпов - Сандугач җыр суза / Ләбиб Айтуганов / Алмаз Монасыйпов - Соловей выводит песню](../translated/l/labib_aytuganov_almaz_monasiypov_-_sandugach_cir_suza.md)
+- [Ләбиб Айтуганов / Илһам Шакиров - Һаман истә / Ләбиб Айтуганов / Илһам Шакиров - Все еще в памяти](../translated/l/labib_aytuganov_ilham_shakirov_-_haman_ista.md)
+- [Ләбиб Айтуганов / Ифрат Хисамов - Балыкчы җыры (беренче вариант) / Ләбиб Айтуганов / Ифрат Хисамов - Песня рыбака (первый вариант)](../translated/l/labib_aytuganov_ifrat_hisamov_-_balikchi_ciri_berenche_variant.md)
+- [Ләбиб Айтуганов / Рөстәм Яхин - Ышанам (беренче вариант) / Ләбиб Айтуганов / Рөстәм Яхин - Верю (первый вариант)](../translated/l/labib_aytuganov_rostam_yahin_-_ishanam_berenche_variant.md)
+- [Ләбиб Айтуганов / Фасил Әхмәтов - Әй, Кабаным! / Лябиб Айтуганов / Фасиль Ахметов - Эй, Кабаным!](../translated/l/labib_aytuganov_fasil_ahmatov_-_ay_kabanim.md)
+- [Ләбиб Лерон / Айдар Тимербаев - Халкым минем (Кем син?) / Лябиб Лерон / Айдар Тимербаев - Народ мой (Кто ты?)](../translated/l/labib_leron_aydar_timerbaev_-_halkim_minem_kem_sin.md)
 
 ---
 

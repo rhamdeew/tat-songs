@@ -5,11 +5,6 @@
 [← Предыдущая страница](SONGS_51.md) | [Главная страница](../README.md) | [Следующая страница →](SONGS_53.md)
 
 
-- [Мәхмүт Хөсәен / Ганс Сәйфуллин - Әнием миләше / Махмут Хусаен / Ганс Сайфуллин - Рябина мамы](../translated/m/mahmut_hosaen_gans_sayfullin_-_aniem_milashe.md)
-- [Мәхмүт Хөсәен / Заһид Хәбибуллин - Яшьлек вальсы / Махмут Хусаен / Захид Хабибуллин - Вальс юности](../translated/m/mahmut_hosaen_zahid_habibullin_-_yashlek_valsi.md)
-- [Мәхмүт Хөсәен / Заһид Хәбибуллин - Яшәсен кияүләрем / Махмут Хусаин / Захид Хабибуллин - Да здравствуют мои зятья](../translated/m/mahmut_hosaen_zahid_habibullin_-_yashasen_kiyaularem.md)
-- [Мәхмүт Хөсәен / Зәбих Мәмәлимов - Менә сиңа Миләүшә (Миләүшә) / Мәхмүт Хөсәен / Зәбих Мәмәлимов - Вот тебе Миләүшә (Миләүшә)](../translated/m/mahmut_hosaen_zabih_mamalimov_-_mena_sina_milausha_milausha.md)
-- [Мәхмүт Хөсәен / Инсаф Хәбибуллин - Җырлыйк, дуслар (беренче вариант) / Мәхмүт Хөсәен / Инсаф Хәбибуллин - Споём, друзья (первый вариант)](../translated/m/mahmut_hosaen_insaf_habibullin_-_cirliyk_duslar_berenche_variant.md)
 - [Мәхмүт Хөсәен / Ифрат Хисамов - Бәрәңге / Мәхмүт Хөсәен / Ифрат Хисамов - Картошка](../translated/m/mahmut_hosaen_ifrat_hisamov_-_barange.md)
 - [Мәхмүт Хөсәен / Мәсгуть Имашев - Далам - туган бишегем / Мәхмүт Хөсәен / Мәсгуть Имашев - Моя степь - колыбель родная](../translated/m/mahmut_hosaen_masgut_imashev_-_dalam_tugan_bishegem.md)
 - [Мәхмүт Хөсәен / Рафаил Бакиров - Гафу ит, иркәм! / Махмут Хусаен / Рафаил Бакиров - Прости меня, милый!](../translated/m/mahmut_hosaen_rafail_bakirov_-_gafu_it_irkam.md)
@@ -105,6 +100,11 @@
 - [Назифа Каримова / Наилә Фатехова - Бер күрешү - үзе бер гомер (беренче вариант) / Назифа Каримова / Наиля Фатехова - Одно лишь сражение - вся жизнь (первый вариант)](../translated/n/nazifa_karimova_naila_fatehova_-_ber_kureshu_uze_ber_gomer_berenche_variant.md)
 - [Назифа Каримова / Наилә Фатехова - Татар генераллары / Назифа Каримова / Наилә Фатехова - Татарские генералы](../translated/n/nazifa_karimova_naila_fatehova_-_tatar_generallari.md)
 - [Назифа Каримова / Рөстәм Невретдинов - Сөембикә (беренче вариант) / Назифа Каримова / Рустам Невретдинов - Сююмбика (первый вариант)](../translated/n/nazifa_karimova_rostam_nevretdinov_-_soembika_berenche_variant.md)
+- [Наил Габдүшев / Инсаф Хәбибуллин - Чәчәкләрне өзмәгез / Наил Габдушев / Инсаф Хәбибуллин - Не рвите цветы](../translated/n/nail_gabdushev_insaf_habibullin_-_chachaklarne_ozmagez.md)
+- [Наил Габдүшев / Хәмис Азмуханов - Йөрәгемне яндырма / Наиль Габдушев / Хамис Азмуханов - Не обжигай мне сердце](../translated/n/nail_gabdushev_hamis_azmuhanov_-_yoragemne_yandirma.md)
+- [Наил Гаетбай / Рим Хәсәнов - Өч каен / Наил Гаетбай / Рим Хәсәнов - Три березы](../translated/n/nail_gaetbay_rim_hasanov_-_och_kaen.md)
+- [Наил Касыймов / Билгесез - Ламбада (беренче вариант) / Наиль Касымов / Билгесез - Ламбада (первый вариант)](../translated/n/nail_kasiymov_bilgesez_-_lambada_berenche_variant.md)
+- [Наил Касыймов / Вил Усманов - Нинди гүзәл, матур минем халкым / Наил Касыймов / Вил Усманов - Как прекрасен мой народ](../translated/n/nail_kasiymov_vil_usmanov_-_nindi_guzal_matur_minem_halkim.md)
 
 ---
 

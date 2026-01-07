@@ -5,18 +5,6 @@
 [← Предыдущая страница](SONGS_2.md) | [Главная страница](../README.md) | [Следующая страница →](SONGS_4.md)
 
 
-- [nuriya_abdullina_ - _ziyanchura_guzal_cir / Нурия Абдуллина - Зиянчура - прекрасная земля](../translated/n/nuriya_abdullina_-_ziyanchura_guzal_cir.md)
-- [nuriya_abdullina_ - Ризыкларың өзелмәгән ... / Нурия Абдуллина - Ризыкларың өзелмәгән ...](../translated/n/nuriya_abdullina_-_riziklarin_ozelmagan.md)
-- [Puma - Жыр доньясы / Puma - Мир песни](../translated/p/puma-zhyr_donyasy.md)
-- [Puma - Жэйгэ, кунакка (Безнен жэй) / Puma - К лету, в гости (Наше лето)](../translated/p/puma-zheyge_kunakka_beznen_zhey.md)
-- [radif_gatash_mars_makarov_ - Рәдиф Гаташ / Марс Макаров - Язгы ташу / Рәдиф Гаташ / Марс Макаров - Весенний разлив](../translated/r/radif_gatash_mars_makarov_-_yazgi_tashu.md)
-- [radif_gatash_rif_gataullin_ - Рәдиф Гаташ / Риф Гатауллин - Аңлашу / Рәдиф Гаташ / Риф Гатауллин - Понимание](../translated/r/radif_gatash_rif_gataullin_-_anlashu.md)
-- [radik_hakimcanov_firdus_sharafullin_ - _yakti_nurin_kaldi_kunelda / Радик Хәкимҗанов / Фирдүс Шәрәфуллин - Свет твой остался в сердце](../translated/r/radik_hakimcanov_firdus_sharafullin_-_yakti_nurin_kaldi_kunelda.md)
-- [radik_hakimcanov_flura_arslangolova_ - Радик Хәкимҗанов / Флүрә Арсланголова - Ефремова - Гармун телләре көмештер / Радик Хәкимҗанов / Флүрә Арсланголова - Ефремова - Кнопки гармони - серебро](../translated/r/radik_hakimcanov_flura_arslangolova_-_efremova_-_garmun_tellare_komeshter.md)
-- [radik_hakimcanov_flura_arslangolova_ - Радик Хәкимҗанов / Флүрә Арсланголова - Ефремова - Таянырлык дуслар булсын (беренче вариант) / Радик Хәкимҗанов / Флүрә Арсланголова - Ефремова - Пусть будут друзья-опора (первый вариант)](../translated/r/radik_hakimcanov_flura_arslangolova_-_efremova_-_tayanirlik_duslar_bulsin_berenche_variant.md)
-- [radik_hakimcanov_rais_vagiyzov_ - Аккошлар нигә моңсулар? / Радик Хәкимҗанов / Рәис Вәгыйзов - Почему грустят лебеди?](../translated/r/radik_hakimcanov_rais_vagiyzov_-_akkoshlar_niga_monsular.md)
-- [radik_hakimcanov_rizvan_hakimov_ - Радик Хәкимҗанов / Ризван Хәкимов - Сулар булып ага (Кеше гомере) / Радик Хәкимҗанов / Ризван Хәкимов - Течет, как воды (Человеческая жизнь)](../translated/r/radik_hakimcanov_rizvan_hakimov_-_sular_bulip_aga_keshe_gomere.md)
-- [rafiga_usmanova_zakirova_modaris_mosifullin_ - Рафига Усманова (Закирова) / Мөдәрис Мөсифуллин - Кызлар юри елый ул / Рафига Усманова (Закирова) / Мөдәрис Мөсифуллин - Девчонки нарочно плачут](../translated/r/rafiga_usmanova_zakirova_modaris_mosifullin_-_kizlar_yuri_eliy_ul.md)
 - [Rafis Gaptelganiev - Мин гашыйк булып йөрим / Рафис Гаптелганиев - Я влюбленным хожу](../translated/r/rafis_gaptelganiev_-_min_gashiyk_bulip_yorim.md)
 - [rafis_korban_ilgiz_zakirov_ - Рафис Корбан / Илгиз Закиров - Дусай җыры / Рафис Корбан / Илгиз Закиров - Песня Дусая](../translated/r/rafis_korban_ilgiz_zakirov_-_dusay_ciri.md)
 - [rahimcan_sharifcanov_rostam_hayrullin_ - Чаллыда туган диләр / Рәхимҗан Шәрифҗанов / Рөстәм Хәйруллин - Говорят, родился в Челнах](../translated/r/rahimcan_sharifcanov_rostam_hayrullin_-_challida_tugan_dilar.md)
@@ -105,6 +93,18 @@
 - [shayhi_mannur_caudat_fayzi_ - Шәйхи Маннур / Җәүдәт Фәйзи - Бәлки син дә сөярсең... / Шәйхи Маннур / Җәүдәт Фәйзи - Быть может, ты тоже полюбишь...](../translated/s/shayhi_mannur_caudat_fayzi_-_balki_sin_da_soyarsen.md)
 - [shgiylmanova_robert_timerbaev_ - Ш.Гыйльманова / Роберт Тимербаев - Өфе - Казан / Ш.Гыйльманова / Роберт Тимербаев - Уфа - Казань](../translated/s/shgiylmanova_robert_timerbaev_-_ofe_kazan.md)
 - [sibgat_hakim_caudat_fayzi_ - Оренбур шәле / Сибгат Хәким / Җәүдәт Фәйзи - Оренбургский шал](../translated/s/sibgat_hakim_caudat_fayzi_-_orenbur_shale.md)
+- [sibgat_hakim_caudat_fayzi_ - Сибгат Хәким / Җәүдәт Фәйзи - Торыгыз, Мусалар / Сибгат Хәким / Җәүдәт Фәйзи - Вставайте, Муса](../translated/s/sibgat_hakim_caudat_fayzi_-_torigiz_musalar.md)
+- [sibgat_hakim_sara_sadiykova_ - _susau / Сибгат Хәким / Сара Садыйкова - Жажда](../translated/s/sibgat_hakim_sara_sadiykova_-_susau.md)
+- [svetlana_sharipova_modaris_gazetdinov_ - Гаилә учагы (икенче вариант) / Светлана Шарипова, Модарис Газетдинов - Семейный очаг (второй вариант)](../translated/s/svetlana_sharipova_modaris_gazetdinov_-_gaila_uchagi_ikenche_variant.md)
+- [taci_giyzzat_salih_saydashev_ - Динар тавы / Тәҗи Гыйззәт / Салих Сәйдәшев - Гора Динар](../translated/t/taci_giyzzat_salih_saydashev_-_dinar_tavi.md)
+- [taci_giyzzat_salih_saydashev_ - Наҗиянең беренче җыры / Таджи Гыйззәт / Салих Сәйдәшев - Первая песня Наҗии](../translated/t/taci_giyzzat_salih_saydashev_-_naciyanen_berenche_ciri.md)
+- [tatar - Татар-Башкорт халык җыры - Шахта (дүртенче вариант) / tatar - Татаро-башкирская народная песня - Шахта (четвертый вариант)](../translated/t/tatar-bashkort_halik_ciri_-_shahta_durtenche_variant.md)
+- [Tatar halik / Masguda Shamsetdinova - Sary alma (ikenche variant) / Татарский народ / Мәсгудә Шәмсетдинова - Жёлтое яблоко (второй вариант)](../translated/t/tatar_halik_masguda_shamsetdinova_-_sari_alma_ikenche_variant.md)
+- [tatar_ - Татар - Башкорт халык - Эх, Идел буйлары / Татар - Башкорт халык - Ах, прибрежья Иделя](../translated/t/tatar_-_bashkort_halik_-_eh_idel_buylari.md)
+- [tatar_ - Татар - Башкорт халык җыры - Авыл көе (сигезенче вариант) / tatar_ - Татар - Башкирская народная песня - Деревенский напев (восьмой вариант)](../translated/t/tatar_-_bashkort_halik_ciri_-_avil_koe_sigezenche_variant.md)
+- [tatar_ - Татар - Башкорт халык җыры - Авыл көе (тугызынчы вариант) / Татар - Башкирская народная песня - Деревенская мелодия (девятый вариант)](../translated/t/tatar_-_bashkort_halik_ciri_-_avil_koe_tugizinchi_variant.md)
+- [tatar_ - Татар - Башкорт халык җыры - Авыл көе (унынчы вариант) / tatar_ - Башкирская народная песня - Деревенская мелодия (десятый вариант)](../translated/t/tatar_-_bashkort_halik_ciri_-_avil_koe_uninchi_variant.md)
+- [tatar_ - Татар - Башкорт халык җыры - Ак алъяпкыч / Татар_ - Татар - Башкирская народная песня - Белый передник](../translated/t/tatar_-_bashkort_halik_ciri_-_ak_alyapkich.md)
 
 ---
 

@@ -5,18 +5,6 @@
 [← Предыдущая страница](SONGS_4.md) | [Главная страница](../README.md) | [Следующая страница →](SONGS_6.md)
 
 
-- [tatar_halik_ciri_ - Татар халык җыры - И, кара каш, бөдрә чәч / Татар халык җыры - И, черные брови, кудрявые волосы](../translated/t/tatar_halik_ciri_-_i_kara_kash_bodra_chach.md)
-- [tatar_halik_ciri_ - Татар халык җыры - Их, дусларым / Татар халык җыры - Эх, друзья мои](../translated/t/tatar_halik_ciri_-_ih_duslarim.md)
-- [tatar_halik_ciri_ - Татар халык җыры - Ишкәкче карт / Татар халык җыры - Ишкәкче карт](../translated/t/tatar_halik_ciri_-_ishkakche_kart.md)
-- [tatar_halik_ciri_ - Татар халык җыры - Йөгереп кенә мендем, ай тауларга / татар_halik_ciri_ - Татарская народная песня - Бегом взошла я, ай, на горы](../translated/t/tatar_halik_ciri_-_yogerep_kena_mendem_ay_taularga.md)
-- [tatar_halik_ciri_ - Татар халык җыры - Казан көе / Татар халык җыры - Казан көе](../translated/t/tatar_halik_ciri_-_kazan_koe.md)
-- [tatar_halik_ciri_ - Татар халык җыры - Казан сөлгесе / tatar_halik_ciri_ - Казанское полотенце](../translated/t/tatar_halik_ciri_-_kazan_solgese.md)
-- [tatar_halik_ciri_ - Татар халык җыры - Кара карлыгач микән (өченче вариант) / Татар халык җыры - Черная ли ласточка? (третий вариант)](../translated/t/tatar_halik_ciri_-_kara_karligach_mikan_ochenche_variant.md)
-- [tatar_halik_ciri_ - Татар халык җыры - Кара каш, кара күз / tatar_halik_ciri_ - Татарская народная песня - Черные брови, черные глаза](../translated/t/tatar_halik_ciri_-_kara_kash_kara_kuz.md)
-- [tatar_halik_ciri_ - Татар халык җыры - Кара урман аша (Яңа кара урман) / Татарская народная песня - Через черный лес (Новый черный лес)](../translated/t/tatar_halik_ciri_-_kara_urman_asha_yana_kara_urman.md)
-- [tatar_halik_ciri_ - Татар халык җыры - Карауҗа авылы көе / Татар халык җыры - Татарская народная песня - Напев деревни Карауҗа](../translated/t/tatar_halik_ciri_-_karauca_avili_koe.md)
-- [tatar_halik_ciri_ - Татар халык җыры - Карачтау авылы көе / Татар халык җыры - Мелодия деревни Карачтау](../translated/t/tatar_halik_ciri_-_karachtau_avili_koe.md)
-- [tatar_halik_ciri_ - Татар халык җыры - Картуф / Татар халык җыры - Картофель](../translated/t/tatar_halik_ciri_-_kartuf.md)
 - [tatar_halik_ciri_ - Татар халык җыры - Керфекләрең нигә кара? (беренче вариант) / Татарская народная песня - Почему твои ресницы черны? (первый вариант)](../translated/t/tatar_halik_ciri_-_kerfeklaren_niga_kara_berenche_variant.md)
 - [tatar_halik_ciri_ - Татар халык җыры - Керфекләрең нигә кара? (икенче вариант) / Татар халык җыры - Керфекләрең нигә кара? (икенче вариант)](../translated/t/tatar_halik_ciri_-_kerfeklaren_niga_kara_ikenche_variant.md)
 - [tatar_halik_ciri_ - Татар халык җыры - Керфекләрең нигә кара? (өченче вариант) / Татар халык җыры - Татар халык җыры - Почему твои ресницы черны? (третий вариант)](../translated/t/tatar_halik_ciri_-_kerfeklaren_niga_kara_ochenche_variant.md)
@@ -105,6 +93,18 @@
 - [vil_kaziyhanov_moftadin_giylacev_ - Чакыр мине (беренче вариант) / Вил Казыйханов / Мөфтәдин Гыйләҗев - Позови меня (первый вариант)](../translated/v/vil_kaziyhanov_moftadin_giylacev_-_chakir_mine_berenche_variant.md)
 - [vitaliy_agapov_ - Виталий Агапов - Кайтып килә бер моряк / Виталий Агапов - Возвращается один моряк](../translated/v/vitaliy_agapov_-_kaytip_kila_ber_moryak.md)
 - [vitaliy_agapov_tatar_halik_koe_ - Виталий Агапов / Татар халык көе - Супер Сәвәләй такмаклары / Виталий Агапов / Татарская народная мелодия - Супер Сәвәләй такмаклары](../translated/v/vitaliy_agapov_tatar_halik_koe_-_super_savalay_takmaklari.md)
+- [y_valitov_ilgiz_safiullin_ - Й. Вәлитов / Илгиз Сафиуллин - Җырым минем - җырым туганым / Й. Вәлитов / Илгиз Сафиуллин - Песня моя - родной мне друг](../translated/y/y_valitov_ilgiz_safiullin_-_cirim_minem_cirim_tuganim.md)
+- [yakup_kolmiy_nail_galiev_nikolay_golov_ - Лилиям (икенче вариант) / Якуп Колмый / Наил Галиев (Николай Голов) - Лилиям (второй вариант)](../translated/y/yakup_kolmiy_nail_galiev_nikolay_golov_-_liliyam_ikenche_variant.md)
+- [yomabika_soltanova_fanzal_kotdisov_ - Йомабикә Солтанова / Фәнзәл Котдысов - Бәхет алмасы / Йомабика Солтанова / Фанзаль Котдысов - Яблоко счастья](../translated/y/yomabika_soltanova_fanzal_kotdisov_-_bahet_almasi.md)
+- [zalifa_shaymohammatova_guzaliya_ - _mahabbat_davalari / Зәлифә Шәймөхәммәтова / Гүзәлия - Лекарства любви](../translated/z/zalifa_shaymohammatova_guzaliya_-_mahabbat_davalari.md)
+- [Zaman Egetlere - Ак чэчэклэр / Заман Егетлере - Белые цветы](../translated/z/zaman_egetlere-ak_chechekler.md)
+- [Zaman Egetlere - Алматанын алмасы / Заман Егетлере - Алматинские яблоки](../translated/z/zaman_egetlere-almatanyn_almasy.md)
+- [Zarema Ayupova _bez_bahetlebez - Зарема Әюпова - Без бәхетлебез / Зарема Аюпова - Мы счастливы](../translated/z/zarema_ayupova_-_bez_bahetlebez.md)
+- [zaynap_biisheva_shamil_kolbarisov_ - Зәйнәп Биишева / Шамил Колбарисов - Дан җырла, шагыйр! / Зәйнәп Биишева / Шамил Колбарисов - Пой о славе, поэт!](../translated/z/zaynap_biisheva_shamil_kolbarisov_-_dan_cirla_shagiyr.md)
+- [zayni_shahimorat_luiza_batir - Зәйни Шаһиморат / Луиза Батыр-Болгари - Кайт, иркәм Сәрвиназ! / Зәйни Шаһиморат / Луиза Батыр-Болгари - Вернись, иркәм Сәрвиназ!](../translated/z/zayni_shahimorat_luiza_batir-bolgari_-_kayt_irkam_sarvinaz.md)
+- [zifa_nagaeva_ - _kutarep_yortimme_alla / Зифа Нагаева - Неужто на руках носить мне](../translated/z/zifa_nagaeva_-_kutarep_yortimme_alla.md)
+- [zifa_nagaeva_ - _vinograd / Зифа Нагаева - Виноград](../translated/z/zifa_nagaeva_-_vinograd.md)
+- [zifa_nagaeva_ - Диңгезгә / Зифа Нагаева - К морю](../translated/z/zifa_nagaeva_-_dingezga.md)
 
 ---
 

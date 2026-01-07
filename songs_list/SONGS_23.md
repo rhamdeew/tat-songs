@@ -5,15 +5,6 @@
 [← Предыдущая страница](SONGS_22.md) | [Главная страница](../README.md) | [Следующая страница →](SONGS_24.md)
 
 
-- [Гүзел Уразова - Син минеке / Гүзел Уразова - Ты мой](../translated/g/guzel_urazova-sin_mineke.md)
-- [Гүзел Уразова - Сина гына / Гүзел Уразова - Только тебе](../translated/g/guzel_urazova-sina_gyna.md)
-- [Гүзел Уразова - Синен серен / Гүзел Уразова - Твоя тайна](../translated/g/guzel_urazova-sinen_seren.md)
-- [Гүзел Әхметова - Йолдызларга кушам исеменне / Гузель Ахметова - К звёздам присоединяю имя твоё](../translated/g/guzel_ahmetova-yoldyzlarga_kusham_isemenne.md)
-- [Гүзел Әхметова - Розалар кочагында / Гузель Ахметова - В объятии роз](../translated/g/guzel_ahmetova-rozalar_kochagynda.md)
-- [Гүзел Әхметова - Сагындым / Гузель Ахметова - Скучала](../translated/g/guzel_ahmetova-sagyndym.md)
-- [Гүзел Әхметова - Синсез үтә гомер / Гузель Ахметова - Без тебя проходит жизнь](../translated/g/guzel_ahmetova-sinsez_ute_gomer.md)
-- [Гүзел Әхметова - Сонладын / Гузель Ахметова - Завяла](../translated/g/guzel_ahmetova-sonladyn.md)
-- [Гүзел Әхметова - Теләк / Гузель Ахметова - Пожелание](../translated/g/guzel_ahmetova-telek.md)
 - [Гүзел Әхметова - Уйлама әле картаям дип / Гузель Ахметова - Не думай, что старею](../translated/g/guzel_ahmetova-uylama_ele_kartayam_dip.md)
 - [Гүзел Әхметова - Яратам / Гузель Ахметова - Люблю](../translated/g/guzel_ahmetova-yaratam.md)
 - [Гүзел Әхметова - Яшьлек / Гузель Ахметова - Молодость](../translated/g/guzel_ahmetova-yashlek.md)
@@ -105,6 +96,15 @@
 - [Гөл Мирһади / Эльвира Хаматнурова - Күңелем калган түгелеп / Гуль Мирхади / Эльвира Хаматнурова - Күңелем калган түгелеп](../translated/g/gol_mirhadi_elvira_hamatnurova_-_kunelem_kalgan_tugelep.md)
 - [Гөл Мирһади / Эльвира Хаматнурова - Күңелле балачак җырлары / Гөл Мирһади / Эльвира Хаматнурова - Весёлые песни детства](../translated/g/gol_mirhadi_elvira_hamatnurova_-_kunelle_balachak_cirlari.md)
 - [Гөл Мирһади / Эльвира Хаматнурова - Көзге җыр (беренче вариант) / Гөл Мирһади / Эльвира Хаматнурова - Осенняя песня (первый вариант)](../translated/g/gol_mirhadi_elvira_hamatnurova_-_kozge_cir_berenche_variant.md)
+- [Гөл Мирһади / Эльвира Хаматнурова - Көзләр килгән / Гуль Мирхади / Эльвира Хаматнурова - Пришли осени](../translated/g/gol_mirhadi_elvira_hamatnurova_-_kozlar_kilgan.md)
+- [Гөл Мирһади / Эльвира Хаматнурова - Көткәндә / Гөл Мирһади / Эльвира Хаматнурова - В ожидании](../translated/g/gol_mirhadi_elvira_hamatnurova_-_kotkanda.md)
+- [Гөл Мирһади / Эльвира Хаматнурова - Мамык карлар / Гуль Мирхади / Эльвира Хаматнурова - Пуховые снежинки](../translated/g/gol_mirhadi_elvira_hamatnurova_-_mamik_karlar.md)
+- [Гөл Мирһади / Эльвира Хаматнурова - Мин бит дөньяда яшәргә өйрәнәм / Гөл Мирһади / Эльвира Хаматнурова - Я ведь учусь жить на свете](../translated/g/gol_mirhadi_elvira_hamatnurova_-_min_bit_donyada_yasharga_oyranam.md)
+- [Гөл Мирһади / Эльвира Хаматнурова - Минем гаиләм / Гөл Мирһади / Эльвира Хаматнурова - Моя семья](../translated/g/gol_mirhadi_elvira_hamatnurova_-_minem_gailam.md)
+- [Гөл Мирһади / Эльвира Хаматнурова - Мәктәбем (беренче вариант) / Гөл Мирһади / Эльвира Хаматнурова - Моя школа (первый вариант)](../translated/g/gol_mirhadi_elvira_hamatnurova_-_maktabem_berenche_variant.md)
+- [Гөл Мирһади / Эльвира Хаматнурова - Ничек тынычландырыйм? / Гуль Мирхади / Эльвира Хаматнурова - Как успокоить тебя?](../translated/g/gol_mirhadi_elvira_hamatnurova_-_nichek_tinichlandiriym.md)
+- [Гөл Мирһади / Эльвира Хаматнурова - Син булсаң янымда (беренче вариант) / Гуль Мирхади / Эльвира Хаматнурова - Если ты рядом со мной (первый вариант)](../translated/g/gol_mirhadi_elvira_hamatnurova_-_sin_bulsan_yanimda_berenche_variant.md)
+- [Гөл Мирһади / Эльвира Хаматнурова - Сине эзлим / Гуль Мирхади / Эльвира Хаматнурова - Ищу тебя](../translated/g/gol_mirhadi_elvira_hamatnurova_-_sine_ezlim.md)
 
 ---
 

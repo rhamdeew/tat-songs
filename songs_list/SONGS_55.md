@@ -5,11 +5,6 @@
 [← Предыдущая страница](SONGS_54.md) | [Главная страница](../README.md) | [Следующая страница →](SONGS_56.md)
 
 
-- [Нурия Абдуллина - Туганнар (икенче вариант) / Нурия Абдуллина - Родные (второй вариант)](../translated/n/nuriya_abdullina_-_tugannar_ikenche_variant.md)
-- [Нурия Абдуллина - Утыр әле, әнкәй, яннарыма / Нурия Абдуллина - Присядь, мама, рядом со мной](../translated/n/nuriya_abdullina_-_utir_ale_ankay_yannarima.md)
-- [Нурия Гыйләҗева / Ризида Мөхәммәтҗанова - Рәхмәтлемен (беренче вариант) / Нурия Гыйләҗева / Ризида Мөхәммәтҗанова - Благодарна (первый вариант)](../translated/n/nuriya_giylaceva_rizida_mohammatcanova_-_rahmatlemen_berenche_variant.md)
-- [Нурия Гыйләҗева / Ризида Мөхәммәтҗанова - Эх, гармун, гитара! / Нурия Гильяжева / Ризида Мухаммаджанова - Ах, гармонь, гитара!](../translated/n/nuriya_giylaceva_rizida_mohammatcanova_-_eh_garmun_gitara.md)
-- [Нурия Измайлова / Илһам Хисмәтуллин - Адаштым (беренче вариант) / Нурия Измайлова / Ильхам Хисматуллин - Заблудилась (первый вариант)](../translated/n/nuriya_izmaylova_ilham_hismatullin_-_adashtim_berenche_variant.md)
 - [Нурия Измайлова / Мәсгудә Шәмсетдинова - Урманнарга барам / Нурия Измайлова / Мәсгудә Шәмсетдинова - Иду в леса](../translated/n/nuriya_izmaylova_masguda_shamsetdinova_-_urmannarga_baram.md)
 - [Нурия Измайлова / Наилә Фатехова - Гөлләр (беренче вариант) / Нурия Измайлова / Наилә Фатехова - Цветы (первый вариант)](../translated/n/nuriya_izmaylova_naila_fatehova_-_gollar_berenche_variant.md)
 - [Нурия Измайлова / Чулпан Зиннәтуллина - Каеннар (икенче вариант) / Нурия Измайлова / Чулпан Зиннәтуллина - Березы (второй вариант)](../translated/n/nuriya_izmaylova_chulpan_zinnatullina_-_kaennar_ikenche_variant.md)
@@ -105,6 +100,11 @@
 - [Нәфисә Сабирҗанова - Карлар, бураннар / Нафиса Сабирджанова - Снега и метели](../translated/n/nafisa_sabircanova_-_karlar_burannar.md)
 - [Нәфисә Сабирҗанова - Сагыш (җиденче вариант) / Нафиса Сабирджанова - Тоска (седьмой вариант)](../translated/n/nafisa_sabircanova_-_sagish_cidenche_variant.md)
 - [Нәфисә Сабирҗанова - Сау бул, мәктәп (икенче вариант) / Нафиса Сабирджанова - Прощай, школа (второй вариант)](../translated/n/nafisa_sabircanova_-_sau_bul_maktap_ikenche_variant.md)
+- [Нәфисә Сабирҗанова / Владимир Федоров - Бәхетле буласы бар әле / Нафиса Сабирджанова / Владимир Фёдоров - Ещё быть счастливыми нам](../translated/n/nafisa_sabircanova_vladimir_fedorov_-_bahetle_bulasi_bar_ale.md)
+- [Нәфисә Сабирҗанова / Владимир Федоров - Кайтып киләм / Нәфисә Сабирҗанова / Владимир Фёдоров - Возвращаюсь](../translated/n/nafisa_sabircanova_vladimir_fedorov_-_kaytip_kilam.md)
+- [Нәфисә Сабирҗанова / Владимир Федоров - Ромашкалар (дүртенче вариант) / Нафиса Сабиржанова / Владимир Федоров - Ромашки (четвёртый вариант)](../translated/n/nafisa_sabircanova_vladimir_fedorov_-_romashkalar_durtenche_variant.md)
+- [Нәфисә Сабирҗанова / Владимир Федоров - Яныңдагыны ярат / Нәфисә Сабирҗанова / Владимир Федоров - Люби того, кто рядом](../translated/n/nafisa_sabircanova_vladimir_fedorov_-_yanindagini_yarat.md)
+- [Нәфисә Сабирҗанова / Зиннур Сафиуллин - Ак хыяллар / Нәфисә Сабирҗанова / Зиннур Сафиуллин - Белые мечты](../translated/n/nafisa_sabircanova_zinnur_safiullin_-_ak_hiyallar.md)
 
 ---
 

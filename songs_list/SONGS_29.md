@@ -5,14 +5,6 @@
 [← Предыдущая страница](SONGS_28.md) | [Главная страница](../README.md) | [Следующая страница →](SONGS_30.md)
 
 
-- [Гөлшат Зәйнәшева / Зиннур Гыйбадуллин - Җәйге ямьле басуларда / Гөлшат Зәйнәшева / Зиннур Гыйбадуллин - В летних милых полях](../translated/g/golshat_zaynasheva_zinnur_giybadullin_-_cayge_yamle_basularda.md)
-- [Гөлшат Зәйнәшева / Зиннур Мөхәммәтдинов - Авылым чишмәләре / Гөлшат Зәйнәшева / Зиннур Мөхәммәтдинов - Родные родники](../translated/g/golshat_zaynasheva_zinnur_mohammatdinov_-_avilim_chishmalare.md)
-- [Гөлшат Зәйнәшева / Зөфәр Сәгыйтов - Тибрәнә җыр күңелдә / Гульшат Зайнашева / Зуфар Сагитов - В душе колышется песня](../translated/g/golshat_zaynasheva_zofar_sagiytov_-_tibrana_cir_kunelda.md)
-- [Гөлшат Зәйнәшева / Зөфәр Хәйретдинов - Исеңә төшәрмен / Гульшат Зайнашева / Зуфар Хайретдинов - Буду сниться тебе](../translated/g/golshat_zaynasheva_zofar_hayretdinov_-_isena_tosharmen.md)
-- [Гөлшат Зәйнәшева / Зөфәр Хәйретдинов - Тәрәзәңә ай килер / Гульшат Зайнашева / Зуфар Хайретдинов - К твоему окну луна придёт](../translated/g/golshat_zaynasheva_zofar_hayretdinov_-_tarazana_ay_kiler.md)
-- [Гөлшат Зәйнәшева / Илгиз Закиров - Җыр эчендә йолдыз булмый / Гөлшат Зәйнәшева / Илгиз Закиров - В песне звезды не бывает](../translated/g/golshat_zaynasheva_ilgiz_zakirov_-_cir_echenda_yoldiz_bulmiy.md)
-- [Гөлшат Зәйнәшева / Илгиз Мәҗитов - Акбүз атлы егеткә / Гульшат Зайнашева / Ильгиз Мажитов - Парню на сером коне](../translated/g/golshat_zaynasheva_ilgiz_macitov_-_akbuz_atli_egetka.md)
-- [Гөлшат Зәйнәшева / Илгиз Мәҗитов - Таулар моңы / Гөлшат Зәйнәшева / Илгиз Мәҗитов - Песня гор](../translated/g/golshat_zaynasheva_ilgiz_macitov_-_taular_moni.md)
 - [Гөлшат Зәйнәшева / Илгиз Мәҗитов - Урман юлында / Гөлшат Зәйнәшева / Илгиз Мәҗитов - На лесной тропе](../translated/g/golshat_zaynasheva_ilgiz_macitov_-_urman_yulinda.md)
 - [Гөлшат Зәйнәшева / Илгиз Мәҗитов - Яшел чирәм / Гульшат Зайнашева / Ильгиз Маджитов - Зелёная трава](../translated/g/golshat_zaynasheva_ilgiz_macitov_-_yashel_chiram.md)
 - [Гөлшат Зәйнәшева / Илһам Шакиров - Күрешербез (беренче вариант) / Гульшат Зайнашева / Ильгам Шакиров - Встретимся (первый вариант)](../translated/g/golshat_zaynasheva_ilham_shakirov_-_kuresherbez_berenche_variant.md)
@@ -105,6 +97,14 @@
 - [Гөлшат Зәйнәшева / Тәлгать Шәрипов - Көмеш балдак / Гөлшат Зәйнәшева / Тәлгать Шәрипов - Серебряное колечко](../translated/g/golshat_zaynasheva_talgat_sharipov_-_komesh_baldak.md)
 - [Гөлшат Зәйнәшева / Фирзәр Мортазин - Мин - яфрак, син - чәчәк / Гөлшат Зәйнәшева / Фирзәр Мортазин - Я лист, ты цветок](../translated/g/golshat_zaynasheva_firzar_mortazin_-_min_yafrak_sin_chachak.md)
 - [Гөлшат Зәйнәшева / Фәрит Хатыйпов - Авылым гөлләре / Гульшат Зайнашева / Фарит Хатипов - Цветы моей деревни](../translated/g/golshat_zaynasheva_farit_hatiypov_-_avilim_gollare.md)
+- [Гөлшат Зәйнәшева / Фәрит Хатыйпов - Аккошка әверелдең... / Гульшат Зайнашева / Фарит Хатипов - Ты превратилась в белого лебедя...](../translated/g/golshat_zaynasheva_farit_hatiypov_-_akkoshka_averelden.md)
+- [Гөлшат Зәйнәшева / Фәрит Хатыйпов - Без үзебез Камкалы / Гөлшат Зәйнәшева / Фәрит Хатыйпов - Мы - Камкалы](../translated/g/golshat_zaynasheva_farit_hatiypov_-_bez_uzebez_kamkali.md)
+- [Гөлшат Зәйнәшева / Фәрит Хатыйпов - Газинур урманы / Гөлшат Зәйнәшева / Фәрит Хатыйпов - Лес Газинура](../translated/g/golshat_zaynasheva_farit_hatiypov_-_gazinur_urmani.md)
+- [Гөлшат Зәйнәшева / Фәрит Хатыйпов - Сакладым сине күңелемдә / Гульшат Зайнашева / Фарит Хатыпов - Сохранила тебя в своём сердце](../translated/g/golshat_zaynasheva_farit_hatiypov_-_sakladim_sine_kunelemda.md)
+- [Гөлшат Зәйнәшева / Фәрит Хатыйпов - Соңгы күрешү / Гульшат Зайнашева / Фарит Хатыпов - Последняя встреча](../translated/g/golshat_zaynasheva_farit_hatiypov_-_songi_kureshu.md)
+- [Гөлшат Зәйнәшева / Фәрит Хатыйпов - Теләче (беренче вариант) / Гөлшат Зәйнәшева / Фәрит Хатыйпов - Теләче (первый вариант)](../translated/g/golshat_zaynasheva_farit_hatiypov_-_telache_berenche_variant.md)
+- [Гөлшат Зәйнәшева / Фәрит Хатыйпов - Шауяды / Гөлшат Зәйнәшева / Фәрит Хатыйпов - Шауяды](../translated/g/golshat_zaynasheva_farit_hatiypov_-_shauyadi.md)
+- [Гөлшат Зәйнәшева / Фәрит Хатыйпов - Яшәрәсиң, Казан, яңарасың / Гульшат Зайнешева / Фарит Хатыпов - Живи, Казань, возгорайся](../translated/g/golshat_zaynasheva_farit_hatiypov_-_yasharasen_kazan_yanarasin.md)
 
 ---
 

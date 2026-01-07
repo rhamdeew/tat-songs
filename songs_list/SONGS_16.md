@@ -5,18 +5,6 @@
 [← Предыдущая страница](SONGS_15.md) | [Главная страница](../README.md) | [Следующая страница →](SONGS_17.md)
 
 
-- [Билгесез / Ризван Хәкимов - Сагыну (тугызынчы вариант) / Неизвестен / Ризван Хакимов - Тоска (девятый вариант)](../translated/b/bilgesez_rizvan_hakimov_-_saginu_tugizinchi_variant.md)
-- [Билгесез / Ризван Хәкимов - Син - минем фәрештәм / Неизвестен / Ризван Хакимов - Ты мой ангел](../translated/b/bilgesez_rizvan_hakimov_-_sin_minem_fareshtam.md)
-- [Билгесез / Ризван Хәкимов - Син белмисең инде мине / Неизвестен / Ризван Хакимов - Ты больше не знаешь меня](../translated/b/bilgesez_rizvan_hakimov_-_sin_belmisen_inde_mine.md)
-- [Билгесез / Ризван Хәкимов - Сөю кабатланмый / Неизвестен / Ризван Хакимов - Любовь не повторяется](../translated/b/bilgesez_rizvan_hakimov_-_soyu_kabatlanmiy.md)
-- [Билгесез / Ризван Хәкимов - Ышану / Неизвестен / Ризван Хакимов - Вера](../translated/b/bilgesez_rizvan_hakimov_-_ishanu.md)
-- [Билгесез / Ризван Хәкимов - Ялгызлыктан өшемәсен / Неизвестен / Ризван Хакимов - Чтоб не замёрзла душа от одиночества](../translated/b/bilgesez_rizvan_hakimov_-_yalgizliktan_oshemasen.md)
-- [Билгесез / Ризван Хәкимов - Яшьлегем язы / Неизвестен / Ризван Хакимов - Весна моей юности](../translated/b/bilgesez_rizvan_hakimov_-_yashlegem_yazi.md)
-- [Билгесез / Рим Хәсәнов - Мәктәбем (икенче вариант) / Неизвестен / Рим Хасанов - Моя школа (второй вариант)](../translated/b/bilgesez_rim_hasanov_-_maktabem_ikenche_variant.md)
-- [Билгесез / Ринат Гобәйдуллин - Мәхәббәт җыры (сигезенче вариант) / Неизвестен / Ринат Гобайдуллин - Песня любви (восьмой вариант)](../translated/b/bilgesez_rinat_gobaydullin_-_mahabbat_ciri_sigezenche_variant.md)
-- [Билгесез / Риф Арслан - Ай утыра елмаеп / Неизвестен / Риф Арслан - Луна сидит, улыбаясь](../translated/b/bilgesez_rif_arslan_-_ay_utira_elmaep.md)
-- [Билгесез / Риф Арслан - Башкортстаным - могҗизалар иле / Неизвестен / Риф Арслан - Башкортостан мой - страна чудес](../translated/b/bilgesez_rif_arslan_-_bashkortstanim_mogcizalar_ile.md)
-- [Билгесез / Роза Мостафиева - Вәгъдә итә алмам / Неизвестен / Роза Мостафиева - Не могу обещать](../translated/b/bilgesez_roza_mostafieva_-_vagda_ita_almam.md)
 - [Билгесез / Рәис Вәгыйзов - Туган якка кайтам (икенче вариант) / Неизвестен / Раис Вагизов - Возвращусь на родину (второй вариант)](../translated/b/bilgesez_rais_vagiyzov_-_tugan_yakka_kaytam_ikenche_variant.md)
 - [Билгесез / Рәис Вәгыйзов - Туган якка кайтам әле (Инҗәремә кайтам) / Неизвестен / Раис Вагизов - Вернусь на родину (Вернусь в Инзер)](../translated/b/bilgesez_rais_vagiyzov_-_tugan_yakka_kaytam_ale_incarema_kaytam.md)
 - [Билгесез / Салават Низаметдинов - Мин бәхетле (беренче вариант) / Неизвестен / Салават Низаметдинов - Я счастлив (первый вариант)](../translated/b/bilgesez_salavat_nizametdinov_-_min_bahetle_berenche_variant.md)
@@ -105,6 +93,18 @@
 - [Вазыйх Фатыйхов / Гүзәлия - Яшим сөю назларында / Вазих Фатыхов / Гузалия - В любви твоей нежной](../translated/v/vaziyh_fatiyhov_guzaliya_-_yashim_soyu_nazlarinda.md)
 - [Вазыйх Фатыйхов / Риф Әхмәтов - Хәлләр ничек? / Вазих Фатыхов / Риф Ахматов - Как дела?](../translated/v/vaziyh_fatiyhov_rif_ahmatov_-_hallar_nichek.md)
 - [Валентина Чукурумова / Марат Хөснуллин - Шимберем / Валентина Чукурумова / Марат Хөснуллин - Шимберем](../translated/v/valentina_chukurumova_marat_hosnullin_-_shimberem.md)
+- [Ванс - Биибез / Ванс - Танцуем](../translated/v/vans-biibez.md)
+- [Ванс - Хавада Сапфир / Ванс - Сапфир в воздухе](../translated/v/vans-havada_sapfir.md)
+- [Василя Фаттахова - Алданма / Василя Фаттахова - Не обманывайся](../translated/v/vasilya_fattahova-aldanma.md)
+- [Василя Фаттахова - Бэхетебез бикле ятмасын / Василя Фаттахова - Пусть счастье наше не дремлет](../translated/v/vasilya_fattahova-behetebez_bikle_yatmasyn.md)
+- [Василя Фаттахова - Сою сере / Василя Фаттахова - Тайна любви](../translated/v/vasilya_fattahova-soyu_sere.md)
+- [Василя Фаттахова - Туган як / Василя Фаттахова - Родной край](../translated/v/vasilya_fattahova-tugan_yak.md)
+- [Василя Фаттахова - Умырзая / Василя Фаттахова - Надежда](../translated/v/vasilya_fattahova-umyrzaya.md)
+- [Василя Фаттахова - Этиемэ / Василя Фаттахова - Моя мама](../translated/v/vasilya_fattahova-etieme.md)
+- [Вафа Камалетдинов / Сәит Абдуллин - Яшисе килә (икенче вариант) / Вафа Камалетдинов / Саит Абдуллин - Хочется жить (второй вариант)](../translated/v/vafa_kamaletdinov_sait_abdullin_-_yashise_kila_ikenche_variant.md)
+- [Вафа Мәүлитов / Илшат Абдрахманов - Яшьлегем (икенче вариант) / Вафа Мәүлитов / Илшат Абдрахманов - Юность моя (второй вариант)](../translated/v/vafa_maulitov_ilshat_abdrahmanov_-_yashlegem_ikenche_variant.md)
+- [Вафа Әхмәдиев / Илгиз Йомагужин - Туган җир (беренче вариант) / Вафа Ахмадиев / Ильгиз Ямагужин - Родная земля (первый вариант)](../translated/v/vafa_ahmadiev_ilgiz_yomaguzhin_-_tugan_cir_berenche_variant.md)
+- [Вахит Галиев / Чулпан Зиннәтуллина - Тузан булса да узам (Саулык бир син, бер Ходам) / Вахит Галиев / Чулпан Зиннәтуллина - Пусть путь в пыли, я все равно пройду (Дай мне здоровья, один Господь)](../translated/v/vahit_galiev_chulpan_zinnatullina_-_tuzan_bulsa_da_uzam_saulik_bir_sin_ber_hodam.md)
 
 ---
 

@@ -5,11 +5,6 @@
 [← Предыдущая страница](SONGS_56.md) | [Главная страница](../README.md) | [Следующая страница →](SONGS_58.md)
 
 
-- [Равил Кузнецов - Ишкәкләр сынды / Равил Кузнецов - Весла сломались](../translated/r/ravil_kuznetsov_-_ishkaklar_sindi.md)
-- [Равил Кузнецов - Кайтам әле авылыма / Равил Кузнецов - Возвращаюсь в родную деревню](../translated/r/ravil_kuznetsov_-_kaytam_ale_avilima.md)
-- [Равил Кузнецов - Кайтам әле туган ягыма / Равил Кузнецов - Возвращаюсь в родные края](../translated/r/ravil_kuznetsov_-_kaytam_ale_tugan_yagima.md)
-- [Равил Кузнецов - Менәр идем тауга / Равил Кузнецов - Поднялся бы я в горы](../translated/r/ravil_kuznetsov_-_menar_idem_tauga.md)
-- [Равил Кузнецов - Сагынам әниемне / Равил Кузнецов - Скучаю по маме](../translated/r/ravil_kuznetsov_-_saginam_aniemne.md)
 - [Равил Кузнецов - Сандугачлар сайрый күнелемдә һаман / Равил Кузнецов - Соловьи поют в душе моей всё так же](../translated/r/ravil_kuznetsov_-_sandugachlar_sayriy_kunelemda_haman.md)
 - [Равил Кузнецов - Чын Вәли / Равиль Кузнецов - Настоящая деревня](../translated/r/ravil_kuznetsov_-_chin_vali.md)
 - [Равил Кузнецов - Яз килде / Равил Кузнецов - Весна пришла](../translated/r/ravil_kuznetsov_-_yaz_kilde.md)
@@ -105,6 +100,11 @@
 - [Разил Вәлиев / Луиза Батыр-Болгари - Бәхетем ачкычы / Разиль Валиев / Луиза Батыр-Болгари - Ключик моего счастья](../translated/r/razil_valiev_luiza_batir-bolgari_-_bahetem_achkichi.md)
 - [Разил Вәлиев / Луиза Батыр-Болгари - Егетләр җыры (беренче вариант) / Разил Валиев / Луиза Батыр-Болгари - Песня парней (первый вариант)](../translated/r/razil_valiev_luiza_batir-bolgari_-_egetlar_ciri_berenche_variant.md)
 - [Разил Вәлиев / Луиза Батыр-Болгари - И машина, машина... / Разил Вәлиев / Луиза Батыр-Болгари - Эх, машина, машина...](../translated/r/razil_valiev_luiza_batir-bolgari_-_i_mashina_mashina.md)
+- [Разил Вәлиев / Луиза Батыр-Болгари - Илһам / Разиль Валиев / Луиза Батыр-Болгари - Вдохновение](../translated/r/razil_valiev_luiza_batir-bolgari_-_ilham.md)
+- [Разил Вәлиев / Луиза Батыр-Болгари - Ир-егетне кем картайта? / Разил Вәлиев / Луиза Батыр-Болгари - Кто старит мужчину?](../translated/r/razil_valiev_luiza_batir-bolgari_-_ir-egetne_kem_kartayta.md)
+- [Разил Вәлиев / Луиза Батыр-Болгари - Иртән торып эшкә барам / Разил Валиев / Луиза Батыр-Болгари - Утром вставляю, иду на работу](../translated/r/razil_valiev_luiza_batir-bolgari_-_irtan_torip_eshka_baram.md)
+- [Разил Вәлиев / Луиза Батыр-Болгари - Кайларда бәхетле илләр? / Разиль Валиев / Луиза Батыр-Болгари - Где же счастливые края?](../translated/r/razil_valiev_luiza_batir-bolgari_-_kaylarda_bahetle_illar.md)
+- [Разил Вәлиев / Луиза Батыр-Болгари - Кышкы учак / Разил Валиев / Луиза Батыр-Болгари - Зимний костёр](../translated/r/razil_valiev_luiza_batir-bolgari_-_kishki_uchak.md)
 
 ---
 

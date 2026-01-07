@@ -5,18 +5,6 @@
 [← Предыдущая страница](SONGS_12.md) | [Главная страница](../README.md) | [Следующая страница →](SONGS_14.md)
 
 
-- [Башкорт халык / Хисмәтулла Дәүләтов - Тал бөгелә (икенче вариант) / Башкирская народная / Хисматулла Давлетов - Ива гнётся (второй вариант)](../translated/b/bashkort_halik_hismatulla_daulatov_-_tal_bogela_ikenche_variant.md)
-- [Башкорт халык / Хисмәтулла Дәүләтов - Җиделе шәм / Башкирский народ / Хисматулла Даулатов - Семисвечье](../translated/b/bashkort_halik_hismatulla_daulatov_-_cidele_sham.md)
-- [Башкорт халык бию такмагы - Гөлнәзирә (беренче вариант) / Башкирская народная плясовая - Гульнара (первый вариант)](../translated/b/bashkort_halik_biyu_takmagi_-_golnazira_berenche_variant.md)
-- [Башкорт халык бию такмагы - Гөлнәзирә (икенче вариант) / Башкирский народный танец - Гульнария (второй вариант)](../translated/b/bashkort_halik_biyu_takmagi_-_golnazira_ikenche_variant.md)
-- [Башкорт халык бию такмагы - Гөлнәзирә (өченче вариант) / Башкирская народная плясовая мелодия - Гөлнәзирә (третий вариант)](../translated/b/bashkort_halik_biyu_takmagi_-_golnazira_ochenche_variant.md)
-- [Башкорт халык бию такмагы - Шәл бәйләдем (беренче вариант) / Башкирский народный танец - Я повязала шаль (первый вариант)](../translated/b/bashkort_halik_biyu_takmagi_-_shal_bayladem_berenche_variant.md)
-- [Башкорт халык бию такмагы - Өфе - Чиләбе (икенче вариант) / Башкорт народный танец - Уфа - Челабинск (второй вариант)](../translated/b/bashkort_halik_biyu_takmagi_-_ofe_chilabe_ikenche_variant.md)
-- [Башкорт халык бию такмагы - Өфе - Чиләбе (өченче вариант) / Народный танец башкир - Уфа - Челабинск (третий вариант)](../translated/b/bashkort_halik_biyu_takmagi_-_ofe_chilabe_ochenche_variant.md)
-- [Башкорт халык такмагы - Такмаклар (өченче вариант) / Башкирская народная песня - Такмаклар (третий вариант)](../translated/b/bashkort_halik_takmagi_-_takmaklar_ochenche_variant.md)
-- [Башкорт халык җыры - Абдрахман / Башкирская народная песня - Абдрахман](../translated/b/bashkort_halik_ciri_-_abdrahman.md)
-- [Башкорт халык җыры - Азамат (беренче вариант) / Башкир народная песня - Азамат (первый вариант)](../translated/b/bashkort_halik_ciri_-_azamat_berenche_variant.md)
-- [Башкорт халык җыры - Азамат (икенче вариант) / Башкирская народная песня - Азамат (второй вариант)](../translated/b/bashkort_halik_ciri_-_azamat_ikenche_variant.md)
 - [Башкорт халык җыры - Айдар гынаем / Башкирская народная песня - Мой милый Айдар](../translated/b/bashkort_halik_ciri_-_aydar_ginaem.md)
 - [Башкорт халык җыры - Ак стакан / Башкирская народная песня - Белый стакан](../translated/b/bashkort_halik_ciri_-_ak_stakan.md)
 - [Башкорт халык җыры - Алмагач, сандугач / Башкирская народная песня - Алмагач, сандугач](../translated/b/bashkort_halik_ciri_-_almagach_sandugach.md)
@@ -105,6 +93,18 @@
 - [Бикә Рәхимова / Мансур Хәсәнов - Сандугачым, дип чакыргач... / Бика Рахимова / Мансур Хасанов - Птичка моя, зову...](../translated/b/bika_rahimova_mansur_hasanov_-_sandugachim_dip_chakirgach.md)
 - [Бикә Рәхимова / Мансур Хәсәнов - Туган ягыма (беренче вариант) / Бика Рахимова / Мансур Хасанов - На родину мою (первый вариант)](../translated/b/bika_rahimova_mansur_hasanov_-_tugan_yagima_berenche_variant.md)
 - [Бикә Рәхимова / Фәрит Шәрифуллин - Без танышкан ай / Бика Рахимова / Фарит Шарифуллин - Месяц, когда мы познакомились](../translated/b/bika_rahimova_farit_sharifullin_-_bez_tanishkan_ay.md)
+- [Бикә Рәхимова / Фәрит Шәрифуллин - Шаяру / Бика Рахимова / Фарит Шарифуллин - Шаяру](../translated/b/bika_rahimova_farit_sharifullin_-_shayaru.md)
+- [Бикә Рәхимова / Шамил Шәрифуллин - Син биергә мине чакыр / Бика Рахимова / Шамиль Шарифуллин - Позови меня танцевать](../translated/b/bika_rahimova_shamil_sharifullin_-_sin_bierga_mine_chakir.md)
+- [Билгесез - Авылым юлы / Билгесез - Дорога в мою деревню](../translated/b/bilgesez_-_avilim_yuli.md)
+- [Билгесез - Аерылыштык бик азга / Бильгесез - Мы расстались ненадолго](../translated/b/bilgesez_-_aerilishtik_bik_azga.md)
+- [Билгесез - Ай тулганда / Билгесез - Когда луна полна](../translated/b/bilgesez_-_ay_tulganda.md)
+- [Билгесез - Ай, Уралым / Билгесез - Ай, Уралым](../translated/b/bilgesez_-_ay_uralim.md)
+- [Билгесез - Аккош сагышы / Неизвестен - Печаль лебедей](../translated/b/bilgesez_-_akkosh_sagishi.md)
+- [Билгесез - Ал зар геннәем / Билгесез - Ах, как ярюсь я по тебе](../translated/b/bilgesez_-_al_zar_gennaem.md)
+- [Билгесез - Алтын көз / Билгесез - Золотая осень](../translated/b/bilgesez_-_altin_koz.md)
+- [Билгесез - Ах, Җырларым / Бильгесез - Ах, Песни мои](../translated/b/bilgesez_-_ah_cirlarim.md)
+- [Билгесез - Ачы балан / Билгесез - Горькое дитя](../translated/b/bilgesez_-_achi_balan.md)
+- [Билгесез - Без ике фәрештә / Бильгесез - Мы двое ангелов](../translated/b/bilgesez_-_bez_ike_fareshta.md)
 
 ---
 

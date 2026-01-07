@@ -5,7 +5,6 @@
 [← Предыдущая страница](SONGS_78.md) | [Главная страница](../README.md) | [Следующая страница →](SONGS_80.md)
 
 
-- [Филүс Хисаметдинов / Рәдиф Зарипов - Яныңа барам / Филүс Хисаметдинов / Рәдиф Зарипов - К тебе иду](../translated/f/filus_hisametdinov_radif_zaripov_-_yanina_baram.md)
 - [Филүс Хисаметдинов / Рөстәм Сәрвәров - Яшьлек хисем / Филюс Хисаметдинов / Ростам Сарваров - Клятва юности](../translated/f/filus_hisametdinov_rostam_sarvarov_-_yashlek_hisem.md)
 - [Филүс Хисаметдинов / Фирзәр Мортазин - Гомер чишмәм / Филүс Хисаметдинов / Фирзәр Мортазин - Родник моей жизни](../translated/f/filus_hisametdinov_firzar_mortazin_-_gomer_chishmam.md)
 - [Филүс Хисаметдинов / Фәрит Хатыйпов - Туган ягыма (дүртенче вариант) / Филүс Хисаметдинов / Фәрит Хатыйпов - В родной край (четвертый вариант)](../translated/f/filus_hisametdinov_farit_hatiypov_-_tugan_yagima_durtenche_variant.md)
@@ -91,6 +90,7 @@
 - [Флария Терегулова / Азат Имаев - Синең күзләр (беренче вариант) / Флария Терегулова / Азат Имаев - Твои глаза (первый вариант)](../translated/f/flariya_teregulova_azat_imaev_-_sinen_kuzlar_berenche_variant.md)
 - [Флария Терегулова / Азат Имаев - Тәңкәле апрель / Флария Терегулова / Азат Имаев - Монетный апрель](../translated/f/flariya_teregulova_azat_imaev_-_tankale_aprel.md)
 - [Флария Терегулова / Азат Имаев - Хыяллар, хыяллар... / Флария Терегулова / Азат Имаев - Мечты, мечты...](../translated/f/flariya_teregulova_azat_imaev_-_hiyallar_hiyallar.md)
+- [Флария Терегулова / Азат Имаев - Үкенмим (беренче вариант) / Флария Терегулова / Азат Имаев - Не сожалею (первый вариант)](../translated/f/flariya_teregulova_azat_imaev_-_ukenmim_berenche_variant.md)
 - [Флария Терегулова / Ганс Сәйфуллин - Мин каен булыр идем / Флария Терегулова / Ганс Сәйфуллин - Я бы стала березой](../translated/f/flariya_teregulova_gans_sayfullin_-_min_kaen_bulir_idem.md)
 - [Флария Терегулова / Зөлфия Шакирова - Их, яшисе килә / Флария Терегулова / Зульфия Шакирова - Ах, жизнь приходит](../translated/f/flariya_teregulova_zolfiya_shakirova_-_ih_yashise_kila.md)
 - [Флария Терегулова / Зөлфия Шакирова - Иңнәремне куям иңнәреңә... / Флария Терегулова / Зульфия Шакирова - Плечи свои кладу на твои...](../translated/f/flariya_teregulova_zolfiya_shakirova_-_innaremne_kuyam_innarena.md)

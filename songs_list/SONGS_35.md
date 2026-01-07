@@ -5,13 +5,6 @@
 [← Предыдущая страница](SONGS_34.md) | [Главная страница](../README.md) | [Следующая страница →](SONGS_36.md)
 
 
-- [Зәйнәп Биишева / Нур Даутов - Миләш (беренче вариант) / Зайнап Биишева / Нур Даутов - Рябина (первый вариант)](../translated/z/zaynap_biisheva_nur_dautov_-_milash_berenche_variant.md)
-- [Зәйнәп Биишева / Нур Даутов - Нигә? (беренче вариант) / Зәйнәп Биишева / Нур Даутов - Почему? (первый вариант)](../translated/z/zaynap_biisheva_nur_dautov_-_niga_berenche_variant.md)
-- [Зәйнәп Ибрагимова / Наилә Фатехова - Ендовищи / Зәйнәп Ибрагимова / Наилә Фатехова - Ендовищи](../translated/z/zaynap_ibragimova_naila_fatehova_-_endovishchi.md)
-- [Зәйнәп Фәрхетдинова - Гомерлэр зая узмасын / Зейнеп Фархетдинова - Пусть годы зря не проходят](../translated/z/zaynap_farhetdinova-gomerler_zaya_uzmasyn.md)
-- [Зәйнәп Фәрхетдинова - Эче-эче / Зейнеп Фархетдинова - Пей-пей](../translated/z/zaynap_farhetdinova-eche-eche.md)
-- [Зәйтүнә Бикбаева / Мөфтәдин Гыйләҗев - Әтиемә (беренче вариант) / Зәйтүнә Бикбаева / Мөфтәдин Гыйләҗев - Отцу (первый вариант)](../translated/z/zaytuna_bikbaeva_moftadin_giylacev_-_atiema_berenche_variant.md)
-- [Зәйтүнә Гайнуллина / Илназ Баһ - Шул карашың / Зәйтүнә Гайнуллина / Илназ Баһ - Тот взгляд](../translated/z/zaytuna_gaynullina_ilnaz_bah_-_shul_karashin.md)
 - [Зәйтүнә Гайнуллина / Фирзәр Мортазин - Ярат әле / Зәйтүнә Гайнуллина / Фирзәр Мортазин - Люби еще](../translated/z/zaytuna_gaynullina_firzar_mortazin_-_yarat_ale.md)
 - [Зәйтүнә Галиева / Раил Едиханов - Язны сагыну (икенче вариант) / Зәйтүнә Галиева / Раил Едиханов - Соскучаясь по весне (второй вариант)](../translated/z/zaytuna_galieva_rail_edihanov_-_yazni_saginu_ikenche_variant.md)
 - [Зәйтүнә Хөсәенова / Рамил Гыймрани - Кайтырсың бит / Зайтуна Хусаенова / Рамиль Гимрани - Вернёшься ведь](../translated/z/zaytuna_hosaenova_ramil_giymrani_-_kaytirsin_bit.md)
@@ -105,6 +98,13 @@
 - [Зөфәр Вәлитов / Флера Шәрипова - Елама, җаным! / Зөфәр Вәлитов / Флера Шәрипова - Не плачь, родная!](../translated/z/zofar_valitov_flera_sharipova_-_elama_canim.md)
 - [Зөфәр Вәлитов / Флера Шәрипова - Керәм инде көзләремә! / Зөфәр Вәлитов / Флера Шәрипова - Вхожу уже в мои осени!](../translated/z/zofar_valitov_flera_sharipova_-_keram_inde_kozlarema.md)
 - [Зөфәр Вәлитов / Флера Шәрипова - Туган йорт / Зуфар Валитов / Флера Шарипова - Родной дом](../translated/z/zofar_valitov_flera_sharipova_-_tugan_yort.md)
+- [Зөфәр Хәйретдинов - Абагалар чәчәк атмый / Зуфар Хайретдинов - Репейник не цветёт](../translated/z/zofar_hayretdinov_-_abagalar_chachak_atmiy.md)
+- [Зөһрә Алтынбаева / Газиз Дәүләтбирдин - Балан (икенче вариант) / Зухра Алтынбаева / Газиз Дәүләтбирдин - Калина (второй вариант)](../translated/z/zohra_altinbaeva_gaziz_daulatbirdin_-_balan_ikenche_variant.md)
+- [Зөһрә Алтынбаева / Мәрьям Солтанова - Сөелүдән кем туйган?! / Зухра Алтынбаева / Марьям Султанова - Кто устал от любви?!](../translated/z/zohra_altinbaeva_maryam_soltanova_-_soeludan_kem_tuygan.md)
+- [Зөһрә Алтынбаева / Мәрьям Солтанова - Сөюдән кем туйган? / Зухра Алтынбаева / Марьям Солтанова - Кто ощутил больше любви?](../translated/z/zohra_altinbaeva_maryam_soltanova_-_soyudan_kem_tuygan.md)
+- [Зөһрә Алтынбаева / Юлай Үзәнбаев - Үкенеч / Зухра Алтынбаева / Юлай Узанбаев - Сожаление](../translated/z/zohra_altinbaeva_yulay_uzanbaev_-_ukenech.md)
+- [Зөһрә Ганиева / Мөфтәдин Гыйләҗев - Ак күбәләк (икенче вариант) / Зөһрә Ганиева / Мөфтәдин Гыйләҗев - Белая бабочка (второй вариант)](../translated/z/zohra_ganieva_moftadin_giylacev_-_ak_kubalak_ikenche_variant.md)
+- [Зөһрә Котлыгилдина / Роберт Тимербаев - Санама, кәккүк! / Зухра Котлыгилдина / Роберт Тимербаев - Не считай, кукушка!](../translated/z/zohra_kotligildina_robert_timerbaev_-_sanama_kakkuk.md)
 
 ---
 

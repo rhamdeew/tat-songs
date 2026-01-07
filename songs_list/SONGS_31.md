@@ -5,14 +5,6 @@
 [← Предыдущая страница](SONGS_30.md) | [Главная страница](../README.md) | [Следующая страница →](SONGS_32.md)
 
 
-- [Данис Хәбибуллин / Фирзәр Мортазин - Синдә генә / Данис Хабибуллин / Фирзар Мортазин - Только в тебе](../translated/d/danis_habibullin_firzar_mortazin_-_sinda_gena.md)
-- [Данис Хәбибуллин / Фирзәр Мортазин - Язгы җыр (беренче вариант) / Данис Хабибуллин / Фирзар Мортазин - Весенняя песня (первый вариант)](../translated/d/danis_habibullin_firzar_mortazin_-_yazgi_cir_berenche_variant.md)
-- [Данис Хәбибуллин / Фирзәр Мортазин - Язлар килә, язлар / Данис Хабибуллин / Фирзар Мортазин - Вёсны приходят, вёсны](../translated/d/danis_habibullin_firzar_mortazin_-_yazlar_kila_yazlar.md)
-- [Данис Хәбибуллин / Фәрит Хатыйпов - Авыл кызы (беренче вариант) / Данис Хабибуллин / Фарит Хатыйпов - Деревенская девушка (первый вариант)](../translated/d/danis_habibullin_farit_hatiypov_-_avil_kizi_berenche_variant.md)
-- [Данис Хәйруллин / Альфред Якшимбетов - Яратканнар гына аңлар мине / Данис Хайруллин / Альфред Якшимбетов - Лишь любившие поймут меня](../translated/d/danis_hayrullin_alfred_yakshimbetov_-_yaratkannar_gina_anlar_mine.md)
-- [Данис Хәйруллин / Зөфәр Хәйретдинов - Соңгы тапкыр (икенче вариант) / Данис Хайруллин / Зуфар Хайретдинов - Последний раз (второй вариант)](../translated/d/danis_hayrullin_zofar_hayretdinov_-_songi_tapkir_ikenche_variant.md)
-- [Дания Гайнетдинова / Мансур Хәсәнов - Гомер чишмәсе / Дания Гайнетдинова / Мансур Хасанов - Родник жизни](../translated/d/daniya_gaynetdinova_mansur_hasanov_-_gomer_chishmase.md)
-- [Дания Гайнетдинова / Рамил Курамшин - Туган ягым Теләче (икенче вариант) / Дания Гайнетдинова / Рамил Курамшин - Родной мой край Теляче (второй вариант)](../translated/d/daniya_gaynetdinova_ramil_kuramshin_-_tugan_yagim_telache_ikenche_variant.md)
 - [Дания Мәхмүтова / Илмир Залеев - Йөрәгем түзә / Дания Махмутова / Ильмир Залеев - Сердце терпит](../translated/d/daniya_mahmutova_ilmir_zaleev_-_yoragem_tuza.md)
 - [Даһи Бабичев / Рафик Сәлмәнов - Яз җыры (икенче вариант) / Дахи Бабичев / Рафик Салманов - Весенняя песня (второй вариант)](../translated/d/dahi_babichev_rafik_salmanov_-_yaz_ciri_ikenche_variant.md)
 - [Дениз Бадретдин - Эльмира / Дениз Бадретдин - Эльмира](../translated/d/deniz_badretdin_-_elmira.md)
@@ -105,6 +97,14 @@
 - [Динә Камалетдинова / Фирзәр Мортазин - Әнием (бишенче вариант) / Дина Камалетдинова / Фирзар Мортазин - Мама (пятый вариант)](../translated/d/dina_kamaletdinova_firzar_mortazin_-_aniem_bishenche_variant.md)
 - [Динә Камалетдинова / Фәрит Хатыйпов - Үкенү (беренче вариант) / Дина Камалетдинова / Фарит Хатыйпов - Сожаление (первый вариант)](../translated/d/dina_kamaletdinova_farit_hatiypov_-_ukenu_berenche_variant.md)
 - [Динә Камлетдинова / Фирзәр Мортазин - Ялгышу (беренче вариант) / Дина Камлетдинова / Фирзар Мортазин - Ошибка (первый вариант)](../translated/d/dina_kamletdinova_firzar_mortazin_-_yalgishu_berenche_variant.md)
+- [Динә Мөхәммәтҗанова / Илдус Низамов - Синнән башка (беренче вариант) / Дина Мухамметжанова / Ильдус Низамов - Без тебя (первый вариант)](../translated/d/dina_mohammatcanova_ildus_nizamov_-_sinnan_bashka_berenche_variant.md)
+- [Динә Талхина / Айрат Кобагышев - Аргаяш күлләре / Дина Талхина / Айрат Кобагышев - Озёра Аргаяша](../translated/d/dina_talhina_ayrat_kobagishev_-_argayash_kullare.md)
+- [Динә Талхина / Айрат Кобагышев - Тагы җәйләр җитте / Дина Талхина / Айрат Кобагышев - Снова лето пришло](../translated/d/dina_talhina_ayrat_kobagishev_-_tagi_caylar_citte.md)
+- [Динә Талхина / Нур Даутов - Алтын гомер (беренче вариант) / Дина Талхина / Нур Даутов - Золотая жизнь (первый вариант)](../translated/d/dina_talhina_nur_dautov_-_altin_gomer_berenche_variant.md)
+- [Динә Талхина / Нурия Абдуллина - Яшел яулык / Дина Талхина / Нурия Абдуллина - Зелёный платок](../translated/d/dina_talhina_nuriya_abdullina_-_yashel_yaulik.md)
+- [Динә Талхина / Ришат Сәгыйтов - Җырларым минем кошлардан / Дина Талхина / Ришат Сагитов - Песни мои от птиц](../translated/d/dina_talhina_rishat_sagiytov_-_cirlarim_minem_koshlardan.md)
+- [Динә Талхина / Роза Сәхәүетдинова - Мәктәбем ихатасы / Дина Талхина / Роза Сахауетдинова - Ограда моей школы](../translated/d/dina_talhina_roza_sahauetdinova_-_maktabem_ihatasi.md)
+- [Динә Талхина / Роза Сәхәүетдинова - Сагынырсың әле, сагынырсың / Дина Талхина / Роза Сахауетдинова - Скучаешь ли, скучаешь](../translated/d/dina_talhina_roza_sahauetdinova_-_saginirsin_ale_saginirsin.md)
 
 ---
 

@@ -5,7 +5,6 @@
 [← Предыдущая страница](SONGS_75.md) | [Главная страница](../README.md) | [Следующая страница →](SONGS_77.md)
 
 
-- [Татар халык җыры - Мәдинәкәй (беренче вариант) / Татарская народная песня - Мадинакай (первый вариант)](../translated/t/tatar_halik_ciri_-_madinakay_berenche_variant.md)
 - [Татар халык җыры - Мәк чәчәге (икенче вариант) / Татар халык җыры - Маковый цветок (второй вариант)](../translated/t/tatar_halik_ciri_-_mak_chachage_ikenche_variant.md)
 - [Татар халык җыры - Мөслим (икенче вариант) / Татарская народная песня - Муслим (второй вариант)](../translated/t/tatar_halik_ciri_-_moslim_ikenche_variant.md)
 - [Татар халык җыры - Наласа авылы көе (беренче вариант) / Татарская народная песня - Мелодия села Наласа (первый вариант)](../translated/t/tatar_halik_ciri_-_nalasa_avili_koe_berenche_variant.md)
@@ -105,6 +104,7 @@
 - [Тимер Йосыпов / Рамил Медъяр-Камал - Биеп кал (икенче вариант) / Тимер Йосыпов / Рамил Медъяр-Камал - Спляши напоследок (второй вариант)](../translated/t/timer_yosipov_ramil_medyar-kamal_-_biep_kal_ikenche_variant.md)
 - [Тимер Йосыпов / Рамиль Медъяр-Камал - Әй, туган як / Тимер Йосыпов / Рамиль Медъяр-Камал - Ай, родной край](../translated/t/timer_yosipov_ramil_medyar-kamal_-_ay_tugan_yak.md)
 - [Тимер Йосыпов / Юлай Моратов - Тыныч йоклый микән үлгәннәр? / Тимер Йосыпов / Юлай Моратов - Спят ли мирно павшие?](../translated/t/timer_yosipov_yulay_moratov_-_tinich_yokliy_mikan_ulgannar.md)
+- [Тимур Рамазанов - Синең өчен яшим (икенче вариант) / Тимур Рамазанов - Живу ради тебя (вторая версия)](../translated/t/timur_ramazanov_-_sinen_ochen_yashim_ikenche_variant.md)
 
 ---
 

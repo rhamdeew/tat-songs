@@ -5,11 +5,6 @@
 [← Предыдущая страница](SONGS_49.md) | [Главная страница](../README.md) | [Следующая страница →](SONGS_51.md)
 
 
-- [Миләүшә Әхмәдуллина / Илгиз Субаев - Мәхәббәт назлары / Миләүшә Әхмәдуллина / Илгиз Субаев - Ласки любви](../translated/m/milausha_ahmadullina_ilgiz_subaev_-_mahabbat_nazlari.md)
-- [Миләүшә Әхмәдуллина / Илгиз Субаев - Табар идем / Миләүшә Әхмәдуллина / Илгиз Субаев - Я бы нашла](../translated/m/milausha_ahmadullina_ilgiz_subaev_-_tabar_idem.md)
-- [Миләүшә Әхмәдуллина / Илгиз Субаев - Төрле хәл / Миляуша Ахмадуллина / Ильгиз Субаев - Разные состояния](../translated/m/milausha_ahmadullina_ilgiz_subaev_-_torle_hal.md)
-- [Миләүшә Әхмәдуллина / Илгиз Субаев - Яшәү мизгеле / Миләүшә Әхмәдуллина / Илгиз Субаев - Мгновение жизни](../translated/m/milausha_ahmadullina_ilgiz_subaev_-_yashau_mizgele.md)
-- [Миләүшә Әхмәдуллина / Марат Гобәйдуллин - Табалсаң / Миляуша Ахмадуллина / Марат Гобаидуллин - Если найдёшь](../translated/m/milausha_ahmadullina_marat_gobaydullin_-_tabalsan.md)
 - [Миләүшә Әхмәдуллина / Марат Гобәйдуллин - Уйна, агымсу / Миләүшә Әхмәдуллина / Марат Гобәйдуллин - Играй, ручей](../translated/m/milausha_ahmadullina_marat_gobaydullin_-_uyna_agimsu.md)
 - [Минзәлә Яхина - Ашыкма, җаным / Минзәлә Яхина - Не спеши, родная](../translated/m/minzala_yahina_-_ashikma_canim.md)
 - [Миргалим Харисов / Ифрат Хисамов - Ромашка (беренче вариант) / Миргалим Харисов / Ифрат Хисамов - Ромашка (первый вариант)](../translated/m/mirgalim_harisov_ifrat_hisamov_-_romashka_berenche_variant.md)
@@ -105,6 +100,11 @@
 - [Мостафа Ногман / Рөстәм Яхин - Идел ярларына басып торам / Мостафа Ногман / Рөстәм Яхин - Стою на берегах Иделя](../translated/m/mostafa_nogman_rostam_yahin_-_idel_yarlarina_basip_toram.md)
 - [Мостафа Ногман / Рөстәм Яхин - Каеннар шаулый / Мустафа Ногман / Рустам Яхин - Шумят берёзы](../translated/m/mostafa_nogman_rostam_yahin_-_kaennar_shauliy.md)
 - [Мостафа Ногман / Рөстәм Яхин - Кайда соң минем мәхаббәтем? / Мостафа Ногман / Рөстэм Яхин - Где же моя любовь?](../translated/m/mostafa_nogman_rostam_yahin_-_kayda_son_minem_mahabbatem.md)
+- [Мостафа Ногман / Рөстәм Яхин - Киек казлар китә / Мостафа Ногман / Рөстәм Яхин - Улетели дикие гуси](../translated/m/mostafa_nogman_rostam_yahin_-_kiek_kazlar_kita.md)
+- [Мостафа Ногман / Рөстәм Яхин - Күзләрем тик сине эзлиләр / Мостафа Ногман / Рөстәм Яхин - Мои глаза ищут лишь тебя](../translated/m/mostafa_nogman_rostam_yahin_-_kuzlarem_tik_sine_ezlilar.md)
+- [Мостафа Ногман / Рөстәм Яхин - Нурлы безнең Кукмарабыз / Мостафа Ногман / Рөстәм Яхин - Светлая наша Кукмара](../translated/m/mostafa_nogman_rostam_yahin_-_nurli_beznen_kukmarabiz.md)
+- [Мостафа Ногман / Рөстәм Яхин - Оныта алмыйм (беренче вариант) / Мостафа Ногман / Рөстәм Яхин - Не могу забыть (первый вариант)](../translated/m/mostafa_nogman_rostam_yahin_-_onita_almiym_berenche_variant.md)
+- [Мостафа Ногман / Рөстәм Яхин - Оныта алмыйм (икенче вариант) / Мостафа Ногман / Ростям Яхин - Не могу забыть (второй вариант)](../translated/m/mostafa_nogman_rostam_yahin_-_onita_almiym_ikenche_variant.md)
 
 ---
 

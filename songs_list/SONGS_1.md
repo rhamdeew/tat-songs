@@ -5,18 +5,6 @@
 [Главная страница](../README.md) | [Следующая страница →](SONGS_2.md)
 
 
-- [``` / Флария Терегулова / Азат Имаев - Не сожалею (первый вариант)](../translated/f/flariya_teregulova_azat_imaev_-_ukenmim_berenche_variant.md)
-- [``` / Галим Давлетов / Раис Касымов - Гульнара](../translated/g/galim_daulatov_rais_kasiymov_-_golnara.md)
-- [``` / ```](../translated/g/golfiya_shakirova_azat_karimov_-_ishanam_ikenche_variant.md)
-- [``` / Ландыш Нигматжанова / Фарит Таишев - Моё солнышко (второй вариант)](../translated/l/landish_nigmatcanova_farit_taishev_-_koyashim_ikenche_variant.md)
-- [``` / Марсель Гимазетдинов / Владимир Мироваев - Остался в моей судьбе (второй вариант)](../translated/m/marsel_giymazetdinov_vladimir_mirovaev_-_yazmishimda_kaldin_ikenche_variant.md)
-- [``` / Сафуан Алибай / Артур Туктаголов - Седой Урал](../translated/s/safuan_alibay_artur_tuktagolov_-_chal_ural.md)
-- [``` / Сания Ахметжанова / Давид Тухманов - День Победы (второй вариант)](../translated/s/saniya_ahmatcanova_david_tuhmanov_-_cinu_kone_ikenche_variant.md)
-- [``` / Сария Хафизова / Ильназар - Возвращаюсь, папа, к тебе](../translated/s/sariya_hafizova_ilnazar_-_kaytip_kilam_atkay_yanina.md)
-- [``` / Татарские и башкирские народные частушки (второй вариант)](../translated/t/tatar_-_bashkort_halik_-_takmaklar_ikenche_variant.md)
-- [``` / Венер Котдусов - Снега Нового года (второй вариант)](../translated/v/vener_kotdusov_-_yana_el_karlari_ikenche_variant.md)
-- [``` / Венера Махмутова / Наил Сулейманов - Ты не моя (первый вариант)](../translated/v/venera_mahmutova_nail_solaymanov_-_sin_mineke_tugel_berenche_variant.md)
-- [``` / Зинаида Захарова / Людмила Аланлы - Маме (шестой вариант)](../translated/z/zinaida_zaharova_lyudmila_alanli_-_aniema_altinchi_variant.md)
 - [DJ Darm - Жир жилэге / DJ Darm - Земной ветер](../translated/d/dj_darm-zhir_zhilege.md)
 - [DJ Darm - Келэт / DJ Darm - Грядет](../translated/d/dj_darm-kelet.md)
 - [DJ Darm - Чибэркэй / DJ Darm - Красавица](../translated/d/dj_darm-chiberkey.md)
@@ -105,6 +93,18 @@
 - [hamit_tohvatullin_sara_sadiykova_ - Хәмит Төхвәтуллин / Сара Садыйкова - Ник әйләнеп карамадың? / Хәмит Төхвәтуллин / Сара Садыйкова - Почему не обернулся ты?](../translated/h/hamit_tohvatullin_sara_sadiykova_-_nik_aylanep_karamadin.md)
 - [haniya_farhi_firzar_mortazin_ - Үкенергә хәзер, җаным, соң! / Хания Фархи / Фирзар Мортазин - Поздно каяться, душа моя!](../translated/h/haniya_farhi_firzar_mortazin_-_ukenerga_hazer_canim_son.md)
 - [hasan_tufan_mars_makarov_ - Хәсән Туфан / Марс Макаров - Киек казлар (беренче вариант) / Хәсән Туфан / Марс Макаров - Дикие гуси (первый вариант)](../translated/h/hasan_tufan_mars_makarov_-_kiek_kazlar_berenche_variant.md)
+- [hasan_tufan_mars_makarov_ - Хәсән Туфан / Марс Макаров - Юксындырсаң, нишләрмен? / Хәсән Туфан / Марс Макаров - Если станешь тосковать, что мне делать?](../translated/h/hasan_tufan_mars_makarov_-_yuksindirsan_nishlarmen.md)
+- [Hat - Жэйге янгыр / Hat - Летний дождь](../translated/h/hat-zheyge_yangyr.md)
+- [hava_safina_masgut_imashev_ - Һава Сафина / Мәсгуть Имашев - Салават җыры / Хава Сафина / Мәсгут Имашев - Песня Салавата](../translated/h/hava_safina_masgut_imashev_-_salavat_ciri.md)
+- [Homay - Минем йорэк минем кызымда / Homay - Моё сердце в моей дочке](../translated/h/homay-minem_yorek_minem_kyzymda.md)
+- [Homay - Ялгыз итмэ / Homay - Не оставляй одну](../translated/h/homay-yalgyz_itme.md)
+- [Idelia - Ай чакыра / Idelia - Луна зовёт](../translated/i/idelia-ay_chakyra.md)
+- [Idelia - Анлаталмыйм / Idelia - Не могу объяснить](../translated/i/idelia-anlatalmyym.md)
+- [Idelia - Без бергэ / Idelia - Мы вместе](../translated/i/idelia-bez_berge.md)
+- [Idelia - Галэмгэ / Idelia - Во вселенную](../translated/i/idelia-galemge.md)
+- [Idelia - Кунелем синдэ генэ / Idelia - Моя душа только в тебе](../translated/i/idelia-kunelem_sinde_gene.md)
+- [Idelia - Тонге тизлек / Idelia - Ночная скорость](../translated/i/idelia-tonge_tizlek.md)
+- [Idelia - Тонге уеннар / Idelia - Ночные игры](../translated/i/idelia-tonge_uennar.md)
 
 ---
 

@@ -5,14 +5,6 @@
 [← Предыдущая страница](SONGS_26.md) | [Главная страница](../README.md) | [Следующая страница →](SONGS_28.md)
 
 
-- [Гөлфия Шакирова / Гөлназ Фәхертдинова - Сагындым (дүртенче вариант) / Гөлфия Шакирова / Гөлназ Фахертдинова - Соскучилась (четвертый вариант)](../translated/g/golfiya_shakirova_golnaz_fahertdinova_-_sagindim_durtenche_variant.md)
-- [Гөлфия Шакирова / Гөлшат Арсланова - Сандугачлар - талларда / Гөлфия Шакирова / Гөлшат Арсланова - Соловьи на ивах](../translated/g/golfiya_shakirova_golshat_arslanova_-_sandugachlar_tallarda.md)
-- [Гөлфия Шакирова / Зиннур Сафиуллин - Чит җимеш / Гөлфия Шакирова / Зиннур Сафиуллин - Чужой плод](../translated/g/golfiya_shakirova_zinnur_safiullin_-_chit_cimesh.md)
-- [Гөлфия Шакирова / Игорь Дмитриев - Ашыктык / Гөлфия Шакирова / Игорь Дмитриев - Поспешили](../translated/g/golfiya_shakirova_igor_dmitriev_-_ashiktik.md)
-- [Гөлфия Шакирова / Игорь Дмитриев - Син яраткан чәчәкләр / Гульфия Шакирова / Игорь Дмитриев - Цветы, которые ты любила](../translated/g/golfiya_shakirova_igor_dmitriev_-_sin_yaratkan_chachaklar.md)
-- [Гөлфия Шакирова / Игорь Дмитриев - Үкенмим (икенче вариант) / Гульфия Шакирова / Игорь Дмитриев - Я не жалуюсь (второй вариант)](../translated/g/golfiya_shakirova_igor_dmitriev_-_ukenmim_ikenche_variant.md)
-- [Гөлфия Шакирова / Илдар Мәгъдәнов - Мин янган утларда янсаң / Гульфия Шакирова / Ильдар Магданов - Ты горела в огне, который разожгла я](../translated/g/golfiya_shakirova_ildar_magdanov_-_min_yangan_utlarda_yansan.md)
-- [Гөлфия Шакирова / Илдар Низамов - Ак пароход (өченче вариант) / Гульфия Шакирова / Ильдар Низамов - Белый пароход (третий вариант)](../translated/g/golfiya_shakirova_ildar_nizamov_-_ak_parohod_ochenche_variant.md)
 - [Гөлфия Шакирова / Илдар Ногманов - Кырау алды сөю гөлләрен / Гөлфия Шакирова / Илдар Ногманов - Иней тронул цветы любви](../translated/g/golfiya_shakirova_ildar_nogmanov_-_kirau_aldi_soyu_gollaren.md)
 - [Гөлфия Шакирова / Илдар Ногманов - Тормыш - көрәш (беренче вариант) / Гульфия Шакирова / Ильдар Ногманов - Жизнь - борьба (первый вариант)](../translated/g/golfiya_shakirova_ildar_nogmanov_-_tormish_korash_berenche_variant.md)
 - [Гөлфия Шакирова / Илдар Ногманов - Әниемә (тугызынчы вариант) / Гөлфия Шакирова / Илдар Ногманов - Маме (девятый вариант)](../translated/g/golfiya_shakirova_ildar_nogmanov_-_aniema_tugizinchi_variant.md)
@@ -105,6 +97,14 @@
 - [Гөлфия Шакирова / Фирзәр Мортазин - Эзләгәнем син минем / Гөлфия Шакирова / Фирзәр Мортазин - Ты - то, что искал(а)](../translated/g/golfiya_shakirova_firzar_mortazin_-_ezlaganem_sin_minem.md)
 - [Гөлфия Шакирова / Фирзәр Мортазин - Үтте инде сөю / Гульфия Шакирова / Фирзяр Мортазин - Прошла любовь](../translated/g/golfiya_shakirova_firzar_mortazin_-_utte_inde_soyu.md)
 - [Гөлфия Шакирова / Флүрә Талипова - Ничек булсам, шулай ярат / Гөлфия Шакирова / Флүрә Талипова - Люби меня такой, как есть](../translated/g/golfiya_shakirova_flura_talipova_-_nichek_bulsam_shulay_yarat.md)
+- [Гөлфия Шакирова / Фәрит Хатыйпов - Суларда / Гөлфия Шакирова / Фәрит Хатыйпов - На водах](../translated/g/golfiya_shakirova_farit_hatiypov_-_sularda.md)
+- [Гөлфия Шакирова / Хәмид Мәткәримов - Тагын бер кайтырмын / Гульфия Шакирова / Хамид Маткаримов - Ещё раз вернусь](../translated/g/golfiya_shakirova_hamid_matkarimov_-_tagin_ber_kaytirmin.md)
+- [Гөлфия Шакирова / Чулпан Зиннәтуллина - Җәйнең кичләре / Гөлфия Шакирова / Чулпан Зиннәтуллина - Летние вечера](../translated/g/golfiya_shakirova_chulpan_zinnatullina_-_caynen_kichlare.md)
+- [Гөлфия Шакирова / Шахзат Размәтов - Ак роза / Гульфия Шакирова / Шахзат Разматов - Белая роза](../translated/g/golfiya_shakirova_shahzat_razmatov_-_ak_roza.md)
+- [Гөлфия Шакирова / Шахзат Размәтов - Сары дип саргаймагыз / Гульфия Шакирова / Шахзат Разматов - Не старейте от тоски](../translated/g/golfiya_shakirova_shahzat_razmatov_-_sari_dip_sargaymagiz.md)
+- [Гөлфия Шакирова / Шахзат Размәтов - Син яшәгәч яшим мин дә / Гөлфия Шакирова / Шахзат Размәтов - Пока ты живёшь, живу и я](../translated/g/golfiya_shakirova_shahzat_razmatov_-_sin_yashagach_yashim_min_da.md)
+- [Гөлфия Шакирова / Эльвира Хаматнурова - Көтмәгән идем синнән / Гөлфия Шакирова / Эльвира Хаматнурова - Не ждала я от тебя](../translated/g/golfiya_shakirova_elvira_hamatnurova_-_kotmagan_idem_sinnan.md)
+- [Гөлфия Шакирова / Эльвира Хаматнурова - Мин яратам җырларга / Гульфия Шакирова / Эльвира Хаматнурова - Я люблю петь](../translated/g/golfiya_shakirova_elvira_hamatnurova_-_min_yaratam_cirlarga.md)
 
 ---
 

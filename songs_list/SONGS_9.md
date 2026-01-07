@@ -5,18 +5,6 @@
 [← Предыдущая страница](SONGS_8.md) | [Главная страница](../README.md) | [Следующая страница →](SONGS_10.md)
 
 
-- [Айдар Минһаҗев / Айдар Тимербаев - Кияүгә чык бары яратып / Айдар Минхаджев / Айдар Тимербаев - Выходи замуж только по любви](../translated/a/aydar_minhacev_aydar_timerbaev_-_kiyauga_chik_bari_yaratip.md)
-- [Айдар Минһаҗев / Айдар Тимербаев - Нокта куярга вакыт / Айдар Минхаджев / Айдар Тимербаев - Время ставить точку](../translated/a/aydar_minhacev_aydar_timerbaev_-_nokta_kuyarga_vakit.md)
-- [Айдар Минһаҗев / Айдар Тимербаев - Рәхмәт булганыңа / Айдар Минхажев / Айдар Тимербаев - Спасибо, что ты есть](../translated/a/aydar_minhacev_aydar_timerbaev_-_rahmat_bulganina.md)
-- [Айдар Минһаҗев / Айдар Тимербаев - Салкын түшәк / Айдар Минхаджев / Айдар Тимербаев - Холодная постель](../translated/a/aydar_minhacev_aydar_timerbaev_-_salkin_tushak.md)
-- [Айдар Минһаҗев / Айдар Тимербаев - Саташуларым мәллә? / Айдар Минхаджев / Айдар Тимербаев - Может, ссоры виноваты?](../translated/a/aydar_minhacev_aydar_timerbaev_-_satashularim_malla.md)
-- [Айдар Минһаҗев / Айдар Тимербаев - Сикәлтәле тормыш юллары / Айдар Минхажев / Айдар Тимербаев - Ухабистые дороги жизни](../translated/a/aydar_minhacev_aydar_timerbaev_-_sikaltale_tormish_yullari.md)
-- [Айдар Минһаҗев / Айдар Тимербаев - Син кайларда, җаным / Айдар Минхаджев / Айдар Тимербаев - Где же ты, душа моя](../translated/a/aydar_minhacev_aydar_timerbaev_-_sin_kaylarda_canim.md)
-- [Айдар Минһаҗев / Айдар Тимербаев - Син мине үзгәрттең / Айдар Минхаджев / Айдар Тимербаев - Ты изменила меня](../translated/a/aydar_minhacev_aydar_timerbaev_-_sin_mine_uzgartten.md)
-- [Айдар Минһаҗев / Айдар Тимербаев - Сәбәбен тап / Айдар Минхажев / Айдар Тимербаев - Найди причину](../translated/a/aydar_minhacev_aydar_timerbaev_-_sababen_tap.md)
-- [Айдар Минһаҗев / Айдар Тимербаев - Табасылар иде / Айдар Минхаджев / Айдар Тимербаев - Если бы встретились](../translated/a/aydar_minhacev_aydar_timerbaev_-_tabasilar_ide.md)
-- [Айдар Минһаҗев / Айдар Тимербаев - Татар хатын-кызлары / Айдар Минхаджев / Айдар Тимербаев - Татарские женщины](../translated/a/aydar_minhacev_aydar_timerbaev_-_tatar_hatin-kizlari.md)
-- [Айдар Минһаҗев / Айдар Тимербаев - Урамнар буйлатып, гармуннар уйнатып / Айдар Минхажев / Айдар Тимербаев - Бродя по улицам, играя на гармонях](../translated/a/aydar_minhacev_aydar_timerbaev_-_uramnar_buylatip_garmunnar_uynatip.md)
 - [Айдар Минһаҗев / Айдар Тимербаев - Хыянәт (өченче вариант) / Айдар Минхажев / Айдар Тимербаев - Измена (третий вариант)](../translated/a/aydar_minhacev_aydar_timerbaev_-_hiyanat_ochenche_variant.md)
 - [Айдар Минһаҗев / Айдар Тимербаев - Шалтыратма, аптыратма... / Айдар Минхажев / Айдар Тимербаев - Не звони, не сбивай...](../translated/a/aydar_minhacev_aydar_timerbaev_-_shaltiratma_aptiratma.md)
 - [Айдар Минһаҗев / Айдар Тимербаев - Шулайдыр шул / Айдар Минхажев / Айдар Тимербаев - Вот так оно и есть](../translated/a/aydar_minhacev_aydar_timerbaev_-_shulaydir_shul.md)
@@ -105,6 +93,18 @@
 - [Айфара - Америка сау бул / Айфара - Прощай, Америка](../translated/a/ayfara-amerika_sau_bul.md)
 - [Айфара - Без - татар егетлэре / Айфара - Мы - татарские джигиты](../translated/a/ayfara-bez_-_tatar_egetlere.md)
 - [Айфара - Бэйрэм / Айфара - Праздник](../translated/a/ayfara-beyrem.md)
+- [Айфара - Гузэлем / Айфара - Красавица](../translated/a/ayfara-guzelem.md)
+- [Айфара - Егет тэкъдиме / Айфара - Предложение парня](../translated/a/ayfara-eget_tekdime.md)
+- [Айфара - Кара кыз / Айфара - Смуглая девушка](../translated/a/ayfara-kara_kyz.md)
+- [Айфара - Кем син / Айфара - Кто ты](../translated/a/ayfara-kem_sin.md)
+- [Айфара - Кил генэ котэрмен / Айфара - Приходи, просто жду](../translated/a/ayfara-kil_gene_kotermen.md)
+- [Айфара - Кирэген бер тиен / Айфара - Нужен один тиын](../translated/a/ayfara-kiregen_ber_tien.md)
+- [Айфара - Курше авыл кызы / Айфара - Девушка из соседней деревни](../translated/a/ayfara-kurshe_avyl_kyzy.md)
+- [Айфара - Мин гаепле / Айфара - Я виноват](../translated/a/ayfara-min_gaeple.md)
+- [Айфара - Мин сине сагынам / Айфара - Я скучаю по тебе](../translated/a/ayfara-min_sine_sagynam.md)
+- [Айфара - Назлы голем голназым / Айфара - Нежный мой цветок Гульназ](../translated/a/ayfara-nazly_golem_golnazym.md)
+- [Айфара - Сау бул / Айфара - Прощай](../translated/a/ayfara-sau_bul.md)
+- [Айфара - Сау бул жэй / Айфара - Прощай, лето](../translated/a/ayfara-sau_bul_zhey.md)
 
 ---
 

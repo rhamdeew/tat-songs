@@ -5,11 +5,6 @@
 [← Предыдущая страница](SONGS_57.md) | [Главная страница](../README.md) | [Следующая страница →](SONGS_59.md)
 
 
-- [Разил Вәлиев / Луиза Батыр-Болгари - Илһам / Разиль Валиев / Луиза Батыр-Болгари - Вдохновение](../translated/r/razil_valiev_luiza_batir-bolgari_-_ilham.md)
-- [Разил Вәлиев / Луиза Батыр-Болгари - Ир-егетне кем картайта? / Разил Вәлиев / Луиза Батыр-Болгари - Кто старит мужчину?](../translated/r/razil_valiev_luiza_batir-bolgari_-_ir-egetne_kem_kartayta.md)
-- [Разил Вәлиев / Луиза Батыр-Болгари - Иртән торып эшкә барам / Разил Валиев / Луиза Батыр-Болгари - Утром вставляю, иду на работу](../translated/r/razil_valiev_luiza_batir-bolgari_-_irtan_torip_eshka_baram.md)
-- [Разил Вәлиев / Луиза Батыр-Болгари - Кайларда бәхетле илләр? / Разиль Валиев / Луиза Батыр-Болгари - Где же счастливые края?](../translated/r/razil_valiev_luiza_batir-bolgari_-_kaylarda_bahetle_illar.md)
-- [Разил Вәлиев / Луиза Батыр-Болгари - Кышкы учак / Разил Валиев / Луиза Батыр-Болгари - Зимний костёр](../translated/r/razil_valiev_luiza_batir-bolgari_-_kishki_uchak.md)
 - [Разил Вәлиев / Луиза Батыр-Болгари - Күктән иңгән бәхет / Разил Вәлиев / Луиза Батыр-Болгари - Счастье, сошедшее с небес](../translated/r/razil_valiev_luiza_batir-bolgari_-_kuktan_ingan_bahet.md)
 - [Разил Вәлиев / Луиза Батыр-Болгари - Мин бит синсез - бәхетсез / Разил Вәлиев / Луиза Батыр-Болгари - Я ведь без тебя несчастен](../translated/r/razil_valiev_luiza_batir-bolgari_-_min_bit_sinsez_bahetsez.md)
 - [Разил Вәлиев / Луиза Батыр-Болгари - Моңлану (өченче вариант) / Разил Вәлиев / Луиза Батыр-Болгари - Моңлану (третий вариант)](../translated/r/razil_valiev_luiza_batir-bolgari_-_monlanu_ochenche_variant.md)
@@ -105,6 +100,11 @@
 - [Разим Вәлиуллин - Зирек алкалары / Разим Валиуллин - Земляничные поляны](../translated/r/razim_valiullin_-_zirek_alkalari.md)
 - [Разим Вәлиуллин / Таһир Асылгәрәй - Камыш сылу / Разим Валиуллин / Тахир Асылгараев - Камыш красавица](../translated/r/razim_valiullin_tahir_asilgaray_-_kamish_silu.md)
 - [Раил Бикбаев - Сөйгәнем Язилә / Раил Бикбаев - Любимая моя Язиля](../translated/r/rail_bikbaev_-_soyganem_yazila.md)
+- [Раил Гатауллин / Лилия Тарханова - Татар укытучысы авазы / Раил Гатауллин / Лилия Тарханова - Голос татарского учителя](../translated/r/rail_gataullin_liliya_tarhanova_-_tatar_ukituchisi_avazi.md)
+- [Раил Шакиров / Зиннур Гыйбадуллин - Уҗым бозавы / Раил Шакиров / Зиннур Гыйбадуллин - Озимый теленок](../translated/r/rail_shakirov_zinnur_giybadullin_-_ucim_bozavi.md)
+- [Раил Шакиров / Зөфәр Хәйретдинов - Җаным елый / Раил Шакиров / Зөфәр Хәйретдинов - Душа моя плачет](../translated/r/rail_shakirov_zofar_hayretdinov_-_canim_eliy.md)
+- [Раилә Бариева / Дамир Муллахмәтов - Салагыш / Раилә Бариева / Дамир Муллахмәтов - Салагыш](../translated/r/raila_barieva_damir_mullahmatov_-_salagish.md)
+- [Раилә Кәримова / Рамил Әсхәдулла - Төшләремә кердең (икенче вариант) / Раилә Кәримова / Рамиль Әсхәдулла - Ты вошёл в мои сны (второй вариант)](../translated/r/raila_karimova_ramil_ashadulla_-_toshlarema_kerden_ikenche_variant.md)
 
 ---
 

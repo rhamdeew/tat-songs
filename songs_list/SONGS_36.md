@@ -5,13 +5,6 @@
 [← Предыдущая страница](SONGS_35.md) | [Главная страница](../README.md) | [Следующая страница →](SONGS_37.md)
 
 
-- [Зөфәр Хәйретдинов - Абагалар чәчәк атмый / Зуфар Хайретдинов - Репейник не цветёт](../translated/z/zofar_hayretdinov_-_abagalar_chachak_atmiy.md)
-- [Зөһрә Алтынбаева / Газиз Дәүләтбирдин - Балан (икенче вариант) / Зухра Алтынбаева / Газиз Дәүләтбирдин - Калина (второй вариант)](../translated/z/zohra_altinbaeva_gaziz_daulatbirdin_-_balan_ikenche_variant.md)
-- [Зөһрә Алтынбаева / Мәрьям Солтанова - Сөелүдән кем туйган?! / Зухра Алтынбаева / Марьям Султанова - Кто устал от любви?!](../translated/z/zohra_altinbaeva_maryam_soltanova_-_soeludan_kem_tuygan.md)
-- [Зөһрә Алтынбаева / Мәрьям Солтанова - Сөюдән кем туйган? / Зухра Алтынбаева / Марьям Солтанова - Кто ощутил больше любви?](../translated/z/zohra_altinbaeva_maryam_soltanova_-_soyudan_kem_tuygan.md)
-- [Зөһрә Алтынбаева / Юлай Үзәнбаев - Үкенеч / Зухра Алтынбаева / Юлай Узанбаев - Сожаление](../translated/z/zohra_altinbaeva_yulay_uzanbaev_-_ukenech.md)
-- [Зөһрә Ганиева / Мөфтәдин Гыйләҗев - Ак күбәләк (икенче вариант) / Зөһрә Ганиева / Мөфтәдин Гыйләҗев - Белая бабочка (второй вариант)](../translated/z/zohra_ganieva_moftadin_giylacev_-_ak_kubalak_ikenche_variant.md)
-- [Зөһрә Котлыгилдина / Роберт Тимербаев - Санама, кәккүк! / Зухра Котлыгилдина / Роберт Тимербаев - Не считай, кукушка!](../translated/z/zohra_kotligildina_robert_timerbaev_-_sanama_kakkuk.md)
 - [Зөһрә Котлыгилдина / Рәшит Җиһанов - Сандугачың булам, димә / Зөһрә Котлыгилдина / Рәшит Җиһанов - Не говори: я стану твоим соловьём](../translated/z/zohra_kotligildina_rashit_cihanov_-_sandugachin_bulam_dima.md)
 - [Зөһрә Котлыгилдина / Салават Низаметдинов - Алан чәчәкләре / Зухра Котлыгильдина / Салават Низаметдинов - Луговые цветы](../translated/z/zohra_kotligildina_salavat_nizametdinov_-_alan_chachaklare.md)
 - [Зөһрә Котлыгилдина / Салават Низаметдинов - Алсу пион / Зухра Котлыгилдина / Салават Низаметдинов - Алый пион](../translated/z/zohra_kotligildina_salavat_nizametdinov_-_alsu_pion.md)
@@ -105,6 +98,13 @@
 - [Илдар Ногманов - Сүнгән учак / Ильдар Ногманов - Погасший костер](../translated/i/ildar_nogmanov_-_sungan_uchak.md)
 - [Илдар Ногманов - Ярат мине (икенче вариант) / Ильдар Ногманов - Люби меня (второй вариант)](../translated/i/ildar_nogmanov_-_yarat_mine_ikenche_variant.md)
 - [Илдар Ногманов / Гүзәл Мингашаева - Йөрәк түре / Илдар Ногманов / Гүзәл Мингашаева - Сердечная даль](../translated/i/ildar_nogmanov_guzal_mingashaeva_-_yorak_ture.md)
+- [Илдар Нуртдинов / Лилия Вахитова - Өзгәләнмә җаным! / Ильдар Нуртдинов / Лилия Вахитова - Не изменяйся, душа моя!](../translated/i/ildar_nurtdinov_liliya_vahitova_-_ozgalanma_canim.md)
+- [Илдар Сафин / Алия Ганиева - Кочаклама яратмыйча / Илдар Сафин / Алия Ганиева - Не обнимай без любви](../translated/i/ildar_safin_aliya_ganieva_-_kochaklama_yaratmiycha.md)
+- [Илдар Сафин / Алия Ганиева - Чәчләреңнән килә иркәлисе / Ильдар Сафин / Алия Ганиева - Из твоих волос льётся нежность](../translated/i/ildar_safin_aliya_ganieva_-_chachlarennan_kila_irkalise.md)
+- [Илдар Фазлетдинов / Мөдәрис Газетдинов - Сөям әле / Ильдар Фазлетдинов / Мударис Газетдинов - Люблю еще](../translated/i/ildar_fazletdinov_modaris_gazetdinov_-_soyam_ale.md)
+- [Илдар Хөсни / Зиннур Сафиуллин - Сердәш миләшләр / Илдар Хөсни / Зиннур Сафиуллин - Рябины-собеседницы](../translated/i/ildar_hosni_zinnur_safiullin_-_serdash_milashlar.md)
+- [Илдар Хөсни / Зиннур Сафиуллин - Юксынам / Ильдар Хосни / Зиннур Сафиуллин - Скучаю](../translated/i/ildar_hosni_zinnur_safiullin_-_yuksinam.md)
+- [Илдар Шәрипов - Бәхетлемен (икенче вариант) / Ильдар Шарипов - Счастлив я (второй вариант)](../translated/i/ildar_sharipov_-_bahetlemen_ikenche_variant.md)
 
 ---
 

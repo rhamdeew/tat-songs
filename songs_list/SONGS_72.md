@@ -5,11 +5,6 @@
 [← Предыдущая страница](SONGS_71.md) | [Главная страница](../README.md) | [Следующая страница →](SONGS_73.md)
 
 
-- [Сания Гомәрова / Мәсгуть Имашев - Синең кулда язмышы / Сания Гомарова / Мәсгут Имашев - Судьба в твоих руках](../translated/s/saniya_gomarova_masgut_imashev_-_sinen_kulda_yazmishi.md)
-- [Сания Хисаметдинова / Җәмил Миңгалиев - Яшьлегем чишмәләрен сагынам / Сания Хисаметдинова / Җәмил Миңгалиев - Скучаю по родникам моей юности](../translated/s/saniya_hisametdinova_camil_mingaliev_-_yashlegem_chishmalaren_saginam.md)
-- [Сания Әхмәтҗанова / Айдар Тимербаев - Алмагач бураны / Сания Ахматжанова / Айдар Тимербаев - Метель яблонь](../translated/s/saniya_ahmatcanova_aydar_timerbaev_-_almagach_burani.md)
-- [Сания Әхмәтҗанова / Айдар Фәйзрахманов - Гөлбишек / Сания Ахматджанова / Айдар Файзрахманов - Колыбель цветов](../translated/s/saniya_ahmatcanova_aydar_fayzrahmanov_-_golbishek.md)
-- [Сания Әхмәтҗанова / Айдар Фәйзрахманов - Кайту (Авылга кайтканда) / Сания Әхмәтҗанова / Айдар Фәйзрахманов - Возвращение (Когда едешь в деревню)](../translated/s/saniya_ahmatcanova_aydar_fayzrahmanov_-_kaytu_avilga_kaytkanda.md)
 - [Сания Әхмәтҗанова / Айдар Фәйзрахманов - Кыз бала (өченче вариант) / Сания Әхмәтҗанова / Айдар Фәйзрахманов - Девичья доля (третий вариант)](../translated/s/saniya_ahmatcanova_aydar_fayzrahmanov_-_kiz_bala_ochenche_variant.md)
 - [Сания Әхмәтҗанова / Айдар Фәйзрахманов - Тәгәри тормыш арбасы / Сания Ахметжанова / Айдар Файзрахманов - Колесо жизни](../translated/s/saniya_ahmatcanova_aydar_fayzrahmanov_-_tagari_tormish_arbasi.md)
 - [Сания Әхмәтҗанова / Айдар Фәйзрахманов - Яшьлегемә кире кайталмыйм / Сания Ахметжанова / Айдар Файзрахманов - Не вернусь я снова в юность](../translated/s/saniya_ahmatcanova_aydar_fayzrahmanov_-_yashlegema_kire_kaytalmiym.md)
@@ -18,6 +13,7 @@
 - [Сания Әхмәтҗанова / Альфред Якшимбетов - Ялгыз учак / Сания Ахметжанова / Альфред Якшимбетов - Одинокий очаг](../translated/s/saniya_ahmatcanova_alfred_yakshimbetov_-_yalgiz_uchak.md)
 - [Сания Әхмәтҗанова / Булат Шәрипов - Дөнья гизә сабантуй / Сания Ахматжанова / Булат Шарипов - Сабантуй для всего мира](../translated/s/saniya_ahmatcanova_bulat_sharipov_-_donya_giza_sabantuy.md)
 - [Сания Әхмәтҗанова / Гөлүзә Зиятдин - Әткәй гармуны / Сания Ахметжанова / Гөлүзә Зиятдин - Отцовский гармонь](../translated/s/saniya_ahmatcanova_goluza_ziyatdin_-_atkay_garmuni.md)
+- [Сания Әхмәтҗанова / Давид Тухманов - Җиңү көне (икенче вариант) / Сания Ахметжанова / Давид Тухманов - День Победы (второй вариант)](../translated/s/saniya_ahmatcanova_david_tuhmanov_-_cinu_kone_ikenche_variant.md)
 - [Сания Әхмәтҗанова / Дамир Фейсханов - Әткәй-әнкәй - пар канатым / Сания Ахматжанова / Дамир Фейсханов - Отец и мать - моя пара крыльев](../translated/s/saniya_ahmatcanova_damir_feyshanov_-_atkay-ankay_par_kanatim.md)
 - [Сания Әхмәтҗанова / Зөфәр Хәйретдинов - Арчаларда калып булмады / Сания Ахметзянова / Зуфар Хайретдинов - Не удалось остаться в Арче](../translated/s/saniya_ahmatcanova_zofar_hayretdinov_-_archalarda_kalip_bulmadi.md)
 - [Сания Әхмәтҗанова / Зөфәр Хәйретдинов - Балачагыма кайтам / Сания Әхмәтҗанова / Зөфәр Хәйретдинов - Возвращаюсь в детство](../translated/s/saniya_ahmatcanova_zofar_hayretdinov_-_balachagima_kaytam.md)
@@ -54,6 +50,7 @@
 - [Сафуан Муллагалиев / Рәшит Кәлимуллин - Бәхетемнең кояшы бул, ярым / Сафуан Муллагалиев / Рәшит Кәлимуллин - Будь солнцем моего счастья, любимая](../translated/s/safuan_mullagaliev_rashit_kalimullin_-_bahetemnen_koyashi_bul_yarim.md)
 - [Сафуан Әлибай / Альбина Имаева - Гөлназ / Сафуан Алибәй / Альбина Имаева - Гюльназ](../translated/s/safuan_alibay_albina_imaeva_-_golnaz.md)
 - [Сафуан Әлибай / Альфред Якшимбетов - Көтәм (икенче вариант) / Сафуан Әлибай / Альфред Якшимбетов - Жду (второй вариант)](../translated/s/safuan_alibay_alfred_yakshimbetov_-_kotam_ikenche_variant.md)
+- [Сафуан Әлибай / Артур Туктаголов - Чал Урал / Сафуан Алибай / Артур Туктаголов - Седой Урал](../translated/s/safuan_alibay_artur_tuktagolov_-_chal_ural.md)
 - [Сафуан Әлибай / Билгесез - Әллә кояш, әллә ай... (беренче вариант) / Сафуан Әлибай / Билгесез - То ли солнце, то ли месяц... (первый вариант)](../translated/s/safuan_alibay_bilgesez_-_alla_koyash_alla_ay_berenche_variant.md)
 - [Сафуан Әлибай / Дамир Әделбаев - Гомеркәйләр аз гына / Сафуан Алибаев / Дамир Адельбаев - Жизни коротки](../translated/s/safuan_alibay_damir_adelbaev_-_gomerkaylar_az_gina.md)
 - [Сафуан Әлибай / Заһир Исмәгыйлев - Сермәнемнең ниди серләре бар? / Сафуан Әлибай / Заһир Исмәгыйлев - Сермән, какие тайны ты хранишь?](../translated/s/safuan_alibay_zahir_ismagiylev_-_sermanemnen_nidi_serlare_bar.md)
@@ -105,6 +102,9 @@
 - [Светлана Шәрипова / Лилия Вахитова - Яши белә әнкәй сабыр итеп / Светлана Шарипова / Лилия Вахитова - Мама, живи с терпением](../translated/s/svetlana_sharipova_liliya_vahitova_-_yashi_bela_ankay_sabir_itep.md)
 - [Светлана Шәрипова / Мөдәрис Газетдинов - Бәхетлемен (беренче вариант) / Светлана Шарипова / Мөдәрис Газетдинов - Я счастлива (первый вариант)](../translated/s/svetlana_sharipova_modaris_gazetdinov_-_bahetlemen_berenche_variant.md)
 - [Светлана Шәрипова / Мөдәрис Газетдинов - Изге көзге / Светлана Шарипова / Модарис Газетдинов - Святое зеркало](../translated/s/svetlana_sharipova_modaris_gazetdinov_-_izge_kozge.md)
+- [Светлана Шәрипова / Мөдәрис Газетдинов - Сабырлык (беренче вариант) / Светлана Шарипова / Модарис Газетдинов - Терпение (первый вариант)](../translated/s/svetlana_sharipova_modaris_gazetdinov_-_sabirlik_berenche_variant.md)
+- [Светлана Шәрипова / Мөдәрис Газетдинов - Туганнар җыелганда / Светлана Шарипова / Мударис Газетдинов - Когда родные собираются](../translated/s/svetlana_sharipova_modaris_gazetdinov_-_tugannar_cielganda.md)
+- [Светлана Шәрипова / Мөдәрис Газетдинов - Якын дусларым! / Светлана Шарипова / Модарис Газетдинов - Мои близкие друзья!](../translated/s/svetlana_sharipova_modaris_gazetdinov_-_yakin_duslarim.md)
 
 ---
 

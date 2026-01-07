@@ -5,11 +5,6 @@
 [← Предыдущая страница](SONGS_59.md) | [Главная страница](../README.md) | [Следующая страница →](SONGS_61.md)
 
 
-- [Рамил Чурагулов / Ризван Хәкимов - Бәхет (дүртенче вариант) / Рамиль Чурагулов / Ризван Хәкимов - Счастье (четвертый вариант)](../translated/r/ramil_churagulov_rizvan_hakimov_-_bahet_durtenche_variant.md)
-- [Рамил Чурагулов / Ризван Хәкимов - И, Ходай, исәнлек бир... / Рамил Чурагулов / Ризван Хәкимов - О, Господь, здоровья даруй...](../translated/r/ramil_churagulov_rizvan_hakimov_-_i_hoday_isanlek_bir.md)
-- [Рамил Чурагулов / Ризван Хәкимов - Картаймыйк без! / Рамил Чурагулов / Ризван Хәкимов - Не старейте мы!](../translated/r/ramil_churagulov_rizvan_hakimov_-_kartaymiyk_bez.md)
-- [Рамил Чурагулов / Ризван Хәкимов - Китмимен, авылкаем / Рамил Чурагулов / Ризван Хәкимов - Не уйду, деревенька моя](../translated/r/ramil_churagulov_rizvan_hakimov_-_kitmimen_avilkaem.md)
-- [Рамил Чурагулов / Ризван Хәкимов - Моңнар кайтсын авылга / Рамил Чурагулов / Ризван Хакимов - Мелодии вернутся в деревню](../translated/r/ramil_churagulov_rizvan_hakimov_-_monnar_kaytsin_avilga.md)
 - [Рамил Чурагулов / Ризван Хәкимов - Рәхмәтеңнән, Ходаем, ташлама! / Рамиль Чурагулов / Ризван Хәкимов - Не оставь, Господь, без милости Твоей!](../translated/r/ramil_churagulov_rizvan_hakimov_-_rahmatennan_hodaem_tashlama.md)
 - [Рамил Чурагулов / Ризван Хәкимов - Уртаклаш кешенең кайгысын / Рамил Чурагулов / Ризван Хәкимов - Раздели печаль человека](../translated/r/ramil_churagulov_rizvan_hakimov_-_urtaklash_keshenen_kaygisin.md)
 - [Рамил Чурагулов / Ризван Хәкимов - Яшьли сөйгән ярым / Рамил Чурагулов / Ризван Хакимов - Любовь моей юности](../translated/r/ramil_churagulov_rizvan_hakimov_-_yashli_soygan_yarim.md)
@@ -105,6 +100,11 @@
 - [Рамил Чурагулов / Эльвира Хаматнурова - Яңа ел җыры (алтынчы вариант) / Рамил Чурагулов / Эльвира Хаматнурова - Песня о Новом годе (шестой вариант)](../translated/r/ramil_churagulov_elvira_hamatnurova_-_yana_el_ciri_altinchi_variant.md)
 - [Рамил Чурагулов / Эльвира Хаматнурова - Әниемнең кочагы / Рамил Чурагулов / Эльвира Хаматнурова - Материнские объятия](../translated/r/ramil_churagulov_elvira_hamatnurova_-_aniemnen_kochagi.md)
 - [Рамил Чурагулов / Эльвира Хаматнурова - Өч кенә сүз / Рамил Чурагулов / Эльвира Хаматнурова - Всего три слова](../translated/r/ramil_churagulov_elvira_hamatnurova_-_och_kena_suz.md)
+- [Рамил Чурагулов / Эльвира Хаматнурова - Өч сүз / Рамил Чурагулов / Эльвира Хаматнурова - Три слова](../translated/r/ramil_churagulov_elvira_hamatnurova_-_och_suz.md)
+- [Рамил Чурагулов / Юлай Моратов - Авылымда кичке уеннар / Рамил Чурагулов / Юлай Моратов - Вечерние игры в моем селе](../translated/r/ramil_churagulov_yulay_moratov_-_avilimda_kichke_uennar.md)
+- [Рамил Чурагулов / Юлай Моратов - Бер күрешү - бер гомер (икенче вариант) / Рамил Чурагулов / Юлай Моратов - Одна встреча - одна жизнь (второй вариант)](../translated/r/ramil_churagulov_yulay_moratov_-_ber_kureshu_ber_gomer_ikenche_variant.md)
+- [Рамил Чурагулов / Юлай Моратов - Карсылуым / Рамиль Чурагулов / Юлай Моратов - Моя встречная метель](../translated/r/ramil_churagulov_yulay_moratov_-_karsiluim.md)
+- [Рамил Чурагулов / Юлай Моратов - Кошлар китә (беренче вариант) / Рамил Чурагулов / Юлай Моратов - Улетают птицы (первый вариант)](../translated/r/ramil_churagulov_yulay_moratov_-_koshlar_kita_berenche_variant.md)
 
 ---
 

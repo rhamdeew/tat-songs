@@ -5,11 +5,6 @@
 [← Предыдущая страница](SONGS_67.md) | [Главная страница](../README.md) | [Следующая страница →](SONGS_69.md)
 
 
-- [Рәис Риянов / Сәүбән Чуганаев - Ак каеным (беренче вариант) / Раис Риянов / Сәүбән Чуганаев - Мой белый кед (первый вариант)](../translated/r/rais_riyanov_sauban_chuganaev_-_ak_kaenim_berenche_variant.md)
-- [Рәис Риянов / Флүр Әхмәтсафин - Ак каеным (икенче вариант) / Рәис Риянов / Флүр Әхмәтсафин - Моя белая берёза (второй вариант)](../translated/r/rais_riyanov_flur_ahmatsafin_-_ak_kaenim_ikenche_variant.md)
-- [Рәис Риянов / Флүр Әхмәтсафин - Чәчәктә чакта сирень / Раис Риянов / Флюр Ахметсафин - Когда цветёт сирень](../translated/r/rais_riyanov_flur_ahmatsafin_-_chachakta_chakta_siren.md)
-- [Рәис Риянов / Фәнзәл Котдысов - Аргамагым сиңа алып килде / Раис Риянов / Фанзаль Котдысов - Мой аргамак к тебе меня принес](../translated/r/rais_riyanov_fanzal_kotdisov_-_argamagim_sina_alip_kilde.md)
-- [Рәис Риянов / Фәнзәл Котдысов - Байкы буе / Раис Риянов / Фәнзәл Котдысов - Берег Байкы](../translated/r/rais_riyanov_fanzal_kotdisov_-_bayki_bue.md)
 - [Рәис Риянов / Фәнзәл Котдысов - Бездә урманнар миләшле / Раис Риянов / Фанзаль Котдысов - У нас в лесах рябина](../translated/r/rais_riyanov_fanzal_kotdisov_-_bezda_urmannar_milashle.md)
 - [Рәис Риянов / Фәнзәл Котдысов - Таң каршында / Раис Риянов / Фанзаль Котдысов - Перед рассветом](../translated/r/rais_riyanov_fanzal_kotdisov_-_tan_karshinda.md)
 - [Рәис Риянов / Фәнзәл Котдысов - Туган җирдә (беренче вариант) / Рәис Риянов / Фәнзәл Котдысов - На родной земле (первый вариант)](../translated/r/rais_riyanov_fanzal_kotdisov_-_tugan_cirda_berenche_variant.md)
@@ -105,6 +100,11 @@
 - [Рәмис Әймәт / Оскар Усманов - Син җитмисең җанга / Рәмис Әймәт / Оскар Усманов - Тебя не хватает душе](../translated/r/ramis_aymat_oskar_usmanov_-_sin_citmisen_canga.md)
 - [Рәмис Әймәт / Оскар Усманов - Әйтер микән таулар / Рәмис Әймәт / Оскар Усманов - Скажут ли горы](../translated/r/ramis_aymat_oskar_usmanov_-_ayter_mikan_taular.md)
 - [Рәмис Әймәт / Урал Рәшитов - Китәсең / Рамис Аймат / Урал Рашидов - Уходишь](../translated/r/ramis_aymat_ural_rashitov_-_kitasen.md)
+- [Рәмис Әймәт / Фәрид Низамиев - Нигә сүзләр / Рәмис Әймәт / Фәрид Низамиев - Зачем слова](../translated/r/ramis_aymat_farid_nizamiev_-_niga_suzlar.md)
+- [Рәмис Әймәт / Фәрит Хатыйпов - Пар аккошлар күрсәм / Рамис Аймат / Фарит Хатыйпов - Если вижу пару белых лебедей](../translated/r/ramis_aymat_farit_hatiypov_-_par_akkoshlar_kursam.md)
+- [Рәмис Әймәт / Фәрит Хатыйпов - Җавапсыз мәхәббәт (икенче вариант) / Рәмис Әймәт / Фәрит Хатыйпов - Безответная любовь (второй вариант)](../translated/r/ramis_aymat_farit_hatiypov_-_cavapsiz_mahabbat_ikenche_variant.md)
+- [Рәниф Шәрипов / Марат Гобәйдуллин - Сүнмәс тойгылар / Рәниф Шәрипов / Марат Гобәйдуллин - Негасимые чувства](../translated/r/ranif_sharipov_marat_gobaydullin_-_sunmas_toygilar.md)
+- [Рәсилә Йосыпова / Айрат Сафин - Кабатланмый кеше язмышы / Раиля Юсупова / Айрат Сафин - Неповторимы судьбы людские](../translated/r/rasila_yosipova_ayrat_safin_-_kabatlanmiy_keshe_yazmishi.md)
 
 ---
 

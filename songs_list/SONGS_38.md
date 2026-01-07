@@ -5,13 +5,6 @@
 [← Предыдущая страница](SONGS_37.md) | [Главная страница](../README.md) | [Следующая страница →](SONGS_39.md)
 
 
-- [Илназ Гәрәев / Артур Исламов - Ялган / Илназ Гәрәев / Артур Исламов - Ложь](../translated/i/ilnaz_garaev_artur_islamov_-_yalgan.md)
-- [Илназ Мөсәлләмов - Сагынам яшьлегемне / Ильназ Мусаллямов - Скучаю по моему детству](../translated/i/ilnaz_mosallamov_-_saginam_yashlegemne.md)
-- [Илназ Сафиуллин - Мин яратам сине (икенче вариант) / Ильназ Сафиуллин - Я люблю тебя (второй вариант)](../translated/i/ilnaz_safiullin_-_min_yaratam_sine_ikenche_variant.md)
-- [Илнат Фәрхуллин - Карлыгачым (икенче вариант) / Илнат Фәрхуллин - Ласточка моя (второй вариант)](../translated/i/ilnat_farhullin_-_karligachim_ikenche_variant.md)
-- [Илнат Фәрхуллин - Сары розалар (беренче вариант) / Илнат Фәрхуллин - Жёлтые розы (первый вариант)](../translated/i/ilnat_farhullin_-_sari_rozalar_berenche_variant.md)
-- [Илнат Фәрхуллин - Сөйдерәсең / Илнат Фәрхуллин - Заставляешь любить](../translated/i/ilnat_farhullin_-_soyderasen.md)
-- [Илнат Фәрхуллин - Талларым елап кала / Ильнат Фархуллин - Ивы плачут](../translated/i/ilnat_farhullin_-_tallarim_elap_kala.md)
 - [Илнат Фәрхуллин - Яшьлек язым / Илнат Фәрхуллин - Весна моей юности](../translated/i/ilnat_farhullin_-_yashlek_yazim.md)
 - [Илнат Фәрхуллин / Айдар Әгъләмов - Иреннәрең үрелә / Илнат Фархуллин / Айдар Агламов - Твои губы манят](../translated/i/ilnat_farhullin_aydar_aglamov_-_irennaren_urela.md)
 - [Илнат Фәрхуллин / Наил Табанаков - Кызлар көлә / Илнат Фәрхуллин / Наил Табанаков - Девушки смеются](../translated/i/ilnat_farhullin_nail_tabanakov_-_kizlar_kola.md)
@@ -105,6 +98,13 @@
 - [Илфак Шиһапов - Казан (икенче вариант) / Ильфак Шихапов - Казань (второй вариант)](../translated/i/ilfak_shihapov_-_kazan_ikenche_variant.md)
 - [Илфак Шиһапов - Кайт, Чыңгызхан / Илфак Шихапов - Вернись, Чингизхан](../translated/i/ilfak_shihapov_-_kayt_chingizhan.md)
 - [Илфак Шиһапов - Карт бүре / Ильфак Шихапов - Старый волк](../translated/i/ilfak_shihapov_-_kart_bure.md)
+- [Илфак Шиһапов - Кунак / Ильфак Шихапов - Гость](../translated/i/ilfak_shihapov_-_kunak.md)
+- [Илфак Шиһапов - Ленин бабай / Илфак Шиһапов - Ленин-бабай](../translated/i/ilfak_shihapov_-_lenin_babay.md)
+- [Илфак Шиһапов - Мең еллар (Тиз үтә еллар) / Илфак Шиһапов - Тысяча лет (Быстро проходят годы)](../translated/i/ilfak_shihapov_-_men_ellar_tiz_uta_ellar.md)
+- [Илфак Шиһапов - Мин исән / Ильфак Шихапов - Я жив](../translated/i/ilfak_shihapov_-_min_isan.md)
+- [Илфак Шиһапов - Мишәрем / Илфак Шихапов - Мишәрем](../translated/i/ilfak_shihapov_-_misharem.md)
+- [Илфак Шиһапов - Очрашу (беренче вариант) / Илфак Шиһапов - Встреча (первый вариант)](../translated/i/ilfak_shihapov_-_ochrashu_berenche_variant.md)
+- [Илфак Шиһапов - Оя корган сандугачның... / Илфак Шиһапов - Соловей, свивший гнездо...](../translated/i/ilfak_shihapov_-_oya_korgan_sandugachnin.md)
 
 ---
 

@@ -5,7 +5,6 @@
 [← Предыдущая страница](SONGS_77.md) | [Главная страница](../README.md) | [Следующая страница →](SONGS_79.md)
 
 
-- [Фарида Алсу - Эбием коймаклары / Фарида Алсу - Бабушкины оладьи](../translated/f/farida-alsu-ebiem_koymaklary.md)
 - [Фарит Таишев - Исэнмесез! / Фарит Таишев - Здравствуйте!](../translated/f/farit_taishev-isenmesez.md)
 - [Фарит Таишев - Мин монда юк / Фарит Таишев - Меня здесь нет](../translated/f/farit_taishev-min_monda_yuk.md)
 - [Фарит Таишев - Сагынуларым чиксез / Фарит Таишев - Тоска моя безгранична](../translated/f/farit_taishev-sagynularym_chiksez.md)
@@ -105,6 +104,7 @@
 - [Филүс Хисаметдинов / Илнат Фәрхуллин - Гомер кыска / Филюс Хисаметдинов / Ильнат Фархуллин - Жизнь коротка](../translated/f/filus_hisametdinov_ilnat_farhullin_-_gomer_kiska.md)
 - [Филүс Хисаметдинов / Илнат Фәрхуллин - Назлы язым, сине яратам / Филүс Хисаметдинов / Илнат Фәрхуллин - Ласковая моя весна, я люблю тебя](../translated/f/filus_hisametdinov_ilnat_farhullin_-_nazli_yazim_sine_yaratam.md)
 - [Филүс Хисаметдинов / Рәдиф Зарипов - Бәгърем / Филүс Хисаметдинов / Рәдиф Зарипов - Дорогой мой](../translated/f/filus_hisametdinov_radif_zaripov_-_bagrem.md)
+- [Филүс Хисаметдинов / Рәдиф Зарипов - Яныңа барам / Филүс Хисаметдинов / Рәдиф Зарипов - К тебе иду](../translated/f/filus_hisametdinov_radif_zaripov_-_yanina_baram.md)
 
 ---
 

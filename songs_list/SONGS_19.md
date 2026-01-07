@@ -5,16 +5,6 @@
 [← Предыдущая страница](SONGS_18.md) | [Главная страница](../README.md) | [Следующая страница →](SONGS_20.md)
 
 
-- [Вәзыйх Фатыйхов / Халидин Әхәтов - Пар канатлар кирәк / Вәзыйх Фатыйхов / Халидин Әхәтов - Нужны парные крылья](../translated/v/vaziyh_fatiyhov_halidin_ahatov_-_par_kanatlar_kirak.md)
-- [Вәзыйх Фатыйхов / Халидин Әхәтов - Соңгы өмет / Вазих Фатихов / Халидин Ахатов - Последняя надежда](../translated/v/vaziyh_fatiyhov_halidin_ahatov_-_songi_omet.md)
-- [Вәзыйх Фатыйхов / Халидин Әхәтов - Яшьлегем хисләре (икенче вариант) / Вәзыйх Фатыйхов / Халидин Әхәтов - Чувства моей юности (второй вариант)](../translated/v/vaziyh_fatiyhov_halidin_ahatov_-_yashlegem_hislare_ikenche_variant.md)
-- [Вәзыйх Фатыйхов / Эльвира Хаматнурова - Йөрәкләр сөюле ялкында / Вәзыйх Фатыйхов / Эльвира Хаматнурова - Сердца в пламени любви](../translated/v/vaziyh_fatiyhov_elvira_hamatnurova_-_yoraklar_soyule_yalkinda.md)
-- [Вәзыйх Фатыйхов / Юлай Үзәнбаев - Эй, хыялый, сантый кыз бала (беренче вариант) / Вазих Фатыхов / Юлай Узянбаев - Эй, мечтательница, сто лет девочка (первый вариант)](../translated/v/vaziyh_fatiyhov_yulay_uzanbaev_-_ey_hiyaliy_santiy_kiz_bala_berenche_variant.md)
-- [Вәлит Илембәтов / Артур Туктаголов - Үткәннәргә үкенмик / Вәлит Илембәтов / Артур Туктаголов - Не будем жалеть о прошлом](../translated/v/valit_ilembatov_artur_tuktagolov_-_utkannarga_ukenmik.md)
-- [Вәлит Илембәтов / Артур Туктаголов - Әнкәемнең моңлы тавышы / Вәлит Илембәтов / Артур Туктаголов - Мелодичный голос моей матери](../translated/v/valit_ilembatov_artur_tuktagolov_-_ankaemnen_monli_tavishi.md)
-- [Вәлит Илембәтов / Венер Мөхәммәдиев - Аңла инде (Юкка үпкәләмә) / Вәлит Илембәтов / Венер Мөхәммәдиев - Пойми же (Напрасно не обижайся)](../translated/v/valit_ilembatov_vener_mohammadiev_-_anla_inde_yukka_upkalama.md)
-- [Вәлит Илембәтов / Гүзәл Үлмәсколова - Мәңгелеккә кил, иркәм! / Валит Илембатов / Гузель Ульмасколова - Приди навек, любимая!](../translated/v/valit_ilembatov_guzal_ulmaskolova_-_mangelekka_kil_irkam.md)
-- [Вәлит Илембәтов / Зәбих Мәмәлимов - Соң очраштык ... / Валит Илембатов / Зябих Мамалимов - Мы встретились в последний раз...](../translated/v/valit_ilembatov_zabih_mamalimov_-_son_ochrashtik.md)
 - [Вәлит Илембәтов / Илфат Дәүләтшин - Тик синнән аермасын (икенче вариант) / Валит Илембатов / Ильфат Дәүләтшин - Пусть отличит только от тебя (второй вариант)](../translated/v/valit_ilembatov_ilfat_daulatshin_-_tik_sinnan_aermasin_ikenche_variant.md)
 - [Вәлит Илембәтов / Нәфисә Хәкимова - Соңлап килгән мәхәббәт (Гөлләр бүләк итәм, ташлама!) / Валит Илембатов / Нәфисә Хәкимова - Поздняя любовь (Дарю цветы, не бросай!)](../translated/v/valit_ilembatov_nafisa_hakimova_-_sonlap_kilgan_mahabbat_gollar_bulak_itam_tashlama.md)
 - [Вәлит Илембәтов / Нәфисә Хәкимова - Тик синнән аермасын (беренче вариант) / Вәлит Илембәтов / Нәфисә Хәкимова - Пусть не разлучат с тобой (первый вариант)](../translated/v/valit_ilembatov_nafisa_hakimova_-_tik_sinnan_aermasin_berenche_variant.md)
@@ -105,6 +95,16 @@
 - [Габдулла Тукай / Заһид Хәбибуллин - Карга / Габдулла Тукай / Заһид Хәбибуллин - Ворона](../translated/g/gabdulla_tukay_zahid_habibullin_-_karga.md)
 - [Габдулла Тукай / Заһид Хәбибуллин - Карлыгач (өченче вариант) / Габдулла Тукай / Загид Хабибуллин - Ласточка (третий вариант)](../translated/g/gabdulla_tukay_zahid_habibullin_-_karligach_ochenche_variant.md)
 - [Габдулла Тукай / Заһид Хәбибуллин - Кошларга (икенче вариант) / Габдулла Тукай / Захид Хабибуллин - Птицам (второй вариант)](../translated/g/gabdulla_tukay_zahid_habibullin_-_koshlarga_ikenche_variant.md)
+- [Габдулла Тукай / Заһид Хәбибуллин - Пар ат / Габдулла Тукай / Заһид Хәбибуллин - Пара коней](../translated/g/gabdulla_tukay_zahid_habibullin_-_par_at.md)
+- [Габдулла Тукай / Ильяс Халиков - Кадер кич / Габдулла Тукай / Ильяс Халиков - Ночь Кадр](../translated/g/gabdulla_tukay_ilyas_halikov_-_kader_kich.md)
+- [Габдулла Тукай / Мансур Мозаффаров - Бер рәсемгә (беренче вариант) / Габдулла Тукай / Мансур Мозаффаров - К одному портрету (первый вариант)](../translated/g/gabdulla_tukay_mansur_mozaffarov_-_ber_rasemga_berenche_variant.md)
+- [Габдулла Тукай / Мәсгудә Шәмсетдинова - Байроннан / Габдулла Тукай / Мәсгудә Шәмсетдинова - Из Байрона](../translated/g/gabdulla_tukay_masguda_shamsetdinova_-_bayronnan.md)
+- [Габдулла Тукай / Мәсгудә Шәмсетдинова - Бакчага чыгам / Габдулла Тукай / Мәсгудә Шәмсетдинова - Выхожу в сад](../translated/g/gabdulla_tukay_masguda_shamsetdinova_-_bakchaga_chigam.md)
+- [Габдулла Тукай / Мәсгудә Шәмсетдинова - Бер рәсемгә (икенче вариант) / Габдулла Тукай / Мәсгудә Шәмсетдинова - К одному портрету (второй вариант)](../translated/g/gabdulla_tukay_masguda_shamsetdinova_-_ber_rasemga_ikenche_variant.md)
+- [Габдулла Тукай / Мәсгудә Шәмсетдинова - Уянмас йокы / Габдулла Тукай / Мәсгудә Шәмсетдинова - Непробудный сон](../translated/g/gabdulla_tukay_masguda_shamsetdinova_-_uyanmas_yoki.md)
+- [Габдулла Тукай / Мәсгудә Шәмсетдинова - Фатыйма белән Сандугач / Габдулла Тукай / Мәсгудә Шәмсетдинова - Фатыйма и Соловей](../translated/g/gabdulla_tukay_masguda_shamsetdinova_-_fatiyma_belan_sandugach.md)
+- [Габдулла Тукай / Мәсгуть Имашев - Театр / Габдулла Тукай / Мәсгуть Имашев - Театр](../translated/g/gabdulla_tukay_masgut_imashev_-_teatr.md)
+- [Габдулла Тукай / Рөстәм Яхин - Кем белер кадереңне? / Габдулла Тукай / Рөстәм Яхин - Кто узнает твою цену?](../translated/g/gabdulla_tukay_rostam_yahin_-_kem_beler_kaderenne.md)
 
 ---
 

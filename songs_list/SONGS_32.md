@@ -5,14 +5,6 @@
 [← Предыдущая страница](SONGS_31.md) | [Главная страница](../README.md) | [Следующая страница →](SONGS_33.md)
 
 
-- [Динә Мөхәммәтҗанова / Илдус Низамов - Синнән башка (беренче вариант) / Дина Мухамметжанова / Ильдус Низамов - Без тебя (первый вариант)](../translated/d/dina_mohammatcanova_ildus_nizamov_-_sinnan_bashka_berenche_variant.md)
-- [Динә Талхина / Айрат Кобагышев - Аргаяш күлләре / Дина Талхина / Айрат Кобагышев - Озёра Аргаяша](../translated/d/dina_talhina_ayrat_kobagishev_-_argayash_kullare.md)
-- [Динә Талхина / Айрат Кобагышев - Тагы җәйләр җитте / Дина Талхина / Айрат Кобагышев - Снова лето пришло](../translated/d/dina_talhina_ayrat_kobagishev_-_tagi_caylar_citte.md)
-- [Динә Талхина / Нур Даутов - Алтын гомер (беренче вариант) / Дина Талхина / Нур Даутов - Золотая жизнь (первый вариант)](../translated/d/dina_talhina_nur_dautov_-_altin_gomer_berenche_variant.md)
-- [Динә Талхина / Нурия Абдуллина - Яшел яулык / Дина Талхина / Нурия Абдуллина - Зелёный платок](../translated/d/dina_talhina_nuriya_abdullina_-_yashel_yaulik.md)
-- [Динә Талхина / Ришат Сәгыйтов - Җырларым минем кошлардан / Дина Талхина / Ришат Сагитов - Песни мои от птиц](../translated/d/dina_talhina_rishat_sagiytov_-_cirlarim_minem_koshlardan.md)
-- [Динә Талхина / Роза Сәхәүетдинова - Мәктәбем ихатасы / Дина Талхина / Роза Сахауетдинова - Ограда моей школы](../translated/d/dina_talhina_roza_sahauetdinova_-_maktabem_ihatasi.md)
-- [Динә Талхина / Роза Сәхәүетдинова - Сагынырсың әле, сагынырсың / Дина Талхина / Роза Сахауетдинова - Скучаешь ли, скучаешь](../translated/d/dina_talhina_roza_sahauetdinova_-_saginirsin_ale_saginirsin.md)
 - [Динә Талхина / Роза Сәхәүетдинова - Сиреннәр чәчәк аткан / Дина Талхина / Роза Сахауетдинова - Сирень зацвела](../translated/d/dina_talhina_roza_sahauetdinova_-_sirennar_chachak_atkan.md)
 - [Динә Талхина / Рәзидә Әхмәтова - Алтын гомер (икенче вариант) / Дина Талхина / Разида Ахметова - Золотая жизнь (второй вариант)](../translated/d/dina_talhina_razida_ahmatova_-_altin_gomer_ikenche_variant.md)
 - [Динә Талхина / Салават Низаметдинов - Ал чәчәк таҗлары / Дина Талхина / Салават Низаметдинов - Алые венки цветов](../translated/d/dina_talhina_salavat_nizametdinov_-_al_chachak_taclari.md)
@@ -98,6 +90,7 @@
 - [Зинаида Захарова / Людмила Аланлы - Күзләреңдә / Зинаида Захарова / Людмила Аланлы - В твоих глазах](../translated/z/zinaida_zaharova_lyudmila_alanli_-_kuzlarenda.md)
 - [Зинаида Захарова / Людмила Аланлы - Сөйгән ярыма / Зинаида Захарова / Людмила Аланлы - Возлюбленному](../translated/z/zinaida_zaharova_lyudmila_alanli_-_soygan_yarima.md)
 - [Зинаида Захарова / Людмила Аланлы - Туган-тумачалар / Зинаида Захарова / Людмила Аланлы - Родные-родня](../translated/z/zinaida_zaharova_lyudmila_alanli_-_tugan-tumachalar.md)
+- [Зинаида Захарова / Людмила Аланлы - Әнигә (алтынчы вариант) / Зинаида Захарова / Людмила Аланлы - Маме (шестой вариант)](../translated/z/zinaida_zaharova_lyudmila_alanli_-_aniema_altinchi_variant.md)
 - [Зиннур Мансуров / Рәшит Кәлимуллин - Җиләк кагы / Зиннур Мансуров / Рашит Калимуллин - Ягодная корзина](../translated/z/zinnur_mansurov_rashit_kalimullin_-_cilak_kagi.md)
 - [Зиннур Мансуров / Шамил Шәрифуллин - Үзебез булып калыйк / Зиннур Мансуров / Шамиль Шәрифуллин - Остаться самими собой](../translated/z/zinnur_mansurov_shamil_sharifullin_-_uzebez_bulip_kaliyk.md)
 - [Зиннур Мөхәммәтдинов - Вәгъдә (беренче вариант) / Зиннур Мөхәммәтдинов - Клятва (первый вариант)](../translated/z/zinnur_mohammatdinov_-_vagda_berenche_variant.md)
@@ -105,6 +98,13 @@
 - [Зиннур Насыйбуллин / Алмаз Монасыйпов - Тагын килдем / Зиннур Насыйбуллин / Алмаз Монасыйпов - Опять пришел](../translated/z/zinnur_nasiybullin_almaz_monasiypov_-_tagin_kildem.md)
 - [Зиннур Насыйбуллин / Марс Макаров - Кара шәле килә сөйрәлеп / Зиннур Насыйбуллин / Марс Макаров - Черная шаль идет, волочась](../translated/z/zinnur_nasiybullin_mars_makarov_-_kara_shale_kila_soyralep.md)
 - [Зиннур Насыйбуллин / Ренат Еникеев - Елмаю нурында / Зиннур Насыйбуллин / Ренат Еникеев - В сиянии улыбки](../translated/z/zinnur_nasiybullin_renat_enikeev_-_elmayu_nurinda.md)
+- [Зиннур Насыйбуллин / Рим Хәсәнов - Күз күреме / Зиннур Насыйбуллин / Рим Хәсәнов - В поле зрения](../translated/z/zinnur_nasiybullin_rim_hasanov_-_kuz_kureme.md)
+- [Зиннур Насыйбуллин / Рим Хәсәнов - Чигүче кыз / Зиннур Насыйбуллин / Рим Хәсәнов - Вышивальщица](../translated/z/zinnur_nasiybullin_rim_hasanov_-_chiguche_kiz.md)
+- [Зиннур Насыйбуллин / Фәрит Хатыйпов - Бер күрүдә гашыйк булганнар (беренче вариант) / Зиннур Насыйбуллин / Фарит Хатыйпов - Влюблённые с первого взгляда (первый вариант)](../translated/z/zinnur_nasiybullin_farit_hatiypov_-_ber_kuruda_gashiyk_bulgannar_berenche_variant.md)
+- [Зиннур Насыйбуллин / Әнвәр Бакиров - Ләйсән яңгыр яуганда / Зиннур Насыйбуллин / Анвар Бакиров - Когда льёт ливень](../translated/z/zinnur_nasiybullin_anvar_bakirov_-_laysan_yangir_yauganda.md)
+- [Зиннур Сафиуллин - Бэхет тоне / Зиннур Сафиуллин - Ночь счастья](../translated/z/zinnur_safiullin-behet_tone.md)
+- [Зиннур Сафиуллин - Онытмам сине, Мәмәтем / Зиннур Сафиуллин - Не забуду тебя, Мәмәт](../translated/z/zinnur_safiullin_-_onitmam_sine_mamatem.md)
+- [Зиннур Сафиуллин - Сөйгәнемнең кулъяулыгы / Зиннур Сафиуллин - Прикосновение любимой](../translated/z/zinnur_safiullin_-_soyganemnen_kulyauligi.md)
 
 ---
 

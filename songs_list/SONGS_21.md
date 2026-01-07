@@ -5,15 +5,6 @@
 [← Предыдущая страница](SONGS_20.md) | [Главная страница](../README.md) | [Следующая страница →](SONGS_22.md)
 
 
-- [Галиәхмәт Шаһи / Ринат Гобәйдуллин - Апама (өченче вариант) / Галиәхмәт Шаһи / Ринат Гобәйдуллин - Апама (третий вариант)](../translated/g/galiahmat_shahi_rinat_gobaydullin_-_apama_ochenche_variant.md)
-- [Галиәхмәт Шаһи / Ринат Гобәйдуллин - Рәхмәт, тормыш! / Галиәхмәт Шаһи / Ринат Гобәйдуллин - Спасибо, жизнь!](../translated/g/galiahmat_shahi_rinat_gobaydullin_-_rahmat_tormish.md)
-- [Галиәхмәт Шаһи / Ринат Гобәйдуллин - Яныңа барам әле / Галиәхмәт Шаһи / Ринат Гобәйдуллин - Я всё ещё еду к тебе](../translated/g/galiahmat_shahi_rinat_gobaydullin_-_yanina_baram_ale.md)
-- [Галиәхмәт Шаһи / Рөстәм Әхмәтханов - Гомерләр уза ... / Галияхмет Шахи / Рустам Ахметханов - Годы уходят ...](../translated/g/galiahmat_shahi_rostam_ahmathanov_-_gomerlar_uza.md)
-- [Галиәхмәт Шаһи / Салават Шәрәфиев - Исәнмесез! / Галиәхмәт Шаһи / Салават Шәрәфиев - Здравствуйте!](../translated/g/galiahmat_shahi_salavat_sharafiev_-_isanmesez.md)
-- [Галиәхмәт Шаһи / Салават Шәрәфиев - Кулларыма сузма сары яфрак (Үзең кирәк) / Галиәхмәт Шаһи / Салават Шәрәфиев - Не тяни ко мне жёлтый лист (Ты нужна)](../translated/g/galiahmat_shahi_salavat_sharafiev_-_kullarima_suzma_sari_yafrak_uzen_kirak.md)
-- [Галиәхмәт Шаһи / Эльвира Нигъмәтҗанова - Яратам (икенче вариант) / Галиахмат Шахи / Эльвира Нигматзянова - Люблю (второй вариант)](../translated/g/galiahmat_shahi_elvira_nigmatcanova_-_yaratam_ikenche_variant.md)
-- [Гамил Афзал / Айдар Фәйзрахманов - Туган җиреңнән китмә / Гамил Афзал / Айдар Файзрахманов - Не уходи с родной земли](../translated/g/gamil_afzal_aydar_fayzrahmanov_-_tugan_cirennan_kitma.md)
-- [Гамил Афзал / Илһам Шакиров - Гөлмәрьям / Гамил Афзал / Илһам Шакиров - Гульмарьям](../translated/g/gamil_afzal_ilham_shakirov_-_golmaryam.md)
 - [Гамил Афзал / Марс Макаров - Татарстан таңнары / Гамил Афзал / Марс Макаров - Рассветы Татарстана](../translated/g/gamil_afzal_mars_makarov_-_tatarstan_tannari.md)
 - [Гамил Афзал / Резеда Ахиярова - Әлли-бәлли, былбылым / Гамиль Афзал / Резеда Ахиярова - Баю-баюшки, соловушка](../translated/g/gamil_afzal_rezeda_ahiyarova_-_alli-balli_bilbilim.md)
 - [Гамил Афзал / Ренат Еникеев - Өф-өф итеп / Гамил Афзал / Ренат Еникеев - Пфу-пфу да ну](../translated/g/gamil_afzal_renat_enikeev_-_of-of_itep.md)
@@ -105,6 +96,15 @@
 - [Гузель Ахметова - Килен тошэ / Гузель Ахметова - Невеста едет](../translated/g/guzel_ahmetova-kilen_toshe.md)
 - [Гузель Ахметова - Конлэшэм жиллэрдэн / Гузель Ахметова - С ветрами беседую](../translated/g/guzel_ahmetova-konleshem_zhillerden.md)
 - [Гузель Ахметова - Кузлэремэ кара / Гузель Ахметова - Загляни в мои глаза](../translated/g/guzel_ahmetova-kuzlereme_kara.md)
+- [Гузель Ахметова - Парлы бию / Гузель Ахметова - Парный танец](../translated/g/guzel_ahmetova-parly_biyu.md)
+- [Гузель Ахметова - Ромашка / Гузель Ахметова - Ромашка](../translated/g/guzel_ahmetova-romashka.md)
+- [Гузель Ахметова - Саубулыгыз, ак каеннар / Гузель Ахметова - Прощайте, белые берёзы](../translated/g/guzel_ahmetova-saubulygyz_ak_kaennar.md)
+- [Гузель Ахметова - Хыялым / Гузель Ахметова - Моя мечта](../translated/g/guzel_ahmetova-hyyalym.md)
+- [Гузель Ахметова - Чыкма юлларыма / Гузель Ахметова - Не выходи на мои дороги](../translated/g/guzel_ahmetova-chykma_yullaryma.md)
+- [Гузель Уразова - Ак пароход / Гузель Уразова - Белый пароход](../translated/g/guzel_urazova-ak_parohod.md)
+- [Гузель Уразова - Бала эйткэн авыр суз / Гузель Уразова - Тяжелое слово сказанное ребенком](../translated/g/guzel_urazova-bala_eytken_avyr_suz.md)
+- [Гузель Уразова - Балан жыя энкэй / Гузель Уразова - Мать собирает детские осколки](../translated/g/guzel_urazova-balan_zhyya_enkey.md)
+- [Гузель Уразова - Без кабызган учаклар / Гузель Уразова - Костры что мы зажгли](../translated/g/guzel_urazova-bez_kabyzgan_uchaklar.md)
 
 ---
 

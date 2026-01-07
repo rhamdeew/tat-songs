@@ -5,13 +5,6 @@
 [← Предыдущая страница](SONGS_32.md) | [Главная страница](../README.md) | [Следующая страница →](SONGS_34.md)
 
 
-- [Зиннур Насыйбуллин / Рим Хәсәнов - Күз күреме / Зиннур Насыйбуллин / Рим Хәсәнов - В поле зрения](../translated/z/zinnur_nasiybullin_rim_hasanov_-_kuz_kureme.md)
-- [Зиннур Насыйбуллин / Рим Хәсәнов - Чигүче кыз / Зиннур Насыйбуллин / Рим Хәсәнов - Вышивальщица](../translated/z/zinnur_nasiybullin_rim_hasanov_-_chiguche_kiz.md)
-- [Зиннур Насыйбуллин / Фәрит Хатыйпов - Бер күрүдә гашыйк булганнар (беренче вариант) / Зиннур Насыйбуллин / Фарит Хатыйпов - Влюблённые с первого взгляда (первый вариант)](../translated/z/zinnur_nasiybullin_farit_hatiypov_-_ber_kuruda_gashiyk_bulgannar_berenche_variant.md)
-- [Зиннур Насыйбуллин / Әнвәр Бакиров - Ләйсән яңгыр яуганда / Зиннур Насыйбуллин / Анвар Бакиров - Когда льёт ливень](../translated/z/zinnur_nasiybullin_anvar_bakirov_-_laysan_yangir_yauganda.md)
-- [Зиннур Сафиуллин - Бэхет тоне / Зиннур Сафиуллин - Ночь счастья](../translated/z/zinnur_safiullin-behet_tone.md)
-- [Зиннур Сафиуллин - Онытмам сине, Мәмәтем / Зиннур Сафиуллин - Не забуду тебя, Мәмәт](../translated/z/zinnur_safiullin_-_onitmam_sine_mamatem.md)
-- [Зиннур Сафиуллин - Сөйгәнемнең кулъяулыгы / Зиннур Сафиуллин - Прикосновение любимой](../translated/z/zinnur_safiullin_-_soyganemnen_kulyauligi.md)
 - [Зиннур Тимергалиев / Ләйсән Мәхмүтова - Алма кебек кызарма / Зиннур Тимергалиев / Ләйсән Мәхмүтова - Не красней, как яблоко](../translated/z/zinnur_timergaliev_laysan_mahmutova_-_alma_kebek_kizarma.md)
 - [Зиннур Хөснетдинов / Венер Улимаев - Аралар ераклаша / Зиннур Хөснетдинов / Венер Улимаев - Дали удаляются](../translated/z/zinnur_hosnetdinov_vener_ulimaev_-_aralar_eraklasha.md)
 - [Зиннәт Вәли / Исмай Шәмсетдинов - Йөр син безнең урамнарда / Зиннәт Вәли / Исмай Шәмсетдинов - Ты ходишь по нашим улицам](../translated/z/zinnat_vali_ismay_shamsetdinov_-_yor_sin_beznen_uramnarda.md)
@@ -105,6 +98,13 @@
 - [Зифа Нагаева - Әти-әнине зурлап / Зифа Нагаева - Почитая отца и мать](../translated/z/zifa_nagaeva_-_ati-anine_zurlap.md)
 - [Зифа Нагаева - Әтинең учлары, әнинең кочагы / Зифа Нагаева - Ладони отца, объятия матери](../translated/z/zifa_nagaeva_-_atinen_uchlari_aninen_kochagi.md)
 - [Зифа Нагаева - Өзелеп ярлар сөймәгез / Зифа Нагаева - Не любите до разрыва сердца](../translated/z/zifa_nagaeva_-_ozelep_yarlar_soymagez.md)
+- [Зифа Нагаева / Роберт Тимербаев - Гомер җитмәде (Нидер җитмәде) / Зифа Нагаева / Роберт Тимербаев - Жизни не хватило (Нидера не хватило)](../translated/z/zifa_nagaeva_robert_timerbaev_-_gomer_citmade_nider_citmade.md)
+- [Зифа Нагаева / Урал Солтанов - Ак сиреньнәр / Зифа Нагаева / Урал Солтанов - Белая сирень](../translated/z/zifa_nagaeva_ural_soltanov_-_ak_sirennar.md)
+- [Зифа Нагаева / Урал Солтанов - Бәхет юлы / Зифа Нагаева / Урал Солтанов - Дорога счастья](../translated/z/zifa_nagaeva_ural_soltanov_-_bahet_yuli.md)
+- [Зифа Нагаева / Урал Солтанов - Кызым үсә, гөлем үсә / Зифа Нагаева / Урал Солтанов - Дочь моя растет, цветок мой растет](../translated/z/zifa_nagaeva_ural_soltanov_-_kizim_usa_golem_usa.md)
+- [Зифа Нагаева / Урал Солтанов - Хыялларда бәхет эзлибез / Зифа Нагаева / Урал Солтанов - В мечтах мы счастье ищем](../translated/z/zifa_nagaeva_ural_soltanov_-_hiyallarda_bahet_ezlibez.md)
+- [Зифа Хәкимова / Радик Юлъякшин - Кызыма (бишенче вариант) / Зифа Хәкимова / Радик Юлъякшин - Доченьке (пятый вариант)](../translated/z/zifa_hakimova_radik_yulyakshin_-_kizima_bishenche_variant.md)
+- [Зо-Лэй-Лэ - Аерылмагыз (acoustic) / Зо-Лэй-Лэ - Не расставайтесь (acoustic)](../translated/z/zo-ley-le-aerylmagyz_acoustic.md)
 
 ---
 

@@ -5,14 +5,6 @@
 [← Предыдущая страница](SONGS_27.md) | [Главная страница](../README.md) | [Следующая страница →](SONGS_29.md)
 
 
-- [Гөлфия Шакирова / Фәрит Хатыйпов - Суларда / Гөлфия Шакирова / Фәрит Хатыйпов - На водах](../translated/g/golfiya_shakirova_farit_hatiypov_-_sularda.md)
-- [Гөлфия Шакирова / Хәмид Мәткәримов - Тагын бер кайтырмын / Гульфия Шакирова / Хамид Маткаримов - Ещё раз вернусь](../translated/g/golfiya_shakirova_hamid_matkarimov_-_tagin_ber_kaytirmin.md)
-- [Гөлфия Шакирова / Чулпан Зиннәтуллина - Җәйнең кичләре / Гөлфия Шакирова / Чулпан Зиннәтуллина - Летние вечера](../translated/g/golfiya_shakirova_chulpan_zinnatullina_-_caynen_kichlare.md)
-- [Гөлфия Шакирова / Шахзат Размәтов - Ак роза / Гульфия Шакирова / Шахзат Разматов - Белая роза](../translated/g/golfiya_shakirova_shahzat_razmatov_-_ak_roza.md)
-- [Гөлфия Шакирова / Шахзат Размәтов - Сары дип саргаймагыз / Гульфия Шакирова / Шахзат Разматов - Не старейте от тоски](../translated/g/golfiya_shakirova_shahzat_razmatov_-_sari_dip_sargaymagiz.md)
-- [Гөлфия Шакирова / Шахзат Размәтов - Син яшәгәч яшим мин дә / Гөлфия Шакирова / Шахзат Размәтов - Пока ты живёшь, живу и я](../translated/g/golfiya_shakirova_shahzat_razmatov_-_sin_yashagach_yashim_min_da.md)
-- [Гөлфия Шакирова / Эльвира Хаматнурова - Көтмәгән идем синнән / Гөлфия Шакирова / Эльвира Хаматнурова - Не ждала я от тебя](../translated/g/golfiya_shakirova_elvira_hamatnurova_-_kotmagan_idem_sinnan.md)
-- [Гөлфия Шакирова / Эльвира Хаматнурова - Мин яратам җырларга / Гульфия Шакирова / Эльвира Хаматнурова - Я люблю петь](../translated/g/golfiya_shakirova_elvira_hamatnurova_-_min_yaratam_cirlarga.md)
 - [Гөлфия Шакирова / Эльвира Хаматнурова - Моң (икенче вариант) / Гульфия Шакирова / Эльвира Хаматнурова - Напев (второй вариант)](../translated/g/golfiya_shakirova_elvira_hamatnurova_-_mon_ikenche_variant.md)
 - [Гөлфия Шакирова / Эльвира Хаматнурова - Сайра-сайра сандугач / Гөлфия Шакирова / Эльвира Хаматнурова - Пой, пой, соловей](../translated/g/golfiya_shakirova_elvira_hamatnurova_-_sayra-sayra_sandugach.md)
 - [Гөлфия Шакирова / Эльвира Хаматнурова - Татар гармуны (икенче вариант) / Гульфия Шакирова / Эльвира Хаматнурова - Татарская гармонь (второй вариант)](../translated/g/golfiya_shakirova_elvira_hamatnurova_-_tatar_garmuni_ikenche_variant.md)
@@ -105,6 +97,14 @@
 - [Гөлшат Зәйнәшева / Зиннур Гыйбадуллин - Туган көн вальсы (өченче вариант) / Гөлшат Зәйнәшева / Зиннур Гыйбадуллин - Вальс ко дню рождения (третий вариант)](../translated/g/golshat_zaynasheva_zinnur_giybadullin_-_tugan_kon_valsi_ochenche_variant.md)
 - [Гөлшат Зәйнәшева / Зиннур Гыйбадуллин - Туган җиремә (беренче вариант) / Гульшат Зайнашева / Зиннур Гыйбадуллин - Родной земле моей (первый вариант)](../translated/g/golshat_zaynasheva_zinnur_giybadullin_-_tugan_cirema_berenche_variant.md)
 - [Гөлшат Зәйнәшева / Зиннур Гыйбадуллин - Яшь гомер / Гөлшат Зәйнәшева / Зиннур Гыйбадуллин - Юная жизнь](../translated/g/golshat_zaynasheva_zinnur_giybadullin_-_yash_gomer.md)
+- [Гөлшат Зәйнәшева / Зиннур Гыйбадуллин - Җәйге ямьле басуларда / Гөлшат Зәйнәшева / Зиннур Гыйбадуллин - В летних милых полях](../translated/g/golshat_zaynasheva_zinnur_giybadullin_-_cayge_yamle_basularda.md)
+- [Гөлшат Зәйнәшева / Зиннур Мөхәммәтдинов - Авылым чишмәләре / Гөлшат Зәйнәшева / Зиннур Мөхәммәтдинов - Родные родники](../translated/g/golshat_zaynasheva_zinnur_mohammatdinov_-_avilim_chishmalare.md)
+- [Гөлшат Зәйнәшева / Зөфәр Сәгыйтов - Тибрәнә җыр күңелдә / Гульшат Зайнашева / Зуфар Сагитов - В душе колышется песня](../translated/g/golshat_zaynasheva_zofar_sagiytov_-_tibrana_cir_kunelda.md)
+- [Гөлшат Зәйнәшева / Зөфәр Хәйретдинов - Исеңә төшәрмен / Гульшат Зайнашева / Зуфар Хайретдинов - Буду сниться тебе](../translated/g/golshat_zaynasheva_zofar_hayretdinov_-_isena_tosharmen.md)
+- [Гөлшат Зәйнәшева / Зөфәр Хәйретдинов - Тәрәзәңә ай килер / Гульшат Зайнашева / Зуфар Хайретдинов - К твоему окну луна придёт](../translated/g/golshat_zaynasheva_zofar_hayretdinov_-_tarazana_ay_kiler.md)
+- [Гөлшат Зәйнәшева / Илгиз Закиров - Җыр эчендә йолдыз булмый / Гөлшат Зәйнәшева / Илгиз Закиров - В песне звезды не бывает](../translated/g/golshat_zaynasheva_ilgiz_zakirov_-_cir_echenda_yoldiz_bulmiy.md)
+- [Гөлшат Зәйнәшева / Илгиз Мәҗитов - Акбүз атлы егеткә / Гульшат Зайнашева / Ильгиз Мажитов - Парню на сером коне](../translated/g/golshat_zaynasheva_ilgiz_macitov_-_akbuz_atli_egetka.md)
+- [Гөлшат Зәйнәшева / Илгиз Мәҗитов - Таулар моңы / Гөлшат Зәйнәшева / Илгиз Мәҗитов - Песня гор](../translated/g/golshat_zaynasheva_ilgiz_macitov_-_taular_moni.md)
 
 ---
 

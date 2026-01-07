@@ -5,13 +5,6 @@
 [← Предыдущая страница](SONGS_39.md) | [Главная страница](../README.md) | [Следующая страница →](SONGS_41.md)
 
 
-- [Ильназ Сафиуллин - Китмэ туган жиреннэн / Ильназ Сафиуллин - Не уезжай с родной земли](../translated/i/ilnaz_safiullin-kitme_tugan_zhirennen.md)
-- [Ильназ Сафиуллин - Кызыл кубэлэклэр / Ильназ Сафиуллин - Красные бабочки](../translated/i/ilnaz_safiullin-kyzyl_kubelekler.md)
-- [Ильназ Сафиуллин - Минем заманам / Ильназ Сафиуллин - Мое время](../translated/i/ilnaz_safiullin-minem_zamanam.md)
-- [Ильназ Сафиуллин - Мэмэтем / Ильназ Сафиуллин - Родные места](../translated/i/ilnaz_safiullin-memetem.md)
-- [Ильназ Сафиуллин - Мэнге яшэ, сунмэс йолдызым (acoustic) / Ильназ Сафиуллин - Вечно живи, негасимая звезда моя (acoustic)](../translated/i/ilnaz_safiullin-menge_yashe_sunmes_yoldyzym_acoustic.md)
-- [Ильназ Сафиуллин - Сою бэхете / Ильназ Сафиуллин - Счастье любви](../translated/i/ilnaz_safiullin-soyu_behete.md)
-- [Ильназ Сафиуллин - Урманнарда йордем / Ильназ Сафиуллин - Хожу в лесах](../translated/i/ilnaz_safiullin-urmannarda_yordem.md)
 - [Ильназ Сафиуллин - Ходаем / Ильназ Сафиуллин - Боже мой](../translated/i/ilnaz_safiullin-hodaem.md)
 - [Ильназ Сафиуллин - Э син мине ярат / Ильназ Сафиуллин - А ты меня полюби](../translated/i/ilnaz_safiullin-e_sin_mine_yarat.md)
 - [Ильназ Сафиуллин - Юксыну / Ильназ Сафиуллин - Тоскую](../translated/i/ilnaz_safiullin-yuksynu.md)
@@ -105,6 +98,13 @@
 - [Ирек Галимов - Йөрәгемнең яртысы / Ирек Галимов - Половина моего сердца](../translated/i/irek_galimov_-_yoragemnen_yartisi.md)
 - [Ирек Галимов / Илнур Мусин - Аккошлар кебек / Ирек Галимов / Илнур Мусин - Как лебеди](../translated/i/irek_galimov_ilnur_musin_-_akkoshlar_kebek.md)
 - [Ирек Галимов / Илнур Мусин - Кайтарыгыз гармун тавышын / Ирек Галимов / Илнур Мусин - Верните звук гармони](../translated/i/irek_galimov_ilnur_musin_-_kaytarigiz_garmun_tavishin.md)
+- [Ирек Галин / Нурия Абдуллина - Ялгызларны кемнәр яратыр? (Ялгыз парлылар) / Ирек Галин / Нурия Абдуллина - Кто полюбит одиноких? (Одинокие пары)](../translated/i/irek_galin_nuriya_abdullina_-_yalgizlarni_kemnar_yaratir_yalgiz_parlilar.md)
+- [Ирек Диндаров / Виталий Агапов - Җаным сызлый / Ирек Диндаров / Виталий Агапов - Душа моя болит](../translated/i/irek_dindarov_vitaliy_agapov_-_canim_sizliy.md)
+- [Ирек Исмәгыйлев / Илһам Вәлишин - Кенәр чаты / Ирек Исмәгыйлев / Илһам Вәлишин - Перекресток Кенара](../translated/i/irek_ismagiylev_ilham_valishin_-_kenar_chati.md)
+- [Ирек Кинҗәбулатов / Билгесез - Мин куанам (икенче вариант) / Ирек Кинҗәбулатов / Билгесез - Я радуюсь (второй вариант)](../translated/i/irek_kincabulatov_bilgesez_-_min_kuanam_ikenche_variant.md)
+- [Ирек Кинҗәбулатов / Гүзәл Диникеева - Калган гомерем - сине сөюем / Ирек Кинҗәбулатов / Гүзәл Диникеева - Оставшаяся жизнь моя - любить тебя](../translated/i/irek_kincabulatov_guzal_dinikeeva_-_kalgan_gomerem_sine_soyuem.md)
+- [Ирек Кинҗәбулатов / Насип Кучаев - Мин куанам (беренче вариант) / Ирек Кинчабулатов / Насип Кучаев - Я радуюсь (первый вариант)](../translated/i/irek_kincabulatov_nasip_kuchaev_-_min_kuanam_berenche_variant.md)
+- [Ирек Кинҗәбулатов / Флүрә Үзәнбаева - Ут алырга кайтам, әнкәй / Ирек Кинҗабулатов / Флюра Үзәнбаева - Возвращаюсь за огнем, мама](../translated/i/irek_kincabulatov_flura_uzanbaeva_-_ut_alirga_kaytam_ankay.md)
 
 ---
 

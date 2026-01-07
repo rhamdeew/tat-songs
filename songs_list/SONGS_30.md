@@ -5,14 +5,6 @@
 [← Предыдущая страница](SONGS_29.md) | [Главная страница](../README.md) | [Следующая страница →](SONGS_31.md)
 
 
-- [Гөлшат Зәйнәшева / Фәрит Хатыйпов - Аккошка әверелдең... / Гульшат Зайнашева / Фарит Хатипов - Ты превратилась в белого лебедя...](../translated/g/golshat_zaynasheva_farit_hatiypov_-_akkoshka_averelden.md)
-- [Гөлшат Зәйнәшева / Фәрит Хатыйпов - Без үзебез Камкалы / Гөлшат Зәйнәшева / Фәрит Хатыйпов - Мы - Камкалы](../translated/g/golshat_zaynasheva_farit_hatiypov_-_bez_uzebez_kamkali.md)
-- [Гөлшат Зәйнәшева / Фәрит Хатыйпов - Газинур урманы / Гөлшат Зәйнәшева / Фәрит Хатыйпов - Лес Газинура](../translated/g/golshat_zaynasheva_farit_hatiypov_-_gazinur_urmani.md)
-- [Гөлшат Зәйнәшева / Фәрит Хатыйпов - Сакладым сине күңелемдә / Гульшат Зайнашева / Фарит Хатыпов - Сохранила тебя в своём сердце](../translated/g/golshat_zaynasheva_farit_hatiypov_-_sakladim_sine_kunelemda.md)
-- [Гөлшат Зәйнәшева / Фәрит Хатыйпов - Соңгы күрешү / Гульшат Зайнашева / Фарит Хатыпов - Последняя встреча](../translated/g/golshat_zaynasheva_farit_hatiypov_-_songi_kureshu.md)
-- [Гөлшат Зәйнәшева / Фәрит Хатыйпов - Теләче (беренче вариант) / Гөлшат Зәйнәшева / Фәрит Хатыйпов - Теләче (первый вариант)](../translated/g/golshat_zaynasheva_farit_hatiypov_-_telache_berenche_variant.md)
-- [Гөлшат Зәйнәшева / Фәрит Хатыйпов - Шауяды / Гөлшат Зәйнәшева / Фәрит Хатыйпов - Шауяды](../translated/g/golshat_zaynasheva_farit_hatiypov_-_shauyadi.md)
-- [Гөлшат Зәйнәшева / Фәрит Хатыйпов - Яшәрәсиң, Казан, яңарасың / Гульшат Зайнешева / Фарит Хатыпов - Живи, Казань, возгорайся](../translated/g/golshat_zaynasheva_farit_hatiypov_-_yasharasen_kazan_yanarasin.md)
 - [Гөлшат Зәйнәшева / Фәтхерахман Әхмәдиев - Җырлыйм әнием турында / Гульшат Зайнашева / Фетерахман Ахмадиев - Пою я о матери](../translated/g/golshat_zaynasheva_fatherahman_ahmadiev_-_cirliym_aniem_turinda.md)
 - [Гөлшат Зәйнәшева / Чулпан Зиннәтуллина - Аерылмагыз (беренче вариант) / Гульшат Зайнашева / Чулпан Зиннатуллина - Не расставайтесь (первый вариант)](../translated/g/golshat_zaynasheva_chulpan_zinnatullina_-_aerilmagiz_berenche_variant.md)
 - [Гөлшат Зәйнәшева / Чулпан Зиннәтуллина - Аерылмагыз (бишенче вариант) / Гульшат Зайнашева / Чулпан Зиннатуллина - Не расставайтесь (пятый вариант)](../translated/g/golshat_zaynasheva_chulpan_zinnatullina_-_aerilmagiz_bishenche_variant.md)
@@ -105,6 +97,14 @@
 - [Данис Фәхретдинов / Гөлназ Закирова - Әниемә (җиденче вариант) / Данис Фәхретдинов / Гөлназ Закирова - Моей маме (седьмой вариант)](../translated/d/danis_fahretdinov_golnaz_zakirova_-_aniema_cidenche_variant.md)
 - [Данис Фәхретдинов / Гөлназ Закирова - Өлешемә тигән көмешем / Данис Фахретдинов / Гульназ Закирова - Мое суженое серебро](../translated/d/danis_fahretdinov_golnaz_zakirova_-_oleshema_tigan_komeshem.md)
 - [Данис Хәбибуллин / Фирзәр Мортазин - Буа / Данис Хабибуллин / Фирзар Мортазин - Буа](../translated/d/danis_habibullin_firzar_mortazin_-_bua.md)
+- [Данис Хәбибуллин / Фирзәр Мортазин - Синдә генә / Данис Хабибуллин / Фирзар Мортазин - Только в тебе](../translated/d/danis_habibullin_firzar_mortazin_-_sinda_gena.md)
+- [Данис Хәбибуллин / Фирзәр Мортазин - Язгы җыр (беренче вариант) / Данис Хабибуллин / Фирзар Мортазин - Весенняя песня (первый вариант)](../translated/d/danis_habibullin_firzar_mortazin_-_yazgi_cir_berenche_variant.md)
+- [Данис Хәбибуллин / Фирзәр Мортазин - Язлар килә, язлар / Данис Хабибуллин / Фирзар Мортазин - Вёсны приходят, вёсны](../translated/d/danis_habibullin_firzar_mortazin_-_yazlar_kila_yazlar.md)
+- [Данис Хәбибуллин / Фәрит Хатыйпов - Авыл кызы (беренче вариант) / Данис Хабибуллин / Фарит Хатыйпов - Деревенская девушка (первый вариант)](../translated/d/danis_habibullin_farit_hatiypov_-_avil_kizi_berenche_variant.md)
+- [Данис Хәйруллин / Альфред Якшимбетов - Яратканнар гына аңлар мине / Данис Хайруллин / Альфред Якшимбетов - Лишь любившие поймут меня](../translated/d/danis_hayrullin_alfred_yakshimbetov_-_yaratkannar_gina_anlar_mine.md)
+- [Данис Хәйруллин / Зөфәр Хәйретдинов - Соңгы тапкыр (икенче вариант) / Данис Хайруллин / Зуфар Хайретдинов - Последний раз (второй вариант)](../translated/d/danis_hayrullin_zofar_hayretdinov_-_songi_tapkir_ikenche_variant.md)
+- [Дания Гайнетдинова / Мансур Хәсәнов - Гомер чишмәсе / Дания Гайнетдинова / Мансур Хасанов - Родник жизни](../translated/d/daniya_gaynetdinova_mansur_hasanov_-_gomer_chishmase.md)
+- [Дания Гайнетдинова / Рамил Курамшин - Туган ягым Теләче (икенче вариант) / Дания Гайнетдинова / Рамил Курамшин - Родной мой край Теляче (второй вариант)](../translated/d/daniya_gaynetdinova_ramil_kuramshin_-_tugan_yagim_telache_ikenche_variant.md)
 
 ---
 

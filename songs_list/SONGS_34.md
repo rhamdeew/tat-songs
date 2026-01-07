@@ -5,13 +5,6 @@
 [← Предыдущая страница](SONGS_33.md) | [Главная страница](../README.md) | [Следующая страница →](SONGS_35.md)
 
 
-- [Зифа Нагаева / Роберт Тимербаев - Гомер җитмәде (Нидер җитмәде) / Зифа Нагаева / Роберт Тимербаев - Жизни не хватило (Нидера не хватило)](../translated/z/zifa_nagaeva_robert_timerbaev_-_gomer_citmade_nider_citmade.md)
-- [Зифа Нагаева / Урал Солтанов - Ак сиреньнәр / Зифа Нагаева / Урал Солтанов - Белая сирень](../translated/z/zifa_nagaeva_ural_soltanov_-_ak_sirennar.md)
-- [Зифа Нагаева / Урал Солтанов - Бәхет юлы / Зифа Нагаева / Урал Солтанов - Дорога счастья](../translated/z/zifa_nagaeva_ural_soltanov_-_bahet_yuli.md)
-- [Зифа Нагаева / Урал Солтанов - Кызым үсә, гөлем үсә / Зифа Нагаева / Урал Солтанов - Дочь моя растет, цветок мой растет](../translated/z/zifa_nagaeva_ural_soltanov_-_kizim_usa_golem_usa.md)
-- [Зифа Нагаева / Урал Солтанов - Хыялларда бәхет эзлибез / Зифа Нагаева / Урал Солтанов - В мечтах мы счастье ищем](../translated/z/zifa_nagaeva_ural_soltanov_-_hiyallarda_bahet_ezlibez.md)
-- [Зифа Хәкимова / Радик Юлъякшин - Кызыма (бишенче вариант) / Зифа Хәкимова / Радик Юлъякшин - Доченьке (пятый вариант)](../translated/z/zifa_hakimova_radik_yulyakshin_-_kizima_bishenche_variant.md)
-- [Зо-Лэй-Лэ - Аерылмагыз (acoustic) / Зо-Лэй-Лэ - Не расставайтесь (acoustic)](../translated/z/zo-ley-le-aerylmagyz_acoustic.md)
 - [Зо-Лэй-Лэ - Алтын жимеш / Зо-Лэй-Лэ - Золотой плод](../translated/z/zo-ley-le-altyn_zhimesh.md)
 - [Зо-Лэй-Лэ - Асыл ташым / Зо-Лэй-Лэ - Драгоценный камень мой](../translated/z/zo-ley-le-asyl_tashym.md)
 - [Зо-Лэй-Лэ - Ашхабад кое / Зо-Лэй-Лэ - Ашхабадская песня](../translated/z/zo-ley-le-ashhabad_koe.md)
@@ -105,6 +98,13 @@
 - [Зәйнәп Биишева / Мөдәрис Газетдинов - Минутларым / Зәйнәп Биишева / Мөдәрис Газетдинов - Мои минуты](../translated/z/zaynap_biisheva_modaris_gazetdinov_-_minutlarim.md)
 - [Зәйнәп Биишева / Мөдәрис Газетдинов - Җыр яратам / Зайнап Биишева / Мударис Газетдинов - Песни люблю](../translated/z/zaynap_biisheva_modaris_gazetdinov_-_cir_yaratam.md)
 - [Зәйнәп Биишева / Мөфтәдин Гыйләҗев - Гүзәл җыр кебек / Зайнаб Биишева / Муфтадин Гилязев - Как прекрасная песня](../translated/z/zaynap_biisheva_moftadin_giylacev_-_guzal_cir_kebek.md)
+- [Зәйнәп Биишева / Нур Даутов - Миләш (беренче вариант) / Зайнап Биишева / Нур Даутов - Рябина (первый вариант)](../translated/z/zaynap_biisheva_nur_dautov_-_milash_berenche_variant.md)
+- [Зәйнәп Биишева / Нур Даутов - Нигә? (беренче вариант) / Зәйнәп Биишева / Нур Даутов - Почему? (первый вариант)](../translated/z/zaynap_biisheva_nur_dautov_-_niga_berenche_variant.md)
+- [Зәйнәп Ибрагимова / Наилә Фатехова - Ендовищи / Зәйнәп Ибрагимова / Наилә Фатехова - Ендовищи](../translated/z/zaynap_ibragimova_naila_fatehova_-_endovishchi.md)
+- [Зәйнәп Фәрхетдинова - Гомерлэр зая узмасын / Зейнеп Фархетдинова - Пусть годы зря не проходят](../translated/z/zaynap_farhetdinova-gomerler_zaya_uzmasyn.md)
+- [Зәйнәп Фәрхетдинова - Эче-эче / Зейнеп Фархетдинова - Пей-пей](../translated/z/zaynap_farhetdinova-eche-eche.md)
+- [Зәйтүнә Бикбаева / Мөфтәдин Гыйләҗев - Әтиемә (беренче вариант) / Зәйтүнә Бикбаева / Мөфтәдин Гыйләҗев - Отцу (первый вариант)](../translated/z/zaytuna_bikbaeva_moftadin_giylacev_-_atiema_berenche_variant.md)
+- [Зәйтүнә Гайнуллина / Илназ Баһ - Шул карашың / Зәйтүнә Гайнуллина / Илназ Баһ - Тот взгляд](../translated/z/zaytuna_gaynullina_ilnaz_bah_-_shul_karashin.md)
 
 ---
 

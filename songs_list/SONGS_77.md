@@ -5,7 +5,6 @@
 [← Предыдущая страница](SONGS_76.md) | [Главная страница](../README.md) | [Следующая страница →](SONGS_78.md)
 
 
-- [Тимур Рамазанов - Синең өчен яшим (икенче вариант) / Тимур Рамазанов - Живу ради тебя (вторая версия)](../translated/t/timur_ramazanov_-_sinen_ochen_yashim_ikenche_variant.md)
 - [Туфан Миңнуллин / Азат Хөсәенов - Урман эчләрендә урман / Туфан Миннуллин / Азат Хусаенов - Лес внутри леса](../translated/t/tufan_minnullin_azat_hosaenov_-_urman_echlarenda_urman.md)
 - [Туфан Миңнуллин / Алмаз Монасыйпов - Ала карга / Туфан Миңнуллин / Алмаз Монасыйпов - Пестрая ворона](../translated/t/tufan_minnullin_almaz_monasiypov_-_ala_karga.md)
 - [Туфан Миңнуллин / Мәсгуть Имашев - Кулымдагы йөзегем / Туфан Миңнуллин / Мәсгуть Имашев - Колечко на моей руке](../translated/t/tufan_minnullin_masgut_imashev_-_kulimdagi_yozegem.md)
@@ -105,6 +104,7 @@
 - [Фан Валиахметов - Сарманай / Фан Валиахметов - Сарманай](../translated/f/fan_valiahmetov-sarmanay.md)
 - [Фарида Алсу - Карлы чыршылар, парлы чыршылар / Фарида Алсу - Заснеженные ели, обледеневшие ели](../translated/f/farida-alsu-karly_chyrshylar_parly_chyrshylar.md)
 - [Фарида Алсу - Мин бит сина пар идем / Фарида Алсу - Ведь я была тебе парой](../translated/f/farida-alsu-min_bit_sina_par_idem.md)
+- [Фарида Алсу - Эбием коймаклары / Фарида Алсу - Бабушкины оладьи](../translated/f/farida-alsu-ebiem_koymaklary.md)
 
 ---
 

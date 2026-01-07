@@ -5,7 +5,6 @@
 [← Предыдущая страница](SONGS_74.md) | [Главная страница](../README.md) | [Следующая страница →](SONGS_76.md)
 
 
-- [Татар халык сүзләре / Наилә Фатехова - Әйтик әле салаватны / Татарские народные слова / Наиля Фатехова - Скажем салават](../translated/t/tatar_halik_suzlare_naila_fatehova_-_aytik_ale_salavatni.md)
 - [Татар халык сүзләре / Рим Хәсәнов - Сандугачым - гүзәлем / Татарские народные слова / Рим Хасанов - Моя соловушка - красавица](../translated/t/tatar_halik_suzlare_rim_hasanov_-_sandugachim_guzalem.md)
 - [Татар халык сүзләре / Рәис Сафиуллин - Авыл көе (икенче вариант) / Татарские народные слова / Раис Сафиуллин - Деревенская мелодия (второй вариант)](../translated/t/tatar_halik_suzlare_rais_safiullin_-_avil_koe_ikenche_variant.md)
 - [Татар халык сүзләре / Рәис Ханнанов - Килә ява бер болыт / Татар халык сүзләре / Раис Ханнанов - Идёт, идёт одно облако](../translated/t/tatar_halik_suzlare_rais_hannanov_-_kila_yava_ber_bolit.md)
@@ -105,6 +104,7 @@
 - [Татар халык җыры - Мактаулы егет / Татарская народная песня - Достойный парень](../translated/t/tatar_halik_ciri_-_maktauli_eget.md)
 - [Татар халык җыры - Матур булсын / Татарская народная песня - Пусть будет прекрасно](../translated/t/tatar_halik_ciri_-_matur_bulsin.md)
 - [Татар халык җыры - Мишә буйлары / Татар халык җыры - Берега Миши](../translated/t/tatar_halik_ciri_-_misha_buylari.md)
+- [Татар халык җыры - Мәдинәкәй (беренче вариант) / Татарская народная песня - Мадинакай (первый вариант)](../translated/t/tatar_halik_ciri_-_madinakay_berenche_variant.md)
 
 ---
 

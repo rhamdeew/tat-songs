@@ -5,9 +5,6 @@
 [← Предыдущая страница](SONGS_73.md) | [Главная страница](../README.md) | [Следующая страница →](SONGS_75.md)
 
 
-- [Сәкинә Хәйруллина / Илдус Садыйков - Китәр юллар ерак / Сәкинә Хәйруллина / Илдус Садыйков - Уходящие дороги далёки](../translated/s/sakina_hayrullina_ildus_sadiykov_-_kitar_yullar_erak.md)
-- [Сәкинә Хәйруллина / Марат Галимов - Син булмасаң (беренче вариант) / Сәкинә Хәйруллина / Марат Галимов - Если б не ты (первый вариант)](../translated/s/sakina_hayrullina_marat_galimov_-_sin_bulmasan_berenche_variant.md)
-- [Сәкинә Хәйруллина / Марат Галимов - Яшим еллар саный-саный / Сакина Хайруллина / Марат Галимов - Считаю прожитые годы](../translated/s/sakina_hayrullina_marat_galimov_-_yashim_ellar_saniy-saniy.md)
 - [Сәкинә Хәйруллина / Нияз Вәлиев - Соңга калдым (икенче вариант) / Сакина Хайруллина / Нияз Валиев - Опоздала (второй вариант)](../translated/s/sakina_hayrullina_niyaz_valiev_-_songa_kaldim_ikenche_variant.md)
 - [Сәкинә Хәйруллина / Фирдүс Тямаев - Гомер үтә (өченче вариант) / Сәкинә Хәйруллина / Фирдүс Тямаев - Жизнь проходит (третий вариант)](../translated/s/sakina_hayrullina_firdus_tyamaev_-_gomer_uta_ochenche_variant.md)
 - [Сәкинә Хәйруллина / Фирдүс Тямаев - Мәхәббәт ялкыны / Сакина Хайруллина / Фирдус Тямаев - Пламя любви](../translated/s/sakina_hayrullina_firdus_tyamaev_-_mahabbat_yalkini.md)
@@ -34,6 +31,7 @@
 - [Сәрия Вәлиева / Урал Рәшитов - Туган як җилләре / Сәрия Вәлиева / Урал Рәшитов - Ветры родного края](../translated/s/sariya_valieva_ural_rashitov_-_tugan_yak_cillare.md)
 - [Сәрия Мирзаянова / Хәмид Мәткәримов - Сөярсеңме? / Сәрия Мирзаянова / Хәмид Мәткәримов - Полюбишь ли?](../translated/s/sariya_mirzayanova_hamid_matkarimov_-_soyarsenme.md)
 - [Сәрия Мәһдиева / Әбүзәр Солтанов - Гармун моңнары (беренче вариант) / Сәрия Мәһдиева / Әбүзәр Солтанов - Мелодии гармона (первый вариант)](../translated/s/sariya_mahdieva_abuzar_soltanov_-_garmun_monnari_berenche_variant.md)
+- [Сәрия Хафизова / Илназар - Кайтып киләм, әткәй, яныңа / Сария Хафизова / Ильназар - Возвращаюсь, папа, к тебе](../translated/s/sariya_hafizova_ilnazar_-_kaytip_kilam_atkay_yanina.md)
 - [Сәрия Әминева / Ризида Мөхәммәтҗанова - Көттем сине / Сәрия Әминева / Ризида Мөхәммәтҗанова - Ждала тебя](../translated/s/sariya_amineva_rizida_mohammatcanova_-_kottem_sine.md)
 - [Сәхаб Урайский / Исмай Шәмсетдинов - Чыршы янында / Сахаб Урайский / Исмай Шамсетдинов - У ёлки](../translated/s/sahab_urayskiy_ismay_shamsetdinov_-_chirshi_yaninda.md)
 - [Сәхаб Урайский / Мансур Мозаффаров - Син кайтмадың (беренче вариант) / Сахаб Урайский / Мансур Мозаффаров - Ты не вернулся (первый вариант)](../translated/s/sahab_urayskiy_mansur_mozaffarov_-_sin_kaytmadin_berenche_variant.md)
@@ -71,6 +69,7 @@
 - [Татар -  Башкорт халык уен җыры - Челтәр элдем читәнгә / Татарский - Башкирская народная игровая песня - Ажурное кружево на плетень](../translated/t/tatar_-_bashkort_halik_uen_ciri_-_cheltar_eldem_chitanga.md)
 - [Татар - Башкорт бию такмагы - Әпипә (икенче вариант) / Татарская - Башкирская плясовая - Апипа (второй вариант)](../translated/t/tatar_-_bashkort_biyu_takmagi_-_apipa_ikenche_variant.md)
 - [Татар - Башкорт халык - Такмаклар (беренче вариант) / Татарская - Башкирская народная - Частушки (первый вариант)](../translated/t/tatar_-_bashkort_halik_-_takmaklar_berenche_variant.md)
+- [Татар - Башкорт халык - Такмаклар (икенче вариант) / Татарские и башкирские народные частушки (второй вариант)](../translated/t/tatar_-_bashkort_halik_-_takmaklar_ikenche_variant.md)
 - [Татар - Башкорт халык җыры - Агым су (беренче вариант) / Татарская - Башкирская народная песня - Текучая вода (первый вариант)](../translated/t/tatar_-_bashkort_halik_ciri_-_agim_su_berenche_variant.md)
 - [Татар - Башкорт халык җыры - Ай былбылым / Татар - Башкирская народная песня - Ай, соловей мой](../translated/t/tatar_-_bashkort_halik_ciri_-_ay_bilbilim.md)
 - [Татар - Башкорт халык җыры - Ак кораб (икенче вариант) / Татар - Башкирская народная песня - Белый корабль (второй вариант)](../translated/t/tatar_-_bashkort_halik_ciri_-_ak_korab_ikenche_variant.md)
@@ -105,6 +104,7 @@
 - [Татар халык сүзләре / Инсаф Хәбибуллин - Яратам (беренче вариант) / Татар халык сүзләре / Инсаф Хәбибуллин - Яратам (первый вариант)](../translated/t/tatar_halik_suzlare_insaf_habibullin_-_yaratam_berenche_variant.md)
 - [Татар халык сүзләре / Кәрим Сафин - Кондырак болыннары / Татарские народные слова / Кәрим Сафин - Луга Кондырака](../translated/t/tatar_halik_suzlare_karim_safin_-_kondirak_bolinnari.md)
 - [Татар халык сүзләре / Марс Макаров - Көмеш тояк тулпар атым / Татарские народные слова / Марс Макаров - Мой серебрянокопытный тулпар](../translated/t/tatar_halik_suzlare_mars_makarov_-_komesh_toyak_tulpar_atim.md)
+- [Татар халык сүзләре / Наилә Фатехова - Әйтик әле салаватны / Татарские народные слова / Наиля Фатехова - Скажем салават](../translated/t/tatar_halik_suzlare_naila_fatehova_-_aytik_ale_salavatni.md)
 
 ---
 

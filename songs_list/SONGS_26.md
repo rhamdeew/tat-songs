@@ -5,15 +5,6 @@
 [← Предыдущая страница](SONGS_25.md) | [Главная страница](../README.md) | [Следующая страница →](SONGS_27.md)
 
 
-- [Гөлсәрвәр / Оскар Усманов - Айның нуры / Гөлсәрвәр / Оскар Усманов - Лунный свет](../translated/g/golsarvar_oskar_usmanov_-_aynin_nuri.md)
-- [Гөлсәрвәр / Оскар Усманов - Бәхет кадере / Гөлсәрвәр / Оскар Усманов - Цена счастья](../translated/g/golsarvar_oskar_usmanov_-_bahet_kadere.md)
-- [Гөлсәрвәр / Оскар Усманов - Изге хисләр / Гөлсәрвәр / Оскар Усманов - Святые чувства](../translated/g/golsarvar_oskar_usmanov_-_izge_hislar.md)
-- [Гөлсәрвәр / Оскар Усманов - Йөрәк үз тиңен тапты / Гөлсәрвәр / Оскар Усманов - Сердце нашло свою пару](../translated/g/golsarvar_oskar_usmanov_-_yorak_uz_tinen_tapti.md)
-- [Гөлсәрвәр / Оскар Усманов - Йөрәк өмет өзми / Гөлсәрвәр / Оскар Усманов - Сердце надежды не теряет](../translated/g/golsarvar_oskar_usmanov_-_yorak_omet_ozmi.md)
-- [Гөлсәрвәр / Оскар Усманов - Кем идең син / Гульсарвар / Оскар Усманов - Кто же ты была](../translated/g/golsarvar_oskar_usmanov_-_kem_iden_sin.md)
-- [Гөлсәрвәр / Оскар Усманов - Күбәләк гомере / Гөлсәрвәр / Оскар Усманов - Бабочка жизни](../translated/g/golsarvar_oskar_usmanov_-_kubalak_gomere.md)
-- [Гөлсәрвәр / Оскар Усманов - Көн яктысы кебек / Гөлсәрвәр / Оскар Усманов - Как дневной свет](../translated/g/golsarvar_oskar_usmanov_-_kon_yaktisi_kebek.md)
-- [Гөлсәрвәр / Оскар Усманов - Мин көтәм сине / Гюльсарвар / Оскар Усманов - Я тебя жду](../translated/g/golsarvar_oskar_usmanov_-_min_kotam_sine.md)
 - [Гөлсәрвәр / Оскар Усманов - Мәдәнә / Гөлсәрвәр / Оскар Усманов - Мадана](../translated/g/golsarvar_oskar_usmanov_-_madana.md)
 - [Гөлсәрвәр / Оскар Усманов - Мәхаббәт - тантана / Гульсарвар / Оскар Усманов - Любовь - торжество](../translated/g/golsarvar_oskar_usmanov_-_mahabbat_tantana.md)
 - [Гөлсәрвәр / Оскар Усманов - Озак яшә, әнкәй, шатлык белән / Гөлсәрвәр / Оскар Усманов - Живи долго, мама, в радости](../translated/g/golsarvar_oskar_usmanov_-_ozak_yasha_ankay_shatlik_belan.md)
@@ -57,6 +48,7 @@
 - [Гөлфия Исхакова / Руслан Абдулов - Җыр булып үзем барам / Гөлфия Исхакова / Руслан Абдулов - Я к тебе иду, как песня](../translated/g/golfiya_ishakova_ruslan_abdulov_-_cir_bulip_uzem_baram.md)
 - [Гөлфия Исхакова / Хәмид Мәткәримов - Син кирәк (өченче вариант) / Гөлфия Исхакова / Хәмид Мәткәримов - Ты нужна (третий вариант)](../translated/g/golfiya_ishakova_hamid_matkarimov_-_sin_kirak_ochenche_variant.md)
 - [Гөлфия Сәлихова - Яныңда булырмын / Гөлфия Салихова - Я буду рядом](../translated/g/golfiya_salihova_-_yaninda_bulirmin.md)
+- [Гөлфия Шакирова / Азат Кәримов - Ышанам (икенче вариант) / Гульфия Шакирова / Азат Кәримов - Верю (второй вариант)](../translated/g/golfiya_shakirova_azat_karimov_-_ishanam_ikenche_variant.md)
 - [Гөлфия Шакирова / Айзирә Хадиева - Соңгы кыңгырау (бишенче вариант) / Гөлфия Шакирова / Айзирә Хадиева - Последний звонок (пятый вариант)](../translated/g/golfiya_shakirova_ayzira_hadieva_-_songi_kingirau_bishenche_variant.md)
 - [Гөлфия Шакирова / Айнур BoooRe Шарапов - Ай-яй / Гөлфия Шакирова / Айнур BoooRe Шарапов - Ай-яй](../translated/g/golfiya_shakirova_aynur_booore_sharapov_-_ay-yay.md)
 - [Гөлфия Шакирова / Айнур BoooRe Шарапов - Елмай, җаным / Гөлфия Шакирова / Айнур BoooRe Шарапов - Улыбнись, душа моя](../translated/g/golfiya_shakirova_aynur_booore_sharapov_-_elmay_canim.md)
@@ -105,6 +97,14 @@
 - [Гөлфия Шакирова / Гүзәлия - Ялгыз түгел, парлы түгел / Гөлфия Шакирова / Гүзәлия - Ни одна, ни в паре](../translated/g/golfiya_shakirova_guzaliya_-_yalgiz_tugel_parli_tugel.md)
 - [Гөлфия Шакирова / Гүзәлия - Үпкәләмәгез язмышка / Гульфия Шакирова / Гузэлия - Не обижайтесь на судьбу](../translated/g/golfiya_shakirova_guzaliya_-_upkalamagez_yazmishka.md)
 - [Гөлфия Шакирова / Гүзәлия - Әнкәемнең җыры / Гөлфия Шакирова / Гүзәлия - Песня моей мамы](../translated/g/golfiya_shakirova_guzaliya_-_ankaemnen_ciri.md)
+- [Гөлфия Шакирова / Гөлназ Фәхертдинова - Сагындым (дүртенче вариант) / Гөлфия Шакирова / Гөлназ Фахертдинова - Соскучилась (четвертый вариант)](../translated/g/golfiya_shakirova_golnaz_fahertdinova_-_sagindim_durtenche_variant.md)
+- [Гөлфия Шакирова / Гөлшат Арсланова - Сандугачлар - талларда / Гөлфия Шакирова / Гөлшат Арсланова - Соловьи на ивах](../translated/g/golfiya_shakirova_golshat_arslanova_-_sandugachlar_tallarda.md)
+- [Гөлфия Шакирова / Зиннур Сафиуллин - Чит җимеш / Гөлфия Шакирова / Зиннур Сафиуллин - Чужой плод](../translated/g/golfiya_shakirova_zinnur_safiullin_-_chit_cimesh.md)
+- [Гөлфия Шакирова / Игорь Дмитриев - Ашыктык / Гөлфия Шакирова / Игорь Дмитриев - Поспешили](../translated/g/golfiya_shakirova_igor_dmitriev_-_ashiktik.md)
+- [Гөлфия Шакирова / Игорь Дмитриев - Син яраткан чәчәкләр / Гульфия Шакирова / Игорь Дмитриев - Цветы, которые ты любила](../translated/g/golfiya_shakirova_igor_dmitriev_-_sin_yaratkan_chachaklar.md)
+- [Гөлфия Шакирова / Игорь Дмитриев - Үкенмим (икенче вариант) / Гульфия Шакирова / Игорь Дмитриев - Я не жалуюсь (второй вариант)](../translated/g/golfiya_shakirova_igor_dmitriev_-_ukenmim_ikenche_variant.md)
+- [Гөлфия Шакирова / Илдар Мәгъдәнов - Мин янган утларда янсаң / Гульфия Шакирова / Ильдар Магданов - Ты горела в огне, который разожгла я](../translated/g/golfiya_shakirova_ildar_magdanov_-_min_yangan_utlarda_yansan.md)
+- [Гөлфия Шакирова / Илдар Низамов - Ак пароход (өченче вариант) / Гульфия Шакирова / Ильдар Низамов - Белый пароход (третий вариант)](../translated/g/golfiya_shakirova_ildar_nizamov_-_ak_parohod_ochenche_variant.md)
 
 ---
 

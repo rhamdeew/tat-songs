@@ -5,13 +5,6 @@
 [← Предыдущая страница](SONGS_41.md) | [Главная страница](../README.md) | [Следующая страница →](SONGS_43.md)
 
 
-- [Кави Нәҗми / Заһид Хәбибуллин - Җиңеп кайт! / Кави Нәҗми / Заһид Хәбибуллин - Вернись с победой!](../translated/k/kavi_nacmi_zahid_habibullin_-_cinep_kayt.md)
-- [Кави Нәҗми / Рөстәм Яхин - Лирик табын җыры / Кави Наджми / Ростэм Яхин - Лирическая застольная песня](../translated/k/kavi_nacmi_rostam_yahin_-_lirik_tabin_ciri.md)
-- [Кадим Мөбарәкшин / Гүзәл Мәхмүтова - Килдуразым / Кадим Мөбарәкшин / Гүзәл Мәхмүтова - Мой Килдураз](../translated/k/kadim_mobarakshin_guzal_mahmutova_-_kildurazim.md)
-- [Кадир Әлибаев / Салават Низаметдинов - Утыр әле, иркәм, яннарыма / Кадир Әлибаев / Салават Низаметдинов - Сядь рядом, милая моя](../translated/k/kadir_alibaev_salavat_nizametdinov_-_utir_ale_irkam_yannarima.md)
-- [Кадир Әлибаев / Юлай Моратов - Көнләшәм / Кадир Алибaев / Юлай Муратов - Ревную](../translated/k/kadir_alibaev_yulay_moratov_-_konlasham.md)
-- [Кадир Әлибаев / Юлай Моратов - Туган җиремнең теле / Кадир Алибаев / Юлай Моратов - Язык родной земли](../translated/k/kadir_alibaev_yulay_moratov_-_tugan_ciremnen_tele.md)
-- [Кадрия Наил / Илдус Сәлахов - Оч, күңелем / Кадрия Наил / Илдус Салахов - Лети, душа моя](../translated/k/kadriya_nail_ildus_salahov_-_och_kunelem.md)
 - [Кадыйр Даян / Бәхти Гайсин - Гармунчы (икенче вариант) / Кадыйр Даян / Бәхти Гайсин - Гармонист (второй вариант)](../translated/k/kadiyr_dayan_bahti_gaysin_-_garmunchi_ikenche_variant.md)
 - [Кадыйр Даян / Заһир Исмәгыйлев - Башкорт кымызы / Кадыйр Даян / Заһир Исмәгыйлев - Башкирский кумыс](../translated/k/kadiyr_dayan_zahir_ismagiylev_-_bashkort_kimizi.md)
 - [Кадыйр Даян / Заһир Исмәгыйлев - Фәйрүзәкәй / Кадыйр Даян / Заһир Исмәгыйлев - Файрузакей](../translated/k/kadiyr_dayan_zahir_ismagiylev_-_fayruzakay.md)
@@ -105,6 +98,13 @@
 - [Кәрим Тинчурин / Салих Сәйдәшев - Качкыннар ариясе / Кәрим Тинчурин / Салих Сәйдәшев - Ария беглецов](../translated/k/karim_tinchurin_salih_saydashev_-_kachkinnar_ariyase.md)
 - [Кәрим Тинчурин / Салих Сәйдәшев - Мәйсәрә / Карим Тинчурин / Салих Сәйдәшев - Мэйсәрә](../translated/k/karim_tinchurin_salih_saydashev_-_maysara.md)
 - [Кәрим Тинчурин / Салих Сәйдәшев - Сандугач (беренче вариант) / Карим Тинчурин / Салих Сайдашев - Соловей (первый вариант)](../translated/k/karim_tinchurin_salih_saydashev_-_sandugach_berenche_variant.md)
+- [Кәримә Фәтхетдинова / Виталий Агапов - Көтәм сине, балам! / Кәримә Фәтхетдинова / Виталий Агапов - Жду тебя, дитя!](../translated/k/karima_fathetdinova_vitaliy_agapov_-_kotam_sine_balam.md)
+- [Кәтибә Кинҗәбулатова / Нур Даутов - Туган җирем, рәхмәт сиңа! / Кәтибә Кинҗәбулатова / Нур Даутов - Родная земля, спасибо тебе!](../translated/k/katiba_kincabulatova_nur_dautov_-_tugan_cirem_rahmat_sina.md)
+- [Кәшиф Әмиров / Мәсгуть Имашев - Зөлфия җыры / Кәшиф Әмиров / Мәсгуть Имашев - Песня Зульфии](../translated/k/kashif_amirov_masgut_imashev_-_zolfiya_ciri.md)
+- [Кәүсәрия Нуруллина / Шамил Шәрипов - Ап-ак карлар (беренче вариант) / Кәүсәрия Нуруллина / Шамиль Шәрипов - Белый снег (первый вариант)](../translated/k/kausariya_nurullina_shamil_sharipov_-_ap-ak_karlar_berenche_variant.md)
+- [Кәүсәрия Нуруллина / Шамил Шәрипов - Көзләремә кереп барам / Каусария Нуруллина / Шамиль Шарипов - Вхожу в свои осенние года](../translated/k/kausariya_nurullina_shamil_sharipov_-_kozlarema_kerep_baram.md)
+- [Кәүсәрия Нуруллина / Шамил Шәрипов - Ялгыз аем / Каусария Нуруллина / Шамиль Шарипов - Одинокая моя луна](../translated/k/kausariya_nurullina_shamil_sharipov_-_yalgiz_aem.md)
+- [Кәүсәрия Харрасова / Лилия Вахитова - Йөрәгемдә яши якыннар / Кәүсәрия Харрасова / Лилия Вахитова - В сердце живут родные](../translated/k/kausariya_harrasova_liliya_vahitova_-_yoragemda_yashi_yakinnar.md)
 
 ---
 

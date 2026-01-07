@@ -5,12 +5,6 @@
 [← Предыдущая страница](SONGS_48.md) | [Главная страница](../README.md) | [Следующая страница →](SONGS_50.md)
 
 
-- [Марсель Галиев / Наил Галиев (Николай Голов) - Бөрлегәнем - бер генәм / Марсель Галиев / Наил Галиев (Николай Голов) - Рододендрон - мой единственный](../translated/m/marsel_galiev_nail_galiev_nikolay_golov_-_borleganem_ber_genam.md)
-- [Марсель Галиев / Рөстәм Яхин - Көзге моң (икенче вариант) / Марсель Галиев / Рөстәм Яхин - Осенняя грусть (второй вариант)](../translated/m/marsel_galiev_rostam_yahin_-_kozge_mon_ikenche_variant.md)
-- [Марсель Галиев / Сара Садыйкова - Безнең буын / Марсель Галиев / Сара Садыйкова - Наше поколение](../translated/m/marsel_galiev_sara_sadiykova_-_beznen_buin.md)
-- [Марсель Галиев / Җәүдәт Усманов - Туган як тургае (икенче вариант) / Марсель Галиев / Джаудат Усманов - Жаворонок родного края (второй вариант)](../translated/m/marsel_galiev_caudat_usmanov_-_tugan_yak_turgae_ikenche_variant.md)
-- [Марсель Гыймазетдинов / Алсу Салихова - Матурым син, гөлем син / Марсель Гыймазетдинов / Алсу Салихова - Красавица ты, цветок мой](../translated/m/marsel_giymazetdinov_alsu_salihova_-_maturim_sin_golem_sin.md)
-- [Марсель Гыймазетдинов / Алсу Салихова - Синең өчен (дүртенче вариант) / Марсель Гыймазетдинов / Алсу Салихова - Для тебя (четвертый вариант)](../translated/m/marsel_giymazetdinov_alsu_salihova_-_sinen_ochen_durtenche_variant.md)
 - [Марсель Гыймазетдинов / Алсу Салихова - Синең өчен (тугызынчы вариант) / Марсель Гыймазетдинов / Алсу Салихова - Для тебя (девятый вариант)](../translated/m/marsel_giymazetdinov_alsu_salihova_-_sinen_ochen_tugizinchi_variant.md)
 - [Марсель Гыймазетдинов / Альбина Имаева - Кошлар китә (өченче вариант) / Марсель Гыймазетдинов / Альбина Имаева - Птицы улетают (третий вариант)](../translated/m/marsel_giymazetdinov_albina_imaeva_-_koshlar_kita_ochenche_variant.md)
 - [Марсель Гыймазетдинов / Билгесез - Көт әле, дисең!.. / Марсель Гыймазетдинов / Билгесез - Подожди ещё, говоришь!..](../translated/m/marsel_giymazetdinov_bilgesez_-_kot_ale_disen.md)
@@ -19,6 +13,7 @@
 - [Марсель Гыймазетдинов / Вил Усманов - Ташлама тирәкләрне / Марсель Гыймазетдинов / Вил Усманов - Не бросай тополя](../translated/m/marsel_giymazetdinov_vil_usmanov_-_tashlama_tiraklarne.md)
 - [Марсель Гыймазетдинов / Владимир Мироваев - Туган авылым - Бәзәкәм / Марсель Гыймазетдинов / Владимир Мироваев - Родная деревня - Бәзәкәм](../translated/m/marsel_giymazetdinov_vladimir_mirovaev_-_tugan_avilim_bazakam.md)
 - [Марсель Гыймазетдинов / Владимир Мироваев - Язмышымда калдың (беренче вариант) / Марсель Гимазетдинов / Владимир Мироваев - Осталась ты в моей судьбе (первый вариант)](../translated/m/marsel_giymazetdinov_vladimir_mirovaev_-_yazmishimda_kaldin_berenche_variant.md)
+- [Марсель Гыймазетдинов / Владимир Мироваев - Язмышымда калдың (икенче вариант) / Марсель Гимазетдинов / Владимир Мироваев - Остался в моей судьбе (второй вариант)](../translated/m/marsel_giymazetdinov_vladimir_mirovaev_-_yazmishimda_kaldin_ikenche_variant.md)
 - [Марсель Гыймазетдинов / Вәсим Әхмәтшин - Тыңла әле (икенче вариант) / Марсель Гимазетдинов / Васим Ахматшин - Послушай же (второй вариант)](../translated/m/marsel_giymazetdinov_vasim_ahmatshin_-_tinla_ale_ikenche_variant.md)
 - [Марсель Гыймазетдинов / Газиз Минаев - Без керәбез бәхет язына / Марсель Гиймазетдинов / Газиз Минаев - Мы входим в счастливую весну](../translated/m/marsel_giymazetdinov_gaziz_minaev_-_bez_kerabez_bahet_yazina.md)
 - [Марсель Гыймазетдинов / Зиннур Мөхәммәтдинов - Туган як көзе / Марсель Гыймазетдинов / Зиннур Мухаметдинов - Осень родного края](../translated/m/marsel_giymazetdinov_zinnur_mohammatdinov_-_tugan_yak_koze.md)
@@ -105,6 +100,11 @@
 - [Миләүшә Әхмәдуллина / Илгиз Субаев - Бәхетемне эзләп / Миләүшә Әхмәдуллина / Илгиз Субаев - В поисках счастья](../translated/m/milausha_ahmadullina_ilgiz_subaev_-_bahetemne_ezlap.md)
 - [Миләүшә Әхмәдуллина / Илгиз Субаев - Кайтсана язларда / Миләүшә Әхмәдуллина / Илгиз Субаев - Вернись весною](../translated/m/milausha_ahmadullina_ilgiz_subaev_-_kaytsana_yazlarda.md)
 - [Миләүшә Әхмәдуллина / Илгиз Субаев - Киттең дә югалдың / Миләүшә Әхмәдуллина / Илгиз Субаев - Ты ушел и исчез](../translated/m/milausha_ahmadullina_ilgiz_subaev_-_kitten_da_yugaldin.md)
+- [Миләүшә Әхмәдуллина / Илгиз Субаев - Мәхәббәт назлары / Миләүшә Әхмәдуллина / Илгиз Субаев - Ласки любви](../translated/m/milausha_ahmadullina_ilgiz_subaev_-_mahabbat_nazlari.md)
+- [Миләүшә Әхмәдуллина / Илгиз Субаев - Табар идем / Миләүшә Әхмәдуллина / Илгиз Субаев - Я бы нашла](../translated/m/milausha_ahmadullina_ilgiz_subaev_-_tabar_idem.md)
+- [Миләүшә Әхмәдуллина / Илгиз Субаев - Төрле хәл / Миляуша Ахмадуллина / Ильгиз Субаев - Разные состояния](../translated/m/milausha_ahmadullina_ilgiz_subaev_-_torle_hal.md)
+- [Миләүшә Әхмәдуллина / Илгиз Субаев - Яшәү мизгеле / Миләүшә Әхмәдуллина / Илгиз Субаев - Мгновение жизни](../translated/m/milausha_ahmadullina_ilgiz_subaev_-_yashau_mizgele.md)
+- [Миләүшә Әхмәдуллина / Марат Гобәйдуллин - Табалсаң / Миляуша Ахмадуллина / Марат Гобаидуллин - Если найдёшь](../translated/m/milausha_ahmadullina_marat_gobaydullin_-_tabalsan.md)
 
 ---
 

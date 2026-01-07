@@ -5,9 +5,6 @@
 [← Предыдущая страница](SONGS_72.md) | [Главная страница](../README.md) | [Следующая страница →](SONGS_74.md)
 
 
-- [Светлана Шәрипова / Мөдәрис Газетдинов - Сабырлык (беренче вариант) / Светлана Шарипова / Модарис Газетдинов - Терпение (первый вариант)](../translated/s/svetlana_sharipova_modaris_gazetdinov_-_sabirlik_berenche_variant.md)
-- [Светлана Шәрипова / Мөдәрис Газетдинов - Туганнар җыелганда / Светлана Шарипова / Мударис Газетдинов - Когда родные собираются](../translated/s/svetlana_sharipova_modaris_gazetdinov_-_tugannar_cielganda.md)
-- [Светлана Шәрипова / Мөдәрис Газетдинов - Якын дусларым! / Светлана Шарипова / Модарис Газетдинов - Мои близкие друзья!](../translated/s/svetlana_sharipova_modaris_gazetdinov_-_yakin_duslarim.md)
 - [Светлана Шәрипова / Мөдәрис Газетдинов - Әссәламагаләйкүм / Светлана Шарипова / Мударис Газетдинов - Ассаламу алейкум](../translated/s/svetlana_sharipova_modaris_gazetdinov_-_assalamagalaykum.md)
 - [Светлана Шәрипова / Радик Юлъякшин - Җырланмаган җырым (икенче вариант) / Светлана Шарипова / Радик Юлъякшин - Неспетая моя песня (второй вариант)](../translated/s/svetlana_sharipova_radik_yulyakshin_-_cirlanmagan_cirim_ikenche_variant.md)
 - [Светлана Шәрипова / Роберт Тимербаев - Синең өчен (өченче вариант) / Светлана Шарипова / Роберт Тимербаев - Для тебя (третий вариант)](../translated/s/svetlana_sharipova_robert_timerbaev_-_sinen_ochen_ochenche_variant.md)
@@ -105,6 +102,9 @@
 - [Сәйфи Кудаш / Әнвәр Бакиров - Син булмас / Сәйфи Кудаш / Әнвәр Бакиров - Тебя не будет](../translated/s/sayfi_kudash_anvar_bakirov_-_sin_bulmas.md)
 - [Сәкинә Тотманова / Дамир Солтанов - Яшәүләрдән булмас туеп / Сакина Тотманова / Дамир Солтанов - Не устанешь жить](../translated/s/sakina_totmanova_damir_soltanov_-_yashaulardan_bulmas_tuep.md)
 - [Сәкинә Хәйруллина / Илдус Садыйков - Кайтам инде авылыма / Сәкинә Хәйруллина / Илдус Садыйков - Возвращаюсь в родное село](../translated/s/sakina_hayrullina_ildus_sadiykov_-_kaytam_inde_avilima.md)
+- [Сәкинә Хәйруллина / Илдус Садыйков - Китәр юллар ерак / Сәкинә Хәйруллина / Илдус Садыйков - Уходящие дороги далёки](../translated/s/sakina_hayrullina_ildus_sadiykov_-_kitar_yullar_erak.md)
+- [Сәкинә Хәйруллина / Марат Галимов - Син булмасаң (беренче вариант) / Сәкинә Хәйруллина / Марат Галимов - Если б не ты (первый вариант)](../translated/s/sakina_hayrullina_marat_galimov_-_sin_bulmasan_berenche_variant.md)
+- [Сәкинә Хәйруллина / Марат Галимов - Яшим еллар саный-саный / Сакина Хайруллина / Марат Галимов - Считаю прожитые годы](../translated/s/sakina_hayrullina_marat_galimov_-_yashim_ellar_saniy-saniy.md)
 
 ---
 

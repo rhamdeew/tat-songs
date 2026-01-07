@@ -5,12 +5,6 @@
 [← Предыдущая страница](SONGS_47.md) | [Главная страница](../README.md) | [Следующая страница →](SONGS_49.md)
 
 
-- [Марат Кәбиров / Ризван Хәкимов - Дуслар җыелган җирдә (Дусларыма) / Марат Кабиров / Ризван Хакимов - Там, где собрались друзья (Друзьям)](../translated/m/marat_kabirov_rizvan_hakimov_-_duslar_cielgan_cirda_duslarima.md)
-- [Марат Кәбиров / Ризван Хәкимов - Идел дулый / Марат Кабиров / Ризван Хакимов - Итель шумит](../translated/m/marat_kabirov_rizvan_hakimov_-_idel_duliy.md)
-- [Марат Кәбиров / Ризван Хәкимов - Исмә әле җил / Марат Кабиров / Ризван Хакимов - Дуй, ветер](../translated/m/marat_kabirov_rizvan_hakimov_-_isma_ale_cil.md)
-- [Марат Кәбиров / Ризван Хәкимов - Кил әле яныма / Марат Кабиров / Ризван Хакимов - Приди же ко мне](../translated/m/marat_kabirov_rizvan_hakimov_-_kil_ale_yanima.md)
-- [Марат Кәбиров / Ризван Хәкимов - Кичү / Марат Кәбиров / Ризван Хәкимов - Переправа](../translated/m/marat_kabirov_rizvan_hakimov_-_kichu.md)
-- [Марат Кәбиров / Ризван Хәкимов - Кузгала поезд / Марат Кабиров / Ризван Хакимов - Поезд трогается](../translated/m/marat_kabirov_rizvan_hakimov_-_kuzgala_poezd.md)
 - [Марат Кәбиров / Ризван Хәкимов - Күңелдә язлар әле (Кил әле яныма) / Марат Кабиров / Ризван Хакимов - Весна в душе (Подойди ко мне)](../translated/m/marat_kabirov_rizvan_hakimov_-_kunelda_yazlar_ale_kil_ale_yanima.md)
 - [Марат Кәбиров / Ризван Хәкимов - Көзге җилләр / Марат Кабиров / Ризван Хакимов - Осенние ветры](../translated/m/marat_kabirov_rizvan_hakimov_-_kozge_cillar.md)
 - [Марат Кәбиров / Ризван Хәкимов - Моңаеп калма / Марат Кабиров / Ризван Хакимов - Не грусти](../translated/m/marat_kabirov_rizvan_hakimov_-_monaep_kalma.md)
@@ -105,6 +99,12 @@
 - [Марсель Галиев / Луиза Батыр-Болгари - Су буеннан әнкәй кайтып килә / Марсель Галиев / Луиза Батыр-Болгари - Мама с речного берега идет](../translated/m/marsel_galiev_luiza_batir-bolgari_-_su_buennan_ankay_kaytip_kila.md)
 - [Марсель Галиев / Луиза Батыр-Болгари - Шәрыкъ кызы / Марсель Галиев / Луиза Батыр-Болгари - Восточная девушка](../translated/m/marsel_galiev_luiza_batir-bolgari_-_sharik_kizi.md)
 - [Марсель Галиев / Марат Гобәйдуллин - Туган як тургае (беренче вариант) / Марсель Галиев / Марат Гобайдуллин - Жаворонок родного края (первый вариант)](../translated/m/marsel_galiev_marat_gobaydullin_-_tugan_yak_turgae_berenche_variant.md)
+- [Марсель Галиев / Наил Галиев (Николай Голов) - Бөрлегәнем - бер генәм / Марсель Галиев / Наил Галиев (Николай Голов) - Рододендрон - мой единственный](../translated/m/marsel_galiev_nail_galiev_nikolay_golov_-_borleganem_ber_genam.md)
+- [Марсель Галиев / Рөстәм Яхин - Көзге моң (икенче вариант) / Марсель Галиев / Рөстәм Яхин - Осенняя грусть (второй вариант)](../translated/m/marsel_galiev_rostam_yahin_-_kozge_mon_ikenche_variant.md)
+- [Марсель Галиев / Сара Садыйкова - Безнең буын / Марсель Галиев / Сара Садыйкова - Наше поколение](../translated/m/marsel_galiev_sara_sadiykova_-_beznen_buin.md)
+- [Марсель Галиев / Җәүдәт Усманов - Туган як тургае (икенче вариант) / Марсель Галиев / Джаудат Усманов - Жаворонок родного края (второй вариант)](../translated/m/marsel_galiev_caudat_usmanov_-_tugan_yak_turgae_ikenche_variant.md)
+- [Марсель Гыймазетдинов / Алсу Салихова - Матурым син, гөлем син / Марсель Гыймазетдинов / Алсу Салихова - Красавица ты, цветок мой](../translated/m/marsel_giymazetdinov_alsu_salihova_-_maturim_sin_golem_sin.md)
+- [Марсель Гыймазетдинов / Алсу Салихова - Синең өчен (дүртенче вариант) / Марсель Гыймазетдинов / Алсу Салихова - Для тебя (четвертый вариант)](../translated/m/marsel_giymazetdinov_alsu_salihova_-_sinen_ochen_durtenche_variant.md)
 
 ---
 

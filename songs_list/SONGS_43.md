@@ -5,13 +5,6 @@
 [← Предыдущая страница](SONGS_42.md) | [Главная страница](../README.md) | [Следующая страница →](SONGS_44.md)
 
 
-- [Кәримә Фәтхетдинова / Виталий Агапов - Көтәм сине, балам! / Кәримә Фәтхетдинова / Виталий Агапов - Жду тебя, дитя!](../translated/k/karima_fathetdinova_vitaliy_agapov_-_kotam_sine_balam.md)
-- [Кәтибә Кинҗәбулатова / Нур Даутов - Туган җирем, рәхмәт сиңа! / Кәтибә Кинҗәбулатова / Нур Даутов - Родная земля, спасибо тебе!](../translated/k/katiba_kincabulatova_nur_dautov_-_tugan_cirem_rahmat_sina.md)
-- [Кәшиф Әмиров / Мәсгуть Имашев - Зөлфия җыры / Кәшиф Әмиров / Мәсгуть Имашев - Песня Зульфии](../translated/k/kashif_amirov_masgut_imashev_-_zolfiya_ciri.md)
-- [Кәүсәрия Нуруллина / Шамил Шәрипов - Ап-ак карлар (беренче вариант) / Кәүсәрия Нуруллина / Шамиль Шәрипов - Белый снег (первый вариант)](../translated/k/kausariya_nurullina_shamil_sharipov_-_ap-ak_karlar_berenche_variant.md)
-- [Кәүсәрия Нуруллина / Шамил Шәрипов - Көзләремә кереп барам / Каусария Нуруллина / Шамиль Шарипов - Вхожу в свои осенние года](../translated/k/kausariya_nurullina_shamil_sharipov_-_kozlarema_kerep_baram.md)
-- [Кәүсәрия Нуруллина / Шамил Шәрипов - Ялгыз аем / Каусария Нуруллина / Шамиль Шарипов - Одинокая моя луна](../translated/k/kausariya_nurullina_shamil_sharipov_-_yalgiz_aem.md)
-- [Кәүсәрия Харрасова / Лилия Вахитова - Йөрәгемдә яши якыннар / Кәүсәрия Харрасова / Лилия Вахитова - В сердце живут родные](../translated/k/kausariya_harrasova_liliya_vahitova_-_yoragemda_yashi_yakinnar.md)
 - [Кәүсәрия Харрасова / Фәридә Сәхәбиева - Гөрләвекләр җыры / Кәүсәрия Харрасова / Фәридә Сәхәбиева - Песня ручьев](../translated/k/kausariya_harrasova_farida_sahabieva_-_gorlaveklar_ciri.md)
 - [Кәүсәрия Шәфикова / Артур Туктаголов - Ерактагы якташ җыры (Сагынамын туган якларымны) / Кәүсәрия Шәфикова / Артур Туктаголов - Песня далекого земляка (Скучаю по родным краям)](../translated/k/kausariya_shafikova_artur_tuktagolov_-_eraktagi_yaktash_ciri_saginamin_tugan_yaklarimni.md)
 - [Кәүсәрия Шәфикова / Гөлнара Зиязова - Ак каеннар (беренче вариант) / Каўсария Шафикова / Гульнара Зиязова - Белые березы (первый вариант)](../translated/k/kausariya_shafikova_golnara_ziyazova_-_ak_kaennar_berenche_variant.md)
@@ -87,6 +80,7 @@
 - [Ландыш Нигметжанова - Ярату / Ландыш Нигметжанова - Любовь](../translated/l/landysh_nigmetzhanova-yaratu.md)
 - [Ландыш Нигметжанова - Яратулар булсын газапсыз / Ландыш Нигметжанова - Пусть любовь будет без мук](../translated/l/landysh_nigmetzhanova-yaratular_bulsyn_gazapsyz.md)
 - [Ландыш Нигметжанова - Яума янгыр / Ландыш Нигметжанова - Не лей, дождь](../translated/l/landysh_nigmetzhanova-yauma_yangyr.md)
+- [Ландыш Нигъмәтҗанова / Фәрит Таишев - Кояшым (икенче вариант) / Ландыш Нигматжанова / Фарит Таишев - Моё солнышко (второй вариант)](../translated/l/landish_nigmatcanova_farit_taishev_-_koyashim_ikenche_variant.md)
 - [Ландыш Халикова / Рөстәм Сәрвәров - Вәгъдә бирәм, әнием / Ландыш Халикова / Ростам Сарваров - Обещаю тебе, мама](../translated/l/landish_halikova_rostam_sarvarov_-_vagda_biram_aniem.md)
 - [Лариса Абдуллина / Динар Ганиев - Сары чәчәкләр / Лариса Абдуллина / Динар Ганиев - Жёлтые цветы](../translated/l/larisa_abdullina_dinar_ganiev_-_sari_chachaklar.md)
 - [Лариса Абдуллина / Ильяс Аллаяров - Наратлар урманында / Лариса Абдуллина / Ильяс Аллаяров - В сосновом лесу](../translated/l/larisa_abdullina_ilyas_allayarov_-_naratlar_urmaninda.md)
@@ -105,6 +99,12 @@
 - [Лейсан Гимаева - Солдат егет / Лейсан Гимаева - Солдат-парень](../translated/l/leysan_gimaeva-soldat_eget.md)
 - [Лейсан Гимаева - Туган конем / Лейсан Гимаева - Мой день рождения](../translated/l/leysan_gimaeva-tugan_konem.md)
 - [Лейсан Гимаева - Яшьлегем чишмэлэре / Лейсан Гимаева - Родники моей юности](../translated/l/leysan_gimaeva-yashlegem_chishmelere.md)
+- [Лейсан Сунгатова - Син / Лейсан Сунгатова - Ты](../translated/l/leysan_sungatova-sin.md)
+- [Лейсан Сунгатова - Эзлэмэ / Лейсан Сунгатова - Не ищи](../translated/l/leysan_sungatova-ezleme.md)
+- [Лейсан Таишева - Кубэлэк / Лейсан Таишева - Бабочка](../translated/l/leysan_taisheva-kubelek.md)
+- [Лейсан Таишева - Сою котэм / Лейсан Таишева - Жду любимую](../translated/l/leysan_taisheva-soyu_kotem.md)
+- [Лена Шагыйрьҗан / Айдар Тимербаев - Мәхәббәт көянтәсе / Лена Шагыйрьҗан / Айдар Тимербаев - Любовное ярмо](../translated/l/lena_shagiyrcan_aydar_timerbaev_-_mahabbat_koyantase.md)
+- [Лена Шагыйрьҗан / Айдар Тимербаев - Үземнеке бөтенләйгә / Лена Шагиърҗан / Айдар Тимербаев - Совсем моя теперь](../translated/l/lena_shagiyrcan_aydar_timerbaev_-_uzemneke_botenlayga.md)
 
 ---
 

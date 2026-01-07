@@ -5,11 +5,6 @@
 [← Предыдущая страница](SONGS_62.md) | [Главная страница](../README.md) | [Следующая страница →](SONGS_64.md)
 
 
-- [Резеда Вәлиева / Фәрүәз Килдеголов - Тау җиләге / Резеда Валиева / Фаруаз Килдеголов - Горная ягода](../translated/r/rezeda_valieva_faruaz_kildegolov_-_tau_cilage.md)
-- [Резеда Вәлиева / Харис Ибрагимов - Бишек җыры (беренче вариант) / Резеда Валиева / Харис Ибрагимов - Колыбельная (первый вариант)](../translated/r/rezeda_valieva_haris_ibragimov_-_bishek_ciri_berenche_variant.md)
-- [Резеда Вәлиева / Харис Ибрагимов - Их, Әлкием яклары / Резеда Валиева / Харис Ибрагимов - Ах, Алкинские края](../translated/r/rezeda_valieva_haris_ibragimov_-_ih_alkiem_yaklari.md)
-- [Резеда Вәлиева / Харис Ибрагимов - Яз җитте / Резеда Валиева / Харис Ибрагимов - Весна пришла](../translated/r/rezeda_valieva_haris_ibragimov_-_yaz_citte.md)
-- [Резеда Вәлиева / Харис Ибрагимов - Җәйге яңгыр / Резеда Вәлиева / Харис Ибрагимов - Летний дождь](../translated/r/rezeda_valieva_haris_ibragimov_-_cayge_yangir.md)
 - [Резеда Вәлиева / Эльвира Хаматнурова - Балачагым (икенче вариант) / Резеда Вәлиева / Эльвира Хаматнурова - Дитя моё (второй вариант)](../translated/r/rezeda_valieva_elvira_hamatnurova_-_balachagim_ikenche_variant.md)
 - [Резеда Вәлиева / Эльвира Хаматнурова - Бөдрә чәчле малай / Резеда Вәлиева / Эльвира Хаматнурова - Кучерявый мальчик](../translated/r/rezeda_valieva_elvira_hamatnurova_-_bodra_chachle_malay.md)
 - [Резеда Вәлиева / Эльвира Хаматнурова - Күбәләк (беренче вариант) / Резеда Вәлиева / Эльвира Хаматнурова - Бабочка (первый вариант)](../translated/r/rezeda_valieva_elvira_hamatnurova_-_kubalak_berenche_variant.md)
@@ -105,6 +100,11 @@
 - [Ризида Мөхәммәтҗанова - Син бәхетле, әнием! / Ризида Мухаметжанова - Ты счастлива, мама!](../translated/r/rizida_mohammatcanova_-_sin_bahetle_aniem.md)
 - [Ризида Мөхәммәтҗанова - Сиңа юл алдым / Ризида Мухаметжанова - Я путь к тебе держу](../translated/r/rizida_mohammatcanova_-_sina_yul_aldim.md)
 - [Ризида Мөхәммәтҗанова - Теләсәм дә / Ризида Мөхәммәтҗанова - Даже если бы](../translated/r/rizida_mohammatcanova_-_telasam_da.md)
+- [Ризида Мөхәммәтҗанова - Чыгармын каршыңа (Иң якын дустыма) / Ризида Мөхәммәтҗанова - Выйду навстречу (Самой близкой подруге)](../translated/r/rizida_mohammatcanova_-_chigarmin_karshina_in_yakin_dustima.md)
+- [Ризида Мөхәммәтҗанова - Шиңмәсеннәр, әнкәй, гөлләрең(Әнкәем гөлләре) / Ризида Мөхәммәтҗанова - Пусть не вянут, мама, твои цветы (Цветы моей мамы)](../translated/r/rizida_mohammatcanova_-_shinmasennar_ankay_gollarenankaem_gollare.md)
+- [Ризида Мөхәммәтҗанова - Юанычым / Ризида Мөхәммәтҗанова - Юанычым](../translated/r/rizida_mohammatcanova_-_yuanichim.md)
+- [Ризида Мөхәммәтҗанова - Язгы моңым / Ризида Мөхәммәтҗанова - Весенний мой напев](../translated/r/rizida_mohammatcanova_-_yazgi_monim.md)
+- [Ризида Мөхәммәтҗанова - Яралы күбәләк / Ризида Мөхәммәтҗанова - Раненая бабочка](../translated/r/rizida_mohammatcanova_-_yarali_kubalak.md)
 
 ---
 

@@ -5,18 +5,6 @@
 [← Предыдущая страница](SONGS_6.md) | [Главная страница](../README.md) | [Следующая страница →](SONGS_8.md)
 
 
-- [Азамат Усманов / Салават Низаметдинов - Иске өй / Азамат Усманов / Салават Низаметдинов - Старый дом](../translated/a/azamat_usmanov_salavat_nizametdinov_-_iske_oy.md)
-- [Азат Вахитов - Язгы вальс (икенче вариант) / Азат Вахитов - Весенний вальс (второй вариант)](../translated/a/azat_vahitov_-_yazgi_vals_ikenche_variant.md)
-- [Азат Имаев - Тыңлыйк Аллаһның сүзен / Азат Имаев - Услышим слово Аллаха](../translated/a/azat_imaev_-_tinliyk_allahnin_suzen.md)
-- [Азат Магазов / Айрат Кобагышев - Сагынам да кайтам, туган ягым / Азат Магазов / Айрат Кобагышев - Скучаю и вернусь, родная сторона](../translated/a/azat_magazov_ayrat_kobagishev_-_saginam_da_kaytam_tugan_yagim.md)
-- [Азат Мәрдән / Миңнегали Дәүләтбаев - Йөрәгемә минем кагылма / Азат Мардан / Миннегали Даулетбаев - Не тронь мое сердце](../translated/a/azat_mardan_minnegali_daulatbaev_-_yoragema_minem_kagilma.md)
-- [Азат Мәрдән / Миңнегали Дәүләтбаев - Яфрак яңгыры / Азат Мәрдән / Миңнегали Дәүләтбаев - Дождь из листьев](../translated/a/azat_mardan_minnegali_daulatbaev_-_yafrak_yangiri.md)
-- [Азат Мәрдән / Миңнегали Дәүләтбаев - Өзмә миңа гөлләр / Азат Мәрдән / Миңнегали Дәүләтбаев - Не дари мне цветы](../translated/a/azat_mardan_minnegali_daulatbaev_-_ozma_mina_gollar.md)
-- [Азат Сабиров / Фәрит Хатыйпов - Туган ягым Теләче (беренче вариант) / Азат Сабиров / Фарит Хатыйпов - Мой родной край Тэлячи (первый вариант)](../translated/a/azat_sabirov_farit_hatiypov_-_tugan_yagim_telache_berenche_variant.md)
-- [Азат Садриев / Лилия Вәлиева - Азнакаем (өченче вариант) / Азат Садриев / Лилия Валиева - Азнакай (третий вариант)](../translated/a/azat_sadriev_liliya_valieva_-_aznakaem_ochenche_variant.md)
-- [Азат Садриев / Ренат Еникеев - Төнбоек (бишенче вариант) / Азат Садриев / Ренат Еникеев - Кувшинка (пятый вариант)](../translated/a/azat_sadriev_renat_enikeev_-_tonboek_bishenche_variant.md)
-- [Азат Фазлыйәхмәтов / Илдар Шәрипов - Туганлык аралары суынмасын (Туганнар) / Азат Фазлыяхматов / Ильдар Шарипов - Пусть не остынут братские узы (Братья и сёстры)](../translated/a/azat_fazliyahmatov_ildar_sharipov_-_tuganlik_aralari_suinmasin_tugannar.md)
-- [Азат Фазлыйәхмәтов / Мөнир Гыйззәтуллин - Кода-кодагыйлар вальсы / Азат Фазлыяхметов / Мунир Гиззатуллин - Вальс сватов](../translated/a/azat_fazliyahmatov_monir_giyzzatullin_-_koda-kodagiylar_valsi.md)
 - [Азат Фазлыйәхмәтов / Мөнир Гыйззәтуллин - Әнкәй сүзләре / Азат Фазлыяхматов / Мунир Гиззатуллин - Мамины слова](../translated/a/azat_fazliyahmatov_monir_giyzzatullin_-_ankay_suzlare.md)
 - [Азат Фазлыйәхмәтов / Нурия Ярмөхәмәтова - Туганнарым (икенче вариант) / Азат Фазлыяхметов / Нурия Ярмухаметова - Мои родные (второй вариант)](../translated/a/azat_fazliyahmatov_nuriya_yarmohamatova_-_tugannarim_ikenche_variant.md)
 - [Азат Фазлыйәхмәтов / Резедә Әминева - Гомер йомгагы / Азат Фазлыяхматов / Резеда Аминева - Клубок жизни](../translated/a/azat_fazliyahmatov_rezeda_amineva_-_gomer_yomgagi.md)
@@ -105,6 +93,18 @@
 - [Айдар Галимов - Алмалар / Айдар Галимов - Яблоки](../translated/a/aydar_galimov-almalar.md)
 - [Айдар Галимов - Алмачуар / Айдар Галимов - Иноходец](../translated/a/aydar_galimov-almachuar.md)
 - [Айдар Галимов - Анын моны / Айдар Галимов - Его мелодия](../translated/a/aydar_galimov-anyn_mony.md)
+- [Айдар Галимов - Бер алманы бишкэ булик / Айдар Галимов - Одно яблоко на пятерых разделим](../translated/a/aydar_galimov-ber_almany_bishke_bulik.md)
+- [Айдар Галимов - Бер генэ курдем / Айдар Галимов - Лишь однажды увидел](../translated/a/aydar_galimov-ber_gene_kurdem.md)
+- [Айдар Галимов - Берлэшик / Айдар Галимов - Единство](../translated/a/aydar_galimov-berleshik.md)
+- [Айдар Галимов - Бодрэ таллар / Айдар Галимов - Кудрявые ивы](../translated/a/aydar_galimov-bodre_tallar.md)
+- [Айдар Галимов - Бэхет бит ул... / Айдар Галимов - Счастье ведь это...](../translated/a/aydar_galimov-behet_bit_ul.md)
+- [Айдар Галимов - Вакытларны булмый туктатып / Айдар Галимов - Времена не сумев остановить](../translated/a/aydar_galimov-vakytlarny_bulmyy_tuktatyp.md)
+- [Айдар Галимов - Газиз халкым / Айдар Галимов - Дорогой мой народ](../translated/a/aydar_galimov-gaziz_halkym.md)
+- [Айдар Галимов - Гитара / Айдар Галимов - Гитара](../translated/a/aydar_galimov-gitara.md)
+- [Айдар Галимов - Гомер буйлап барам / Айдар Галимов - Иду по жизни](../translated/a/aydar_galimov-gomer_buylap_baram.md)
+- [Айдар Галимов - Гомерем агышлары / Айдар Галимов - Течения моей жизни](../translated/a/aydar_galimov-gomerem_agyshlary.md)
+- [Айдар Галимов - Димче / Айдар Галимов - Димче (говорят)](../translated/a/aydar_galimov-dimche.md)
+- [Айдар Галимов - Дингезгэ / Айдар Галимов - К морю](../translated/a/aydar_galimov-dingezge.md)
 
 ---
 

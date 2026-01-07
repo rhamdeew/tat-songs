@@ -5,18 +5,6 @@
 [← Предыдущая страница](SONGS_7.md) | [Главная страница](../README.md) | [Следующая страница →](SONGS_9.md)
 
 
-- [Айдар Галимов - Бер алманы бишкэ булик / Айдар Галимов - Одно яблоко на пятерых разделим](../translated/a/aydar_galimov-ber_almany_bishke_bulik.md)
-- [Айдар Галимов - Бер генэ курдем / Айдар Галимов - Лишь однажды увидел](../translated/a/aydar_galimov-ber_gene_kurdem.md)
-- [Айдар Галимов - Берлэшик / Айдар Галимов - Единство](../translated/a/aydar_galimov-berleshik.md)
-- [Айдар Галимов - Бодрэ таллар / Айдар Галимов - Кудрявые ивы](../translated/a/aydar_galimov-bodre_tallar.md)
-- [Айдар Галимов - Бэхет бит ул... / Айдар Галимов - Счастье ведь это...](../translated/a/aydar_galimov-behet_bit_ul.md)
-- [Айдар Галимов - Вакытларны булмый туктатып / Айдар Галимов - Времена не сумев остановить](../translated/a/aydar_galimov-vakytlarny_bulmyy_tuktatyp.md)
-- [Айдар Галимов - Газиз халкым / Айдар Галимов - Дорогой мой народ](../translated/a/aydar_galimov-gaziz_halkym.md)
-- [Айдар Галимов - Гитара / Айдар Галимов - Гитара](../translated/a/aydar_galimov-gitara.md)
-- [Айдар Галимов - Гомер буйлап барам / Айдар Галимов - Иду по жизни](../translated/a/aydar_galimov-gomer_buylap_baram.md)
-- [Айдар Галимов - Гомерем агышлары / Айдар Галимов - Течения моей жизни](../translated/a/aydar_galimov-gomerem_agyshlary.md)
-- [Айдар Галимов - Димче / Айдар Галимов - Димче (говорят)](../translated/a/aydar_galimov-dimche.md)
-- [Айдар Галимов - Дингезгэ / Айдар Галимов - К морю](../translated/a/aydar_galimov-dingezge.md)
 - [Айдар Галимов - Елгалар саеккан чагында / Айдар Галимов - Когда реки мелеют](../translated/a/aydar_galimov-elgalar_saekkan_chagynda.md)
 - [Айдар Галимов - Жидегэн йолдыз чумече / Айдар Галимов - Ковш семи звёзд](../translated/a/aydar_galimov-zhidegen_yoldyz_chumeche.md)
 - [Айдар Галимов - Жиз кынгырау моннары / Айдар Галимов - Мелодии медных колокольчиков](../translated/a/aydar_galimov-zhiz_kyngyrau_monnary.md)
@@ -105,6 +93,18 @@
 - [Айдар Минһаҗев / Айдар Тимербаев - Йозак / Айдар Минхаджев / Айдар Тимербаев - Замок](../translated/a/aydar_minhacev_aydar_timerbaev_-_yozak.md)
 - [Айдар Минһаҗев / Айдар Тимербаев - Кем син? / Айдар Минхажев / Айдар Тимербаев - Кто ты?](../translated/a/aydar_minhacev_aydar_timerbaev_-_kem_sin.md)
 - [Айдар Минһаҗев / Айдар Тимербаев - Кирәкмисең, дисең... / Айдар Минхаджев / Айдар Тимербаев - Нужна ли я, говоришь...](../translated/a/aydar_minhacev_aydar_timerbaev_-_kirakmisen_disen.md)
+- [Айдар Минһаҗев / Айдар Тимербаев - Кияүгә чык бары яратып / Айдар Минхаджев / Айдар Тимербаев - Выходи замуж только по любви](../translated/a/aydar_minhacev_aydar_timerbaev_-_kiyauga_chik_bari_yaratip.md)
+- [Айдар Минһаҗев / Айдар Тимербаев - Нокта куярга вакыт / Айдар Минхаджев / Айдар Тимербаев - Время ставить точку](../translated/a/aydar_minhacev_aydar_timerbaev_-_nokta_kuyarga_vakit.md)
+- [Айдар Минһаҗев / Айдар Тимербаев - Рәхмәт булганыңа / Айдар Минхажев / Айдар Тимербаев - Спасибо, что ты есть](../translated/a/aydar_minhacev_aydar_timerbaev_-_rahmat_bulganina.md)
+- [Айдар Минһаҗев / Айдар Тимербаев - Салкын түшәк / Айдар Минхаджев / Айдар Тимербаев - Холодная постель](../translated/a/aydar_minhacev_aydar_timerbaev_-_salkin_tushak.md)
+- [Айдар Минһаҗев / Айдар Тимербаев - Саташуларым мәллә? / Айдар Минхаджев / Айдар Тимербаев - Может, ссоры виноваты?](../translated/a/aydar_minhacev_aydar_timerbaev_-_satashularim_malla.md)
+- [Айдар Минһаҗев / Айдар Тимербаев - Сикәлтәле тормыш юллары / Айдар Минхажев / Айдар Тимербаев - Ухабистые дороги жизни](../translated/a/aydar_minhacev_aydar_timerbaev_-_sikaltale_tormish_yullari.md)
+- [Айдар Минһаҗев / Айдар Тимербаев - Син кайларда, җаным / Айдар Минхаджев / Айдар Тимербаев - Где же ты, душа моя](../translated/a/aydar_minhacev_aydar_timerbaev_-_sin_kaylarda_canim.md)
+- [Айдар Минһаҗев / Айдар Тимербаев - Син мине үзгәрттең / Айдар Минхаджев / Айдар Тимербаев - Ты изменила меня](../translated/a/aydar_minhacev_aydar_timerbaev_-_sin_mine_uzgartten.md)
+- [Айдар Минһаҗев / Айдар Тимербаев - Сәбәбен тап / Айдар Минхажев / Айдар Тимербаев - Найди причину](../translated/a/aydar_minhacev_aydar_timerbaev_-_sababen_tap.md)
+- [Айдар Минһаҗев / Айдар Тимербаев - Табасылар иде / Айдар Минхаджев / Айдар Тимербаев - Если бы встретились](../translated/a/aydar_minhacev_aydar_timerbaev_-_tabasilar_ide.md)
+- [Айдар Минһаҗев / Айдар Тимербаев - Татар хатын-кызлары / Айдар Минхаджев / Айдар Тимербаев - Татарские женщины](../translated/a/aydar_minhacev_aydar_timerbaev_-_tatar_hatin-kizlari.md)
+- [Айдар Минһаҗев / Айдар Тимербаев - Урамнар буйлатып, гармуннар уйнатып / Айдар Минхажев / Айдар Тимербаев - Бродя по улицам, играя на гармонях](../translated/a/aydar_minhacev_aydar_timerbaev_-_uramnar_buylatip_garmunnar_uynatip.md)
 
 ---
 

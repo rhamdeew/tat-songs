@@ -5,15 +5,6 @@
 [← Предыдущая страница](SONGS_23.md) | [Главная страница](../README.md) | [Следующая страница →](SONGS_25.md)
 
 
-- [Гөл Мирһади / Эльвира Хаматнурова - Көзләр килгән / Гуль Мирхади / Эльвира Хаматнурова - Пришли осени](../translated/g/gol_mirhadi_elvira_hamatnurova_-_kozlar_kilgan.md)
-- [Гөл Мирһади / Эльвира Хаматнурова - Көткәндә / Гөл Мирһади / Эльвира Хаматнурова - В ожидании](../translated/g/gol_mirhadi_elvira_hamatnurova_-_kotkanda.md)
-- [Гөл Мирһади / Эльвира Хаматнурова - Мамык карлар / Гуль Мирхади / Эльвира Хаматнурова - Пуховые снежинки](../translated/g/gol_mirhadi_elvira_hamatnurova_-_mamik_karlar.md)
-- [Гөл Мирһади / Эльвира Хаматнурова - Мин бит дөньяда яшәргә өйрәнәм / Гөл Мирһади / Эльвира Хаматнурова - Я ведь учусь жить на свете](../translated/g/gol_mirhadi_elvira_hamatnurova_-_min_bit_donyada_yasharga_oyranam.md)
-- [Гөл Мирһади / Эльвира Хаматнурова - Минем гаиләм / Гөл Мирһади / Эльвира Хаматнурова - Моя семья](../translated/g/gol_mirhadi_elvira_hamatnurova_-_minem_gailam.md)
-- [Гөл Мирһади / Эльвира Хаматнурова - Мәктәбем (беренче вариант) / Гөл Мирһади / Эльвира Хаматнурова - Моя школа (первый вариант)](../translated/g/gol_mirhadi_elvira_hamatnurova_-_maktabem_berenche_variant.md)
-- [Гөл Мирһади / Эльвира Хаматнурова - Ничек тынычландырыйм? / Гуль Мирхади / Эльвира Хаматнурова - Как успокоить тебя?](../translated/g/gol_mirhadi_elvira_hamatnurova_-_nichek_tinichlandiriym.md)
-- [Гөл Мирһади / Эльвира Хаматнурова - Син булсаң янымда (беренче вариант) / Гуль Мирхади / Эльвира Хаматнурова - Если ты рядом со мной (первый вариант)](../translated/g/gol_mirhadi_elvira_hamatnurova_-_sin_bulsan_yanimda_berenche_variant.md)
-- [Гөл Мирһади / Эльвира Хаматнурова - Сине эзлим / Гуль Мирхади / Эльвира Хаматнурова - Ищу тебя](../translated/g/gol_mirhadi_elvira_hamatnurova_-_sine_ezlim.md)
 - [Гөл Мирһади / Эльвира Хаматнурова - Сиңа гына (икенче вариант) / Гөл Мирһади / Эльвира Хаматнурова - Только тебе (второй вариант)](../translated/g/gol_mirhadi_elvira_hamatnurova_-_sina_gina_ikenche_variant.md)
 - [Гөл Мирһади / Эльвира Хаматнурова - Тасма тел / Гуль Мирхади / Эльвира Хаматнурова - Лента Язык](../translated/g/gol_mirhadi_elvira_hamatnurova_-_tasma_tel.md)
 - [Гөл Мирһади / Эльвира Хаматнурова - Ташлама гына, Аллам! / Гөл Мирһади / Эльвира Хаматнурова - Не оставь меня, Аллах!](../translated/g/gol_mirhadi_elvira_hamatnurova_-_tashlama_gina_allam.md)
@@ -105,6 +96,15 @@
 - [Гөлнара Рәшитова / Мөдәрис Газетдинов - Көзге гөлләр (икенче вариант) / Гөлнара Рәшитова / Мөдәрис Газетдинов - Осенние цветы (второй вариант)](../translated/g/golnara_rashitova_modaris_gazetdinov_-_kozge_gollar_ikenche_variant.md)
 - [Гөлнара Рәшитова / Мөдәрис Газетдинов - Озаклама / Гөлнара Рәшитова / Мөдәрис Газетдинов - Не задерживайся](../translated/g/golnara_rashitova_modaris_gazetdinov_-_ozaklama.md)
 - [Гөлнара Рәшитова / Мөдәрис Газетдинов - Сине генә уйлый күңел (Онытырга мөмкин түгел) / Гульнара Рахимова / Мударис Газетдинов - Душа думает только о тебе (Забыть невозможно)](../translated/g/golnara_rashitova_modaris_gazetdinov_-_sine_gena_uyliy_kunel_onitirga_momkin_tugel.md)
+- [Гөлнара Рәшитова / Мөдәрис Газетдинов - Сине өзелеп яратам / Гульнара Рашитова / Мударис Газетдинов - Тебя безмерно люблю](../translated/g/golnara_rashitova_modaris_gazetdinov_-_sine_ozelep_yaratam.md)
+- [Гөлнара Рәшитова / Мөдәрис Газетдинов - Тормышымның яме / Гульнара Рашитова / Мударис Газетдинов - Отрада моей жизни](../translated/g/golnara_rashitova_modaris_gazetdinov_-_tormishimnin_yame.md)
+- [Гөлнара Рәшитова / Мөфтәдин Гыйләҗев - Язмыш (өченче вариант) / Гөлнара Рәшитова / Мөфтәдин Гыйләҗев - Судьба (третий вариант)](../translated/g/golnara_rashitova_moftadin_giylacev_-_yazmish_ochenche_variant.md)
+- [Гөлнара Рәшитова / Нур Даутов - Моңнар ява / Гөлнара Рәшитова / Нур Даутов - Льются мелодии](../translated/g/golnara_rashitova_nur_dautov_-_monnar_yava.md)
+- [Гөлнара Рәшитова / Оскар Усманов - Рәхмәт сезгә! / Гульнара Рашитова / Оскар Усманов - Спасибо вам!](../translated/g/golnara_rashitova_oskar_usmanov_-_rahmat_sezga.md)
+- [Гөлнара Рәшитова / Радик Юлъякшин - Бәхет кошы (икенче вариант) / Гөлнара Рәшитова / Радик Юлъякшин - Птица счастья (второй вариант)](../translated/g/golnara_rashitova_radik_yulyakshin_-_bahet_koshi_ikenche_variant.md)
+- [Гөлнара Рәшитова / Радик Юлъякшин - Гомерләр бер генә (беренче вариант) / Гульнара Рашитова / Радик Юлъякшин - Жизнь одна (первый вариант)](../translated/g/golnara_rashitova_radik_yulyakshin_-_gomerlar_ber_gena_berenche_variant.md)
+- [Гөлнара Рәшитова / Радик Юлъякшин - Үз йолдызым / Гөлнара Рәшитова / Радик Юлъякшин - Моя звезда](../translated/g/golnara_rashitova_radik_yulyakshin_-_uz_yoldizim.md)
+- [Гөлнара Рәшитова / Риф Арслан - Бирешмәдем / Гөлнара Рәшитова / Риф Арслан - Не сдался](../translated/g/golnara_rashitova_rif_arslan_-_bireshmadem.md)
 
 ---
 

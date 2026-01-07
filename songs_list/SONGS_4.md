@@ -5,18 +5,6 @@
 [← Предыдущая страница](SONGS_3.md) | [Главная страница](../README.md) | [Следующая страница →](SONGS_5.md)
 
 
-- [sibgat_hakim_caudat_fayzi_ - Сибгат Хәким / Җәүдәт Фәйзи - Торыгыз, Мусалар / Сибгат Хәким / Җәүдәт Фәйзи - Вставайте, Муса](../translated/s/sibgat_hakim_caudat_fayzi_-_torigiz_musalar.md)
-- [sibgat_hakim_sara_sadiykova_ - _susau / Сибгат Хәким / Сара Садыйкова - Жажда](../translated/s/sibgat_hakim_sara_sadiykova_-_susau.md)
-- [svetlana_sharipova_modaris_gazetdinov_ - Гаилә учагы (икенче вариант) / Светлана Шарипова, Модарис Газетдинов - Семейный очаг (второй вариант)](../translated/s/svetlana_sharipova_modaris_gazetdinov_-_gaila_uchagi_ikenche_variant.md)
-- [taci_giyzzat_salih_saydashev_ - Динар тавы / Тәҗи Гыйззәт / Салих Сәйдәшев - Гора Динар](../translated/t/taci_giyzzat_salih_saydashev_-_dinar_tavi.md)
-- [taci_giyzzat_salih_saydashev_ - Наҗиянең беренче җыры / Таджи Гыйззәт / Салих Сәйдәшев - Первая песня Наҗии](../translated/t/taci_giyzzat_salih_saydashev_-_naciyanen_berenche_ciri.md)
-- [tatar - Татар-Башкорт халык җыры - Шахта (дүртенче вариант) / tatar - Татаро-башкирская народная песня - Шахта (четвертый вариант)](../translated/t/tatar-bashkort_halik_ciri_-_shahta_durtenche_variant.md)
-- [Tatar halik / Masguda Shamsetdinova - Sary alma (ikenche variant) / Татарский народ / Мәсгудә Шәмсетдинова - Жёлтое яблоко (второй вариант)](../translated/t/tatar_halik_masguda_shamsetdinova_-_sari_alma_ikenche_variant.md)
-- [tatar_ - Татар - Башкорт халык - Эх, Идел буйлары / Татар - Башкорт халык - Ах, прибрежья Иделя](../translated/t/tatar_-_bashkort_halik_-_eh_idel_buylari.md)
-- [tatar_ - Татар - Башкорт халык җыры - Авыл көе (сигезенче вариант) / tatar_ - Татар - Башкирская народная песня - Деревенский напев (восьмой вариант)](../translated/t/tatar_-_bashkort_halik_ciri_-_avil_koe_sigezenche_variant.md)
-- [tatar_ - Татар - Башкорт халык җыры - Авыл көе (тугызынчы вариант) / Татар - Башкирская народная песня - Деревенская мелодия (девятый вариант)](../translated/t/tatar_-_bashkort_halik_ciri_-_avil_koe_tugizinchi_variant.md)
-- [tatar_ - Татар - Башкорт халык җыры - Авыл көе (унынчы вариант) / tatar_ - Башкирская народная песня - Деревенская мелодия (десятый вариант)](../translated/t/tatar_-_bashkort_halik_ciri_-_avil_koe_uninchi_variant.md)
-- [tatar_ - Татар - Башкорт халык җыры - Ак алъяпкыч / Татар_ - Татар - Башкирская народная песня - Белый передник](../translated/t/tatar_-_bashkort_halik_ciri_-_ak_alyapkich.md)
 - [tatar_ - Татар - Башкорт халык җыры - Ак кораб (беренче вариант) / tatar_ - Татар - Башкирская народная песня - Белый корабль (первый вариант)](../translated/t/tatar_-_bashkort_halik_ciri_-_ak_korab_berenche_variant.md)
 - [tatar_ - Татар - Башкорт халык җыры - Ак кораб (өченче вариант) / tatar_ - Татарская - Башкирская народная песня - Белый корабль (третий вариант)](../translated/t/tatar_-_bashkort_halik_ciri_-_ak_korab_ochenche_variant.md)
 - [tatar_ - Татар - Башкорт халык җыры - Ах, душа мой! / Татар - Башкирская народная песня - Ах, душа моя!](../translated/t/tatar_-_bashkort_halik_ciri_-_ah_dusha_moy.md)
@@ -105,6 +93,18 @@
 - [tatar_halik_ciri_ - Татар халык җыры - Зәйнәбем / Татарская народная песня - Зейнабым](../translated/t/tatar_halik_ciri_-_zaynabem.md)
 - [tatar_halik_ciri_ - Татар халык җыры - Зәлилә (икенче вариант) / tatar_halik_ciri_ - Татарская народная песня - Зәлилә (второй вариант)](../translated/t/tatar_halik_ciri_-_zalila_ikenche_variant.md)
 - [tatar_halik_ciri_ - Татар халык җыры - Зөбәрҗәт (беренче вариант) / Татарская народная песня - Зөбәрҗәт (первый вариант)](../translated/t/tatar_halik_ciri_-_zobarcat_berenche_variant.md)
+- [tatar_halik_ciri_ - Татар халык җыры - И, кара каш, бөдрә чәч / Татар халык җыры - И, черные брови, кудрявые волосы](../translated/t/tatar_halik_ciri_-_i_kara_kash_bodra_chach.md)
+- [tatar_halik_ciri_ - Татар халык җыры - Их, дусларым / Татар халык җыры - Эх, друзья мои](../translated/t/tatar_halik_ciri_-_ih_duslarim.md)
+- [tatar_halik_ciri_ - Татар халык җыры - Ишкәкче карт / Татар халык җыры - Ишкәкче карт](../translated/t/tatar_halik_ciri_-_ishkakche_kart.md)
+- [tatar_halik_ciri_ - Татар халык җыры - Йөгереп кенә мендем, ай тауларга / татар_halik_ciri_ - Татарская народная песня - Бегом взошла я, ай, на горы](../translated/t/tatar_halik_ciri_-_yogerep_kena_mendem_ay_taularga.md)
+- [tatar_halik_ciri_ - Татар халык җыры - Казан көе / Татар халык җыры - Казан көе](../translated/t/tatar_halik_ciri_-_kazan_koe.md)
+- [tatar_halik_ciri_ - Татар халык җыры - Казан сөлгесе / tatar_halik_ciri_ - Казанское полотенце](../translated/t/tatar_halik_ciri_-_kazan_solgese.md)
+- [tatar_halik_ciri_ - Татар халык җыры - Кара карлыгач микән (өченче вариант) / Татар халык җыры - Черная ли ласточка? (третий вариант)](../translated/t/tatar_halik_ciri_-_kara_karligach_mikan_ochenche_variant.md)
+- [tatar_halik_ciri_ - Татар халык җыры - Кара каш, кара күз / tatar_halik_ciri_ - Татарская народная песня - Черные брови, черные глаза](../translated/t/tatar_halik_ciri_-_kara_kash_kara_kuz.md)
+- [tatar_halik_ciri_ - Татар халык җыры - Кара урман аша (Яңа кара урман) / Татарская народная песня - Через черный лес (Новый черный лес)](../translated/t/tatar_halik_ciri_-_kara_urman_asha_yana_kara_urman.md)
+- [tatar_halik_ciri_ - Татар халык җыры - Карауҗа авылы көе / Татар халык җыры - Татарская народная песня - Напев деревни Карауҗа](../translated/t/tatar_halik_ciri_-_karauca_avili_koe.md)
+- [tatar_halik_ciri_ - Татар халык җыры - Карачтау авылы көе / Татар халык җыры - Мелодия деревни Карачтау](../translated/t/tatar_halik_ciri_-_karachtau_avili_koe.md)
+- [tatar_halik_ciri_ - Татар халык җыры - Картуф / Татар халык җыры - Картофель](../translated/t/tatar_halik_ciri_-_kartuf.md)
 
 ---
 

@@ -5,11 +5,6 @@
 [← Предыдущая страница](SONGS_58.md) | [Главная страница](../README.md) | [Следующая страница →](SONGS_60.md)
 
 
-- [Раил Гатауллин / Лилия Тарханова - Татар укытучысы авазы / Раил Гатауллин / Лилия Тарханова - Голос татарского учителя](../translated/r/rail_gataullin_liliya_tarhanova_-_tatar_ukituchisi_avazi.md)
-- [Раил Шакиров / Зиннур Гыйбадуллин - Уҗым бозавы / Раил Шакиров / Зиннур Гыйбадуллин - Озимый теленок](../translated/r/rail_shakirov_zinnur_giybadullin_-_ucim_bozavi.md)
-- [Раил Шакиров / Зөфәр Хәйретдинов - Җаным елый / Раил Шакиров / Зөфәр Хәйретдинов - Душа моя плачет](../translated/r/rail_shakirov_zofar_hayretdinov_-_canim_eliy.md)
-- [Раилә Бариева / Дамир Муллахмәтов - Салагыш / Раилә Бариева / Дамир Муллахмәтов - Салагыш](../translated/r/raila_barieva_damir_mullahmatov_-_salagish.md)
-- [Раилә Кәримова / Рамил Әсхәдулла - Төшләремә кердең (икенче вариант) / Раилә Кәримова / Рамиль Әсхәдулла - Ты вошёл в мои сны (второй вариант)](../translated/r/raila_karimova_ramil_ashadulla_-_toshlarema_kerden_ikenche_variant.md)
 - [Раиф Бариев / Фәридә Кыямова - Ни булды? / Раиф Бариев / Фарида Киямова - Что случилось?](../translated/r/raif_bariev_farida_kiyamova_-_ni_buldi.md)
 - [Райлә Хисмәтуллина-Ходайбирдина / Рәзидә Әхмәтова - Моңлы кошчык / Райлә Хисмәтуллина-Ходайбирдина / Рәзидә Әхмәтова - Певчая пташка](../translated/r/rayla_hismatullina-hodaybirdina_razida_ahmatova_-_monli_koshchik.md)
 - [Ракип Гаффар / Зөфәр Хәйретдинов - Абага чәчәге (беренче вариант) / Ракип Гаффар / Зуфар Хайретдинов - Цветок аконита (первый вариант)](../translated/r/rakip_gaffar_zofar_hayretdinov_-_abaga_chachage_berenche_variant.md)
@@ -105,6 +100,11 @@
 - [Рамил Чурагулов / Ризван Хәкимов - Айгөлем / Рамил Чурагулов / Ризван Хакимов - Айгөлем](../translated/r/ramil_churagulov_rizvan_hakimov_-_aygolem.md)
 - [Рамил Чурагулов / Ризван Хәкимов - Аллага шөкер! (беренче вариант) / Рамил Чурагулов / Ризван Хакимов - Слава Аллаху! (первый вариант)](../translated/r/ramil_churagulov_rizvan_hakimov_-_allaga_shoker_berenche_variant.md)
 - [Рамил Чурагулов / Ризван Хәкимов - Ашкынып кайттым тагын / Рамиль Чурагулов / Ризван Хакимов - Вернулся я, переполненный чувствами](../translated/r/ramil_churagulov_rizvan_hakimov_-_ashkinip_kayttim_tagin.md)
+- [Рамил Чурагулов / Ризван Хәкимов - Бәхет (дүртенче вариант) / Рамиль Чурагулов / Ризван Хәкимов - Счастье (четвертый вариант)](../translated/r/ramil_churagulov_rizvan_hakimov_-_bahet_durtenche_variant.md)
+- [Рамил Чурагулов / Ризван Хәкимов - И, Ходай, исәнлек бир... / Рамил Чурагулов / Ризван Хәкимов - О, Господь, здоровья даруй...](../translated/r/ramil_churagulov_rizvan_hakimov_-_i_hoday_isanlek_bir.md)
+- [Рамил Чурагулов / Ризван Хәкимов - Картаймыйк без! / Рамил Чурагулов / Ризван Хәкимов - Не старейте мы!](../translated/r/ramil_churagulov_rizvan_hakimov_-_kartaymiyk_bez.md)
+- [Рамил Чурагулов / Ризван Хәкимов - Китмимен, авылкаем / Рамил Чурагулов / Ризван Хәкимов - Не уйду, деревенька моя](../translated/r/ramil_churagulov_rizvan_hakimov_-_kitmimen_avilkaem.md)
+- [Рамил Чурагулов / Ризван Хәкимов - Моңнар кайтсын авылга / Рамил Чурагулов / Ризван Хакимов - Мелодии вернутся в деревню](../translated/r/ramil_churagulov_rizvan_hakimov_-_monnar_kaytsin_avilga.md)
 
 ---
 

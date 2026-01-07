@@ -5,13 +5,6 @@
 [← Предыдущая страница](SONGS_38.md) | [Главная страница](../README.md) | [Следующая страница →](SONGS_40.md)
 
 
-- [Илфак Шиһапов - Кунак / Ильфак Шихапов - Гость](../translated/i/ilfak_shihapov_-_kunak.md)
-- [Илфак Шиһапов - Ленин бабай / Илфак Шиһапов - Ленин-бабай](../translated/i/ilfak_shihapov_-_lenin_babay.md)
-- [Илфак Шиһапов - Мең еллар (Тиз үтә еллар) / Илфак Шиһапов - Тысяча лет (Быстро проходят годы)](../translated/i/ilfak_shihapov_-_men_ellar_tiz_uta_ellar.md)
-- [Илфак Шиһапов - Мин исән / Ильфак Шихапов - Я жив](../translated/i/ilfak_shihapov_-_min_isan.md)
-- [Илфак Шиһапов - Мишәрем / Илфак Шихапов - Мишәрем](../translated/i/ilfak_shihapov_-_misharem.md)
-- [Илфак Шиһапов - Очрашу (беренче вариант) / Илфак Шиһапов - Встреча (первый вариант)](../translated/i/ilfak_shihapov_-_ochrashu_berenche_variant.md)
-- [Илфак Шиһапов - Оя корган сандугачның... / Илфак Шиһапов - Соловей, свивший гнездо...](../translated/i/ilfak_shihapov_-_oya_korgan_sandugachnin.md)
 - [Илфак Шиһапов - Рәхмәт, Тәңрем / Илфак Шихапов - Спасибо тебе, Тәңрем](../translated/i/ilfak_shihapov_-_rahmat_tanrem.md)
 - [Илфак Шиһапов - Сәер кеше / Илфак Шиһапов - Странный человек](../translated/i/ilfak_shihapov_-_saer_keshe.md)
 - [Илфак Шиһапов - Татар / Илфак Шиһапов - Татар](../translated/i/ilfak_shihapov_-_tatar.md)
@@ -105,6 +98,13 @@
 - [Ильназ Минвалиев - Хыянэтне булмый кичереп / Ильназ Минвалиев - Не могу простить предательство](../translated/i/ilnaz_minvaliev-hyyanetne_bulmyy_kicherep.md)
 - [Ильназ Сафиуллин - Изге Казаным / Ильназ Сафиуллин - Священная моя Казань](../translated/i/ilnaz_safiullin-izge_kazanym.md)
 - [Ильназ Сафиуллин - Карнын салкыннары / Ильназ Сафиуллин - Зимние прохлады](../translated/i/ilnaz_safiullin-karnyn_salkynnary.md)
+- [Ильназ Сафиуллин - Китмэ туган жиреннэн / Ильназ Сафиуллин - Не уезжай с родной земли](../translated/i/ilnaz_safiullin-kitme_tugan_zhirennen.md)
+- [Ильназ Сафиуллин - Кызыл кубэлэклэр / Ильназ Сафиуллин - Красные бабочки](../translated/i/ilnaz_safiullin-kyzyl_kubelekler.md)
+- [Ильназ Сафиуллин - Минем заманам / Ильназ Сафиуллин - Мое время](../translated/i/ilnaz_safiullin-minem_zamanam.md)
+- [Ильназ Сафиуллин - Мэмэтем / Ильназ Сафиуллин - Родные места](../translated/i/ilnaz_safiullin-memetem.md)
+- [Ильназ Сафиуллин - Мэнге яшэ, сунмэс йолдызым (acoustic) / Ильназ Сафиуллин - Вечно живи, негасимая звезда моя (acoustic)](../translated/i/ilnaz_safiullin-menge_yashe_sunmes_yoldyzym_acoustic.md)
+- [Ильназ Сафиуллин - Сою бэхете / Ильназ Сафиуллин - Счастье любви](../translated/i/ilnaz_safiullin-soyu_behete.md)
+- [Ильназ Сафиуллин - Урманнарда йордем / Ильназ Сафиуллин - Хожу в лесах](../translated/i/ilnaz_safiullin-urmannarda_yordem.md)
 
 ---
 

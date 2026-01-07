@@ -5,12 +5,6 @@
 [← Предыдущая страница](SONGS_44.md) | [Главная страница](../README.md) | [Следующая страница →](SONGS_46.md)
 
 
-- [Ләбиб Айтуганов / Алмаз Монасыйпов - Сандугач җыр суза / Ләбиб Айтуганов / Алмаз Монасыйпов - Соловей выводит песню](../translated/l/labib_aytuganov_almaz_monasiypov_-_sandugach_cir_suza.md)
-- [Ләбиб Айтуганов / Илһам Шакиров - Һаман истә / Ләбиб Айтуганов / Илһам Шакиров - Все еще в памяти](../translated/l/labib_aytuganov_ilham_shakirov_-_haman_ista.md)
-- [Ләбиб Айтуганов / Ифрат Хисамов - Балыкчы җыры (беренче вариант) / Ләбиб Айтуганов / Ифрат Хисамов - Песня рыбака (первый вариант)](../translated/l/labib_aytuganov_ifrat_hisamov_-_balikchi_ciri_berenche_variant.md)
-- [Ләбиб Айтуганов / Рөстәм Яхин - Ышанам (беренче вариант) / Ләбиб Айтуганов / Рөстәм Яхин - Верю (первый вариант)](../translated/l/labib_aytuganov_rostam_yahin_-_ishanam_berenche_variant.md)
-- [Ләбиб Айтуганов / Фасил Әхмәтов - Әй, Кабаным! / Лябиб Айтуганов / Фасиль Ахметов - Эй, Кабаным!](../translated/l/labib_aytuganov_fasil_ahmatov_-_ay_kabanim.md)
-- [Ләбиб Лерон / Айдар Тимербаев - Халкым минем (Кем син?) / Лябиб Лерон / Айдар Тимербаев - Народ мой (Кто ты?)](../translated/l/labib_leron_aydar_timerbaev_-_halkim_minem_kem_sin.md)
 - [Ләбиб Лерон / Айдар Тимербаев - Әбри булыр абзагыз / Ләбиб Лерон / Айдар Тимербаев - Абри будет вашим Абзага](../translated/l/labib_leron_aydar_timerbaev_-_abri_bulir_abzagiz.md)
 - [Ләбиб Лерон / Ильяс Вәлишаһ - Безнең сөю (Гашыйклар җыры) / Ләбиб Лерон / Ильяс Вәлишаһ - Наша любовь (Песня влюбленных)](../translated/l/labib_leron_ilyas_valishah_-_beznen_soyu_gashiyklar_ciri.md)
 - [Ләбиб Лерон / Ильяс Вәлишаһ - Очар коштай / Лябиб Лерон / Ильяс Валишах - Как птица летучая](../translated/l/labib_leron_ilyas_valishah_-_ochar_koshtay.md)
@@ -105,6 +99,12 @@
 - [Малика - Ак бэхет телэрмен / Малика - Желаю белого счастья](../translated/m/malika-ak_behet_telermen.md)
 - [Малика - Бэхетем минем / Малика - Счастье моё](../translated/m/malika-behetem_minem.md)
 - [Малика - Бэхетем шахзадэсе (Шахзадэ) / Малика - Принц моего счастья (Принц)](../translated/m/malika-behetem_shahzadese_shahzade.md)
+- [Малика - Гашыйк булдынмы эллэ / Малика - Неужели влюбилась](../translated/m/malika-gashyyk_buldynmy_elle.md)
+- [Малика - Жырлар жырлыйм сина / Малика - Песни пою для тебя](../translated/m/malika-zhyrlar_zhyrlyym_sina.md)
+- [Малика - Их, иркэм / Малика - Ах, милый мой](../translated/m/malika-ih_irkem.md)
+- [Малика - Йорэгемэ минем кагылма / Малика - Не касайся моего сердца](../translated/m/malika-yoregeme_minem_kagylma.md)
+- [Малика - Йорэк сере / Малика - Тайна сердца](../translated/m/malika-yorek_sere.md)
+- [Малика - Казаныма мэдхия / Малика - Гимн моей Казани](../translated/m/malika-kazanyma_medhiya.md)
 
 ---
 

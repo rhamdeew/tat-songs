@@ -5,11 +5,6 @@
 [← Предыдущая страница](SONGS_68.md) | [Главная страница](../README.md) | [Следующая страница →](SONGS_70.md)
 
 
-- [Рәмис Әймәт / Фәрид Низамиев - Нигә сүзләр / Рәмис Әймәт / Фәрид Низамиев - Зачем слова](../translated/r/ramis_aymat_farid_nizamiev_-_niga_suzlar.md)
-- [Рәмис Әймәт / Фәрит Хатыйпов - Пар аккошлар күрсәм / Рамис Аймат / Фарит Хатыйпов - Если вижу пару белых лебедей](../translated/r/ramis_aymat_farit_hatiypov_-_par_akkoshlar_kursam.md)
-- [Рәмис Әймәт / Фәрит Хатыйпов - Җавапсыз мәхәббәт (икенче вариант) / Рәмис Әймәт / Фәрит Хатыйпов - Безответная любовь (второй вариант)](../translated/r/ramis_aymat_farit_hatiypov_-_cavapsiz_mahabbat_ikenche_variant.md)
-- [Рәниф Шәрипов / Марат Гобәйдуллин - Сүнмәс тойгылар / Рәниф Шәрипов / Марат Гобәйдуллин - Негасимые чувства](../translated/r/ranif_sharipov_marat_gobaydullin_-_sunmas_toygilar.md)
-- [Рәсилә Йосыпова / Айрат Сафин - Кабатланмый кеше язмышы / Раиля Юсупова / Айрат Сафин - Неповторимы судьбы людские](../translated/r/rasila_yosipova_ayrat_safin_-_kabatlanmiy_keshe_yazmishi.md)
 - [Рәсилә Йосыпова / Альберт Галимуллин - Яшьлек ялгышлары / Рәсилә Йосыпова / Альберт Галимуллин - Ошибки молодости](../translated/r/rasila_yosipova_albert_galimullin_-_yashlek_yalgishlari.md)
 - [Рәсилә Йосыпова / Альберт Галимуллин - Әнкәем (җиденче вариант) / Рәсилә Йосыпова / Альберт Галимуллин - Матушка (седьмой вариант)](../translated/r/rasila_yosipova_albert_galimullin_-_ankaem_cidenche_variant.md)
 - [Рәсилә Йосыпова / Альберт Сабиров - Булганына шөкер / Рәсилә Йосыпова / Альберт Сабиров - Спасибо за то, что есть](../translated/r/rasila_yosipova_albert_sabirov_-_bulganina_shoker.md)
@@ -105,6 +100,11 @@
 - [Рәүф Баһаветдинов / Халык - Белсәң иде уйларымны / Рәүф Баһаветдинов / Халык - Если б знала ты мои мысли](../translated/r/rauf_bahavetdinov_halik_-_belsan_ide_uylarimni.md)
 - [Рәүф Баһаветдинов / Халык - Әллә чынлап та сөю килдеме? (беренче вариант) / Рәүф Баһаветдинов / Халык - Неужели и правда пришла любовь? (первый вариант)](../translated/r/rauf_bahavetdinov_halik_-_alla_chinlap_ta_soyu_kildeme_berenche_variant.md)
 - [Рәүф Баһаветдинов / Халык - Әллә чынлап та сөю килдеме? (икенче вариант) / Рәүф Баһаветдинов / Халык - Неужто и вправду любовь пришла? (второй вариант)](../translated/r/rauf_bahavetdinov_halik_-_alla_chinlap_ta_soyu_kildeme_ikenche_variant.md)
+- [Рәүф Сәлтәшев - Яшьләр туе / Рәүф Сәлтәшев - Свадьба ребят](../translated/r/rauf_saltashev_-_yashlar_tue.md)
+- [Рәүфә Нурмөхәммәтова - Апама (беренче вариант) / Рәүфә Нурмөхәммәтова - Моей сестре (первый вариант)](../translated/r/raufa_nurmohammatova_-_apama_berenche_variant.md)
+- [Рәүфә Нурмөхәммәтова - Арада кыш / Рауфа Нурмухаметова - Между нами зима](../translated/r/raufa_nurmohammatova_-_arada_kish.md)
+- [Рәүфә Нурмөхәммәтова - Ашыкма, әле яшьлегем / Рәүфә Нурмөхәммәтова - Не спеши, моя молодость](../translated/r/raufa_nurmohammatova_-_ashikma_ale_yashlegem.md)
+- [Рәүфә Нурмөхәммәтова - Бир түзем / Рәүфә Нурмөхәммәтова - Дай терпения](../translated/r/raufa_nurmohammatova_-_bir_tuzem.md)
 
 ---
 

@@ -5,13 +5,6 @@
 [← Предыдущая страница](SONGS_40.md) | [Главная страница](../README.md) | [Следующая страница →](SONGS_42.md)
 
 
-- [Ирек Галин / Нурия Абдуллина - Ялгызларны кемнәр яратыр? (Ялгыз парлылар) / Ирек Галин / Нурия Абдуллина - Кто полюбит одиноких? (Одинокие пары)](../translated/i/irek_galin_nuriya_abdullina_-_yalgizlarni_kemnar_yaratir_yalgiz_parlilar.md)
-- [Ирек Диндаров / Виталий Агапов - Җаным сызлый / Ирек Диндаров / Виталий Агапов - Душа моя болит](../translated/i/irek_dindarov_vitaliy_agapov_-_canim_sizliy.md)
-- [Ирек Исмәгыйлев / Илһам Вәлишин - Кенәр чаты / Ирек Исмәгыйлев / Илһам Вәлишин - Перекресток Кенара](../translated/i/irek_ismagiylev_ilham_valishin_-_kenar_chati.md)
-- [Ирек Кинҗәбулатов / Билгесез - Мин куанам (икенче вариант) / Ирек Кинҗәбулатов / Билгесез - Я радуюсь (второй вариант)](../translated/i/irek_kincabulatov_bilgesez_-_min_kuanam_ikenche_variant.md)
-- [Ирек Кинҗәбулатов / Гүзәл Диникеева - Калган гомерем - сине сөюем / Ирек Кинҗәбулатов / Гүзәл Диникеева - Оставшаяся жизнь моя - любить тебя](../translated/i/irek_kincabulatov_guzal_dinikeeva_-_kalgan_gomerem_sine_soyuem.md)
-- [Ирек Кинҗәбулатов / Насип Кучаев - Мин куанам (беренче вариант) / Ирек Кинчабулатов / Насип Кучаев - Я радуюсь (первый вариант)](../translated/i/irek_kincabulatov_nasip_kuchaev_-_min_kuanam_berenche_variant.md)
-- [Ирек Кинҗәбулатов / Флүрә Үзәнбаева - Ут алырга кайтам, әнкәй / Ирек Кинҗабулатов / Флюра Үзәнбаева - Возвращаюсь за огнем, мама](../translated/i/irek_kincabulatov_flura_uzanbaeva_-_ut_alirga_kaytam_ankay.md)
 - [Ирек Сакаев - Балачагым юллары / Ирек Сакаев - Дороги моего детства](../translated/i/irek_sakaev_-_balachagim_yullari.md)
 - [Ирек Сакаев - Бәхеткә урармын / Ирек Сакаев - В счастье укутаю](../translated/i/irek_sakaev_-_bahetka_urarmin.md)
 - [Ирек Сакаев - Карлыгач (икенче вариант) / Ирек Сакаев - Ласточка (второй вариант)](../translated/i/irek_sakaev_-_karligach_ikenche_variant.md)
@@ -105,6 +98,13 @@
 - [Йомабикә Солтанова / Фәнзәл Котдысов - Гомерем сагышлары / Йомабикә Солтанова / Фәнзәл Котдысов - Тоски моей жизни](../translated/y/yomabika_soltanova_fanzal_kotdisov_-_gomerem_sagishlari.md)
 - [Йомабикә Солтанова / Халык - Замана такмаклары (дүртенче вариант) / Йомабикә Солтанова / Халык - Частушки о наших временах (четвертый вариант)](../translated/y/yomabika_soltanova_halik_-_zamana_takmaklari_durtenche_variant.md)
 - [Йөлдыз Миңнуллина - Яңа гасыр татар яшьләре / Йолдыз Миннуллина - Татарская молодежь нового века](../translated/y/yoldiz_minnullina_-_yana_gasir_tatar_yashlare.md)
+- [Кави Нәҗми / Заһид Хәбибуллин - Җиңеп кайт! / Кави Нәҗми / Заһид Хәбибуллин - Вернись с победой!](../translated/k/kavi_nacmi_zahid_habibullin_-_cinep_kayt.md)
+- [Кави Нәҗми / Рөстәм Яхин - Лирик табын җыры / Кави Наджми / Ростэм Яхин - Лирическая застольная песня](../translated/k/kavi_nacmi_rostam_yahin_-_lirik_tabin_ciri.md)
+- [Кадим Мөбарәкшин / Гүзәл Мәхмүтова - Килдуразым / Кадим Мөбарәкшин / Гүзәл Мәхмүтова - Мой Килдураз](../translated/k/kadim_mobarakshin_guzal_mahmutova_-_kildurazim.md)
+- [Кадир Әлибаев / Салават Низаметдинов - Утыр әле, иркәм, яннарыма / Кадир Әлибаев / Салават Низаметдинов - Сядь рядом, милая моя](../translated/k/kadir_alibaev_salavat_nizametdinov_-_utir_ale_irkam_yannarima.md)
+- [Кадир Әлибаев / Юлай Моратов - Көнләшәм / Кадир Алибaев / Юлай Муратов - Ревную](../translated/k/kadir_alibaev_yulay_moratov_-_konlasham.md)
+- [Кадир Әлибаев / Юлай Моратов - Туган җиремнең теле / Кадир Алибаев / Юлай Моратов - Язык родной земли](../translated/k/kadir_alibaev_yulay_moratov_-_tugan_ciremnen_tele.md)
+- [Кадрия Наил / Илдус Сәлахов - Оч, күңелем / Кадрия Наил / Илдус Салахов - Лети, душа моя](../translated/k/kadriya_nail_ildus_salahov_-_och_kunelem.md)
 
 ---
 

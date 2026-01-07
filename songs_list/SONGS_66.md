@@ -5,11 +5,6 @@
 [← Предыдущая страница](SONGS_65.md) | [Главная страница](../README.md) | [Следующая страница →](SONGS_67.md)
 
 
-- [Роберт Миңнуллин / Оскар Усманов - Зилә-Зилә-Зиләйлүк / Роберт Миңнуллин / Оскар Усманов - Зиля-Зиля-Зилейлюк](../translated/r/robert_minnullin_oskar_usmanov_-_zila-zila-zilayluk.md)
-- [Роберт Миңнуллин / Оскар Усманов - Исәнмесез (беренче вариант) / Роберт Миннуллин / Оскар Усманов - Здравствуйте (первый вариант)](../translated/r/robert_minnullin_oskar_usmanov_-_isanmesez_berenche_variant.md)
-- [Роберт Миңнуллин / Оскар Усманов - Каеннар арасында / Роберт Миңнуллин / Оскар Усманов - Среди берез](../translated/r/robert_minnullin_oskar_usmanov_-_kaennar_arasinda.md)
-- [Роберт Миңнуллин / Оскар Усманов - Кайтабыз да китәбез шул / Роберт Миңнуллин / Оскар Усманов - Возвращаемся и уходим мы](../translated/r/robert_minnullin_oskar_usmanov_-_kaytabiz_da_kitabez_shul.md)
-- [Роберт Миңнуллин / Оскар Усманов - Кайтып киләм сине озатып / Роберт Миңнуллин / Оскар Усманов - Возвращаюсь, проводив тебя](../translated/r/robert_minnullin_oskar_usmanov_-_kaytip_kilam_sine_ozatip.md)
 - [Роберт Миңнуллин / Оскар Усманов - Карама миңа алай / Роберт Миңнуллин / Оскар Усманов - Не смотри на меня так](../translated/r/robert_minnullin_oskar_usmanov_-_karama_mina_alay.md)
 - [Роберт Миңнуллин / Оскар Усманов - Кыр казлары киткән кебек / Роберт Миңнуллин / Оскар Усманов - Как улетели дикие гуси](../translated/r/robert_minnullin_oskar_usmanov_-_kir_kazlari_kitkan_kebek.md)
 - [Роберт Миңнуллин / Оскар Усманов - Мин яшимен сөю илләрендә / Роберт Миннуллин / Оскар Усманов - Я живу в краях любви](../translated/r/robert_minnullin_oskar_usmanov_-_min_yashimen_soyu_illarenda.md)
@@ -105,6 +100,11 @@
 - [Роберт Әхмәтҗанов / Фәтхерахман Әхмәдиев - Кама буе - туган як / Роберт Ахметжанов / Фатхерахман Ахмадиев - Край у Камы - родная сторона](../translated/r/robert_ahmatcanov_fatherahman_ahmadiev_-_kama_bue_tugan_yak.md)
 - [Роберт Әхмәтҗанов / Фәтхерахман Әхмәдиев - Солдатлар (беренче вариант) / Роберт Ахматзянов / Фатерахман Ахмадиев - Солдаты (первый вариант)](../translated/r/robert_ahmatcanov_fatherahman_ahmadiev_-_soldatlar_berenche_variant.md)
 - [Родион Мортазин - Кайт инде, бала чагым / Родион Мортазин - Вернись, моё детство](../translated/r/rodion_mortazin_-_kayt_inde_bala_chagim.md)
+- [Роза Вәлиева / Мөфтәдин Гыйләҗев - Искә төшер / Роза Вәлиева / Мөфтәдин Гыйләҗев - Вспомни](../translated/r/roza_valieva_moftadin_giylacev_-_iska_tosher.md)
+- [Роза Гайнуллина - Ике эз / Роза Гайнуллина - Два следа](../translated/r/roza_gaynullina_-_ike_ez.md)
+- [Роза Гәрәева / Эльвира Хаматнурова - Күбәләкле болында / Роза Гараева / Эльвира Хаматнурова - На лугу с бабочками](../translated/r/roza_garaeva_elvira_hamatnurova_-_kubalakle_bolinda.md)
+- [Роза Сәфәрова / Әлфис Кыямов - Юк язмышка үпкә / Роза Сафарова / Альфис Киямов - Нет обиды на судьбу](../translated/r/roza_safarova_alfis_kiyamov_-_yuk_yazmishka_upka.md)
+- [Роза Фәйзуллина / Дамир Фейсханов - Балан җимешләре / Роза Файзуллина / Дамир Фейсханов - Ягоды калины](../translated/r/roza_fayzullina_damir_feyshanov_-_balan_cimeshlare.md)
 
 ---
 

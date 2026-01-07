@@ -5,18 +5,6 @@
 [← Предыдущая страница](SONGS_1.md) | [Главная страница](../README.md) | [Следующая страница →](SONGS_3.md)
 
 
-- [hasan_tufan_mars_makarov_ - Хәсән Туфан / Марс Макаров - Юксындырсаң, нишләрмен? / Хәсән Туфан / Марс Макаров - Если станешь тосковать, что мне делать?](../translated/h/hasan_tufan_mars_makarov_-_yuksindirsan_nishlarmen.md)
-- [Hat - Жэйге янгыр / Hat - Летний дождь](../translated/h/hat-zheyge_yangyr.md)
-- [hava_safina_masgut_imashev_ - Һава Сафина / Мәсгуть Имашев - Салават җыры / Хава Сафина / Мәсгут Имашев - Песня Салавата](../translated/h/hava_safina_masgut_imashev_-_salavat_ciri.md)
-- [Homay - Минем йорэк минем кызымда / Homay - Моё сердце в моей дочке](../translated/h/homay-minem_yorek_minem_kyzymda.md)
-- [Homay - Ялгыз итмэ / Homay - Не оставляй одну](../translated/h/homay-yalgyz_itme.md)
-- [Idelia - Ай чакыра / Idelia - Луна зовёт](../translated/i/idelia-ay_chakyra.md)
-- [Idelia - Анлаталмыйм / Idelia - Не могу объяснить](../translated/i/idelia-anlatalmyym.md)
-- [Idelia - Без бергэ / Idelia - Мы вместе](../translated/i/idelia-bez_berge.md)
-- [Idelia - Галэмгэ / Idelia - Во вселенную](../translated/i/idelia-galemge.md)
-- [Idelia - Кунелем синдэ генэ / Idelia - Моя душа только в тебе](../translated/i/idelia-kunelem_sinde_gene.md)
-- [Idelia - Тонге тизлек / Idelia - Ночная скорость](../translated/i/idelia-tonge_tizlek.md)
-- [Idelia - Тонге уеннар / Idelia - Ночные игры](../translated/i/idelia-tonge_uennar.md)
 - [ildar_yuzeev_alik_lokmanov_ - Әллә күрешәбез, әллә юк (икенче вариант) / Илдар Юзеев / Алик Локманов - То ли встретимся, то ли нет (второй вариант)](../translated/i/ildar_yuzeev_alik_lokmanov_-_alla_kureshabez_alla_yuk_ikenche_variant.md)
 - [ildar_yuzeev_masgut_imashev_ - Җиләккә дип барган идем... / Илдар Юзеев / Мәсгуть Имашев - Шёл я за ягодой...](../translated/i/ildar_yuzeev_masgut_imashev_-_cilakka_dip_bargan_idem.md)
 - [ilfat_musin_bilgesez_ - Илфат Мусин / Билгесез - Безнең җәй / Илфат Мусин / Билгесез - Наше лето](../translated/i/ilfat_musin_bilgesez_-_beznen_cay.md)
@@ -105,6 +93,18 @@
 - [nur_ahmadiev_saniya_ahmatova_ - Нур Әхмәдиев / Сания Әхмәтова - Карлы чыршылар (Парлы чыршылар) / Нур Әхмәдиев / Сания Әхмәтова - Снежные ели (Парные ели)](../translated/n/nur_ahmadiev_saniya_ahmatova_-_karli_chirshilar_parli_chirshilar.md)
 - [nuri_arslanov_masgut_imashev_ - _koymada / Нури Арсланов / Мәсгуть Имашев - В лодке](../translated/n/nuri_arslanov_masgut_imashev_-_koymada.md)
 - [nuri_arslanov_rashit_gobaydullin_ - Нури Арсланов / Рәшит Гобәйдуллин - Гәрәбә (беренче вариант) / Нури Арсланов / Рәшит Гобәйдуллин - Янтарь (первый вариант)](../translated/n/nuri_arslanov_rashit_gobaydullin_-_garaba_berenche_variant.md)
+- [nuriya_abdullina_ - _ziyanchura_guzal_cir / Нурия Абдуллина - Зиянчура - прекрасная земля](../translated/n/nuriya_abdullina_-_ziyanchura_guzal_cir.md)
+- [nuriya_abdullina_ - Ризыкларың өзелмәгән ... / Нурия Абдуллина - Ризыкларың өзелмәгән ...](../translated/n/nuriya_abdullina_-_riziklarin_ozelmagan.md)
+- [Puma - Жыр доньясы / Puma - Мир песни](../translated/p/puma-zhyr_donyasy.md)
+- [Puma - Жэйгэ, кунакка (Безнен жэй) / Puma - К лету, в гости (Наше лето)](../translated/p/puma-zheyge_kunakka_beznen_zhey.md)
+- [radif_gatash_mars_makarov_ - Рәдиф Гаташ / Марс Макаров - Язгы ташу / Рәдиф Гаташ / Марс Макаров - Весенний разлив](../translated/r/radif_gatash_mars_makarov_-_yazgi_tashu.md)
+- [radif_gatash_rif_gataullin_ - Рәдиф Гаташ / Риф Гатауллин - Аңлашу / Рәдиф Гаташ / Риф Гатауллин - Понимание](../translated/r/radif_gatash_rif_gataullin_-_anlashu.md)
+- [radik_hakimcanov_firdus_sharafullin_ - _yakti_nurin_kaldi_kunelda / Радик Хәкимҗанов / Фирдүс Шәрәфуллин - Свет твой остался в сердце](../translated/r/radik_hakimcanov_firdus_sharafullin_-_yakti_nurin_kaldi_kunelda.md)
+- [radik_hakimcanov_flura_arslangolova_ - Радик Хәкимҗанов / Флүрә Арсланголова - Ефремова - Гармун телләре көмештер / Радик Хәкимҗанов / Флүрә Арсланголова - Ефремова - Кнопки гармони - серебро](../translated/r/radik_hakimcanov_flura_arslangolova_-_efremova_-_garmun_tellare_komeshter.md)
+- [radik_hakimcanov_flura_arslangolova_ - Радик Хәкимҗанов / Флүрә Арсланголова - Ефремова - Таянырлык дуслар булсын (беренче вариант) / Радик Хәкимҗанов / Флүрә Арсланголова - Ефремова - Пусть будут друзья-опора (первый вариант)](../translated/r/radik_hakimcanov_flura_arslangolova_-_efremova_-_tayanirlik_duslar_bulsin_berenche_variant.md)
+- [radik_hakimcanov_rais_vagiyzov_ - Аккошлар нигә моңсулар? / Радик Хәкимҗанов / Рәис Вәгыйзов - Почему грустят лебеди?](../translated/r/radik_hakimcanov_rais_vagiyzov_-_akkoshlar_niga_monsular.md)
+- [radik_hakimcanov_rizvan_hakimov_ - Радик Хәкимҗанов / Ризван Хәкимов - Сулар булып ага (Кеше гомере) / Радик Хәкимҗанов / Ризван Хәкимов - Течет, как воды (Человеческая жизнь)](../translated/r/radik_hakimcanov_rizvan_hakimov_-_sular_bulip_aga_keshe_gomere.md)
+- [rafiga_usmanova_zakirova_modaris_mosifullin_ - Рафига Усманова (Закирова) / Мөдәрис Мөсифуллин - Кызлар юри елый ул / Рафига Усманова (Закирова) / Мөдәрис Мөсифуллин - Девчонки нарочно плачут](../translated/r/rafiga_usmanova_zakirova_modaris_mosifullin_-_kizlar_yuri_eliy_ul.md)
 
 ---
 

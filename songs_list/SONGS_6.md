@@ -5,18 +5,6 @@
 [← Предыдущая страница](SONGS_5.md) | [Главная страница](../README.md) | [Следующая страница →](SONGS_7.md)
 
 
-- [y_valitov_ilgiz_safiullin_ - Й. Вәлитов / Илгиз Сафиуллин - Җырым минем - җырым туганым / Й. Вәлитов / Илгиз Сафиуллин - Песня моя - родной мне друг](../translated/y/y_valitov_ilgiz_safiullin_-_cirim_minem_cirim_tuganim.md)
-- [yakup_kolmiy_nail_galiev_nikolay_golov_ - Лилиям (икенче вариант) / Якуп Колмый / Наил Галиев (Николай Голов) - Лилиям (второй вариант)](../translated/y/yakup_kolmiy_nail_galiev_nikolay_golov_-_liliyam_ikenche_variant.md)
-- [yomabika_soltanova_fanzal_kotdisov_ - Йомабикә Солтанова / Фәнзәл Котдысов - Бәхет алмасы / Йомабика Солтанова / Фанзаль Котдысов - Яблоко счастья](../translated/y/yomabika_soltanova_fanzal_kotdisov_-_bahet_almasi.md)
-- [zalifa_shaymohammatova_guzaliya_ - _mahabbat_davalari / Зәлифә Шәймөхәммәтова / Гүзәлия - Лекарства любви](../translated/z/zalifa_shaymohammatova_guzaliya_-_mahabbat_davalari.md)
-- [Zaman Egetlere - Ак чэчэклэр / Заман Егетлере - Белые цветы](../translated/z/zaman_egetlere-ak_chechekler.md)
-- [Zaman Egetlere - Алматанын алмасы / Заман Егетлере - Алматинские яблоки](../translated/z/zaman_egetlere-almatanyn_almasy.md)
-- [Zarema Ayupova _bez_bahetlebez - Зарема Әюпова - Без бәхетлебез / Зарема Аюпова - Мы счастливы](../translated/z/zarema_ayupova_-_bez_bahetlebez.md)
-- [zaynap_biisheva_shamil_kolbarisov_ - Зәйнәп Биишева / Шамил Колбарисов - Дан җырла, шагыйр! / Зәйнәп Биишева / Шамил Колбарисов - Пой о славе, поэт!](../translated/z/zaynap_biisheva_shamil_kolbarisov_-_dan_cirla_shagiyr.md)
-- [zayni_shahimorat_luiza_batir - Зәйни Шаһиморат / Луиза Батыр-Болгари - Кайт, иркәм Сәрвиназ! / Зәйни Шаһиморат / Луиза Батыр-Болгари - Вернись, иркәм Сәрвиназ!](../translated/z/zayni_shahimorat_luiza_batir-bolgari_-_kayt_irkam_sarvinaz.md)
-- [zifa_nagaeva_ - _kutarep_yortimme_alla / Зифа Нагаева - Неужто на руках носить мне](../translated/z/zifa_nagaeva_-_kutarep_yortimme_alla.md)
-- [zifa_nagaeva_ - _vinograd / Зифа Нагаева - Виноград](../translated/z/zifa_nagaeva_-_vinograd.md)
-- [zifa_nagaeva_ - Диңгезгә / Зифа Нагаева - К морю](../translated/z/zifa_nagaeva_-_dingezga.md)
 - [ziya_mansur_marat_gobaydullin_ - Зыя Мансур / Марат Гобәйдуллин - Туган ил (өченче вариант) / Зыя Мансур / Марат Гобәйдуллин - Родная земля (третий вариант)](../translated/z/ziya_mansur_marat_gobaydullin_-_tugan_il_ochenche_variant.md)
 - [zofar_valitov_ramil_haciev_ - Зөфәр Вәлитов / Рәмил Хаҗиев - Сабакташлар (икенче вариант) / Зөфәр Вәлитов / Рәмил Хаҗиев - Одноклассники (второй вариант)](../translated/z/zofar_valitov_ramil_haciev_-_sabaktashlar_ikenche_variant.md)
 - [zohra_kotligildina_rais_hannanov_ - Зөһрә Котлыгилдина / Рәис Ханнанов - Бураннар (икенче вариант) / Зөһрә Котлыгилдина / Рәис Ханнанов - Бураннар (второй вариант)](../translated/z/zohra_kotligildina_rais_hannanov_-_burannar_ikenche_variant.md)
@@ -105,6 +93,18 @@
 - [Азалия Сәфәрханова / Зиннур Сафиуллин - Түзмичә булмый / Азалия Сафарханова / Зиннур Сафиуллин - Не вытерпеть](../translated/a/azaliya_safarhanova_zinnur_safiullin_-_tuzmicha_bulmiy.md)
 - [Азамат Гафаров - Кыш бабай (беренче вариант) / Азамат Гафаров - Дед Мороз (первый вариант)](../translated/a/azamat_gafarov_-_kish_babay_berenche_variant.md)
 - [Азамат Усманов / Салават Низаметдинов - Ак мизгелләр / Азамат Усманов / Салават Низаметдинов - Светлые мгновения](../translated/a/azamat_usmanov_salavat_nizametdinov_-_ak_mizgellar.md)
+- [Азамат Усманов / Салават Низаметдинов - Иске өй / Азамат Усманов / Салават Низаметдинов - Старый дом](../translated/a/azamat_usmanov_salavat_nizametdinov_-_iske_oy.md)
+- [Азат Вахитов - Язгы вальс (икенче вариант) / Азат Вахитов - Весенний вальс (второй вариант)](../translated/a/azat_vahitov_-_yazgi_vals_ikenche_variant.md)
+- [Азат Имаев - Тыңлыйк Аллаһның сүзен / Азат Имаев - Услышим слово Аллаха](../translated/a/azat_imaev_-_tinliyk_allahnin_suzen.md)
+- [Азат Магазов / Айрат Кобагышев - Сагынам да кайтам, туган ягым / Азат Магазов / Айрат Кобагышев - Скучаю и вернусь, родная сторона](../translated/a/azat_magazov_ayrat_kobagishev_-_saginam_da_kaytam_tugan_yagim.md)
+- [Азат Мәрдән / Миңнегали Дәүләтбаев - Йөрәгемә минем кагылма / Азат Мардан / Миннегали Даулетбаев - Не тронь мое сердце](../translated/a/azat_mardan_minnegali_daulatbaev_-_yoragema_minem_kagilma.md)
+- [Азат Мәрдән / Миңнегали Дәүләтбаев - Яфрак яңгыры / Азат Мәрдән / Миңнегали Дәүләтбаев - Дождь из листьев](../translated/a/azat_mardan_minnegali_daulatbaev_-_yafrak_yangiri.md)
+- [Азат Мәрдән / Миңнегали Дәүләтбаев - Өзмә миңа гөлләр / Азат Мәрдән / Миңнегали Дәүләтбаев - Не дари мне цветы](../translated/a/azat_mardan_minnegali_daulatbaev_-_ozma_mina_gollar.md)
+- [Азат Сабиров / Фәрит Хатыйпов - Туган ягым Теләче (беренче вариант) / Азат Сабиров / Фарит Хатыйпов - Мой родной край Тэлячи (первый вариант)](../translated/a/azat_sabirov_farit_hatiypov_-_tugan_yagim_telache_berenche_variant.md)
+- [Азат Садриев / Лилия Вәлиева - Азнакаем (өченче вариант) / Азат Садриев / Лилия Валиева - Азнакай (третий вариант)](../translated/a/azat_sadriev_liliya_valieva_-_aznakaem_ochenche_variant.md)
+- [Азат Садриев / Ренат Еникеев - Төнбоек (бишенче вариант) / Азат Садриев / Ренат Еникеев - Кувшинка (пятый вариант)](../translated/a/azat_sadriev_renat_enikeev_-_tonboek_bishenche_variant.md)
+- [Азат Фазлыйәхмәтов / Илдар Шәрипов - Туганлык аралары суынмасын (Туганнар) / Азат Фазлыяхматов / Ильдар Шарипов - Пусть не остынут братские узы (Братья и сёстры)](../translated/a/azat_fazliyahmatov_ildar_sharipov_-_tuganlik_aralari_suinmasin_tugannar.md)
+- [Азат Фазлыйәхмәтов / Мөнир Гыйззәтуллин - Кода-кодагыйлар вальсы / Азат Фазлыяхметов / Мунир Гиззатуллин - Вальс сватов](../translated/a/azat_fazliyahmatov_monir_giyzzatullin_-_koda-kodagiylar_valsi.md)
 
 ---
 

@@ -5,11 +5,6 @@
 [← Предыдущая страница](SONGS_52.md) | [Главная страница](../README.md) | [Следующая страница →](SONGS_54.md)
 
 
-- [Наил Габдүшев / Инсаф Хәбибуллин - Чәчәкләрне өзмәгез / Наил Габдушев / Инсаф Хәбибуллин - Не рвите цветы](../translated/n/nail_gabdushev_insaf_habibullin_-_chachaklarne_ozmagez.md)
-- [Наил Габдүшев / Хәмис Азмуханов - Йөрәгемне яндырма / Наиль Габдушев / Хамис Азмуханов - Не обжигай мне сердце](../translated/n/nail_gabdushev_hamis_azmuhanov_-_yoragemne_yandirma.md)
-- [Наил Гаетбай / Рим Хәсәнов - Өч каен / Наил Гаетбай / Рим Хәсәнов - Три березы](../translated/n/nail_gaetbay_rim_hasanov_-_och_kaen.md)
-- [Наил Касыймов / Билгесез - Ламбада (беренче вариант) / Наиль Касымов / Билгесез - Ламбада (первый вариант)](../translated/n/nail_kasiymov_bilgesez_-_lambada_berenche_variant.md)
-- [Наил Касыймов / Вил Усманов - Нинди гүзәл, матур минем халкым / Наил Касыймов / Вил Усманов - Как прекрасен мой народ](../translated/n/nail_kasiymov_vil_usmanov_-_nindi_guzal_matur_minem_halkim.md)
 - [Наил Касыймов / Гайфулла Абзалов - Сөям, дидең / Наил Касыймов / Гайфулла Абзалов - Ты сказала: люблю](../translated/n/nail_kasiymov_gayfulla_abzalov_-_soyam_diden.md)
 - [Наил Касыймов / Ганс Сәйфуллин - Әнкәм сүзе / Наил Касыймов / Ганс Сәйфуллин - Слово моей матери](../translated/n/nail_kasiymov_gans_sayfullin_-_ankam_suze.md)
 - [Наил Касыймов / Зиннур Сафиуллин - Һәрвакыт күңелемдә / Наил Касыймов / Зиннур Сафиуллин - Всегда в моем сердце](../translated/n/nail_kasiymov_zinnur_safiullin_-_harvakit_kunelemda.md)
@@ -105,6 +100,11 @@
 - [Наҗар Нәҗми / Рим Хәсәнов - Бу җирләрдән синсез китмим / Нажар Наджми / Рим Хасанов - Из этих мест без тебя не уйду](../translated/n/nacar_nacmi_rim_hasanov_-_bu_cirlardan_sinsez_kitmim.md)
 - [Наҗар Нәҗми / Рим Хәсәнов - Йөрәктән булса / Наҗар Нәҗми / Рим Хәсәнов - Если от сердца](../translated/n/nacar_nacmi_rim_hasanov_-_yoraktan_bulsa.md)
 - [Наҗар Нәҗми / Рим Хәсәнов - Кышкы романс (Син - гомер агышларым) / Наҗар Нәҗми / Рим Хәсәнов - Зимний романс (Ты - теченье моей жизни)](../translated/n/nacar_nacmi_rim_hasanov_-_kishki_romans_sin_gomer_agishlarim.md)
+- [Наҗар Нәҗми / Рим Хәсәнов - Миндә син бар!.. / Наҗар Нәҗми / Рим Хәсәнов - Во мне ты есть!..](../translated/n/nacar_nacmi_rim_hasanov_-_minda_sin_bar.md)
+- [Наҗар Нәҗми / Рим Хәсәнов - Мине юллар чакыра / Нажар Нажми / Рим Хасанов - Меня дороги зовут](../translated/n/nacar_nacmi_rim_hasanov_-_mine_yullar_chakira.md)
+- [Наҗар Нәҗми / Рим Хәсәнов - Сиңа барам (беренче вариант) / Наджар Наджми / Рим Хасанов - Иду к тебе (первый вариант)](../translated/n/nacar_nacmi_rim_hasanov_-_sina_baram_berenche_variant.md)
+- [Наҗар Нәҗми / Рим Хәсәнов - Сиңа тагын мин бер киләм әле / Нәҗар Нәҗми / Рим Хәсәнов - Я к тебе еще раз приду](../translated/n/nacar_nacmi_rim_hasanov_-_sina_tagin_min_ber_kilam_ale.md)
+- [Наҗар Нәҗми / Рим Хәсәнов - Сөю җырын җырла сөйгәнеңә / Назар Наджми / Рим Хасанов - Пой песню любви любимой](../translated/n/nacar_nacmi_rim_hasanov_-_soyu_cirin_cirla_soyganena.md)
 
 ---
 

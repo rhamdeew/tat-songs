@@ -5,15 +5,6 @@
 [← Предыдущая страница](SONGS_21.md) | [Главная страница](../README.md) | [Следующая страница →](SONGS_23.md)
 
 
-- [Гузель Ахметова - Парлы бию / Гузель Ахметова - Парный танец](../translated/g/guzel_ahmetova-parly_biyu.md)
-- [Гузель Ахметова - Ромашка / Гузель Ахметова - Ромашка](../translated/g/guzel_ahmetova-romashka.md)
-- [Гузель Ахметова - Саубулыгыз, ак каеннар / Гузель Ахметова - Прощайте, белые берёзы](../translated/g/guzel_ahmetova-saubulygyz_ak_kaennar.md)
-- [Гузель Ахметова - Хыялым / Гузель Ахметова - Моя мечта](../translated/g/guzel_ahmetova-hyyalym.md)
-- [Гузель Ахметова - Чыкма юлларыма / Гузель Ахметова - Не выходи на мои дороги](../translated/g/guzel_ahmetova-chykma_yullaryma.md)
-- [Гузель Уразова - Ак пароход / Гузель Уразова - Белый пароход](../translated/g/guzel_urazova-ak_parohod.md)
-- [Гузель Уразова - Бала эйткэн авыр суз / Гузель Уразова - Тяжелое слово сказанное ребенком](../translated/g/guzel_urazova-bala_eytken_avyr_suz.md)
-- [Гузель Уразова - Балан жыя энкэй / Гузель Уразова - Мать собирает детские осколки](../translated/g/guzel_urazova-balan_zhyya_enkey.md)
-- [Гузель Уразова - Без кабызган учаклар / Гузель Уразова - Костры что мы зажгли](../translated/g/guzel_urazova-bez_kabyzgan_uchaklar.md)
 - [Гузель Уразова - Былбылым / Гузель Уразова - Соловей мой](../translated/g/guzel_urazova-bylbylym.md)
 - [Гузель Уразова - Бэхетле итэ алдын / Гузель Уразова - Ты смогла осчастливить](../translated/g/guzel_urazova-behetle_ite_aldyn.md)
 - [Гузель Уразова - Голжамал / Гузель Уразова - Гульджамал](../translated/g/guzel_urazova-golzhamal.md)
@@ -105,6 +96,15 @@
 - [Гүзел Минакова - Беркем белмэс / Гузель Минакова - Никто не знает](../translated/g/guzel_minakova-berkem_belmes.md)
 - [Гүзел Уразова - Син житмисен жанга / Гүзел Уразова - Душе тебя не хватает](../translated/g/guzel_urazova-sin_zhitmisen_zhanga.md)
 - [Гүзел Уразова - Син килгэнсен икэн / Гүзел Уразова - Значит, ты пришёл](../translated/g/guzel_urazova-sin_kilgensen_iken.md)
+- [Гүзел Уразова - Син минеке / Гүзел Уразова - Ты мой](../translated/g/guzel_urazova-sin_mineke.md)
+- [Гүзел Уразова - Сина гына / Гүзел Уразова - Только тебе](../translated/g/guzel_urazova-sina_gyna.md)
+- [Гүзел Уразова - Синен серен / Гүзел Уразова - Твоя тайна](../translated/g/guzel_urazova-sinen_seren.md)
+- [Гүзел Әхметова - Йолдызларга кушам исеменне / Гузель Ахметова - К звёздам присоединяю имя твоё](../translated/g/guzel_ahmetova-yoldyzlarga_kusham_isemenne.md)
+- [Гүзел Әхметова - Розалар кочагында / Гузель Ахметова - В объятии роз](../translated/g/guzel_ahmetova-rozalar_kochagynda.md)
+- [Гүзел Әхметова - Сагындым / Гузель Ахметова - Скучала](../translated/g/guzel_ahmetova-sagyndym.md)
+- [Гүзел Әхметова - Синсез үтә гомер / Гузель Ахметова - Без тебя проходит жизнь](../translated/g/guzel_ahmetova-sinsez_ute_gomer.md)
+- [Гүзел Әхметова - Сонладын / Гузель Ахметова - Завяла](../translated/g/guzel_ahmetova-sonladyn.md)
+- [Гүзел Әхметова - Теләк / Гузель Ахметова - Пожелание](../translated/g/guzel_ahmetova-telek.md)
 
 ---
 

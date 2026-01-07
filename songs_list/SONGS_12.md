@@ -5,18 +5,6 @@
 [← Предыдущая страница](SONGS_11.md) | [Главная страница](../README.md) | [Следующая страница →](SONGS_13.md)
 
 
-- [Аманулла / Мәсгуть Имашев - Яңа ел вальсы (дүртенче вариант) / Аманулла / Масгут Имашев - Вальс Нового года (четвертый вариант)](../translated/a/amanulla_masgut_imashev_-_yana_el_valsi_durtenche_variant.md)
-- [Аманулла / Мәсгуть Имашев - Яңа елның төне тылсымлы / Аманулла / Масгуть Имашев - Волшебная новогодняя ночь](../translated/a/amanulla_masgut_imashev_-_yana_elnin_tone_tilsimli.md)
-- [Аманулла / Фуат Әбүбәкеров - Теләче (икенче вариант) / Аманулла / Фуат Абубакеров - Теляче (второй вариант)](../translated/a/amanulla_fuat_abubakerov_-_telache_ikenche_variant.md)
-- [Ами (Динара Амирова) - Абыем / Ами (Динара Амирова) - Мой брат](../translated/a/ami_dinara_amirova_-_abiem.md)
-- [Анна Попова / Айнур BoooRe Шарапов - Лилияләр / Анна Попова / Айнур BoooRe Шарапов - Лилии](../translated/a/anna_popova_aynur_booore_sharapov_-_liliyalar.md)
-- [Анна Попова / Альфред Якшимбетов - Куыш / Анна Попова / Альфред Якшимбетов - Погоня](../translated/a/anna_popova_alfred_yakshimbetov_-_kuish.md)
-- [Анна Попова / Альфред Якшимбетов - Сөю мизгеле / Анна Попова / Альфред Якшимбетов - Мгновение любви](../translated/a/anna_popova_alfred_yakshimbetov_-_soyu_mizgele.md)
-- [Анна Попова / Альфред Якшимбетов - Туганнар (җиденче вариант) / Анна Попова / Альфред Якшимбетов - Родные (седьмой вариант)](../translated/a/anna_popova_alfred_yakshimbetov_-_tugannar_cidenche_variant.md)
-- [Анна Попова / Билгесез - Гайбәтләр / Анна Попова / Неизвестен - Сплетни](../translated/a/anna_popova_bilgesez_-_gaybatlar.md)
-- [Анна Попова / Владимир Федоров - Гармунчы абыема / Анна Попова / Владимир Фёдоров - Гармонисту-брату](../translated/a/anna_popova_vladimir_fedorov_-_garmunchi_abiema.md)
-- [Анна Попова / Владимир Федоров - Гөрләп кирәк яшәргә / Анна Попова / Владимир Фёдоров - Нужно жить с достоинством](../translated/a/anna_popova_vladimir_fedorov_-_gorlap_kirak_yasharga.md)
-- [Анна Попова / Владимир Федоров - Килче яныма (беренче вариант) / Анна Попова / Владимир Фёдоров - Приди ко мне (первый вариант)](../translated/a/anna_popova_vladimir_fedorov_-_kilche_yanima_berenche_variant.md)
 - [Анна Попова / Владимир Федоров - Килче, килче / Анна Попова / Владимир Фёдоров - Приди, приди](../translated/a/anna_popova_vladimir_fedorov_-_kilche_kilche.md)
 - [Анна Попова / Владимир Федоров - Очам синең яннарыңа / Анна Попова / Владимир Фёдоров - Лечу к тебе](../translated/a/anna_popova_vladimir_fedorov_-_ocham_sinen_yannarina.md)
 - [Анна Попова / Гүзәл Уразова - Бул янымда / Анна Попова / Гузель Уразова - Будь рядом](../translated/a/anna_popova_guzal_urazova_-_bul_yanimda.md)
@@ -105,6 +93,18 @@
 - [Башкарма - Син сазында уйнадын / Башкарма - Ты играла на сазе](../translated/b/bashkarma-sin_sazynda_uynadyn.md)
 - [Башкарма - Тонге карлар / Башкарма - Ночные снега](../translated/b/bashkarma-tonge_karlar.md)
 - [Башкорт халык / Билгесез - Такмаклар (дүртенче вариант) / Башкирская народная / Билгесез - Песенки (четвертый вариант)](../translated/b/bashkort_halik_bilgesez_-_takmaklar_durtenche_variant.md)
+- [Башкорт халык / Хисмәтулла Дәүләтов - Тал бөгелә (икенче вариант) / Башкирская народная / Хисматулла Давлетов - Ива гнётся (второй вариант)](../translated/b/bashkort_halik_hismatulla_daulatov_-_tal_bogela_ikenche_variant.md)
+- [Башкорт халык / Хисмәтулла Дәүләтов - Җиделе шәм / Башкирский народ / Хисматулла Даулатов - Семисвечье](../translated/b/bashkort_halik_hismatulla_daulatov_-_cidele_sham.md)
+- [Башкорт халык бию такмагы - Гөлнәзирә (беренче вариант) / Башкирская народная плясовая - Гульнара (первый вариант)](../translated/b/bashkort_halik_biyu_takmagi_-_golnazira_berenche_variant.md)
+- [Башкорт халык бию такмагы - Гөлнәзирә (икенче вариант) / Башкирский народный танец - Гульнария (второй вариант)](../translated/b/bashkort_halik_biyu_takmagi_-_golnazira_ikenche_variant.md)
+- [Башкорт халык бию такмагы - Гөлнәзирә (өченче вариант) / Башкирская народная плясовая мелодия - Гөлнәзирә (третий вариант)](../translated/b/bashkort_halik_biyu_takmagi_-_golnazira_ochenche_variant.md)
+- [Башкорт халык бию такмагы - Шәл бәйләдем (беренче вариант) / Башкирский народный танец - Я повязала шаль (первый вариант)](../translated/b/bashkort_halik_biyu_takmagi_-_shal_bayladem_berenche_variant.md)
+- [Башкорт халык бию такмагы - Өфе - Чиләбе (икенче вариант) / Башкорт народный танец - Уфа - Челабинск (второй вариант)](../translated/b/bashkort_halik_biyu_takmagi_-_ofe_chilabe_ikenche_variant.md)
+- [Башкорт халык бию такмагы - Өфе - Чиләбе (өченче вариант) / Народный танец башкир - Уфа - Челабинск (третий вариант)](../translated/b/bashkort_halik_biyu_takmagi_-_ofe_chilabe_ochenche_variant.md)
+- [Башкорт халык такмагы - Такмаклар (өченче вариант) / Башкирская народная песня - Такмаклар (третий вариант)](../translated/b/bashkort_halik_takmagi_-_takmaklar_ochenche_variant.md)
+- [Башкорт халык җыры - Абдрахман / Башкирская народная песня - Абдрахман](../translated/b/bashkort_halik_ciri_-_abdrahman.md)
+- [Башкорт халык җыры - Азамат (беренче вариант) / Башкир народная песня - Азамат (первый вариант)](../translated/b/bashkort_halik_ciri_-_azamat_berenche_variant.md)
+- [Башкорт халык җыры - Азамат (икенче вариант) / Башкирская народная песня - Азамат (второй вариант)](../translated/b/bashkort_halik_ciri_-_azamat_ikenche_variant.md)
 
 ---
 

@@ -5,11 +5,6 @@
 [← Предыдущая страница](SONGS_63.md) | [Главная страница](../README.md) | [Следующая страница →](SONGS_65.md)
 
 
-- [Ризида Мөхәммәтҗанова - Чыгармын каршыңа (Иң якын дустыма) / Ризида Мөхәммәтҗанова - Выйду навстречу (Самой близкой подруге)](../translated/r/rizida_mohammatcanova_-_chigarmin_karshina_in_yakin_dustima.md)
-- [Ризида Мөхәммәтҗанова - Шиңмәсеннәр, әнкәй, гөлләрең(Әнкәем гөлләре) / Ризида Мөхәммәтҗанова - Пусть не вянут, мама, твои цветы (Цветы моей мамы)](../translated/r/rizida_mohammatcanova_-_shinmasennar_ankay_gollarenankaem_gollare.md)
-- [Ризида Мөхәммәтҗанова - Юанычым / Ризида Мөхәммәтҗанова - Юанычым](../translated/r/rizida_mohammatcanova_-_yuanichim.md)
-- [Ризида Мөхәммәтҗанова - Язгы моңым / Ризида Мөхәммәтҗанова - Весенний мой напев](../translated/r/rizida_mohammatcanova_-_yazgi_monim.md)
-- [Ризида Мөхәммәтҗанова - Яралы күбәләк / Ризида Мөхәммәтҗанова - Раненая бабочка](../translated/r/rizida_mohammatcanova_-_yarali_kubalak.md)
 - [Ризида Мөхәммәтҗанова - Җиде язмыш / Ризида Мухамметжанова - Семь судеб](../translated/r/rizida_mohammatcanova_-_cide_yazmish.md)
 - [Ризида Мөхәммәтҗанова - Җырым - бүләк / Ризида Мөхәммәтҗанова - Песня - подарок](../translated/r/rizida_mohammatcanova_-_cirim_bulak.md)
 - [Ризида Мөхәммәтҗанова - Үпкәләмә (дүртенче вариант) / Ризида Мөхәммәтҗанова - Не обижайся (четвёртый вариант)](../translated/r/rizida_mohammatcanova_-_upkalama_durtenche_variant.md)
@@ -105,6 +100,11 @@
 - [Ринат Рахматуллин - Тукта янгыр / Ринат Рахматуллин - Перестань, дождь](../translated/r/rinat_rahmatullin-tukta_yangyr.md)
 - [Ринат Рахматуллин - Тукта, яңгыр / Ринат Рахматуллин - Стой, дождь](../translated/r/rinat_rahmatullin_-_tukta_yangir.md)
 - [Ринат Рахматуллин - Чакыр гына мине / Ринат Рахматуллин - Позови лишь меня](../translated/r/rinat_rahmatullin_-_chakir_gina_mine.md)
+- [Ринат Рахматуллин - Этиемэ / Ринат Рахматуллин - Отец мой](../translated/r/rinat_rahmatullin-etieme.md)
+- [Ринат Рахматуллин - Юк, юк, ташлап китмә син / Ринат Рахматуллин - Нет, нет, не уходи](../translated/r/rinat_rahmatullin_-_yuk_yuk_tashlap_kitma_sin.md)
+- [Ринат Рахматуллин - Ярату / Ринат Рахматуллин - Любовь](../translated/r/rinat_rahmatullin-yaratu.md)
+- [Ринат Сөләймәнов / Илмир Моратов - Яшьлек юлларым / Ринат Сөләйменов / Илмир Муратов - Дороги моей юности](../translated/r/rinat_solaymanov_ilmir_moratov_-_yashlek_yullarim.md)
+- [Ринат Хәйри / Вәсил Галимов - Баланнар әчесе / Ринат Хайри / Васил Галимов - Горечь калины](../translated/r/rinat_hayri_vasil_galimov_-_balannar_achese.md)
 
 ---
 

@@ -5,11 +5,6 @@
 [← Предыдущая страница](SONGS_60.md) | [Главная страница](../README.md) | [Следующая страница →](SONGS_62.md)
 
 
-- [Рамил Чурагулов / Эльвира Хаматнурова - Өч сүз / Рамил Чурагулов / Эльвира Хаматнурова - Три слова](../translated/r/ramil_churagulov_elvira_hamatnurova_-_och_suz.md)
-- [Рамил Чурагулов / Юлай Моратов - Авылымда кичке уеннар / Рамил Чурагулов / Юлай Моратов - Вечерние игры в моем селе](../translated/r/ramil_churagulov_yulay_moratov_-_avilimda_kichke_uennar.md)
-- [Рамил Чурагулов / Юлай Моратов - Бер күрешү - бер гомер (икенче вариант) / Рамил Чурагулов / Юлай Моратов - Одна встреча - одна жизнь (второй вариант)](../translated/r/ramil_churagulov_yulay_moratov_-_ber_kureshu_ber_gomer_ikenche_variant.md)
-- [Рамил Чурагулов / Юлай Моратов - Карсылуым / Рамиль Чурагулов / Юлай Моратов - Моя встречная метель](../translated/r/ramil_churagulov_yulay_moratov_-_karsiluim.md)
-- [Рамил Чурагулов / Юлай Моратов - Кошлар китә (беренче вариант) / Рамил Чурагулов / Юлай Моратов - Улетают птицы (первый вариант)](../translated/r/ramil_churagulov_yulay_moratov_-_koshlar_kita_berenche_variant.md)
 - [Рамил Чурагулов / Юлай Моратов - Тегермән буалары / Рамил Чурагулов / Юлай Моратов - Плотины мельниц](../translated/r/ramil_churagulov_yulay_moratov_-_tegerman_bualari.md)
 - [Рамил Чурагулов / Юлай Моратов - Туган як (бишенче вариант) / Рамил Чурагулов / Юлай Моратов - Родной край (пятый вариант)](../translated/r/ramil_churagulov_yulay_moratov_-_tugan_yak_bishenche_variant.md)
 - [Рамил Чурагулов / Юлай Моратов - Хәтер көне / Рамиль Чурагулов / Юлай Моратов - День памяти](../translated/r/ramil_churagulov_yulay_moratov_-_hater_kone.md)
@@ -105,6 +100,11 @@
 - [Рафаэль Сафин / Алик Локманов - Сезнең өчен / Рафаэль Сафин / Алик Локманов - Для вас](../translated/r/rafael_safin_alik_lokmanov_-_seznen_ochen.md)
 - [Рафаэль Сафин / Салават Низаметдинов - Мәхрүм итмә мине дөньядан! / Рафаэль Сафин / Салават Низаметдинов - Не лишай меня этого мира!](../translated/r/rafael_safin_salavat_nizametdinov_-_mahrum_itma_mine_donyadan.md)
 - [Рафаэль Сафин / Салават Низаметдинов - Әйт бер генә тагы / Рафаэль Сафин / Салават Низаметдинов - Скажи ещё лишь раз](../translated/r/rafael_safin_salavat_nizametdinov_-_ayt_ber_gena_tagi.md)
+- [Рафаэль Сафин / Тәлгать Шәрипов - Кыйгылар / Рафаэль Сафин / Талгат Шарипов - Стрижи](../translated/r/rafael_safin_talgat_sharipov_-_kiygilar.md)
+- [Рафаэль Сафин / Хөсәен Әхмәтов - Синдер ул дип уйладым / Рафаэль Сафин / Хөсәен Әхмәтов - Я думал, ты лишь тень](../translated/r/rafael_safin_hosaen_ahmatov_-_sinder_ul_dip_uyladim.md)
+- [Рафаэль Сафин / Шамил Колбарисов - Янбикә / Рафаэль Сафин / Шамил Колбарисов - Янбикя](../translated/r/rafael_safin_shamil_kolbarisov_-_yanbika.md)
+- [Рафаэль Сафин / Әнвәр Бакиров - Мәхрүм итмә... / Рафаэль Сафин / Анвар Бакиров - Не лишай меня...](../translated/r/rafael_safin_anvar_bakirov_-_mahrum_itma.md)
+- [Рафаэль Сираҗиев / Фәнис Мортазин - Ирадә / Рафаэль Сираджиев / Фанис Мортазин - Воля](../translated/r/rafael_siraciev_fanis_mortazin_-_irada.md)
 
 ---
 

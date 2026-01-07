@@ -5,18 +5,6 @@
 [← Предыдущая страница](SONGS_10.md) | [Главная страница](../README.md) | [Следующая страница →](SONGS_12.md)
 
 
-- [Алсу - Уфа юкэлэре / Алсу - Липы Уфы](../translated/a/alsu-ufa_yukelere.md)
-- [Алсу - Шэл бэйлэдем / Алсу - Платок повязала](../translated/a/alsu-shel_beyledem.md)
-- [Алсу - Эткэй / Алсу - Папа](../translated/a/alsu-etkey.md)
-- [Алсу Васикова / Алия Ганиева - Ак бәхетләр телим сезгә / Алсу Васикова / Алия Ганиева - Светлого счастья желаю вам](../translated/a/alsu_vasikova_aliya_ganieva_-_ak_bahetlar_telim_sezga.md)
-- [Алсу Васикова / Алия Ганиева - Өмет итәм бу язга / Алсу Васикова / Алия Ганиева - Надеюсь на эту весну](../translated/a/alsu_vasikova_aliya_ganieva_-_omet_itam_bu_yazga.md)
-- [Алсу Васикова / Гөлия Закирова - Якты уйлар / Алсу Васикова / Гюлия Закирова - Светлые мысли](../translated/a/alsu_vasikova_goliya_zakirova_-_yakti_uylar.md)
-- [Алсу Гарипова - Йөрәгемдәге хисләрем / Алсу Гарипова - Чувства в моём сердце](../translated/a/alsu_garipova_-_yoragemdage_hislarem.md)
-- [Алсу Гарипова / Наил Кадыйров - Яратамын сезне, дусларым / Алсу Гарипова / Наил Кадыйров - Люблю вас, друзья мои](../translated/a/alsu_garipova_nail_kadiyrov_-_yaratamin_sezne_duslarim.md)
-- [Алсу Зарипова / Илдар Ногманов - Адаштырдың мине / Алсу Зарипова / Илдар Ногманов - Ты меня обманул](../translated/a/alsu_zaripova_ildar_nogmanov_-_adashtirdin_mine.md)
-- [Алсу Нәфыйкова - Гомер буе бергә атлагыз / Алсу Нафийкова - Шагайте вместе всю жизнь](../translated/a/alsu_nafiykova_-_gomer_bue_berga_atlagiz.md)
-- [Алсу Нәфыйкова - Рәхмәтлебез язмышка / Алсу Нафикова - Благодарны судьбе](../translated/a/alsu_nafiykova_-_rahmatlebez_yazmishka.md)
-- [Алсу Таҗетдинова - Әнкәем (алтынчы вариант) / Алсу Таджетдинова - Мамочка (шестой вариант)](../translated/a/alsu_tacetdinova_-_ankaem_altinchi_variant.md)
 - [Алсу Шәйдуллина / Марсель Вәгыйзов - Яшисе килә (бишенче вариант) / Алсу Шайдуллина / Марсель Вагизов - Так хочется жить (пятый вариант)](../translated/a/alsu_shaydullina_marsel_vagiyzov_-_yashise_kila_bishenche_variant.md)
 - [Алсу Эбелханова - Жаным / Алсу Эбелханова - Душа моя](../translated/a/alsu_ebelhanova-zhanym.md)
 - [Алсу Эбелханова - Кыюсыз егет / Алсу Эбелханова - Стеснительный парень](../translated/a/alsu_ebelhanova-kyyusyz_eget.md)
@@ -105,6 +93,18 @@
 - [Альфред Якшимбетов - Түгәрәк дөнья (икенче вариант) / Альфред Якшимбетов - Круглый мир (второй вариант)](../translated/a/alfred_yakshimbetov_-_tugarak_donya_ikenche_variant.md)
 - [Аманулла / Зөфәр Хәйретдинов - Алмачуар / Аманулла / Зуфар Хайретдинов - Альмачуар](../translated/a/amanulla_zofar_hayretdinov_-_almachuar.md)
 - [Аманулла / Илһам Байтирәк - Хәтеремдә — Битаман / Аманулла / Ильхам Байтиряк - В памяти — Битаман](../translated/a/amanulla_ilham_baytirak_-_hateremda_bitaman.md)
+- [Аманулла / Мәсгуть Имашев - Яңа ел вальсы (дүртенче вариант) / Аманулла / Масгут Имашев - Вальс Нового года (четвертый вариант)](../translated/a/amanulla_masgut_imashev_-_yana_el_valsi_durtenche_variant.md)
+- [Аманулла / Мәсгуть Имашев - Яңа елның төне тылсымлы / Аманулла / Масгуть Имашев - Волшебная новогодняя ночь](../translated/a/amanulla_masgut_imashev_-_yana_elnin_tone_tilsimli.md)
+- [Аманулла / Фуат Әбүбәкеров - Теләче (икенче вариант) / Аманулла / Фуат Абубакеров - Теляче (второй вариант)](../translated/a/amanulla_fuat_abubakerov_-_telache_ikenche_variant.md)
+- [Ами (Динара Амирова) - Абыем / Ами (Динара Амирова) - Мой брат](../translated/a/ami_dinara_amirova_-_abiem.md)
+- [Анна Попова / Айнур BoooRe Шарапов - Лилияләр / Анна Попова / Айнур BoooRe Шарапов - Лилии](../translated/a/anna_popova_aynur_booore_sharapov_-_liliyalar.md)
+- [Анна Попова / Альфред Якшимбетов - Куыш / Анна Попова / Альфред Якшимбетов - Погоня](../translated/a/anna_popova_alfred_yakshimbetov_-_kuish.md)
+- [Анна Попова / Альфред Якшимбетов - Сөю мизгеле / Анна Попова / Альфред Якшимбетов - Мгновение любви](../translated/a/anna_popova_alfred_yakshimbetov_-_soyu_mizgele.md)
+- [Анна Попова / Альфред Якшимбетов - Туганнар (җиденче вариант) / Анна Попова / Альфред Якшимбетов - Родные (седьмой вариант)](../translated/a/anna_popova_alfred_yakshimbetov_-_tugannar_cidenche_variant.md)
+- [Анна Попова / Билгесез - Гайбәтләр / Анна Попова / Неизвестен - Сплетни](../translated/a/anna_popova_bilgesez_-_gaybatlar.md)
+- [Анна Попова / Владимир Федоров - Гармунчы абыема / Анна Попова / Владимир Фёдоров - Гармонисту-брату](../translated/a/anna_popova_vladimir_fedorov_-_garmunchi_abiema.md)
+- [Анна Попова / Владимир Федоров - Гөрләп кирәк яшәргә / Анна Попова / Владимир Фёдоров - Нужно жить с достоинством](../translated/a/anna_popova_vladimir_fedorov_-_gorlap_kirak_yasharga.md)
+- [Анна Попова / Владимир Федоров - Килче яныма (беренче вариант) / Анна Попова / Владимир Фёдоров - Приди ко мне (первый вариант)](../translated/a/anna_popova_vladimir_fedorov_-_kilche_yanima_berenche_variant.md)
 
 ---
 

@@ -5,11 +5,6 @@
 [← Предыдущая страница](SONGS_50.md) | [Главная страница](../README.md) | [Следующая страница →](SONGS_52.md)
 
 
-- [Мостафа Ногман / Рөстәм Яхин - Киек казлар китә / Мостафа Ногман / Рөстәм Яхин - Улетели дикие гуси](../translated/m/mostafa_nogman_rostam_yahin_-_kiek_kazlar_kita.md)
-- [Мостафа Ногман / Рөстәм Яхин - Күзләрем тик сине эзлиләр / Мостафа Ногман / Рөстәм Яхин - Мои глаза ищут лишь тебя](../translated/m/mostafa_nogman_rostam_yahin_-_kuzlarem_tik_sine_ezlilar.md)
-- [Мостафа Ногман / Рөстәм Яхин - Нурлы безнең Кукмарабыз / Мостафа Ногман / Рөстәм Яхин - Светлая наша Кукмара](../translated/m/mostafa_nogman_rostam_yahin_-_nurli_beznen_kukmarabiz.md)
-- [Мостафа Ногман / Рөстәм Яхин - Оныта алмыйм (беренче вариант) / Мостафа Ногман / Рөстәм Яхин - Не могу забыть (первый вариант)](../translated/m/mostafa_nogman_rostam_yahin_-_onita_almiym_berenche_variant.md)
-- [Мостафа Ногман / Рөстәм Яхин - Оныта алмыйм (икенче вариант) / Мостафа Ногман / Ростям Яхин - Не могу забыть (второй вариант)](../translated/m/mostafa_nogman_rostam_yahin_-_onita_almiym_ikenche_variant.md)
 - [Мостафа Ногман / Рөстәм Яхин - Сагыну җыры (өченче вариант) / Мостафа Ногман / Рөстәм Яхин - Песня тоски (третий вариант)](../translated/m/mostafa_nogman_rostam_yahin_-_saginu_ciri_ochenche_variant.md)
 - [Мостафа Ногман / Рөстәм Яхин - Салагыш болыннары / Мостафа Ногман / Рөстәм Яхин - Салагышские луга](../translated/m/mostafa_nogman_rostam_yahin_-_salagish_bolinnari.md)
 - [Мостафа Ногман / Рөстәм Яхин - Түбән Кама утлары / Мостафа Ногман / Рөстәм Яхин - Огни Нижнекамска](../translated/m/mostafa_nogman_rostam_yahin_-_tuban_kama_utlari.md)
@@ -105,6 +100,11 @@
 - [Мәхмүт Хөсәен / Алмаз Монасыйпов - Зөһрә / Мәхмүт Хөсәен / Алмаз Монасыйпов - Зухра](../translated/m/mahmut_hosaen_almaz_monasiypov_-_zohra.md)
 - [Мәхмүт Хөсәен / Бәхти Гайсин - Хатынга булмый ярап / Мәхмүт Хөсәен / Бәхти Гайсин - Ни вакыт да булып китә](../translated/m/mahmut_hosaen_bahti_gaysin_-_hatinga_bulmiy_yarap.md)
 - [Мәхмүт Хөсәен / Гали Ильясов - Идел вальсы / Махмут Хусаен / Гали Ильясов - Вальс Идели](../translated/m/mahmut_hosaen_gali_ilyasov_-_idel_valsi.md)
+- [Мәхмүт Хөсәен / Ганс Сәйфуллин - Әнием миләше / Махмут Хусаен / Ганс Сайфуллин - Рябина мамы](../translated/m/mahmut_hosaen_gans_sayfullin_-_aniem_milashe.md)
+- [Мәхмүт Хөсәен / Заһид Хәбибуллин - Яшьлек вальсы / Махмут Хусаен / Захид Хабибуллин - Вальс юности](../translated/m/mahmut_hosaen_zahid_habibullin_-_yashlek_valsi.md)
+- [Мәхмүт Хөсәен / Заһид Хәбибуллин - Яшәсен кияүләрем / Махмут Хусаин / Захид Хабибуллин - Да здравствуют мои зятья](../translated/m/mahmut_hosaen_zahid_habibullin_-_yashasen_kiyaularem.md)
+- [Мәхмүт Хөсәен / Зәбих Мәмәлимов - Менә сиңа Миләүшә (Миләүшә) / Мәхмүт Хөсәен / Зәбих Мәмәлимов - Вот тебе Миләүшә (Миләүшә)](../translated/m/mahmut_hosaen_zabih_mamalimov_-_mena_sina_milausha_milausha.md)
+- [Мәхмүт Хөсәен / Инсаф Хәбибуллин - Җырлыйк, дуслар (беренче вариант) / Мәхмүт Хөсәен / Инсаф Хәбибуллин - Споём, друзья (первый вариант)](../translated/m/mahmut_hosaen_insaf_habibullin_-_cirliyk_duslar_berenche_variant.md)
 
 ---
 

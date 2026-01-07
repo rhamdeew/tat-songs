@@ -5,11 +5,6 @@
 [← Предыдущая страница](SONGS_61.md) | [Главная страница](../README.md) | [Следующая страница →](SONGS_63.md)
 
 
-- [Рафаэль Сафин / Тәлгать Шәрипов - Кыйгылар / Рафаэль Сафин / Талгат Шарипов - Стрижи](../translated/r/rafael_safin_talgat_sharipov_-_kiygilar.md)
-- [Рафаэль Сафин / Хөсәен Әхмәтов - Синдер ул дип уйладым / Рафаэль Сафин / Хөсәен Әхмәтов - Я думал, ты лишь тень](../translated/r/rafael_safin_hosaen_ahmatov_-_sinder_ul_dip_uyladim.md)
-- [Рафаэль Сафин / Шамил Колбарисов - Янбикә / Рафаэль Сафин / Шамил Колбарисов - Янбикя](../translated/r/rafael_safin_shamil_kolbarisov_-_yanbika.md)
-- [Рафаэль Сафин / Әнвәр Бакиров - Мәхрүм итмә... / Рафаэль Сафин / Анвар Бакиров - Не лишай меня...](../translated/r/rafael_safin_anvar_bakirov_-_mahrum_itma.md)
-- [Рафаэль Сираҗиев / Фәнис Мортазин - Ирадә / Рафаэль Сираджиев / Фанис Мортазин - Воля](../translated/r/rafael_siraciev_fanis_mortazin_-_irada.md)
 - [Рафига Усманова (Закирова) / Роза Якупова - Агылмачы, болыт, агылма! / Рафига Усманова (Закирова) / Роза Якупова - Не лейся, облако, не лейся!](../translated/r/rafiga_usmanova_zakirova_roza_yakupova_-_agilmachi_bolit_agilma.md)
 - [Рафига Усманова (Закирова) / Роза Якупова - Газиз гомер / Рафига Усманова (Закирова) / Роза Якупова - Дорогая жизнь](../translated/r/rafiga_usmanova_zakirova_roza_yakupova_-_gaziz_gomer.md)
 - [Рафига Усманова (Закирова) / Роза Якупова - Шәм / Раfiga Усманова (Закирова) / Роза Якупова - Свеча](../translated/r/rafiga_usmanova_zakirova_roza_yakupova_-_sham.md)
@@ -105,6 +100,11 @@
 - [Резеда Вәлиева / Таңсылу Габидуллина - Йөрәгемә куштым / Резеда Валиева / Тансылу Габидуллина - Сердцу велела](../translated/r/rezeda_valieva_tansilu_gabidullina_-_yoragema_kushtim.md)
 - [Резеда Вәлиева / Фәрид Низамиев - Көнче күбәләккәем / Резеда Вәлиева / Фәрид Низамиев - Бабочка-капустница](../translated/r/rezeda_valieva_farid_nizamiev_-_konche_kubalakkaem.md)
 - [Резеда Вәлиева / Фәрит Хатыйпов - Сине эзләп йөрдем / Резеда Валиева / Фарит Хатыйпов - Тебя искал я](../translated/r/rezeda_valieva_farit_hatiypov_-_sine_ezlap_yordem.md)
+- [Резеда Вәлиева / Фәрүәз Килдеголов - Тау җиләге / Резеда Валиева / Фаруаз Килдеголов - Горная ягода](../translated/r/rezeda_valieva_faruaz_kildegolov_-_tau_cilage.md)
+- [Резеда Вәлиева / Харис Ибрагимов - Бишек җыры (беренче вариант) / Резеда Валиева / Харис Ибрагимов - Колыбельная (первый вариант)](../translated/r/rezeda_valieva_haris_ibragimov_-_bishek_ciri_berenche_variant.md)
+- [Резеда Вәлиева / Харис Ибрагимов - Их, Әлкием яклары / Резеда Валиева / Харис Ибрагимов - Ах, Алкинские края](../translated/r/rezeda_valieva_haris_ibragimov_-_ih_alkiem_yaklari.md)
+- [Резеда Вәлиева / Харис Ибрагимов - Яз җитте / Резеда Валиева / Харис Ибрагимов - Весна пришла](../translated/r/rezeda_valieva_haris_ibragimov_-_yaz_citte.md)
+- [Резеда Вәлиева / Харис Ибрагимов - Җәйге яңгыр / Резеда Вәлиева / Харис Ибрагимов - Летний дождь](../translated/r/rezeda_valieva_haris_ibragimov_-_cayge_yangir.md)
 
 ---
 

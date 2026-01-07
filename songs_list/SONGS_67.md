@@ -5,11 +5,6 @@
 [← Предыдущая страница](SONGS_66.md) | [Главная страница](../README.md) | [Следующая страница →](SONGS_68.md)
 
 
-- [Роза Вәлиева / Мөфтәдин Гыйләҗев - Искә төшер / Роза Вәлиева / Мөфтәдин Гыйләҗев - Вспомни](../translated/r/roza_valieva_moftadin_giylacev_-_iska_tosher.md)
-- [Роза Гайнуллина - Ике эз / Роза Гайнуллина - Два следа](../translated/r/roza_gaynullina_-_ike_ez.md)
-- [Роза Гәрәева / Эльвира Хаматнурова - Күбәләкле болында / Роза Гараева / Эльвира Хаматнурова - На лугу с бабочками](../translated/r/roza_garaeva_elvira_hamatnurova_-_kubalakle_bolinda.md)
-- [Роза Сәфәрова / Әлфис Кыямов - Юк язмышка үпкә / Роза Сафарова / Альфис Киямов - Нет обиды на судьбу](../translated/r/roza_safarova_alfis_kiyamov_-_yuk_yazmishka_upka.md)
-- [Роза Фәйзуллина / Дамир Фейсханов - Балан җимешләре / Роза Файзуллина / Дамир Фейсханов - Ягоды калины](../translated/r/roza_fayzullina_damir_feyshanov_-_balan_cimeshlare.md)
 - [Роза Хәбибуллина / Рөстәм Невретдинов - Яктылыгым җырымнан / Роза Хәбибуллина / Рөстәм Невретдинов - Свет мой из песни](../translated/r/roza_habibullina_rostam_nevretdinov_-_yaktiligim_cirimnan.md)
 - [Роза Хәмидуллина / Гафият Нигъмәтуллин - Без авыл яшьләре / Роза Хәмидуллина / Гафият Нигъмәтуллин - Мы сельская молодежь](../translated/r/roza_hamidullina_gafiyat_nigmatullin_-_bez_avil_yashlare.md)
 - [Роза Шакирова / Сәйяр Хәбибуллин - Былбыл кошым / Роза Шакирова / Сайяр Хабибуллин - Мой соловей](../translated/r/roza_shakirova_sayyar_habibullin_-_bilbil_koshim.md)
@@ -105,6 +100,11 @@
 - [Рәис Риянов / Рафикъ Васфиев - Усолка / Раис Риянов / Рафик Васфиев - Усолка](../translated/r/rais_riyanov_rafik_vasfiev_-_usolka.md)
 - [Рәис Риянов / Ризван Хәкимов - Өфедә бар сөйгәнем / Раис Риянов / Ризван Хакимов - Любимая в Уфе](../translated/r/rais_riyanov_rizvan_hakimov_-_ofeda_bar_soyganem.md)
 - [Рәис Риянов / Рус халык - Волжанка / Рәис Риянов / Рус халык - Волжанка](../translated/r/rais_riyanov_rus_halik_-_volzhanka.md)
+- [Рәис Риянов / Сәүбән Чуганаев - Ак каеным (беренче вариант) / Раис Риянов / Сәүбән Чуганаев - Мой белый кед (первый вариант)](../translated/r/rais_riyanov_sauban_chuganaev_-_ak_kaenim_berenche_variant.md)
+- [Рәис Риянов / Флүр Әхмәтсафин - Ак каеным (икенче вариант) / Рәис Риянов / Флүр Әхмәтсафин - Моя белая берёза (второй вариант)](../translated/r/rais_riyanov_flur_ahmatsafin_-_ak_kaenim_ikenche_variant.md)
+- [Рәис Риянов / Флүр Әхмәтсафин - Чәчәктә чакта сирень / Раис Риянов / Флюр Ахметсафин - Когда цветёт сирень](../translated/r/rais_riyanov_flur_ahmatsafin_-_chachakta_chakta_siren.md)
+- [Рәис Риянов / Фәнзәл Котдысов - Аргамагым сиңа алып килде / Раис Риянов / Фанзаль Котдысов - Мой аргамак к тебе меня принес](../translated/r/rais_riyanov_fanzal_kotdisov_-_argamagim_sina_alip_kilde.md)
+- [Рәис Риянов / Фәнзәл Котдысов - Байкы буе / Раис Риянов / Фәнзәл Котдысов - Берег Байкы](../translated/r/rais_riyanov_fanzal_kotdisov_-_bayki_bue.md)
 
 ---
 
