@@ -2,7 +2,7 @@
 
 ## Список песен (песни 201-300 из 9141)
 
-[← Предыдущая страница](songs_list/SONGS_2.md) | [Главная страница](../README.md) | [Следующая страница →](songs_list/SONGS_4.md)
+[← Предыдущая страница](SONGS_2.md) | [Главная страница](../README.md) | [Следующая страница →](SONGS_4.md)
 
 
 - [nuriya_abdullina_ - _ziyanchura_guzal_cir / Нурия Абдуллина - Зиянчура - прекрасная земля](../translated/n/nuriya_abdullina_-_ziyanchura_guzal_cir.md)
@@ -108,4 +108,4 @@
 
 ---
 
-[← Предыдущая страница](songs_list/SONGS_2.md) | [Главная страница](../README.md) | [Следующая страница →](songs_list/SONGS_4.md)
+[← Предыдущая страница](SONGS_2.md) | [Главная страница](../README.md) | [Следующая страница →](SONGS_4.md)
