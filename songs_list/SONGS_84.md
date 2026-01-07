@@ -5,17 +5,6 @@
 [← Предыдущая страница](SONGS_83.md) | [Главная страница](../README.md) | [Следующая страница →](SONGS_85.md)
 
 
-- [Хәй Вахит / Хөснул Вәлиуллин - Зөһрә җыры (беренче вариант) / Хай Вахит / Хуснул Валиуллин - Песня Зухры (первый вариант)](../translated/h/hay_vahit_hosnul_valiullin_-_zohra_ciri_berenche_variant.md)
-- [Хәй Вахит / Хөснул Вәлиуллин - Саба көе / Хай Вахит / Хуснул Валиуллин - Мелодия Сабы](../translated/h/hay_vahit_hosnul_valiullin_-_saba_koe.md)
-- [Хәй Вахит / Хөснул Вәлиуллин - Яз айлары / Хай Вахит / Хоснул Валиуллин - Месяцы весны](../translated/h/hay_vahit_hosnul_valiullin_-_yaz_aylari.md)
-- [Хәй Вахит / Әнвәр Бакиров - Иртәнге серенада / Хай Вахит / Анвар Бакиров - Утренняя серенада](../translated/h/hay_vahit_anvar_bakirov_-_irtange_serenada.md)
-- [Хәйдәр Хәлимуллин / Сания Әхмәтова - Азнакай нефтьчеләре җыры / Хәйдәр Хәлимуллин / Сания Әхмәтова - Песня азнакайских нефтяников](../translated/h/haydar_halimullin_saniya_ahmatova_-_aznakay_neftchelare_ciri.md)
-- [Хәйдәр Әхмәтшин / Азат Кәримов - Күзләреңдә күрәм / Хайдар Ахматшин / Азат Каримов - Вижу в твоих глазах](../translated/h/haydar_ahmatshin_azat_karimov_-_kuzlarenda_kuram.md)
-- [Хәйдәр Әхмәтшин / Айдар Тимербаев - Эзләнмә, йөрәк / Хайдар Ахматшин / Айдар Тимербаев - Не ищи, сердце](../translated/h/haydar_ahmatshin_aydar_timerbaev_-_ezlanma_yorak.md)
-- [Хәйдәр Әхмәтшин / Гөлназ Закирова - Син кемнең бәхетле кояшы? / Хайдар Ахматшин / Гульназ Закирова - Чьё ты счастливое солнце?](../translated/h/haydar_ahmatshin_golnaz_zakirova_-_sin_kemnen_bahetle_koyashi.md)
-- [Хәйдәр Әхмәтшин / Дилүс Шәйхразиев - Саф чишмә (икенче вариант) / Хайдар Ахматшин / Дилюс Шайхразиев - Чистый родник (второй вариант)](../translated/h/haydar_ahmatshin_dilus_shayhraziev_-_saf_chishma_ikenche_variant.md)
-- [Хәйдәр Әхмәтшин / Илмир Әзһамов - Иң кайнар мәхәббәт / Хайдар Ахматшин / Илмир Азхамов - Самая пылкая любовь](../translated/h/haydar_ahmatshin_ilmir_azhamov_-_in_kaynar_mahabbat.md)
-- [Хәйдәр Әхмәтшин / Илназар - Аккошым дип эндәшәм (Ул - минеке) / Хайдар Ахметшин / Ильназар - Лебёдушкой зову (Она - моя)](../translated/h/haydar_ahmatshin_ilnazar_-_akkoshim_dip_endasham_ul_mineke.md)
 - [Хәйдәр Әхмәтшин / Илназар - Саклыйк мәхәббәтне / Хайдар Ахметшин / Ильназар - Сохраним любовь](../translated/h/haydar_ahmatshin_ilnazar_-_sakliyk_mahabbatne.md)
 - [Хәйдәр Әхмәтшин / Илнар Гыйльманшин - Ай нурлары булам / Хәйдәр Әхмәтшин / Илнар Гыйльманшин - Стану лунным светом](../translated/h/haydar_ahmatshin_ilnar_giylmanshin_-_ay_nurlari_bulam.md)
 - [Хәйдәр Әхмәтшин / Илфир Бикмеев - Ике йөрәк (икенче вариант) / Хәйдәр Әхмәтшин / Илфир Бикмеев - Два сердца (второй вариант)](../translated/h/haydar_ahmatshin_ilfir_bikmeev_-_ike_yorak_ikenche_variant.md)
@@ -105,6 +94,17 @@
 - [Хәсән Туфан / Әнвәр Бакиров - Әйткән идең ... / Хасан Туфан / Анвар Бакиров - Ты сказала ...](../translated/h/hasan_tufan_anvar_bakirov_-_aytkan_iden.md)
 - [Хәсән Шабанов / Әнвәр Бакиров - Алтын кырларда / Хасан Шабанов / Анвар Бакиров - На золотых полях](../translated/h/hasan_shabanov_anvar_bakirov_-_altin_kirlarda.md)
 - [Хөснулла Түләкәев / Фәүзә Гасакирова - Сагышлы күңел / Хуснулла Тулакаев / Фауза Гасакирова - Тосковливая душа](../translated/h/hosnulla_tulakaev_fauza_gasakirova_-_sagishli_kunel.md)
+- [Хөсәен Ягьфәров / Фәрит Хатыйпов - Мин югалмам / Хөсәен Ягьфәров / Фәрит Хатыйпов - Я не исчезну](../translated/h/hosaen_yagfarov_farit_hatiypov_-_min_yugalmam.md)
+- [Хөсәен Әхмәтов - Туган авылым (дүртенче вариант) / Хусаен Ахматов - Родная деревня (четвёртый вариант)](../translated/h/hosaen_ahmatov_-_tugan_avilim_durtenche_variant.md)
+- [Хөсәен Әхмәтов - Туган авылым (икенче вариант) / Хөсәен Әхмәтов - Родная деревня (второй вариант)](../translated/h/hosaen_ahmatov_-_tugan_avilim_ikenche_variant.md)
+- [Хөсәен Әхмәтов - Туган авылым (өченче вариант) / Хөсәен Әхмәтов - Родное село (третий вариант)](../translated/h/hosaen_ahmatov_-_tugan_avilim_ochenche_variant.md)
+- [Чулпан Габделганиева / Фидаил Хәйруллин - Сөю ялкынында / Чулпан Габделганиева / Фидаил Хайруллин - В пламени любви](../translated/c/chulpan_gabdelganieva_fidail_hayrullin_-_soyu_yalkininda.md)
+- [Чулпан Гобәйдуллина / Әминә Бикташева - Әткәй белән печәндә / Чулпан Губайдуллина / Амина Бикташева - С отцом на сенокосе](../translated/c/chulpan_gobaydullina_amina_biktasheva_-_atkay_belan_pechanda.md)
+- [Чулпан Зиннатуллина - Туганыма телэклэр / Чулпан Зиннатуллина - Пожелания родным](../translated/c/chulpan_zinnatullina-tuganyma_telekler.md)
+- [Чулпан Зиннәтуллина - Кем кемне гафу итәр / Чулпан Зиннатуллина - Кто кого простит](../translated/c/chulpan_zinnatullina_-_kem_kemne_gafu_itar.md)
+- [Чулпан Муртазина - Алтын балдак / Чулпан Муртазина - Золотой браслет](../translated/c/chulpan_murtazina-altyn_baldak.md)
+- [Чулпан Муртазина - Болытларга карама син / Чулпан Муртазина - Не смотри на тучи](../translated/c/chulpan_murtazina-bolytlarga_karama_sin.md)
+- [Чулпан Муртазина - Мин гаепле тугел / Чулпан Муртазина - Я не виновата](../translated/c/chulpan_murtazina-min_gaeple_tugel.md)
 
 ---
 

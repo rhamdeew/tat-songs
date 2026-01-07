@@ -5,13 +5,13 @@
 [← Предыдущая страница](SONGS_88.md) | [Главная страница](../README.md) | [Следующая страница →](SONGS_90.md)
 
 
-- [Җәүдәт Дәрзаман / Мәсгудә Шәмсетдинова - Наян куяннар / Джаудат Дарзаман / Масгуда Шамсетдинова - Милые зайчата](../translated/c/caudat_darzaman_masguda_shamsetdinova_-_nayan_kuyannar.md)
 - [Җәүдәт Дәрзаман / Ренат Еникеев - Наза йөри бакчада / Джаудат Дарзаман / Ренат Еникеев -Наза ходит в саду](../translated/c/caudat_darzaman_renat_enikeev_-_naza_yori_bakchada.md)
 - [Җәүдәт Дәрзаман / Тәлгать Вәлиев - Бәхетегез ташып торсын / Җәүдәт Дәрзаман / Тәлгать Вәлиев - Пусть счастье ваше переполняет](../translated/c/caudat_darzaman_talgat_valiev_-_bahetegez_taship_torsin.md)
 - [Җәүдәт Мөхәммәтшин / Рәсимә Денисламова - Безне сөю бәйләде / Җәүдәт Мөхәммәтшин / Рәсимә Денисламова - Нас любовь связала](../translated/c/caudat_mohammatshin_rasima_denislamova_-_bezne_soyu_baylade.md)
 - [Җәүдәт Мөхәммәтшин / Рәсимә Денисламова - Түгәрәк күл / Джаудат Мухамметшин / Расима Денисламова - Круглое озеро](../translated/c/caudat_mohammatshin_rasima_denislamova_-_tugarak_kul.md)
 - [Җәүдәт Сөләйман / Мәсгудә Шәмсетдинова - Сәләт гимны / Җәүдәт Сөләйман / Мәсгудә Шәмсетдинова - Гимн Сәләта](../translated/c/caudat_solayman_masguda_shamsetdinova_-_salat_gimni.md)
 - [Җәүдәт Сөләйман / Мәсгудә Шәмсетдинова - Әй, дәрья, дәрья / Джаудат Сулейман / Масгуда Шамсетдинова - Ах, река, река](../translated/c/caudat_solayman_masguda_shamsetdinova_-_ay_darya_darya.md)
+- [Үсәргән ыруы башкорт халык җыры - Ай-hай, Гөлкәем / Усарган Ыруы Башкорт Халык Җыры - Ай‑һай, Гөлкәем](../translated/u/usargan_irui_bashkort_halik_ciri_-_ay-hay_golkaem.md)
 - [Һава Сафина / Мәсгуть Имашев - Балыкчы җыры (икенче вариант) / Ава Сафина / Мәсгуть Имашев - Песня рыбака (второй вариант)](../translated/h/hava_safina_masgut_imashev_-_balikchi_ciri_ikenche_variant.md)
 - [Һава Сафина / Мәсгуть Имашев - Йөрәгеңә якын итсәң... / Һава Сафина / Мәсгуть Имашев - Если приблизишь к сердцу...](../translated/h/hava_safina_masgut_imashev_-_yoragena_yakin_itsan.md)
 - [Һава Сафина / Мәсгуть Имашев - Салават җыры / Хава Сафина / Мәсгут Имашев - Песня Салавата](../translated/h/hava_safina_masgut_imashev_-_salavat_ciri.md)

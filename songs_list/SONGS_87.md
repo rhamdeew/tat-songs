@@ -5,8 +5,6 @@
 [← Предыдущая страница](SONGS_86.md) | [Главная страница](../README.md) | [Следующая страница →](SONGS_88.md)
 
 
-- [Элиза Гариф / Лилия Ахунҗанова - Ак бәхетләр телибез / Елизавета Гариф / Лилия Ахунджанова - Белые счастья желаем](../translated/e/eliza_garif_liliya_ahuncanova_-_ak_bahetlar_telibez.md)
-- [Элиза Гариф / Лилия Ахунҗанова - Әни, әни / Элиза Гариф / Лилия Ахунджанова - Мама, мама](../translated/e/eliza_garif_liliya_ahuncanova_-_ani_ani.md)
 - [Элина Балагутдинова - Бие дустым / Элина Балагутдинова - Мои любимые танцы](../translated/e/elina_balagutdinova_-_bie_dustim.md)
 - [Элина Балагутдинова - Әнием күзләре / Элина Балагутдинова - Глаза матери моей](../translated/e/elina_balagutdinova_-_aniem_kuzlare.md)
 - [Элина Балагутдинова / Илнар Гыйльманшин - Тырышканнар ташка кадак кагар / Элина Балагутдинова / Ильнар Гильманшин - Труды камнями отмечаются](../translated/e/elina_balagutdinova_ilnar_giylmanshin_-_tirishkannar_tashka_kadak_kagar.md)
@@ -105,6 +103,8 @@
 - [Эльнара Нурмухаметова - Ике фэрештэ / Эльнара Нурмухаметова - Два ангела](../translated/e/elnara_nurmuhametova-ike_fereshte.md)
 - [Эльнара Нурмухаметова - Нигэ / Эльнара Нурмухаметова - Почему](../translated/e/elnara_nurmuhametova-nige.md)
 - [Эльнара Нурмухаметова - Тик син диеп / Эльнара Нурмухаметова - Только тебя говоря](../translated/e/elnara_nurmuhametova-tik_sin_diep.md)
+- [Эльс Гадел / Рөстәм Яхин - Салагышта үскән камыш мин / Эльс Гадель / Ростам Яхин - Я тростник, выросший в тоске](../translated/e/els_gadel_rostam_yahin_-_salagishta_uskan_kamish_min.md)
+- [Эмиль Айзатулла - Алдама / Эмиль Айзатулла - Не обманывай](../translated/e/emil_ayzatulla-aldama.md)
 
 ---
 

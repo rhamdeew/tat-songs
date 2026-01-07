@@ -5,18 +5,6 @@
 [← Предыдущая страница](SONGS_81.md) | [Главная страница](../README.md) | [Следующая страница →](SONGS_83.md)
 
 
-- [Фәнәвис Дәүләтбаев / Рәсимә Денисламова - Көзге яңгыр / Фанавис Давлетбаев / Ризама Денисламова - Осенний дождь](../translated/f/fanavis_daulatbaev_rasima_denislamova_-_kozge_yangir.md)
-- [Фәнәвис Дәүләтбаев / Рәсимә Денисламова - Сагындырып яшә! / Фәнәвис Дәүләтбаев / Рәсимә Дәнисламова - Сагындырып яшә!](../translated/f/fanavis_daulatbaev_rasima_denislamova_-_sagindirip_yasha.md)
-- [Фәнәвис Дәүләтбаев / Рәсимә Денисламова - Сау бул мәхәббәтем! / Фанавис Даулатбаев / Ризия Денисламова - Здравствуй, моя любовь!](../translated/f/fanavis_daulatbaev_rasima_denislamova_-_sau_bul_mahabbatem.md)
-- [Фәнәвис Дәүләтбаев / Рәсимә Денисламова - Синдә таптым (беренче вариант) / Фәнәвис Дәүләтбаев / Рәсимә Денисламова - Я нашел в тебе (первый вариант)](../translated/f/fanavis_daulatbaev_rasima_denislamova_-_sinda_taptim_berenche_variant.md)
-- [Фәнәвис Дәүләтбаев / Рәсимә Денисламова - Синең күзләр (бишенче вариант) / Фанавис Даулатбаев / Ризида Денисламова - Твои глаза (пятая версия)](../translated/f/fanavis_daulatbaev_rasima_denislamova_-_sinen_kuzlar_bishenche_variant.md)
-- [Фәнәвис Дәүләтбаев / Рәсимә Денисламова - Сорап алдым / Фәнәвис Дәүләтбаев / Рәсимә Денисламова - Попросил у небес](../translated/f/fanavis_daulatbaev_rasima_denislamova_-_sorap_aldim.md)
-- [Фәнәвис Дәүләтбаев / Рәсимә Денисламова - Ташламагыз сөйгән ярны / Фенавис Даулатбаев / Ризама Денисламова - Не бросай любимого человека](../translated/f/fanavis_daulatbaev_rasima_denislamova_-_tashlamagiz_soygan_yarni.md)
-- [Фәнәвис Дәүләтбаев / Рәсимә Денисламова - Туган җир (икенче вариант) / Фанавис Даулатбаев / Рашима Денисламова - Родная земля (второй вариант)](../translated/f/fanavis_daulatbaev_rasima_denislamova_-_tugan_cir_ikenche_variant.md)
-- [Фәнәвис Дәүләтбаев / Рәсимә Денисламова - Узып булмый язмыштан / Фәнәвис Дәүләтбаев / Рәсимә Денисламова - Не выйти из судьбы](../translated/f/fanavis_daulatbaev_rasima_denislamova_-_uzip_bulmiy_yazmishtan.md)
-- [Фәнәвис Дәүләтбаев / Рәсимә Денисламова - Эзләгәнем табылмады / Фанавис Даулатбаев / Расима Денисламова - Не нашёл того, кого искал](../translated/f/fanavis_daulatbaev_rasima_denislamova_-_ezlaganem_tabilmadi.md)
-- [Фәнәвис Дәүләтбаев / Рәсимә Денисламова - Ялгыштым / Фанавис Даулатбаев / Рясиме Денисламова - Ялгыштым](../translated/f/fanavis_daulatbaev_rasima_denislamova_-_yalgishtim.md)
-- [Фәнәвис Дәүләтбаев / Рәсимә Денисламова - Яннарыма очып килер идең / Фәнәвис Дәүләтбаев / Рәсимә Денисламова - Прилетишь ко мне в сердце](../translated/f/fanavis_daulatbaev_rasima_denislamova_-_yannarima_ochip_kiler_iden.md)
 - [Фәнәвис Дәүләтбаев / Рәсимә Денисламова - Яшә кешә, догаларда! / Фәнәвис Дәүләтбаев / Рәсимә Денисламова - Живи, человек, в молитвах!](../translated/f/fanavis_daulatbaev_rasima_denislamova_-_yasha_kesha_dogalarda.md)
 - [Фәнәвис Дәүләтбаев / Рәсимә Денисламова - Яңа ел җыры (бишенче вариант) / Фанавис Даулатбаев / Рашима Денисламова - Песня Нового года (пятый вариант)](../translated/f/fanavis_daulatbaev_rasima_denislamova_-_yana_el_ciri_bishenche_variant.md)
 - [Фәнәвис Дәүләтбаев / Рәсимә Денисламова - Яңа ел җыры (өченче вариант) / Фәнәвис Дәүләтбаев / Рәсимә Денисламова - Песня Нового года (третий вариант)](../translated/f/fanavis_daulatbaev_rasima_denislamova_-_yana_el_ciri_ochenche_variant.md)
@@ -105,6 +93,18 @@
 - [Халисә Мөдәрисова / Луиза Хәйретдинова - Их, мине, кыюсызны! / Халисә Мөдәрисова / Луиза Хәйретдинова - Ах, я, несмелая!](../translated/h/halisa_modarisova_luiza_hayretdinova_-_ih_mine_kiyusizni.md)
 - [Халисә Мөдәрисова / Луиза Хәйретдинова - Ялгызың каласың ла... (Утырмадың атларыма) / Халисә Мөдәрисова / Луиза Хәйретдинова - Один останешься... (Не сел на коней моих)](../translated/h/halisa_modarisova_luiza_hayretdinova_-_yalgizin_kalasin_la_utirmadin_atlarima.md)
 - [Халисә Мөдәрисова / Мөдәрис Газетдинов - Араларда ай гына / Халисә Мөдәрисова / Мөдәрис Газетдинов - Меж берегами лишь луна](../translated/h/halisa_modarisova_modaris_gazetdinov_-_aralarda_ay_gina.md)
+- [Халисә Мөдәрисова / Мөдәрис Газетдинов - Бу гомер (икенче вариант) / Халисә Мөдәрисова / Мөдәрис Газетдинов - Эта жизнь (второй вариант)](../translated/h/halisa_modarisova_modaris_gazetdinov_-_bu_gomer_ikenche_variant.md)
+- [Халисә Мөдәрисова / Мөдәрис Газетдинов - Сагындым сөйгәнемне / Халисә Мөдәрисова / Мөдәрис Газетдинов - Скучаю по любимой](../translated/h/halisa_modarisova_modaris_gazetdinov_-_sagindim_soyganemne.md)
+- [Халисә Мөдәрисова / Мөдәрис Газетдинов - Танымадың / Халисә Мөдәрисова / Мөдәрис Газетдинов - Не узнала](../translated/h/halisa_modarisova_modaris_gazetdinov_-_tanimadin.md)
+- [Халисә Мөдәрисова / Мөдәрис Газетдинов - Төнге урам / Халисә Мөдәрисова / Мөдәрис Газетдинов - Ночная улица](../translated/h/halisa_modarisova_modaris_gazetdinov_-_tonge_uram.md)
+- [Халисә Мөдәрисова / Мөдәрис Газетдинов - Җәй уртасы / Халисә Мөдәрисова / Мөдәрис Газетдинов - Середина лета](../translated/h/halisa_modarisova_modaris_gazetdinov_-_cay_urtasi.md)
+- [Халисә Мөдәрисова / Мөдәрис Газетдинов - Өфе вальсы (беренче вариант) / Халиса Модәрисова / Модарис Газетдинов - Вальс Уфы (первый вариант)](../translated/h/halisa_modarisova_modaris_gazetdinov_-_ofe_valsi_berenche_variant.md)
+- [Халисә Мөдәрисова / Наил Шәймарданов - Ак каен (дүртенче вариант) / Халисә Мөдәрисова / Наил Шәймарданов - Белая берёза (четвёртый вариант)](../translated/h/halisa_modarisova_nail_shaymardanov_-_ak_kaen_durtenche_variant.md)
+- [Халисә Мөдәрисова / Наил Шәймарданов - Вакытларны булмый туктатып (беренче вариант) / Халиса Мударисова / Наил Шаймарданов - Время не остановить (первый вариант)](../translated/h/halisa_modarisova_nail_shaymardanov_-_vakitlarni_bulmiy_tuktatip_berenche_variant.md)
+- [Халисә Мөдәрисова / Нур Даутов - Йөрәк кылым / Халиса Мударисова / Нур Даутов - Струна сердца](../translated/h/halisa_modarisova_nur_dautov_-_yorak_kilim.md)
+- [Халисә Мөдәрисова / Рамил Медъяр-Камал - Кил генә - түзәрмен / Халисә Мөдәрисова / Рамил Медъяр-Камал - Лишь приди - я вытерплю](../translated/h/halisa_modarisova_ramil_medyar-kamal_-_kil_gena_tuzarmen.md)
+- [Халисә Мөдәрисова / Ризван Хәкимов - Ничек бармын, шулай ярат / Халиса Мударисова / Ризван Хакимов - Как я пойду, так и люблю](../translated/h/halisa_modarisova_rizvan_hakimov_-_nichek_barmin_shulay_yarat.md)
+- [Халисә Мөдәрисова / Роза Сәхәүетдинова - Вакытларны булмый туктатып (икенче вариант) / Халисә Мөдәрисова / Роза Сәхәүетдинова - Времени не остановить (второй вариант)](../translated/h/halisa_modarisova_roza_sahauetdinova_-_vakitlarni_bulmiy_tuktatip_ikenche_variant.md)
 
 ---
 

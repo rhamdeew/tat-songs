@@ -5,13 +5,6 @@
 [← Предыдущая страница](SONGS_85.md) | [Главная страница](../README.md) | [Следующая страница →](SONGS_87.md)
 
 
-- [Шәмсия Җиһангирова / Мәсгудә Шәмсетдинова - Йоклыйсым килә / Шәмсия Җиһангирова / Мәсгудә Шәмсетдинова - Мне хочется спать](../translated/s/shamsiya_cihangirova_masguda_shamsetdinova_-_yokliysim_kila.md)
-- [Шәмсия Җиһангирова / Мөхтәр Минһаҗев - Уйламый гына ярат / Шәмсия Җиһангирова / Мөхтәр Минһаҗев - Люби, не раздумывая](../translated/s/shamsiya_cihangirova_mohtar_minhacev_-_uylamiy_gina_yarat.md)
-- [Шәмсия Җиһангирова / Нурия Абдуллина - Китә алсаң, үзең кит миннән / Шамсия Джихангирова / Нурия Абдуллина - Если можешь уйти, уйди сама](../translated/s/shamsiya_cihangirova_nuriya_abdullina_-_kita_alsan_uzen_kit_minnan.md)
-- [Шәмсия Җиһангирова / Рамил Медъяр-Камал - Коела яфраклар / Шәмсия Җиһангирова / Рамил Медъяр-Камал - Опадают листья](../translated/s/shamsiya_cihangirova_ramil_medyar-kamal_-_koela_yafraklar.md)
-- [Шәмсия Җиһангирова / Рафинат Сәлахов - Ышанма дисәң дә мин ышанам / Шәмсия Җиһангирова / Рафинат Сәлахов - Хоть не верь, а я верю](../translated/s/shamsiya_cihangirova_rafinat_salahov_-_ishanma_disan_da_min_ishanam.md)
-- [Шәмсия Җиһангирова / Рәис Нәгыймов - Бураннар (беренче вариант) / Шәмсия Җиһангирова / Рәис Нәгыймов - Бураны (первый вариант)](../translated/s/shamsiya_cihangirova_rais_nagiymov_-_burannar_berenche_variant.md)
-- [Шәмсия Җиһангирова / Рәис Нәгыймов - Үпкәләмә (икенче вариант) / Шамсия Джихангирова / Раис Нагимов - Не обижайся (второй вариант)](../translated/s/shamsiya_cihangirova_rais_nagiymov_-_upkalama_ikenche_variant.md)
 - [Шәмсия Җиһангирова / Рөстәм Невретдинов - Үкенмә (беренче вариант) / Шамсия Джихангирова / Рустам Неврединов - Не сожалей (первый вариант)](../translated/s/shamsiya_cihangirova_rostam_nevretdinov_-_ukenma_berenche_variant.md)
 - [Шәмсия Җиһангирова / Рөстәм Әхмәтханов - Авылларда каз өмәсе / Шәмсия Җиһангирова / Рөстәм Әхмәтханов - Гусиная работа в деревнях](../translated/s/shamsiya_cihangirova_rostam_ahmathanov_-_avillarda_kaz_omase.md)
 - [Шәмсия Җиһангирова / Су Ирдан - Яңа ел җыры (тугызынчы вариант) / Шәмсия Җиһангирова / Су Ирдан - Песня Нового года (девятый вариант)](../translated/s/shamsiya_cihangirova_su_irdan_-_yana_el_ciri_tugizinchi_variant.md)
@@ -42,6 +35,8 @@
 - [Шәриф Биккол / Байрас Абдуллин - Әле дә син бар әле дөньяда / Шәриф Биккол / Байрас Абдуллин - Ты всё ещё есть, пока есть этот мир](../translated/s/sharif_bikkol_bayras_abdullin_-_ale_da_sin_bar_ale_donyada.md)
 - [Шәриф Биккол / Бәхти Гайсин - Гел генә / Шариф Биккол / Бахти Гайсин - Всегда](../translated/s/sharif_bikkol_bahti_gaysin_-_gel_gena.md)
 - [Шәриф Биккол / Бәхти Гайсин - Нигә, иркәм?.. / Шариф Биккол / Бахти Гайсин - Почему, родной?..](../translated/s/sharif_bikkol_bahti_gaysin_-_niga_irkam.md)
+- [Шәриф Биккол / Венер Мөхәммәдиев - Көт, бәгърем (беренче вариант) / Шәриф Биккол / Венер Мөхәммәдиев - Жди, родная (первый вариант)](../translated/s/sharif_bikkol_vener_mohammadiev_-_kot_bagrem_berenche_variant.md)
+- [Шәриф Биккол / Заһир Исмәгыйлев - Сандугачым - былбылым (беренче вариант) / Шариф Биккол / Заһир Исмәгыйлев - Сандугачым - былбылым (первый вариант)](../translated/s/sharif_bikkol_zahir_ismagiylev_-_sandugachim_bilbilim_berenche_variant.md)
 - [Шәриф Биккол / Заһир Исмәгыйлев - Сандугачым - былбылым (икенче вариант) / Шәриф Биккол / Заһир Исмәгыйлев - Соловушек мой, соловей (второй вариант)](../translated/s/sharif_bikkol_zahir_ismagiylev_-_sandugachim_bilbilim_ikenche_variant.md)
 - [Шәриф Биккол / Зәбих Мәмәлимов - Азнакай үрләре / Шәриф Биккол / Зәбих Мәмәлимов - Азнакайские холмы](../translated/s/sharif_bikkol_zabih_mamalimov_-_aznakay_urlare.md)
 - [Шәриф Биккол / Илгиз Закиров - Күз нурым (өченче вариант) / Шәриф Биккол / Илгиз Закиров - Свет моих глаз (третий вариант)](../translated/s/sharif_bikkol_ilgiz_zakirov_-_kuz_nurim_ochenche_variant.md)
@@ -68,8 +63,10 @@
 - [Шәриф Биккол / Салават Низаметдинов - Чакыр гына / Шариф Биккол / Салават Низаметдинов - Позови лишь](../translated/s/sharif_bikkol_salavat_nizametdinov_-_chakir_gina.md)
 - [Шәриф Биккол / Салават Низаметдинов - Яна йөрәгем / Шариф Биккол / Салават Низаметдинов - Снова сердце моё](../translated/s/sharif_bikkol_salavat_nizametdinov_-_yana_yoragem.md)
 - [Шәриф Биккол / Сара Садыйкова - Мин табынган күзләр / Шариф Биккол / Сара Садыкова - Глаза, что я нашёл во снах](../translated/s/sharif_bikkol_sara_sadiykova_-_min_tabingan_kuzlar.md)
+- [Шәриф Биккол / Сәйдәш Чәчәнбаев - Онытырга сине көчем юк ... (беренче вариант) / Шариф Биккол / Сайдаш Чачэнбаев - Забыть тебя нет сил... (первый вариант)](../translated/s/sharif_bikkol_saydash_chachanbaev_-_onitirga_sine_kochem_yuk_berenche_variant.md)
 - [Шәриф Биккол / Сәйдәш Чәчәнбаев - Яна йөрәккәем / Шәриф Биккол / Сәйдәш Чәчәнбаев - Горит мое сердце](../translated/s/sharif_bikkol_saydash_chachanbaev_-_yana_yorakkaem.md)
 - [Шәриф Биккол / Тәлгать Шәрипов - Сорамагыз хатыннарның яшен / Шәриф Биккол / Тәлгать Шәрипов - Не спрашивайте о возрасте женщин](../translated/s/sharif_bikkol_talgat_sharipov_-_soramagiz_hatinnarnin_yashen.md)
+- [Шәриф Биккол / Фасил Әхмәтов - Кешеләргә барам / Шәриф Биккол / Фасил Әхмәтов - К людям иду](../translated/s/sharif_bikkol_fasil_ahmatov_-_keshelarga_baram.md)
 - [Шәриф Биккол / Хисмәтулла Дәүләтов - Вәгъдә (өченче вариант) / Шариф Биккол / Хисматулла Даулатов - Обещание (третий вариант)](../translated/s/sharif_bikkol_hismatulla_daulatov_-_vagda_ochenche_variant.md)
 - [Шәриф Биккол / Әнвәр Бакиров - Әгәр белгән булсам / Шариф Биккол / Анвар Бакиров - Если б я знал](../translated/s/sharif_bikkol_anvar_bakirov_-_agar_belgan_bulsam.md)
 - [Шәриф Мостафин / Азат Биктаһиров - Апас вальсы / Шариф Мустафин / Азат Биктахиров - Вальс Апаса](../translated/s/sharif_mostafin_azat_biktahirov_-_apas_valsi.md)
@@ -91,6 +88,7 @@
 - [Шәүкәт Галиев / Рим Хәсәнов - Кыңгыраулы мәктәп еллары / Шаукат Галиев / Рим Хасанов - Звонкие школьные годы](../translated/s/shaukat_galiev_rim_hasanov_-_kingirauli_maktap_ellari.md)
 - [Шәүкәт Галиев / Рифкать Гомәров - Күпме күзләр күреп онытылган / Шәүкәт Галиев / Рифкать Гомәров - Сколько глаз увидело и забыло](../translated/s/shaukat_galiev_rifkat_gomarov_-_kupme_kuzlar_kurep_onitilgan.md)
 - [Шәүкәт Галиев / Татар халык көе - Сөенечкә дисәм / Шаукат Галиев / Татарская народная песня - Скучая по тебе](../translated/s/shaukat_galiev_tatar_halik_koe_-_soenechka_disam.md)
+- [Шәүкәт Галиев / Фасил Әхмәтов - Тамчылар тамар чаклар / Шаукат Галиев / Фасил Әхмәтов - Тамчылар тамар чаклар](../translated/s/shaukat_galiev_fasil_ahmatov_-_tamchilar_tamar_chaklar.md)
 - [Шәүкәт Галиев / Фәрит Әхмәтшин - Яңгыр көзгеләре / Шәүкәт Галиев / Фәрит Әхмәтшин - Дождевые зеркала](../translated/s/shaukat_galiev_farit_ahmatshin_-_yangir_kozgelare.md)
 - [Шәүкәт Галиев / Фәтхерахман Әхмәдиев - Ник яңара сагышлар? / Шәүкәт Галиев / Фәтхерахман Әхмәдиев - Почему вновь оживает тоска?](../translated/s/shaukat_galiev_fatherahman_ahmadiev_-_nik_yanara_sagishlar.md)
 - [Шәүкәт Галиев / Хөснул Вәлиуллин - Бар икән күрәселәр... / Шаукат Галиев / Хуснул Валиуллин - Есть же видения...](../translated/s/shaukat_galiev_hosnul_valiullin_-_bar_ikan_kuraselar.md)
@@ -105,6 +103,8 @@
 - [Эжен Потье / Пьер Дегейтер - Интернационал / Эжен Потье / Пьер Дегейтер - Интернационал](../translated/e/ezhen_pote_per_degeyter_-_internatsional.md)
 - [Элиза Гариф / Альбина Гарипова - Нурлы Казаным (икенче вариант) / Эльза Гариф / Альбина Гарипова - Светлый Казан мой (второй вариант)](../translated/e/eliza_garif_albina_garipova_-_nurli_kazanim_ikenche_variant.md)
 - [Элиза Гариф / Ганс Сәйфуллин - Сөюләрем яна-көя / Элиза Гариф / Ганс Сайфуллин - Мои поцелуи пламенем](../translated/e/eliza_garif_gans_sayfullin_-_soyularem_yana-koya.md)
+- [Элиза Гариф / Лилия Ахунҗанова - Ак бәхетләр телибез / Елизавета Гариф / Лилия Ахунджанова - Белые счастья желаем](../translated/e/eliza_garif_liliya_ahuncanova_-_ak_bahetlar_telibez.md)
+- [Элиза Гариф / Лилия Ахунҗанова - Әни, әни / Элиза Гариф / Лилия Ахунджанова - Мама, мама](../translated/e/eliza_garif_liliya_ahuncanova_-_ani_ani.md)
 
 ---
 

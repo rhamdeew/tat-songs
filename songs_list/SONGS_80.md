@@ -5,18 +5,6 @@
 [← Предыдущая страница](SONGS_79.md) | [Главная страница](../README.md) | [Следующая страница →](SONGS_81.md)
 
 
-- [Флария Терегулова / Шамил Шәрипов - Вәгъдәләшкән таллар / Флария Терегулова / Шамил Шарипов - Обещанные ивы](../translated/f/flariya_teregulova_shamil_sharipov_-_vagdalashkan_tallar.md)
-- [Флария Терегулова / Шамил Шәрипов - Оныта алмам инде / Флария Терегулова / Шамил Шарипов - Уже не смогу забыть](../translated/f/flariya_teregulova_shamil_sharipov_-_onita_almam_inde.md)
-- [Флера Васикова / Фирдүс Тямаев - Язмыштан юк узмыш / Флера Васикова / Фирдүс Тямаев - От судьбы не уйти](../translated/f/flera_vasikova_firdus_tyamaev_-_yazmishtan_yuk_uzmish.md)
-- [Флера Гыйззәтуллина / Луиза Батыр-Болгари - Кушлавыч каеннары / Флера Гиззатуллина / Луиза Батыр-Болгари - Кушлавычские берёзы](../translated/f/flera_giyzzatullina_luiza_batir-bolgari_-_kushlavich_kaennari.md)
-- [Флера Гыйззәтуллина / Луиза Батыр-Болгари - Син, изге Кырлаем / Флера Гыйззәтуллина / Луиза Батыр-Болгари - Ты, святой Кырлай](../translated/f/flera_giyzzatullina_luiza_batir-bolgari_-_sin_izge_kirlaem.md)
-- [Флера Гыйззәтуллина / Риф Гатауллин - Ак таулы Азнакаем / Флера Гыйззәтуллина / Риф Гатауллин - Белогорный мой Азнакай](../translated/f/flera_giyzzatullina_rif_gataullin_-_ak_tauli_aznakaem.md)
-- [Флера Гыйззәтуллина / Риф Гатауллин - Арча гимны / Флера Гыйззәтуллина / Риф Гатауллин - Гимн Арчи](../translated/f/flera_giyzzatullina_rif_gataullin_-_archa_gimni.md)
-- [Флера Гыйззәтуллина / Таһир Абдршин - Кайтам илкәемә / Флера Гыйззәтуллина / Таһир Абдршин - Возвращаюсь к отчизне](../translated/f/flera_giyzzatullina_tahir_abdrshin_-_kaytam_ilkaema.md)
-- [Флера Тарханова - Алсу розалар / Флера Тарханова - Алые розы](../translated/f/flera_tarhanova_-_alsu_rozalar.md)
-- [Флера Тарханова / Айдар Гайнуллин - Быел язлар шактый иртә килде / Флера Тарханова / Айдар Гайнуллин - В этот год весна пришла довольно рано](../translated/f/flera_tarhanova_aydar_gaynullin_-_biel_yazlar_shaktiy_irta_kilde.md)
-- [Флера Тарханова / Айдар Гайнуллин - Әйдә әле, бер әйләнеп кайтыйк... / Флера Тарханова / Айдар Гайнуллин - Давай вернемся, сделав круг...](../translated/f/flera_tarhanova_aydar_gaynullin_-_ayda_ale_ber_aylanep_kaytiyk.md)
-- [Флера Тарханова / Алмаз Шәрипов - Саба юлы / Флера Тарханова / Алмаз Шәрипов - Сабинская дорога](../translated/f/flera_tarhanova_almaz_sharipov_-_saba_yuli.md)
 - [Флера Тарханова / Виталий Агапов - Син югалтсаң мине / Флера Тарханова / Виталий Агапов - Если потеряешь меня](../translated/f/flera_tarhanova_vitaliy_agapov_-_sin_yugaltsan_mine.md)
 - [Флера Тарханова / Ганс Сәйфуллин - Чистай сагышлары / Флера Тарханова / Ганс Сәйфуллин - Чистайские печали](../translated/f/flera_tarhanova_gans_sayfullin_-_chistay_sagishlari.md)
 - [Флера Тарханова / Муса Маликов - Син булганда (беренче вариант) / Флера Тарханова / Муса Маликов - Когда ты рядом (первый вариант)](../translated/f/flera_tarhanova_musa_malikov_-_sin_bulganda_berenche_variant.md)
@@ -105,6 +93,18 @@
 - [Фәнис Яруллин / Фасил Әхмәтов - Бирмә мине / Фанис Яруллин / Фасиль Ахметов - Не отдавай меня](../translated/f/fanis_yarullin_fasil_ahmatov_-_birma_mine.md)
 - [Фәнис Яруллин / Фасил Әхмәтов - Кем елый соң? / Фанис Яруллин / Фасил Ахметов - Кто же плачет?](../translated/f/fanis_yarullin_fasil_ahmatov_-_kem_eliy_son.md)
 - [Фәнис Яруллин / Фасил Әхмәтов - Мин синеке / Фанис Яруллин / Фасил Ахметов - Я твоя](../translated/f/fanis_yarullin_fasil_ahmatov_-_min_sineke.md)
+- [Фәнис Яруллин / Фасил Әхмәтов - Ташлама мине / Фанис Яруллин / Фасил Ахметов - Не оставляй меня](../translated/f/fanis_yarullin_fasil_ahmatov_-_tashlama_mine.md)
+- [Фәнис Яруллин / Фердинанд Галәмиев - Сагышларым (беренче вариант) / Фанис Яруллин / Фердинанд Галамиев - Мои печали (первый вариант)](../translated/f/fanis_yarullin_ferdinand_galamiev_-_sagishlarim_berenche_variant.md)
+- [Фәнис Яруллин / Фәрит Хатыйпов - Синең күзләрдә / Фанис Яруллин / Фарит Хатыйпов - В твоих глазах](../translated/f/fanis_yarullin_farit_hatiypov_-_sinen_kuzlarda.md)
+- [Фәнис Яруллин / Фәрит Хатыйпов - Сөбханалла / Фанис Яруллин / Фарит Хатыйпов - Субханалла](../translated/f/fanis_yarullin_farit_hatiypov_-_sobhanalla.md)
+- [Фәнис Яруллин / Фәрит Хатыйпов - Чык юлларга / Фанис Яруллин / Фарит Хатыйпов - Выходи на дороги](../translated/f/fanis_yarullin_farit_hatiypov_-_chik_yullarga.md)
+- [Фәнис Яруллин / Хәлил Сәлимов - Каз кычкыра / Фанис Яруллин / Халил Салимов - Гусь кричит](../translated/f/fanis_yarullin_halil_salimov_-_kaz_kichkira.md)
+- [Фәнис Яруллин / Әбри Хәбриев - Бүләк итче миңа бер көн / Фанис Яруллин / Абри Хабриев - Подари мне один день](../translated/f/fanis_yarullin_abri_habriev_-_bulak_itche_mina_ber_kon.md)
+- [Фәнис Яруллин / Әхмәт Хәйретдинов - Иң гүзәл кеше икәнсез / Фанис Яруллин / Ахмат Хайретдинов - Вы самый прекрасный человек](../translated/f/fanis_yarullin_ahmat_hayretdinov_-_in_guzal_keshe_ikansez.md)
+- [Фәния Габидуллина / Венер Улимаев - Сагынмас булсаң гына / Фания Габидуллина / Венер Улимаев - Если бы ты не скучал](../translated/f/faniya_gabidullina_vener_ulimaev_-_saginmas_bulsan_gina.md)
+- [Фәния Габидуллина / Илдар Шәрипов - Яратып яшик (икенче вариант) / Фания Габидуллина / Ильдар Шарипов - Будем жить любя (второй вариант)](../translated/f/faniya_gabidullina_ildar_sharipov_-_yaratip_yashik_ikenche_variant.md)
+- [Фәния Габидуллина / Илдар Шәрипов - Яшь йөрәкләр / Фания Габидуллина / Ильдар Шарипов - Молодые сердца](../translated/f/faniya_gabidullina_ildar_sharipov_-_yash_yoraklar.md)
+- [Фәния Низамиева / Фәрид Низамиев - Карлар карала икән / Фания Низамиева / Фарид Низамиев - Оказывается, снега чернеют](../translated/f/faniya_nizamieva_farid_nizamiev_-_karlar_karala_ikan.md)
 
 ---
 

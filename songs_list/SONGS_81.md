@@ -5,18 +5,6 @@
 [← Предыдущая страница](SONGS_80.md) | [Главная страница](../README.md) | [Следующая страница →](SONGS_82.md)
 
 
-- [Фәнис Яруллин / Фасил Әхмәтов - Ташлама мине / Фанис Яруллин / Фасил Ахметов - Не оставляй меня](../translated/f/fanis_yarullin_fasil_ahmatov_-_tashlama_mine.md)
-- [Фәнис Яруллин / Фердинанд Галәмиев - Сагышларым (беренче вариант) / Фанис Яруллин / Фердинанд Галамиев - Мои печали (первый вариант)](../translated/f/fanis_yarullin_ferdinand_galamiev_-_sagishlarim_berenche_variant.md)
-- [Фәнис Яруллин / Фәрит Хатыйпов - Синең күзләрдә / Фанис Яруллин / Фарит Хатыйпов - В твоих глазах](../translated/f/fanis_yarullin_farit_hatiypov_-_sinen_kuzlarda.md)
-- [Фәнис Яруллин / Фәрит Хатыйпов - Сөбханалла / Фанис Яруллин / Фарит Хатыйпов - Субханалла](../translated/f/fanis_yarullin_farit_hatiypov_-_sobhanalla.md)
-- [Фәнис Яруллин / Фәрит Хатыйпов - Чык юлларга / Фанис Яруллин / Фарит Хатыйпов - Выходи на дороги](../translated/f/fanis_yarullin_farit_hatiypov_-_chik_yullarga.md)
-- [Фәнис Яруллин / Хәлил Сәлимов - Каз кычкыра / Фанис Яруллин / Халил Салимов - Гусь кричит](../translated/f/fanis_yarullin_halil_salimov_-_kaz_kichkira.md)
-- [Фәнис Яруллин / Әбри Хәбриев - Бүләк итче миңа бер көн / Фанис Яруллин / Абри Хабриев - Подари мне один день](../translated/f/fanis_yarullin_abri_habriev_-_bulak_itche_mina_ber_kon.md)
-- [Фәнис Яруллин / Әхмәт Хәйретдинов - Иң гүзәл кеше икәнсез / Фанис Яруллин / Ахмат Хайретдинов - Вы самый прекрасный человек](../translated/f/fanis_yarullin_ahmat_hayretdinov_-_in_guzal_keshe_ikansez.md)
-- [Фәния Габидуллина / Венер Улимаев - Сагынмас булсаң гына / Фания Габидуллина / Венер Улимаев - Если бы ты не скучал](../translated/f/faniya_gabidullina_vener_ulimaev_-_saginmas_bulsan_gina.md)
-- [Фәния Габидуллина / Илдар Шәрипов - Яратып яшик (икенче вариант) / Фания Габидуллина / Ильдар Шарипов - Будем жить любя (второй вариант)](../translated/f/faniya_gabidullina_ildar_sharipov_-_yaratip_yashik_ikenche_variant.md)
-- [Фәния Габидуллина / Илдар Шәрипов - Яшь йөрәкләр / Фания Габидуллина / Ильдар Шарипов - Молодые сердца](../translated/f/faniya_gabidullina_ildar_sharipov_-_yash_yoraklar.md)
-- [Фәния Низамиева / Фәрид Низамиев - Карлар карала икән / Фания Низамиева / Фарид Низамиев - Оказывается, снега чернеют](../translated/f/faniya_nizamieva_farid_nizamiev_-_karlar_karala_ikan.md)
 - [Фәния Низамиева / Фәрид Низамиев - Ялгыз сөю / Фания Низамиева / Фарид Низамиев - Одинокая любовь](../translated/f/faniya_nizamieva_farid_nizamiev_-_yalgiz_soyu.md)
 - [Фәния Сибатова / Зиннур Гыйбадуллин - Кояшлы язым / Фания Сибатова / Зиннур Гыйбадуллин - Моя солнечная весна](../translated/f/faniya_sibatova_zinnur_giybadullin_-_koyashli_yazim.md)
 - [Фәния Харисова / Сәйяр Хәбибуллин - Салкын чишмә (дүртенче вариант) / Фания Харисова / Сайяр Хабибуллин - Холодный родник (четвёртый вариант)](../translated/f/faniya_harisova_sayyar_habibullin_-_salkin_chishma_durtenche_variant.md)
@@ -105,6 +93,18 @@
 - [Фәнәвис Дәүләтбаев / Рәсимә Денисламова - Ишеттерче сөю сүзләреңне / Фанавис Даулатбаев / Рашима Денисламова - Скажи ты мне слова любви](../translated/f/fanavis_daulatbaev_rasima_denislamova_-_ishetterche_soyu_suzlarenne.md)
 - [Фәнәвис Дәүләтбаев / Рәсимә Денисламова - Киттең калдырып / Фанавис Даулатбаев / Ризия Денисламова - Ушел, оставив](../translated/f/fanavis_daulatbaev_rasima_denislamova_-_kitten_kaldirip.md)
 - [Фәнәвис Дәүләтбаев / Рәсимә Денисламова - Күбәләк кар / Фанавис Даулатбаев / Ризама Денисламова - Бабочка-снег](../translated/f/fanavis_daulatbaev_rasima_denislamova_-_kubalak_kar.md)
+- [Фәнәвис Дәүләтбаев / Рәсимә Денисламова - Көзге яңгыр / Фанавис Давлетбаев / Ризама Денисламова - Осенний дождь](../translated/f/fanavis_daulatbaev_rasima_denislamova_-_kozge_yangir.md)
+- [Фәнәвис Дәүләтбаев / Рәсимә Денисламова - Сагындырып яшә! / Фәнәвис Дәүләтбаев / Рәсимә Дәнисламова - Сагындырып яшә!](../translated/f/fanavis_daulatbaev_rasima_denislamova_-_sagindirip_yasha.md)
+- [Фәнәвис Дәүләтбаев / Рәсимә Денисламова - Сау бул мәхәббәтем! / Фанавис Даулатбаев / Ризия Денисламова - Здравствуй, моя любовь!](../translated/f/fanavis_daulatbaev_rasima_denislamova_-_sau_bul_mahabbatem.md)
+- [Фәнәвис Дәүләтбаев / Рәсимә Денисламова - Синдә таптым (беренче вариант) / Фәнәвис Дәүләтбаев / Рәсимә Денисламова - Я нашел в тебе (первый вариант)](../translated/f/fanavis_daulatbaev_rasima_denislamova_-_sinda_taptim_berenche_variant.md)
+- [Фәнәвис Дәүләтбаев / Рәсимә Денисламова - Синең күзләр (бишенче вариант) / Фанавис Даулатбаев / Ризида Денисламова - Твои глаза (пятая версия)](../translated/f/fanavis_daulatbaev_rasima_denislamova_-_sinen_kuzlar_bishenche_variant.md)
+- [Фәнәвис Дәүләтбаев / Рәсимә Денисламова - Сорап алдым / Фәнәвис Дәүләтбаев / Рәсимә Денисламова - Попросил у небес](../translated/f/fanavis_daulatbaev_rasima_denislamova_-_sorap_aldim.md)
+- [Фәнәвис Дәүләтбаев / Рәсимә Денисламова - Ташламагыз сөйгән ярны / Фенавис Даулатбаев / Ризама Денисламова - Не бросай любимого человека](../translated/f/fanavis_daulatbaev_rasima_denislamova_-_tashlamagiz_soygan_yarni.md)
+- [Фәнәвис Дәүләтбаев / Рәсимә Денисламова - Туган җир (икенче вариант) / Фанавис Даулатбаев / Рашима Денисламова - Родная земля (второй вариант)](../translated/f/fanavis_daulatbaev_rasima_denislamova_-_tugan_cir_ikenche_variant.md)
+- [Фәнәвис Дәүләтбаев / Рәсимә Денисламова - Узып булмый язмыштан / Фәнәвис Дәүләтбаев / Рәсимә Денисламова - Не выйти из судьбы](../translated/f/fanavis_daulatbaev_rasima_denislamova_-_uzip_bulmiy_yazmishtan.md)
+- [Фәнәвис Дәүләтбаев / Рәсимә Денисламова - Эзләгәнем табылмады / Фанавис Даулатбаев / Расима Денисламова - Не нашёл того, кого искал](../translated/f/fanavis_daulatbaev_rasima_denislamova_-_ezlaganem_tabilmadi.md)
+- [Фәнәвис Дәүләтбаев / Рәсимә Денисламова - Ялгыштым / Фанавис Даулатбаев / Рясиме Денисламова - Ялгыштым](../translated/f/fanavis_daulatbaev_rasima_denislamova_-_yalgishtim.md)
+- [Фәнәвис Дәүләтбаев / Рәсимә Денисламова - Яннарыма очып килер идең / Фәнәвис Дәүләтбаев / Рәсимә Денисламова - Прилетишь ко мне в сердце](../translated/f/fanavis_daulatbaev_rasima_denislamova_-_yannarima_ochip_kiler_iden.md)
 
 ---
 

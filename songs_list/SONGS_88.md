@@ -5,8 +5,6 @@
 [← Предыдущая страница](SONGS_87.md) | [Главная страница](../README.md) | [Следующая страница →](SONGS_89.md)
 
 
-- [Эльс Гадел / Рөстәм Яхин - Салагышта үскән камыш мин / Эльс Гадель / Ростам Яхин - Я тростник, выросший в тоске](../translated/e/els_gadel_rostam_yahin_-_salagishta_uskan_kamish_min.md)
-- [Эмиль Айзатулла - Алдама / Эмиль Айзатулла - Не обманывай](../translated/e/emil_ayzatulla-aldama.md)
 - [Эмиль Айзатулла - Жэйге жылы янгыр / Эмиль Айзатулла - Летний тёплый дождь](../translated/e/emil_ayzatulla-zheyge_zhyly_yangyr.md)
 - [Эмиль Айзатулла - Куз нурым / Эмиль Айзатулла - Свет моих глаз](../translated/e/emil_ayzatulla-kuz_nurym.md)
 - [Эмиль Сулиманов - Синең туенда, дустым / Эмиль Сулейманов - На твоей свадьбе, друг](../translated/e/emil_sulimanov_-_sinen_tuenda_dustim.md)
@@ -82,6 +80,7 @@
 - [Якуп Колмый / Илдар Сәлимов - Җыр һәм курай / Якуп Колмый / Илдар Сәлимов - Песня и курай](../translated/y/yakup_kolmiy_ildar_salimov_-_cir_ham_kuray.md)
 - [Якуп Колмый / Камил Рәхимов - Көн дә киләм чишмәгә / Якуп Колмый / Камил Рәхимов - Каждый день прихожу к роднику](../translated/y/yakup_kolmiy_kamil_rahimov_-_kon_da_kilam_chishmaga.md)
 - [Якуп Колмый / Камил Рәхимов - Туган илем (икенче вариант) / Якуп Колмий / Камиль Рахимов - Родной край (второй вариант)](../translated/y/yakup_kolmiy_kamil_rahimov_-_tugan_ilem_ikenche_variant.md)
+- [Якуп Колмый / Наил Галиев (Николай Голов) - Лилиям (икенче вариант) / Якуп Колмый / Наил Галиев (Николай Голов) - Лилиям (второй вариант)](../translated/y/yakup_kolmiy_nail_galiev_nikolay_golov_-_liliyam_ikenche_variant.md)
 - [Якуп Колмый / Насип Кучаев - Яшьлек моңнары / Якуп Колмый / Насип Кучаев - Мелодии юности](../translated/y/yakup_kolmiy_nasip_kuchaev_-_yashlek_monnari.md)
 - [Якуп Колмый / Нәбиулла Мөстакыйм - Эзең калсын / Якуп Колмий / Набиулла Мостакым - Пусть останется твой след](../translated/y/yakup_kolmiy_nabiulla_mostakiym_-_ezen_kalsin.md)
 - [Якуп Колмый / Радик Шамратов - Туган көн (җиденче вариант) / Якуп Колмый / Радик Шамратов - День рождения (седьмой вариант)](../translated/y/yakup_kolmiy_radik_shamratov_-_tugan_kon_cidenche_variant.md)
@@ -105,6 +104,7 @@
 - [Җәүдәт Дәрзаман / Гали Ильясов - Синең өчен (беренче вариант) / Джаудат Дарзаман / Гали Ильясов - Для тебя (первый вариант)](../translated/c/caudat_darzaman_gali_ilyasov_-_sinen_ochen_berenche_variant.md)
 - [Җәүдәт Дәрзаман / Гали Ильясов - Синең өчен (унынчы вариант) / Джаудат Дарзаман / Гали Ильясов - Для тебя (десятый вариант)](../translated/c/caudat_darzaman_gali_ilyasov_-_sinen_ochen_uninchi_variant.md)
 - [Җәүдәт Дәрзаман / Муса Маликов - Сугыш кайтавазы / Джаудат Дарзаман / Муса Маликов - Эхо войны](../translated/c/caudat_darzaman_musa_malikov_-_sugish_kaytavazi.md)
+- [Җәүдәт Дәрзаман / Мәсгудә Шәмсетдинова - Наян куяннар / Джаудат Дарзаман / Масгуда Шамсетдинова - Милые зайчата](../translated/c/caudat_darzaman_masguda_shamsetdinova_-_nayan_kuyannar.md)
 
 ---
 
