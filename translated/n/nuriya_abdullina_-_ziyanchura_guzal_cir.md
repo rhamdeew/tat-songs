@@ -1,6 +1,6 @@
 # Оригинал
 
-### nuriya_abdullina_ - _ziyanchura_guzal_cir
+### Нурия Абдуллина - _ziyanchura_guzal_cir
 
 ```
 Зиянчура, син бит гүзәл җиркәй,
