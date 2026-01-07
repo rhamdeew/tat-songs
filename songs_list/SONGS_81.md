@@ -5,8 +5,6 @@
 [← Предыдущая страница](SONGS_80.md) | [Главная страница](../README.md) | [Следующая страница →](SONGS_82.md)
 
 
-- [Фәния Низамиева / Фәрид Низамиев - Ялгыз сөю / Фания Низамиева / Фарид Низамиев - Одинокая любовь](../translated/f/faniya_nizamieva_farid_nizamiev_-_yalgiz_soyu.md)
-- [Фәния Сибатова / Зиннур Гыйбадуллин - Кояшлы язым / Фания Сибатова / Зиннур Гыйбадуллин - Моя солнечная весна](../translated/f/faniya_sibatova_zinnur_giybadullin_-_koyashli_yazim.md)
 - [Фәния Харисова / Сәйяр Хәбибуллин - Салкын чишмә (дүртенче вариант) / Фания Харисова / Сайяр Хабибуллин - Холодный родник (четвёртый вариант)](../translated/f/faniya_harisova_sayyar_habibullin_-_salkin_chishma_durtenche_variant.md)
 - [Фәния Хәнәфиева / Илфар Әюпов - Туган ягым (җиденче вариант) / Фания Ханафиева / Ильфар Аюпов - Родная сторона (седьмой вариант)](../translated/f/faniya_hanafieva_ilfar_ayupov_-_tugan_yagim_cidenche_variant.md)
 - [Фәния Чанышева / Резедә Бүләкова - Бала өчен / Фания Чанышева / Резеда Булакова - Ради ребёнка](../translated/f/faniya_chanisheva_rezeda_bulakova_-_bala_ochen.md)
@@ -43,6 +41,7 @@
 - [Фәннур Сафин / Сәүбән Чуганаев - Бер елганың ике ярында / Фаннур Сафин / Саубан Чуганаев - На двух берегах одной реки](../translated/f/fannur_safin_sauban_chuganaev_-_ber_elganin_ike_yarinda.md)
 - [Фәннур Сафин / Фәрид Низамиев - Уятам / Фаннур Сафин / Фарид Низамиев - Разбужу](../translated/f/fannur_safin_farid_nizamiev_-_uyatam.md)
 - [Фәннур Сафин / Фәрит Хатыйпов - Моңлану (икенче вариант) / Фаннур Сафин / Фарит Хатыйпов - Грусть (второй вариант)](../translated/f/fannur_safin_farit_hatiypov_-_monlanu_ikenche_variant.md)
+- [Фәнүзә Зөлкарнаева - Фәнүзә Зөлкарнаева-Нәбиуллина / Рәзидә Әхмәтова - Үтте яшьлек юләрлеге / Фәнүзә Зөлкарнаева-Нәбиуллина / Рәзидә Әхмәтова - Прошла шалость юности](../translated/f/fanuza_zolkarnaeva-nabiullina_razida_ahmatova_-_utte_yashlek_yularlege.md)
 - [Фәнүзә Зөлкарнаева-Нәбиуллина / Рәзидә Әхмәтова - Безнең учак / Фануза Зулькарнаева-Набиуллина / Разида Ахматова - Наш очаг](../translated/f/fanuza_zolkarnaeva-nabiullina_razida_ahmatova_-_beznen_uchak.md)
 - [Фәнүзә Зөлкарнаева-Нәбиуллина / Рәзидә Әхмәтова - Гомер (тугызынчы вариант) / Фануза Зулькарнаева-Набиуллина / Разида Ахматова - Жизнь (девятый вариант)](../translated/f/fanuza_zolkarnaeva-nabiullina_razida_ahmatova_-_gomer_tugizinchi_variant.md)
 - [Фәнүзә Зөлкарнаева-Нәбиуллина / Рәзидә Әхмәтова - Моң дөньясы / Фануза Зулькарнаева-Набиуллина / Разида Ахматова - Мир мелодий](../translated/f/fanuza_zolkarnaeva-nabiullina_razida_ahmatova_-_mon_donyasi.md)
@@ -105,6 +104,7 @@
 - [Фәнәвис Дәүләтбаев / Рәсимә Денисламова - Эзләгәнем табылмады / Фанавис Даулатбаев / Расима Денисламова - Не нашёл того, кого искал](../translated/f/fanavis_daulatbaev_rasima_denislamova_-_ezlaganem_tabilmadi.md)
 - [Фәнәвис Дәүләтбаев / Рәсимә Денисламова - Ялгыштым / Фанавис Даулатбаев / Рясиме Денисламова - Ялгыштым](../translated/f/fanavis_daulatbaev_rasima_denislamova_-_yalgishtim.md)
 - [Фәнәвис Дәүләтбаев / Рәсимә Денисламова - Яннарыма очып килер идең / Фәнәвис Дәүләтбаев / Рәсимә Денисламова - Прилетишь ко мне в сердце](../translated/f/fanavis_daulatbaev_rasima_denislamova_-_yannarima_ochip_kiler_iden.md)
+- [Фәнәвис Дәүләтбаев / Рәсимә Денисламова - Яшә кешә, догаларда! / Фәнәвис Дәүләтбаев / Рәсимә Денисламова - Живи, человек, в молитвах!](../translated/f/fanavis_daulatbaev_rasima_denislamova_-_yasha_kesha_dogalarda.md)
 
 ---
 

@@ -1,6 +1,6 @@
 # Оригинал
 
-### mostay_karim_ayrat_kobagishev_ - _ukituchima_ikenche_variant
+### Мостай Кәрим / Айрат Кобагышев - Укытучыма (второй вариант)
 
 ```
 Исемдә алтын сукмакка

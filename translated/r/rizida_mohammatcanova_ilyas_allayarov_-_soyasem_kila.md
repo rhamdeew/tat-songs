@@ -1,6 +1,6 @@
 # Оригинал
 
-### rizida_mohammatcanova_ilyas_allayarov_ - _soyasem_kila
+### Ризида Мөхәммәтҗанова / Ильяс Аллаяров - Сөясем килә
 
 ```
 Йөрәктәге хисләремне

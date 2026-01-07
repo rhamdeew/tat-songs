@@ -5,7 +5,6 @@
 [← Предыдущая страница](SONGS_83.md) | [Главная страница](../README.md) | [Следующая страница →](SONGS_85.md)
 
 
-- [Хәйдәр Әхмәтшин / Илназар - Саклыйк мәхәббәтне / Хайдар Ахметшин / Ильназар - Сохраним любовь](../translated/h/haydar_ahmatshin_ilnazar_-_sakliyk_mahabbatne.md)
 - [Хәйдәр Әхмәтшин / Илнар Гыйльманшин - Ай нурлары булам / Хәйдәр Әхмәтшин / Илнар Гыйльманшин - Стану лунным светом](../translated/h/haydar_ahmatshin_ilnar_giylmanshin_-_ay_nurlari_bulam.md)
 - [Хәйдәр Әхмәтшин / Илфир Бикмеев - Ике йөрәк (икенче вариант) / Хәйдәр Әхмәтшин / Илфир Бикмеев - Два сердца (второй вариант)](../translated/h/haydar_ahmatshin_ilfir_bikmeev_-_ike_yorak_ikenche_variant.md)
 - [Хәйдәр Әхмәтшин / Ленур Зәйнуллин - Сиреньнәр (беренче вариант) / Хайдар Ахметшин / Ленур Зайнуллин - Сирени (первый вариант)](../translated/h/haydar_ahmatshin_lenur_zaynullin_-_sirennar_berenche_variant.md)
@@ -105,6 +104,7 @@
 - [Чулпан Муртазина - Алтын балдак / Чулпан Муртазина - Золотой браслет](../translated/c/chulpan_murtazina-altyn_baldak.md)
 - [Чулпан Муртазина - Болытларга карама син / Чулпан Муртазина - Не смотри на тучи](../translated/c/chulpan_murtazina-bolytlarga_karama_sin.md)
 - [Чулпан Муртазина - Мин гаепле тугел / Чулпан Муртазина - Я не виновата](../translated/c/chulpan_murtazina-min_gaeple_tugel.md)
+- [Чулпан Муртазина - Пар канатым / Чулпан Муртазина - Пара крыльев](../translated/c/chulpan_murtazina-par_kanatym.md)
 
 ---
 

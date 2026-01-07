@@ -1,6 +1,6 @@
 # Оригинал
 
-### zalifa_shaymohammatova_guzaliya_ - _mahabbat_davalari
+### Зәлифә Шәймөхәммәтова / Гүзәлия - Мәхаббәт дәвалары
 
 ```
 Кыюлыкларым җитмәде,

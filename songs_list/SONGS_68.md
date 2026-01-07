@@ -5,16 +5,6 @@
 [← Предыдущая страница](SONGS_67.md) | [Главная страница](../README.md) | [Следующая страница →](SONGS_69.md)
 
 
-- [Рөстәм Гыйззәтуллин - Мин сине алыштырмам / Рөстәм Гыйззәтуллин - Я тебя не променяю](../translated/r/rostam_giyzzatullin_-_min_sine_alishtirmam.md)
-- [Рөстәм Гыйззәтуллин - Мәхәббәт сатылмый / Рөстәм Гыйззәтуллин - Любовь не продается](../translated/r/rostam_giyzzatullin_-_mahabbat_satilmiy.md)
-- [Рөстәм Гыйззәтуллин - Раушаниям / Рөстәм Гыйззәтуллин - Моя Раушания](../translated/r/rostam_giyzzatullin_-_raushaniyam.md)
-- [Рөстәм Гыйззәтуллин - Сагынам авылымны / Ростэм Гиззатуллин - Скучаю я по своему селу](../translated/r/rostam_giyzzatullin_-_saginam_avilimni.md)
-- [Рөстәм Гыйззәтуллин - Сиңа гына (беренче вариант) / Рустам Гиззатуллин - Только тебе](../translated/r/rostam_giyzzatullin_-_sina_gina_berenche_variant.md)
-- [Рөстәм Гыйззәтуллин - Яз килә (икенче вариант) / Рөстәм Гыйззәтуллин - Весна приходит (второй вариант)](../translated/r/rostam_giyzzatullin_-_yaz_kila_ikenche_variant.md)
-- [Рөстәм Гыйззәтуллин - Яшьлегемә кайтам әле / Рөстәм Гыйззәтуллин - Возвращаюсь к своей молодости](../translated/r/rostam_giyzzatullin_-_yashlegema_kaytam_ale.md)
-- [Рөстәм Гыйззәтуллин - Әнкәйләрне рәнҗетмәгез / Рустам Гиззатуллин - Не обижайте матерей](../translated/r/rostam_giyzzatullin_-_ankaylarne_rancetmagez.md)
-- [Рөстәм Гыйззәтуллин - Әрләмә син мине / Рөстәм Гыйззәтуллин - Не ругай ты меня](../translated/r/rostam_giyzzatullin_-_arlama_sin_mine.md)
-- [Рөстәм Зарипов - Тамчы гөл / Ростам Зарипов - Цветок-капля](../translated/r/rostam_zaripov_-_tamchi_gol.md)
 - [Рөстәм Зариф / Фәрит Хатыйпов - Сагыш (алтынчы вариант) / Рөстәм Зариф / Фәрит Хатыйпов - Тоска (шестой вариант)](../translated/r/rostam_zarif_farit_hatiypov_-_sagish_altinchi_variant.md)
 - [Рөстәм Зәкуан / Айдар Тимербаев - Авыл көтә һәрбер баласын / Рустам Закуан / Айдар Тимербаев - Деревня ждёт каждого из детей своих](../translated/r/rostam_zakuan_aydar_timerbaev_-_avil_kota_harber_balasin.md)
 - [Рөстәм Зәкуан / Альфред Якшимбетов - Гөлләрем минем / Рөстәм Зәкуан / Альфред Якшимбетов - Цветы мои](../translated/r/rostam_zakuan_alfred_yakshimbetov_-_gollarem_minem.md)
@@ -105,6 +95,16 @@
 - [Салават Фатхетдинов - Кунеленэ авыр алма / Салават Фатхетдинов - Не принимай близко к сердцу](../translated/s/salavat_fathetdinov-kunelene_avyr_alma.md)
 - [Салават Фатхетдинов - Кыр казлары / Салават Фатхетдинов - Полевые гуси](../translated/s/salavat_fathetdinov-kyr_kazlary.md)
 - [Салават Фатхетдинов - Мин яратам сине Татарстан / Салават Фатхетдинов - Я люблю тебя, Татарстан](../translated/s/salavat_fathetdinov-min_yaratam_sine_tatarstan.md)
+- [Салават Фатхетдинов - Мэхэббэт ул булмый жавапсыз / Салават Фатхетдинов - Любовь не остается без ответа](../translated/s/salavat_fathetdinov-mehebbet_ul_bulmyy_zhavapsyz.md)
+- [Салават Фатхетдинов - Назлы голкэем / Салават Фатхетдинов - Нежный мой цветочек](../translated/s/salavat_fathetdinov-nazly_golkeem.md)
+- [Салават Фатхетдинов - Нидер житмэде / Салават Фатхетдинов - Чего-то не хватало](../translated/s/salavat_fathetdinov-nider_zhitmede.md)
+- [Салават Фатхетдинов - Оздереп бер карадын да / Салават Фатхетдинов - Одним лишь взглядом](../translated/s/salavat_fathetdinov-ozderep_ber_karadyn_da.md)
+- [Салават Фатхетдинов - Оныттыр / Салават Фатхетдинов - Забудь](../translated/s/salavat_fathetdinov-onyttyr.md)
+- [Салават Фатхетдинов - Очрашу мизгеле / Салават Фатхетдинов - Миг встречи](../translated/s/salavat_fathetdinov-ochrashu_mizgele.md)
+- [Салават Фатхетдинов - Пар балдаклар / Салават Фатхетдинов - Обручальные кольца](../translated/s/salavat_fathetdinov-par_baldaklar.md)
+- [Салават Фатхетдинов - Рэнжемэ / Салават Фатхетдинов - Не обижайся](../translated/s/salavat_fathetdinov-renzheme.md)
+- [Салават Фатхетдинов - Сагынам сине гузэлем / Салават Фатхетдинов - Скучаю по тебе, красавица](../translated/s/salavat_fathetdinov-sagynam_sine_guzelem.md)
+- [Салават Фатхетдинов - Сонгы карашын / Салават Фатхетдинов - Последний взгляд](../translated/s/salavat_fathetdinov-songy_karashyn.md)
 
 ---
 

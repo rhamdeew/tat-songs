@@ -1,6 +1,6 @@
 # Оригинал
 
-### feliks_mortazin_alfred_yakshimbetov_ - _su_buenda_kichke_uenda
+### Феликс Мортазин / Альфред Якшимбетов - Су буенда кичке уенда
 
 ```
 Кайтавазы булып яшлегемнең

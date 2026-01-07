@@ -5,18 +5,6 @@
 [← Предыдущая страница](SONGS_64.md) | [Главная страница](../README.md) | [Следующая страница →](SONGS_66.md)
 
 
-- [Рустам Галиев - Мин бэхетле бу доньяда / Рустам Галиев - Я счастлив в этом мире](../translated/r/rustam_galiev-min_behetle_bu_donyada.md)
-- [Рустам Галиев - Туй / Рустам Галиев - Свадьба](../translated/r/rustam_galiev-tuy.md)
-- [Рустам Галиев - Этинен учлары энинен кочагы / Рустам Галиев - Отцовские колени, материнские объятия](../translated/r/rustam_galiev-etinen_uchlary_eninen_kochagy.md)
-- [Рустам Закиров - Йорэк дэшэ / Рустам Закиров - Сердце говорит](../translated/r/rustam_zakirov-yorek_deshe.md)
-- [Рустам Закиров - Картайма эле энкэй / Рустам Закиров - Не старей, мамочка](../translated/r/rustam_zakirov-kartayma_ele_enkey.md)
-- [Рустам Закиров - Кунелен сынмасын / Рустам Закиров - Не разбивай сердце](../translated/r/rustam_zakirov-kunelen_synmasyn.md)
-- [Руфина Гыйлежева - Елмай / Руфина Гыйлежева - Улыбайся](../translated/r/rufina_gyylezheva-elmay.md)
-- [Руфина Гыйлеҗева - Мин котэрмен сине / Руфина Гыйлеҗева - Я буду ждать тебя](../translated/r/rufina_gyylezheva-min_kotermen_sine.md)
-- [Рушания Абраһимова / Айдар Гайнуллин - Туган көн (икенче вариант) / Рушания Абрахимова / Айдар Гайнуллин - День рождения (второй вариант)](../translated/r/rushaniya_abrahimova_aydar_gaynullin_-_tugan_kon_ikenche_variant.md)
-- [Рушания Абраһимова / Айдар Гайнуллин - Шөбиле - туган авылым / Рушания Абрахимова / Айдар Гайнуллин - Шөбиле - родное село](../translated/r/rushaniya_abrahimova_aydar_gaynullin_-_shobile_tugan_avilim.md)
-- [Рушания Арсланова / Гөлнара Тимерҗанова - Ике яр / Рушания Арсланова / Гөлнара Тимерҗанова - Два берега](../translated/r/rushaniya_arslanova_golnara_timercanova_-_ike_yar.md)
-- [Рушания Габбасова / Рифкать Сәйфетдинов - О, Сөембикә! / Рушания Габбасова / Рифкать Сәйфетдинов - О, Сөембикә!](../translated/r/rushaniya_gabbasova_rifkat_sayfetdinov_-_o_soembika.md)
 - [Рүзилә Гатауллина / Илдар Мәгъдәнов - Әнкәй-бәгърем / Рүзилә Гатауллина / Илдар Мәгъдәнов - Мамочка-родная](../translated/r/ruzila_gataullina_ildar_magdanov_-_ankay-bagrem.md)
 - [Рүзилә Гатауллина / Наил Кадыйров - Әткәемә (беренче вариант) / Рузиля Гатауллина / Наил Кадыйров - Отцу моему (первый вариант)](../translated/r/ruzila_gataullina_nail_kadiyrov_-_atkaema_berenche_variant.md)
 - [Рүзилә Гатауллина / Фирзәр Мортазин - Юк, кирәкми сүзләр / Рүзилә Гатауллина / Фирзәр Мортазин - Нет, не нужны слова](../translated/r/ruzila_gataullina_firzar_mortazin_-_yuk_kirakmi_suzlar.md)
@@ -105,6 +93,18 @@
 - [Рәмзинә Тимерова / Риф Арслан - Кил иркәм / Рамзина Тимерова / Риф Арслан - Приди ко мне](../translated/r/ramzina_timerova_rif_arslan_-_kil_irkam.md)
 - [Рәмзинә Тимерова / Риф Арслан - Туй теләкләре / Рәмзинә Тимерова / Риф Арслан - Свадебные пожелания](../translated/r/ramzina_timerova_rif_arslan_-_tuy_telaklare.md)
 - [Рәмзинә Тимерова / Риф Арслан - Язмыш бураны (беренче вариант) / Рамзина Тимерова / Риф Арслан - Буря судьбы (первый вариант)](../translated/r/ramzina_timerova_rif_arslan_-_yazmish_burani_berenche_variant.md)
+- [Рәмзинә Тимерова / Риф Арслан - Яраттым (беренче вариант) / Рәмзинә Тимерова / Риф Арслан - Яраттым (первый вариант)](../translated/r/ramzina_timerova_rif_arslan_-_yarattim_berenche_variant.md)
+- [Рәмзинә Тимерова / Риф Арслан - Яшьлегем, кайда син? / Рәмзинә Тимерова / Риф Арслан - Юность, где ты?](../translated/r/ramzina_timerova_rif_arslan_-_yashlegem_kayda_sin.md)
+- [Рәмзинә Тимерова / Роберт Тимербаев - Кайт, сөеклем / Рамзина Тимерова / Роберт Тимербаев - Вернись, моя любовь](../translated/r/ramzina_timerova_robert_timerbaev_-_kayt_soeklem.md)
+- [Рәмзинә Тимерова / Роберт Тимербаев - Сагындым авылымны (беренче вариант) / Рәмзинә Тимерова / Роберт Тимербаев - Соскучилась по деревне (первый вариант)](../translated/r/ramzina_timerova_robert_timerbaev_-_sagindim_avilimni_berenche_variant.md)
+- [Рәмзинә Тимерова / Роберт Тимербаев - Салма мине сары сагышларга / Рәмзинә Тимерова / Роберт Тимербаев - Не ввергай меня в жёлтую тоску](../translated/r/ramzina_timerova_robert_timerbaev_-_salma_mine_sari_sagishlarga.md)
+- [Рәмзинә Тимерова / Роберт Тимербаев - Уйна, гармун (беренче вариант) / Рамзина Тимерова / Роберт Тимербаев - Играй, гармонь](../translated/r/ramzina_timerova_robert_timerbaev_-_uyna_garmun_berenche_variant.md)
+- [Рәмзинә Тимерова / Роберт Тимербаев - Җир җиләкләре / Рәмзинә Тимерова / Роберт Тимербаев - Земляника](../translated/r/ramzina_timerova_robert_timerbaev_-_cir_cilaklare.md)
+- [Рәмзинә Тимерова / Рәмзия Газизова - Башкортстаным (беренче вариант) / Рәмзинә Тимерова / Рәмзия Газизова - Башкортостан мой (первая версия)](../translated/r/ramzina_timerova_ramziya_gazizova_-_bashkortstanim_berenche_variant.md)
+- [Рәмзинә Тимерова / Урал Рәшитов - Миңа кара / Рәмзинә Тимерова / Урал Рәшитов - Смотри на меня](../translated/r/ramzina_timerova_ural_rashitov_-_mina_kara.md)
+- [Рәмзинә Тимерова / Фәнзәл Котдысов - Серле ут! / Рәмзинә Тимерова / Фәнзәл Котдысов - Таинственный огонь!](../translated/r/ramzina_timerova_fanzal_kotdisov_-_serle_ut.md)
+- [Рәмзинә Тимерова / Фәнир Галимов - Бәхетсезлек шуннан башлана / Рамзина Тимерова / Фанир Галимов - Безначалие начинается с этого](../translated/r/ramzina_timerova_fanir_galimov_-_bahetsezlek_shunnan_bashlana.md)
+- [Рәмзинә Тимерова / Хәмид Мәткәримов - Шөкер ит булганына / Рәмзинә Тимерова / Хәмид Мәткәримов - Благодари за то, что есть](../translated/r/ramzina_timerova_hamid_matkarimov_-_shoker_it_bulganina.md)
 
 ---
 

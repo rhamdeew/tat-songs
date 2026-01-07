@@ -5,9 +5,6 @@
 [← Предыдущая страница](SONGS_78.md) | [Главная страница](../README.md) | [Следующая страница →](SONGS_80.md)
 
 
-- [Фирая Зыятдинова / Ренат Шәрибҗанов - Кыз бала (беренче вариант) / Фирая Зиятдинова / Ренат Шарибжанов - Девочка (первый вариант)](../translated/f/firaya_ziyatdinova_renat_sharibcanov_-_kiz_bala_berenche_variant.md)
-- [Фирая Зыятдинова / Ренат Шәрибҗанов - Минем җырым (беренче вариант) / Фирая Зиятдинова / Ренат Шарибджанов - Моя песня (первый вариант)](../translated/f/firaya_ziyatdinova_renat_sharibcanov_-_minem_cirim_berenche_variant.md)
-- [Фирая Зыятдинова / Рәшит Кәлимуллин - Каеннарның ак яктысы / Фирая Зыятдинова / Рәшит Кәлимуллин - Белый свет берез](../translated/f/firaya_ziyatdinova_rashit_kalimullin_-_kaennarnin_ak_yaktisi.md)
 - [Фирая Зыятдинова / Рөстәм Вәлиев - Бәхет өчен күп кирәкми / Фирая Зыятдинова / Рөстәм Вәлиев - Для счастья многого не надо](../translated/f/firaya_ziyatdinova_rostam_valiev_-_bahet_ochen_kup_kirakmi.md)
 - [Фирая Зыятдинова / Рөстәм Сәрвәров - Әрләмәгез! / Фирая Зиятдинова / Рустам Сарваров - Не осуждайте!](../translated/f/firaya_ziyatdinova_rostam_sarvarov_-_arlamagez.md)
 - [Фирая Зыятдинова / Сәүбән Чуганаев - Ярату (икенче вариант) / Фирая Зиатдинова / Саубан Чуганай - Любовь (второй вариант)](../translated/f/firaya_ziyatdinova_sauban_chuganaev_-_yaratu_ikenche_variant.md)
@@ -96,6 +93,7 @@
 - [Флария Терегулова / Шамил Шәрипов - Вәгъдәләшкән таллар / Флария Терегулова / Шамил Шарипов - Обещанные ивы](../translated/f/flariya_teregulova_shamil_sharipov_-_vagdalashkan_tallar.md)
 - [Флария Терегулова / Шамил Шәрипов - Оныта алмам инде / Флария Терегулова / Шамил Шарипов - Уже не смогу забыть](../translated/f/flariya_teregulova_shamil_sharipov_-_onita_almam_inde.md)
 - [Флера Васикова / Фирдүс Тямаев - Язмыштан юк узмыш / Флера Васикова / Фирдүс Тямаев - От судьбы не уйти](../translated/f/flera_vasikova_firdus_tyamaev_-_yazmishtan_yuk_uzmish.md)
+- [Флера Гыйззәтуллина / Луиза Батыр - Флера Гыйззәтуллина / Луиза Батыр-Болгари - Кушлавычта шаулый куш каеннар / Флера Гыйззәтуллина / Луиза Батыр-Болгари - В Кушлавыче шумят две березы](../translated/f/flera_giyzzatullina_luiza_batir-bolgari_-_kushlavichta_shauliy_kush_kaennar.md)
 - [Флера Гыйззәтуллина / Луиза Батыр-Болгари - Кушлавыч каеннары / Флера Гиззатуллина / Луиза Батыр-Болгари - Кушлавычские берёзы](../translated/f/flera_giyzzatullina_luiza_batir-bolgari_-_kushlavich_kaennari.md)
 - [Флера Гыйззәтуллина / Луиза Батыр-Болгари - Син, изге Кырлаем / Флера Гыйззәтуллина / Луиза Батыр-Болгари - Ты, святой Кырлай](../translated/f/flera_giyzzatullina_luiza_batir-bolgari_-_sin_izge_kirlaem.md)
 - [Флера Гыйззәтуллина / Риф Гатауллин - Ак таулы Азнакаем / Флера Гыйззәтуллина / Риф Гатауллин - Белогорный мой Азнакай](../translated/f/flera_giyzzatullina_rif_gataullin_-_ak_tauli_aznakaem.md)
@@ -105,6 +103,8 @@
 - [Флера Тарханова / Айдар Гайнуллин - Быел язлар шактый иртә килде / Флера Тарханова / Айдар Гайнуллин - В этот год весна пришла довольно рано](../translated/f/flera_tarhanova_aydar_gaynullin_-_biel_yazlar_shaktiy_irta_kilde.md)
 - [Флера Тарханова / Айдар Гайнуллин - Әйдә әле, бер әйләнеп кайтыйк... / Флера Тарханова / Айдар Гайнуллин - Давай вернемся, сделав круг...](../translated/f/flera_tarhanova_aydar_gaynullin_-_ayda_ale_ber_aylanep_kaytiyk.md)
 - [Флера Тарханова / Алмаз Шәрипов - Саба юлы / Флера Тарханова / Алмаз Шәрипов - Сабинская дорога](../translated/f/flera_tarhanova_almaz_sharipov_-_saba_yuli.md)
+- [Флера Тарханова / Виталий Агапов - Син югалтсаң мине / Флера Тарханова / Виталий Агапов - Если потеряешь меня](../translated/f/flera_tarhanova_vitaliy_agapov_-_sin_yugaltsan_mine.md)
+- [Флера Тарханова / Ганс Сәйфуллин - Чистай сагышлары / Флера Тарханова / Ганс Сәйфуллин - Чистайские печали](../translated/f/flera_tarhanova_gans_sayfullin_-_chistay_sagishlari.md)
 
 ---
 

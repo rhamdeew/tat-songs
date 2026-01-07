@@ -5,18 +5,6 @@
 [← Предыдущая страница](SONGS_63.md) | [Главная страница](../README.md) | [Следующая страница →](SONGS_65.md)
 
 
-- [Роберт Миңнуллин / Урал Рәшитов - Кайтыгыз, пароходларым! / Роберт Миңнуллин / Урал Рәшитов - Возвращайтесь, мои пароходы!](../translated/r/robert_minnullin_ural_rashitov_-_kaytigiz_parohodlarim.md)
-- [Роберт Миңнуллин / Урал Рәшитов - Каратамак чишмәсе / Роберт Миңнуллин / Урал Рәшитов - Каратомакский родник](../translated/r/robert_minnullin_ural_rashitov_-_karatamak_chishmase.md)
-- [Роберт Миңнуллин / Урал Рәшитов - Кошлар / Роберт Миннуллин / Урал Рәшитов - Птицы](../translated/r/robert_minnullin_ural_rashitov_-_koshlar.md)
-- [Роберт Миңнуллин / Урал Рәшитов - Мәхәббәт энҗеләре / Роберт Миннуллин / Урал Рашитов - Жемчужины любви](../translated/r/robert_minnullin_ural_rashitov_-_mahabbat_encelare.md)
-- [Роберт Миңнуллин / Урал Рәшитов - Хәзер инде миңа барыбер / Роберт Миңнуллин / Урал Рәшитов - Теперь мне уже все равно](../translated/r/robert_minnullin_ural_rashitov_-_hazer_inde_mina_bariber.md)
-- [Роберт Миңнуллин / Урал Рәшитов - Яшәргә икән, яшәргә! / Роберт Миңнуллин / Урал Рәшитов - Жить бы, так жить!](../translated/r/robert_minnullin_ural_rashitov_-_yasharga_ikan_yasharga.md)
-- [Роберт Миңнуллин / Факил Сафин - Җайдаклар / Роберт Миннуллин / Факил Сафин - Наездники](../translated/r/robert_minnullin_fakil_safin_-_caydaklar.md)
-- [Роберт Миңнуллин / Фирзәр Мортазин - Машинамда очам гына / Роберт Миннуллин / Фирзэр Мортазин - В своей машине я лишь лечу](../translated/r/robert_minnullin_firzar_mortazin_-_mashinamda_ocham_gina.md)
-- [Роберт Миңнуллин / Фирзәр Мортазин - Син, әни, берәү генә / Роберт Миңнуллин / Фирзәр Мортазин - Ты, мама, одна-единственная](../translated/r/robert_minnullin_firzar_mortazin_-_sin_ani_berau_gena.md)
-- [Роберт Миңнуллин / Фуат Әбүбәкеров - Әйлән-бәйлән (икенче вариант) / Роберт Миңнуллин / Фуат Әбүбәкеров - Хоровод (второй вариант)](../translated/r/robert_minnullin_fuat_abubakerov_-_aylan-baylan_ikenche_variant.md)
-- [Роберт Миңнуллин / Фәнир Галимов - Әбиләр чуагы (өченче вариант) / Роберт Миңнуллин / Фәнир Галимов - Бабье лето (третий вариант)](../translated/r/robert_minnullin_fanir_galimov_-_abilar_chuagi_ochenche_variant.md)
-- [Роберт Миңнуллин / Фәрит Хатыйпов - Гармунчы булмасамда / Роберт Миннуллин / Фарит Хатипов - Если даже не стану гармонистом](../translated/r/robert_minnullin_farit_hatiypov_-_garmunchi_bulmasamda.md)
 - [Роберт Миңнуллин / Фәрит Хатыйпов - Шулай шул / Роберт Миннуллин / Фарит Хатипов - Так и есть](../translated/r/robert_minnullin_farit_hatiypov_-_shulay_shul.md)
 - [Роберт Миңнуллин / Фәрит Хатыйпов - Һаман чибәр минем әнкәй / Роберт Миннуллин / Фарит Хатипов - Всё ещё красива моя мамочка](../translated/r/robert_minnullin_farit_hatiypov_-_haman_chibar_minem_ankay.md)
 - [Роберт Миңнуллин / Фәрүәз Килдеголов - Моңландыра дөнъялары / Роберт Миңнуллин / Фәрүәз Килдеголов - Печалят миры](../translated/r/robert_minnullin_faruaz_kildegolov_-_monlandira_donyalari.md)
@@ -105,6 +93,18 @@
 - [Руслан Сөләйманов / Алмаз Юнысов - Яннарымда нигә калмадың / Руслан Сөләйманов / Алмаз Юнысов - Почему ты не осталась рядом](../translated/r/ruslan_solaymanov_almaz_yunisov_-_yannarimda_niga_kalmadin.md)
 - [Руслан Чернов / Айдар Тимербаев - Көттермәсәк иде әнкәйләрне / Руслан Чернов / Айдар Тимербаев - Не будем заставлять матерей ждать](../translated/r/ruslan_chernov_aydar_timerbaev_-_kottermasak_ide_ankaylarne.md)
 - [Руслан Чернов / Альфред Якшимбетов - Яшьлек еллары / Руслан Чернов / Альфред Якшимбетов - Годы юности](../translated/r/ruslan_chernov_alfred_yakshimbetov_-_yashlek_ellari.md)
+- [Рустам Галиев - Мин бэхетле бу доньяда / Рустам Галиев - Я счастлив в этом мире](../translated/r/rustam_galiev-min_behetle_bu_donyada.md)
+- [Рустам Галиев - Туй / Рустам Галиев - Свадьба](../translated/r/rustam_galiev-tuy.md)
+- [Рустам Галиев - Этинен учлары энинен кочагы / Рустам Галиев - Отцовские колени, материнские объятия](../translated/r/rustam_galiev-etinen_uchlary_eninen_kochagy.md)
+- [Рустам Закиров - Йорэк дэшэ / Рустам Закиров - Сердце говорит](../translated/r/rustam_zakirov-yorek_deshe.md)
+- [Рустам Закиров - Картайма эле энкэй / Рустам Закиров - Не старей, мамочка](../translated/r/rustam_zakirov-kartayma_ele_enkey.md)
+- [Рустам Закиров - Кунелен сынмасын / Рустам Закиров - Не разбивай сердце](../translated/r/rustam_zakirov-kunelen_synmasyn.md)
+- [Руфина Гыйлежева - Елмай / Руфина Гыйлежева - Улыбайся](../translated/r/rufina_gyylezheva-elmay.md)
+- [Руфина Гыйлеҗева - Мин котэрмен сине / Руфина Гыйлеҗева - Я буду ждать тебя](../translated/r/rufina_gyylezheva-min_kotermen_sine.md)
+- [Рушания Абраһимова / Айдар Гайнуллин - Туган көн (икенче вариант) / Рушания Абрахимова / Айдар Гайнуллин - День рождения (второй вариант)](../translated/r/rushaniya_abrahimova_aydar_gaynullin_-_tugan_kon_ikenche_variant.md)
+- [Рушания Абраһимова / Айдар Гайнуллин - Шөбиле - туган авылым / Рушания Абрахимова / Айдар Гайнуллин - Шөбиле - родное село](../translated/r/rushaniya_abrahimova_aydar_gaynullin_-_shobile_tugan_avilim.md)
+- [Рушания Арсланова / Гөлнара Тимерҗанова - Ике яр / Рушания Арсланова / Гөлнара Тимерҗанова - Два берега](../translated/r/rushaniya_arslanova_golnara_timercanova_-_ike_yar.md)
+- [Рушания Габбасова / Рифкать Сәйфетдинов - О, Сөембикә! / Рушания Габбасова / Рифкать Сәйфетдинов - О, Сөембикә!](../translated/r/rushaniya_gabbasova_rifkat_sayfetdinov_-_o_soembika.md)
 
 ---
 

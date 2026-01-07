@@ -5,18 +5,6 @@
 [← Предыдущая страница](SONGS_62.md) | [Главная страница](../README.md) | [Следующая страница →](SONGS_64.md)
 
 
-- [Роберт Ахматканов / Луиза Батыр-Болгари - Төштә күрдем сине / Роберт Ахматканов / Луиза Батыр-Болгари - Во сне увидел(а) тебя](../translated/r/robert_ahmatcanov_luiza_batir-bolgari_-_toshta_kurdem_sine.md)
-- [Роберт Миннуллин / Илгиз Закиров - Алма / Роберт Миннуллин / Илгиз Закиров - Яблоко](../translated/r/robert_minnullin_ilgiz_zakirov_-_alma.md)
-- [Роберт Миннуллин / Рөстәм Яхин - Килен төшкәндә / Роберт Миннуллин / Рөстәм Яхин - Когда невеста приходит](../translated/r/robert_minnullin_rostam_yahin_-_kilen_toshkanda.md)
-- [Роберт Миңнуллин / Азат Имаев - Башкортостан татарлары / Роберт Миңнуллин / Азат Имаев - Татары Башкортостана](../translated/r/robert_minnullin_azat_imaev_-_bashkortostan_tatarlari.md)
-- [Роберт Миңнуллин / Азат Имаев - Ырынбур далалары / Роберт Миңнуллин / Азат Имаев - Оренбургские степи](../translated/r/robert_minnullin_azat_imaev_-_irinbur_dalalari.md)
-- [Роберт Миңнуллин / Алик Локманов - Бу җырымны сиңа багышлыйм (беренче вариант) / Роберт Миннуллин / Алик Локманов - Эту песню тебе посвящаю (первая версия)](../translated/r/robert_minnullin_alik_lokmanov_-_bu_cirimni_sina_bagishliym_berenche_variant.md)
-- [Роберт Миңнуллин / Альбина Имаева - Мин барыcына әзер мәхәббәттә / Роберт Миңнуллин / Альбина Имаева - Я на все готов(а) в любви](../translated/r/robert_minnullin_albina_imaeva_-_min_baricina_azer_mahabbatta.md)
-- [Роберт Миңнуллин / Альбина Имаева - Син эзләмә мине / Роберт Миңнуллин / Альбина Имаева - Син эзләмә мине](../translated/r/robert_minnullin_albina_imaeva_-_sin_ezlama_mine.md)
-- [Роберт Миңнуллин / Альбина Имаева - Әткәм моңы (Аның моңы) / Роберт Миннуллин / Альбина Имаева - Напев отца (Его напев)](../translated/r/robert_minnullin_albina_imaeva_-_atkam_moni_anin_moni.md)
-- [Роберт Миңнуллин / Билгесез - Багышлау җыры / Роберт Миннуллин / Билгесез - Песня посвящения](../translated/r/robert_minnullin_bilgesez_-_bagishlau_ciri.md)
-- [Роберт Миңнуллин / Билгесез - Рамбар юллары / Роберт Миннуллин / Неизвестен - Пыльные дороги](../translated/r/robert_minnullin_bilgesez_-_rambar_yullari.md)
-- [Роберт Миңнуллин / Вадим Усманов - Күңелдә шатлыклар кабына / Роберт Миннуллин / Вадим Усманов - В душе радость вспыхивает](../translated/r/robert_minnullin_vadim_usmanov_-_kunelda_shatliklar_kabina.md)
 - [Роберт Миңнуллин / Вадим Усманов - Саклап калыйк җирне! / Роберт Миннуллин / Вадим Усманов - Сохраним землю!](../translated/r/robert_minnullin_vadim_usmanov_-_saklap_kaliyk_cirne.md)
 - [Роберт Миңнуллин / Вилүр Мәүлитов - Атларда чаба малайлар (Сыбайлылар) / Роберт Миңнуллин / Вилүр Мәүлитов - Мальчишки мчатся на конях (Всадники)](../translated/r/robert_minnullin_vilur_maulitov_-_atlarda_chaba_malaylar_sibaylilar.md)
 - [Роберт Миңнуллин / Виталий Агапов - Ак бураннар (беренче вариант) / Роберт Миңнуллин / Виталий Агапов - Белые бураны (первый вариант)](../translated/r/robert_minnullin_vitaliy_agapov_-_ak_burannar_berenche_variant.md)
@@ -105,6 +93,18 @@
 - [Роберт Миңнуллин / Тәлгать Вәлиев - Туган көн (дүртенче вариант) / Роберт Миңнуллин / Тәлгать Вәлиев - Туган көн (четвёртый вариант)](../translated/r/robert_minnullin_talgat_valiev_-_tugan_kon_durtenche_variant.md)
 - [Роберт Миңнуллин / Урал Рәшитов - Агыйдел кызы / Роберт Миңнуллин / Урал Рәшитов - Девушка Агыйделя](../translated/r/robert_minnullin_ural_rashitov_-_agiydel_kizi.md)
 - [Роберт Миңнуллин / Урал Рәшитов - Каеннарым / Роберт Миннуллин / Урал Рашитов - Мои берёзы](../translated/r/robert_minnullin_ural_rashitov_-_kaennarim.md)
+- [Роберт Миңнуллин / Урал Рәшитов - Кайтыгыз, пароходларым! / Роберт Миңнуллин / Урал Рәшитов - Возвращайтесь, мои пароходы!](../translated/r/robert_minnullin_ural_rashitov_-_kaytigiz_parohodlarim.md)
+- [Роберт Миңнуллин / Урал Рәшитов - Каратамак чишмәсе / Роберт Миңнуллин / Урал Рәшитов - Каратомакский родник](../translated/r/robert_minnullin_ural_rashitov_-_karatamak_chishmase.md)
+- [Роберт Миңнуллин / Урал Рәшитов - Кошлар / Роберт Миннуллин / Урал Рәшитов - Птицы](../translated/r/robert_minnullin_ural_rashitov_-_koshlar.md)
+- [Роберт Миңнуллин / Урал Рәшитов - Мәхәббәт энҗеләре / Роберт Миннуллин / Урал Рашитов - Жемчужины любви](../translated/r/robert_minnullin_ural_rashitov_-_mahabbat_encelare.md)
+- [Роберт Миңнуллин / Урал Рәшитов - Хәзер инде миңа барыбер / Роберт Миңнуллин / Урал Рәшитов - Теперь мне уже все равно](../translated/r/robert_minnullin_ural_rashitov_-_hazer_inde_mina_bariber.md)
+- [Роберт Миңнуллин / Урал Рәшитов - Яшәргә икән, яшәргә! / Роберт Миңнуллин / Урал Рәшитов - Жить бы, так жить!](../translated/r/robert_minnullin_ural_rashitov_-_yasharga_ikan_yasharga.md)
+- [Роберт Миңнуллин / Факил Сафин - Җайдаклар / Роберт Миннуллин / Факил Сафин - Наездники](../translated/r/robert_minnullin_fakil_safin_-_caydaklar.md)
+- [Роберт Миңнуллин / Фирзәр Мортазин - Машинамда очам гына / Роберт Миннуллин / Фирзэр Мортазин - В своей машине я лишь лечу](../translated/r/robert_minnullin_firzar_mortazin_-_mashinamda_ocham_gina.md)
+- [Роберт Миңнуллин / Фирзәр Мортазин - Син, әни, берәү генә / Роберт Миңнуллин / Фирзәр Мортазин - Ты, мама, одна-единственная](../translated/r/robert_minnullin_firzar_mortazin_-_sin_ani_berau_gena.md)
+- [Роберт Миңнуллин / Фуат Әбүбәкеров - Әйлән-бәйлән (икенче вариант) / Роберт Миңнуллин / Фуат Әбүбәкеров - Хоровод (второй вариант)](../translated/r/robert_minnullin_fuat_abubakerov_-_aylan-baylan_ikenche_variant.md)
+- [Роберт Миңнуллин / Фәнир Галимов - Әбиләр чуагы (өченче вариант) / Роберт Миңнуллин / Фәнир Галимов - Бабье лето (третий вариант)](../translated/r/robert_minnullin_fanir_galimov_-_abilar_chuagi_ochenche_variant.md)
+- [Роберт Миңнуллин / Фәрит Хатыйпов - Гармунчы булмасамда / Роберт Миннуллин / Фарит Хатипов - Если даже не стану гармонистом](../translated/r/robert_minnullin_farit_hatiypov_-_garmunchi_bulmasamda.md)
 
 ---
 

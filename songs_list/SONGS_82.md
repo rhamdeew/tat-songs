@@ -5,7 +5,6 @@
 [← Предыдущая страница](SONGS_81.md) | [Главная страница](../README.md) | [Следующая страница →](SONGS_83.md)
 
 
-- [Фәнәвис Дәүләтбаев / Рәсимә Денисламова - Яшә кешә, догаларда! / Фәнәвис Дәүләтбаев / Рәсимә Денисламова - Живи, человек, в молитвах!](../translated/f/fanavis_daulatbaev_rasima_denislamova_-_yasha_kesha_dogalarda.md)
 - [Фәнәвис Дәүләтбаев / Рәсимә Денисламова - Яңа ел җыры (бишенче вариант) / Фанавис Даулатбаев / Рашима Денисламова - Песня Нового года (пятый вариант)](../translated/f/fanavis_daulatbaev_rasima_denislamova_-_yana_el_ciri_bishenche_variant.md)
 - [Фәнәвис Дәүләтбаев / Рәсимә Денисламова - Яңа ел җыры (өченче вариант) / Фәнәвис Дәүләтбаев / Рәсимә Денисламова - Песня Нового года (третий вариант)](../translated/f/fanavis_daulatbaev_rasima_denislamova_-_yana_el_ciri_ochenche_variant.md)
 - [Фәнәвис Дәүләтбаев / Флүрә Үзәнбаева - Матур да соң җәйләре! / Фанавис Давлетбаев / Флюра Узенбаева - Прекрасные и поздние лета!](../translated/f/fanavis_daulatbaev_flura_uzanbaeva_-_matur_da_son_caylare.md)
@@ -105,6 +104,7 @@
 - [Халисә Мөдәрисова / Рамил Медъяр-Камал - Кил генә - түзәрмен / Халисә Мөдәрисова / Рамил Медъяр-Камал - Лишь приди - я вытерплю](../translated/h/halisa_modarisova_ramil_medyar-kamal_-_kil_gena_tuzarmen.md)
 - [Халисә Мөдәрисова / Ризван Хәкимов - Ничек бармын, шулай ярат / Халиса Мударисова / Ризван Хакимов - Как я пойду, так и люблю](../translated/h/halisa_modarisova_rizvan_hakimov_-_nichek_barmin_shulay_yarat.md)
 - [Халисә Мөдәрисова / Роза Сәхәүетдинова - Вакытларны булмый туктатып (икенче вариант) / Халисә Мөдәрисова / Роза Сәхәүетдинова - Времени не остановить (второй вариант)](../translated/h/halisa_modarisova_roza_sahauetdinova_-_vakitlarni_bulmiy_tuktatip_ikenche_variant.md)
+- [Халисә Мөдәрисова / Роза Сәхәүетдинова - Киек казлар (дүртенче вариант) / Халисә Мөдәрисова / Роза Сәхәүетдинова - Казы-казы (четвёртый вариант)](../translated/h/halisa_modarisova_roza_sahauetdinova_-_kiek_kazlar_durtenche_variant.md)
 
 ---
 

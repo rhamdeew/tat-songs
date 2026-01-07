@@ -5,12 +5,6 @@
 [← Предыдущая страница](SONGS_77.md) | [Главная страница](../README.md) | [Следующая страница →](SONGS_79.md)
 
 
-- [Феликс Мортазин - Татар Әйшәсе / Феликс Мортазин - Татарская Айша](../translated/f/feliks_mortazin_-_tatar_ayshase.md)
-- [Феликс Мортазин - Татарстан (икенче вариант) / Феликс Мортазин - Татарстан (второй вариант)](../translated/f/feliks_mortazin_-_tatarstan_ikenche_variant.md)
-- [Феликс Мортазин - Тезелешеп атлар су эчә / Феликс Мортазин - Весной лошади спешат попить воды](../translated/f/feliks_mortazin_-_tezeleshep_atlar_su_echa.md)
-- [Феликс Мортазин - Туган көн (сигезенче вариант) / Феликс Мортазин - День рождения (восьмой вариант)](../translated/f/feliks_mortazin_-_tugan_kon_sigezenche_variant.md)
-- [Феликс Мортазин - Туйда теләкләр / Феликс Мортазин - Пожелания на свадьбе](../translated/f/feliks_mortazin_-_tuyda_telaklar.md)
-- [Феликс Мортазин - Төнге күктә якты йолдыз бар / Феликс Мортазин - В ночном небе горит яркая звезда](../translated/f/feliks_mortazin_-_tonge_kukta_yakti_yoldiz_bar.md)
 - [Феликс Мортазин - Уртак бәхет / Феликс Мортазин - Общее счастье](../translated/f/feliks_mortazin_-_urtak_bahet.md)
 - [Феликс Мортазин - Хәерле иртә, улым / Феликс Мортазин - Доброе утро, сынок](../translated/f/feliks_mortazin_-_haerle_irta_ulim.md)
 - [Феликс Мортазин - Хөсетле туганыбызга хат! / Феликс Мортазин - Письмо завистливому нашему родственнику!](../translated/f/feliks_mortazin_-_hosetle_tuganibizga_hat.md)
@@ -31,6 +25,7 @@
 - [Феликс Мортазин / Альфред Якшимбетов - Салават күпере төсләре / Феликс Мортазин / Альфред Якшимбетов - Цвета радуги Салавата](../translated/f/feliks_mortazin_alfred_yakshimbetov_-_salavat_kupere_toslare.md)
 - [Феликс Мортазин / Альфред Якшимбетов - Санамачы елларымны күке! / Феликс Мортазин / Альфред Якшимбетов - Кукушка, годы мне считай!](../translated/f/feliks_mortazin_alfred_yakshimbetov_-_sanamachi_ellarimni_kuke.md)
 - [Феликс Мортазин / Альфред Якшимбетов - Серле дөнья / Феликс Мортазин / Альфред Якшимбетов - Тайный мир](../translated/f/feliks_mortazin_alfred_yakshimbetov_-_serle_donya.md)
+- [Феликс Мортазин / Альфред Якшимбетов - Су буенда кичке уенда / Феликс Мортазин / Альфред Якшимбетов - Вечерние игры у воды](../translated/f/feliks_mortazin_alfred_yakshimbetov_-_su_buenda_kichke_uenda.md)
 - [Феликс Мортазин / Альфред Якшимбетов - Туган бусагадан башлана / Феликс Мортазин / Альфред Якшимбетов - Всё начинается с родного дома](../translated/f/feliks_mortazin_alfred_yakshimbetov_-_tugan_busagadan_bashlana.md)
 - [Феликс Мортазин / Альфред Якшимбетов - Төшләреңә килеп керермен / Феликс Мортазин / Альфред Якшимбетов - Войду в твои сны](../translated/f/feliks_mortazin_alfred_yakshimbetov_-_toshlarena_kilep_kerermen.md)
 - [Феликс Мортазин / Альфред Якшимбетов - Ут күршеләрем / Феликс Мортазин / Альфред Якшимбетов - Огненные соседи](../translated/f/feliks_mortazin_alfred_yakshimbetov_-_ut_kurshelarem.md)
@@ -70,6 +65,7 @@
 - [Фердинанд Гайсин / Наил Табанаков - Талым ялгыз / Фердинанд Гайсин / Наил Табанаков - Одинокая ива](../translated/f/ferdinand_gaysin_nail_tabanakov_-_talim_yalgiz.md)
 - [Фидан Гафаров / Мөдәрис Газетдинов - Югалту / Фидан Гафаров / Мөдәрис Газетдинов - Утрата](../translated/f/fidan_gafarov_modaris_gazetdinov_-_yugaltu.md)
 - [Фидан Гафаров / Урал Рәшитов - Бергә яшәүләре - бүләк / Фидан Гафаров / Урал Рашитов - Жить вместе - это дар](../translated/f/fidan_gafarov_ural_rashitov_-_berga_yashaulare_bulak.md)
+- [Физалия Дәүләтгәрәева / Гөлшат Арсланова - Чылтырап сулар ага / Физалия Дәүләтгәрәева / Гөлшат Арсланова - Журчат воды](../translated/f/fizaliya_daulatgaraeva_golshat_arslanova_-_chiltirap_sular_aga.md)
 - [Физалия Дәүләтгәрәева / Әбри Хәбриев - Тарта иде әткәй тәмәке / Физалия Даулатгараева / Әбри Хәбриев - Папа курил табак](../translated/f/fizaliya_daulatgaraeva_abri_habriev_-_tarta_ide_atkay_tamake.md)
 - [Физәлия Дәүләтгәрәева / Зарема Әюпова - Авыл капкасы (өченче вариант) / Физалия Дауләтгареева / Зарема Әюпова - Деревенские ворота (третий вариант)](../translated/f/fizaliya_daulatgaraeva_zarema_ayupova_-_avil_kapkasi_ochenche_variant.md)
 - [Физәлия Дәүләтгәрәева / Мөдәрис Газетдинов - Тормышыма бәла кермәсен / Физалия Давлетгараева / Модарис Газетдинов - Пусть беда не войдет в мою жизнь](../translated/f/fizaliya_daulatgaraeva_modaris_gazetdinov_-_tormishima_bala_kermasen.md)
@@ -99,12 +95,16 @@
 - [Фирая Зыятдинова / Айдар Тимербаев - Камыш әйтә - мин әйтәм / Фирая Зыятдинова / Айдар Тимербаев - Камыш говорит - я говорю](../translated/f/firaya_ziyatdinova_aydar_timerbaev_-_kamish_ayta_min_aytam.md)
 - [Фирая Зыятдинова / Дамир Рафиков - Рәхмәт сиңа, бәхет кошым / Фирая Зыятдинова / Дамир Рафиков - Спасибо тебе, птица счастья](../translated/f/firaya_ziyatdinova_damir_rafikov_-_rahmat_sina_bahet_koshim.md)
 - [Фирая Зыятдинова / Илһам Байтирәк - Биектавым, онытмамын... / Фирая Зыятдинова / Илһам Байтирәк - Мой Бииктавы, не забуду...](../translated/f/firaya_ziyatdinova_ilham_baytirak_-_biektavim_onitmamin.md)
+- [Фирая Зыятдинова / Луиза Батыр - Фирая Зыятдинова / Луиза Батыр-Болгари - Бер син генә / Фирая Зыятдинова / Луиза Батыр-Болгари - Лишь ты одна](../translated/f/firaya_ziyatdinova_luiza_batir-bolgari_-_ber_sin_gena.md)
 - [Фирая Зыятдинова / Луиза Батыр-Болгари - Бердәнберем син минем / Фирая Зыятдинова / Луиза Батыр-Болгари - Ты моя единственная](../translated/f/firaya_ziyatdinova_luiza_batir-bolgari_-_berdanberem_sin_minem.md)
 - [Фирая Зыятдинова / Луиза Батыр-Болгари - Китмим әле яшьлегемнән / Фирая Зиятдинова / Луиза Батыр-Болгари - Ещё не уходила я из молодости](../translated/f/firaya_ziyatdinova_luiza_batir-bolgari_-_kitmim_ale_yashlegemnan.md)
 - [Фирая Зыятдинова / Луиза Батыр-Болгари - Мин сине шундый сагындым / Фирая Зыятдинова / Луиза Батыр-Болгари - Я так по тебе скучала](../translated/f/firaya_ziyatdinova_luiza_batir-bolgari_-_min_sine_shundiy_sagindim.md)
 - [Фирая Зыятдинова / Луиза Батыр-Болгари - Чайпалырмын, түгелермен... / Фирая Зиятдинова / Луиза Батыр-Болгари - Расплескаюсь, проливаюсь...](../translated/f/firaya_ziyatdinova_luiza_batir-bolgari_-_chaypalirmin_tugelermen.md)
 - [Фирая Зыятдинова / Луиза Батыр-Болгари - Әтнәм - туган яккаем / Фирая Зыятдинова / Луиза Батыр-Болгари - Әтнәм - мой родной край](../translated/f/firaya_ziyatdinova_luiza_batir-bolgari_-_atnam_tugan_yakkaem.md)
 - [Фирая Зыятдинова / Мәсгудә Шәмсетдинова - Кар вальсы / Фирая Зиятдинова / Мэсгудэ Шэмсетдинова - Вальс снега](../translated/f/firaya_ziyatdinova_masguda_shamsetdinova_-_kar_valsi.md)
+- [Фирая Зыятдинова / Ренат Шәрибҗанов - Кыз бала (беренче вариант) / Фирая Зиятдинова / Ренат Шарибжанов - Девочка (первый вариант)](../translated/f/firaya_ziyatdinova_renat_sharibcanov_-_kiz_bala_berenche_variant.md)
+- [Фирая Зыятдинова / Ренат Шәрибҗанов - Минем җырым (беренче вариант) / Фирая Зиятдинова / Ренат Шарибджанов - Моя песня (первый вариант)](../translated/f/firaya_ziyatdinova_renat_sharibcanov_-_minem_cirim_berenche_variant.md)
+- [Фирая Зыятдинова / Рәшит Кәлимуллин - Каеннарның ак яктысы / Фирая Зыятдинова / Рәшит Кәлимуллин - Белый свет берез](../translated/f/firaya_ziyatdinova_rashit_kalimullin_-_kaennarnin_ak_yaktisi.md)
 
 ---
 

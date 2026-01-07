@@ -5,8 +5,6 @@
 [← Предыдущая страница](SONGS_79.md) | [Главная страница](../README.md) | [Следующая страница →](SONGS_81.md)
 
 
-- [Флера Тарханова / Виталий Агапов - Син югалтсаң мине / Флера Тарханова / Виталий Агапов - Если потеряешь меня](../translated/f/flera_tarhanova_vitaliy_agapov_-_sin_yugaltsan_mine.md)
-- [Флера Тарханова / Ганс Сәйфуллин - Чистай сагышлары / Флера Тарханова / Ганс Сәйфуллин - Чистайские печали](../translated/f/flera_tarhanova_gans_sayfullin_-_chistay_sagishlari.md)
 - [Флера Тарханова / Муса Маликов - Син булганда (беренче вариант) / Флера Тарханова / Муса Маликов - Когда ты рядом (первый вариант)](../translated/f/flera_tarhanova_musa_malikov_-_sin_bulganda_berenche_variant.md)
 - [Флера Тарханова / Резеда Ахиярова - Чистаем / Флера Тарханова / Резеда Ахиярова - Чистай](../translated/f/flera_tarhanova_rezeda_ahiyarova_-_chistaem.md)
 - [Флера Тарханова / Роза Мөхетдинова - Синнән башка (өченче вариант) / Флера Тарханова / Роза Мухетдинова - Без тебя (третья версия)](../translated/f/flera_tarhanova_roza_mohetdinova_-_sinnan_bashka_ochenche_variant.md)
@@ -105,6 +103,8 @@
 - [Фәния Габидуллина / Илдар Шәрипов - Яратып яшик (икенче вариант) / Фания Габидуллина / Ильдар Шарипов - Будем жить любя (второй вариант)](../translated/f/faniya_gabidullina_ildar_sharipov_-_yaratip_yashik_ikenche_variant.md)
 - [Фәния Габидуллина / Илдар Шәрипов - Яшь йөрәкләр / Фания Габидуллина / Ильдар Шарипов - Молодые сердца](../translated/f/faniya_gabidullina_ildar_sharipov_-_yash_yoraklar.md)
 - [Фәния Низамиева / Фәрид Низамиев - Карлар карала икән / Фания Низамиева / Фарид Низамиев - Оказывается, снега чернеют](../translated/f/faniya_nizamieva_farid_nizamiev_-_karlar_karala_ikan.md)
+- [Фәния Низамиева / Фәрид Низамиев - Ялгыз сөю / Фания Низамиева / Фарид Низамиев - Одинокая любовь](../translated/f/faniya_nizamieva_farid_nizamiev_-_yalgiz_soyu.md)
+- [Фәния Сибатова / Зиннур Гыйбадуллин - Кояшлы язым / Фания Сибатова / Зиннур Гыйбадуллин - Моя солнечная весна](../translated/f/faniya_sibatova_zinnur_giybadullin_-_koyashli_yazim.md)
 
 ---
 

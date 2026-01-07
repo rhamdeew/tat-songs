@@ -1,6 +1,6 @@
 # Оригинал
 
-### marat_karimov_rafael_shahraziev_ - _yaratam_bishenche_variant
+### Марат Кәримов / Рафаэль Шәхрәзиев - Яратам (пятый вариант)
 
 ```
 Очраттым мин сине,

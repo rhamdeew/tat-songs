@@ -5,13 +5,6 @@
 [← Предыдущая страница](SONGS_74.md) | [Главная страница](../README.md) | [Следующая страница →](SONGS_76.md)
 
 
-- [Татар халык җыры - Кошларга (беренче вариант) / Татарская народная песня - Птицам (первая версия)](../translated/t/tatar_halik_ciri_-_koshlarga_berenche_variant.md)
-- [Татар халык җыры - Кызыл төлке / Татар халык җыры - Рыжая лисица](../translated/t/tatar_halik_ciri_-_kizil_tolke.md)
-- [Татар халык җыры - Кыйгак / татар халык җыры - Кыйгак](../translated/t/tatar_halik_ciri_-_kiygak.md)
-- [Татар халык җыры - Кыр казы (беренче вариант) / Татарская народная песня - Полевой гусь (первый вариант)](../translated/t/tatar_halik_ciri_-_kir_kazi_berenche_variant.md)
-- [Татар халык җыры - Кырлай / Татарская народная песня - Кырлай](../translated/t/tatar_halik_ciri_-_kirlay.md)
-- [Татар халык җыры - Кыска җырлар (беренче вариант) / Татар халык җыры - Короткие песни (первый вариант)](../translated/t/tatar_halik_ciri_-_kiska_cirlar_berenche_variant.md)
-- [Татар халык җыры - Кыска җырлар (икенче вариант) / Татарская народная песня - Короткие песни (второй вариант)](../translated/t/tatar_halik_ciri_-_kiska_cirlar_ikenche_variant.md)
 - [Татар халык җыры - Күбәләгем / Татарская народная песня - Күбәләгем](../translated/t/tatar_halik_ciri_-_kubalagem.md)
 - [Татар халык җыры - Күгәрчен гөрлидер (беренче вариант) / Татарская народная песня - Воробей поёт (первый вариант)](../translated/t/tatar_halik_ciri_-_kugarchen_gorlider_berenche_variant.md)
 - [Татар халык җыры - Күгәрчен гөрлидер (икенче вариант) / Татар халык җыры - Голубь воркует (второй вариант)](../translated/t/tatar_halik_ciri_-_kugarchen_gorlider_ikenche_variant.md)
@@ -105,6 +98,13 @@
 - [Татар халык җыры - Шөгер / татар халык җыры_ - Татарская народная песня - Шөгер](../translated/t/tatar_halik_ciri_-_shoger.md)
 - [Татар халык җыры - Ырынбур яшьләре җыры / Татар халык җыры - Песня оренбургской молодежи](../translated/t/tatar_halik_ciri_-_irinbur_yashlare_ciri.md)
 - [Татар халык җыры - Эх, карап торулары / Татар халык җыры - Эх, взгляды твои](../translated/t/tatar_halik_ciri_-_eh_karap_torulari.md)
+- [Татар халык җыры - Яз да була, көз дә була / Татарская народная песня - Бывает и весна, и осень](../translated/t/tatar_halik_ciri_-_yaz_da_bula_koz_da_bula.md)
+- [Татар халык җыры - Ялгыз каен (беренче вариант) / Татарская народная песня - Одинокий дуб (первый вариант)](../translated/t/tatar_halik_ciri_-_yalgiz_kaen_berenche_variant.md)
+- [Татар халык җыры - Ялгыз каен (икенче вариант) / Татар народная песня - Одинокая берёза (второй вариант)](../translated/t/tatar_halik_ciri_-_yalgiz_kaen_ikenche_variant.md)
+- [Татар халык җыры - Яманатлар безгә такмагыз / Татар халык җыры - Яманатлар безгә такмагыз](../translated/t/tatar_halik_ciri_-_yamanatlar_bezga_takmagiz.md)
+- [Татар халык җыры - Ямщик җыры / Татарская народная песня - Песня ямщика](../translated/t/tatar_halik_ciri_-_yamshchik_ciri.md)
+- [Татар халык җыры - Җаныем, бәгырем (беренче вариант) / Татарская народная песня - Душа моя, родная (первый вариант)](../translated/t/tatar_halik_ciri_-_caniem_bagirem_berenche_variant.md)
+- [Татар халык җыры - Җаныем, бәгырем (икенче вариант) / Татар халык җыры - Душа моя, сердце мое (второй вариант)](../translated/t/tatar_halik_ciri_-_caniem_bagirem_ikenche_variant.md)
 
 ---
 

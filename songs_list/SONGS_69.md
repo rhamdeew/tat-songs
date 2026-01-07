@@ -5,16 +5,6 @@
 [← Предыдущая страница](SONGS_68.md) | [Главная страница](../README.md) | [Следующая страница →](SONGS_70.md)
 
 
-- [Салават Фатхетдинов - Мэхэббэт ул булмый жавапсыз / Салават Фатхетдинов - Любовь не остается без ответа](../translated/s/salavat_fathetdinov-mehebbet_ul_bulmyy_zhavapsyz.md)
-- [Салават Фатхетдинов - Назлы голкэем / Салават Фатхетдинов - Нежный мой цветочек](../translated/s/salavat_fathetdinov-nazly_golkeem.md)
-- [Салават Фатхетдинов - Нидер житмэде / Салават Фатхетдинов - Чего-то не хватало](../translated/s/salavat_fathetdinov-nider_zhitmede.md)
-- [Салават Фатхетдинов - Оздереп бер карадын да / Салават Фатхетдинов - Одним лишь взглядом](../translated/s/salavat_fathetdinov-ozderep_ber_karadyn_da.md)
-- [Салават Фатхетдинов - Оныттыр / Салават Фатхетдинов - Забудь](../translated/s/salavat_fathetdinov-onyttyr.md)
-- [Салават Фатхетдинов - Очрашу мизгеле / Салават Фатхетдинов - Миг встречи](../translated/s/salavat_fathetdinov-ochrashu_mizgele.md)
-- [Салават Фатхетдинов - Пар балдаклар / Салават Фатхетдинов - Обручальные кольца](../translated/s/salavat_fathetdinov-par_baldaklar.md)
-- [Салават Фатхетдинов - Рэнжемэ / Салават Фатхетдинов - Не обижайся](../translated/s/salavat_fathetdinov-renzheme.md)
-- [Салават Фатхетдинов - Сагынам сине гузэлем / Салават Фатхетдинов - Скучаю по тебе, красавица](../translated/s/salavat_fathetdinov-sagynam_sine_guzelem.md)
-- [Салават Фатхетдинов - Сонгы карашын / Салават Фатхетдинов - Последний взгляд](../translated/s/salavat_fathetdinov-songy_karashyn.md)
 - [Салават Фатхетдинов - Сонлама / Салават Фатхетдинов - Не увядай](../translated/s/salavat_fathetdinov-sonlama.md)
 - [Салават Фатхетдинов - Туган кон / Салават Фатхетдинов - День рождения](../translated/s/salavat_fathetdinov-tugan_kon.md)
 - [Салават Фатхетдинов - Туган якка сэяхэт / Салават Фатхетдинов - Путешествие к родным местам](../translated/s/salavat_fathetdinov-tugan_yakka_seyahet.md)
@@ -105,6 +95,16 @@
 - [Сания Әхмәтҗанова / Зөфәр Хәйретдинов - Пар алма / Сания Ахметжанова / Зуфар Хайретдинов - Парное яблоко](../translated/s/saniya_ahmatcanova_zofar_hayretdinov_-_par_alma.md)
 - [Сания Әхмәтҗанова / Зөфәр Хәйретдинов - Сары кашкарыйлар / Сания Әхмәтҗанова / Зөфәр Хәйретдинов - Жёлтые кашкарии](../translated/s/saniya_ahmatcanova_zofar_hayretdinov_-_sari_kashkariylar.md)
 - [Сания Әхмәтҗанова / Зөфәр Хәйретдинов - Син - башканың бәхете / Сания Әхмәтҗанова / Зөфәр Хәйретдинов - Ты - счастье другой](../translated/s/saniya_ahmatcanova_zofar_hayretdinov_-_sin_bashkanin_bahete.md)
+- [Сания Әхмәтҗанова / Зөфәр Хәйретдинов - Ялгыз әнкәй / Сания Әхмәтҗанова / Зөфәр Хәйретдинов - Одинокая мать](../translated/s/saniya_ahmatcanova_zofar_hayretdinov_-_yalgiz_ankay.md)
+- [Сания Әхмәтҗанова / Зөфәр Хәйретдинов - Ялгызларга (беренче вариант) / Сания Ахметжанова / Зофар Хайретдинов - Одиноким (первый вариант)](../translated/s/saniya_ahmatcanova_zofar_hayretdinov_-_yalgizlarga_berenche_variant.md)
+- [Сания Әхмәтҗанова / Зөфәр Хәйретдинов - Әйтер сүзең әйтеп кал! / Сания Ахметжанова / Зуфар Хайретдинов - Скажи свои слова, успей сказать!](../translated/s/saniya_ahmatcanova_zofar_hayretdinov_-_ayter_suzen_aytep_kal.md)
+- [Сания Әхмәтҗанова / Илгиз Субаев - Бер күрешик (икенче вариант) / Сания Ахматжанова / Илгиз Субаев - Встретимся вновь (второй вариант)](../translated/s/saniya_ahmatcanova_ilgiz_subaev_-_ber_kureshik_ikenche_variant.md)
+- [Сания Әхмәтҗанова / Илгиз Субаев - Гәрәбә (икенче вариант) / Сания Әхмәтҗанова / Илгиз Субаев - Янтарь (второй вариант)](../translated/s/saniya_ahmatcanova_ilgiz_subaev_-_garaba_ikenche_variant.md)
+- [Сания Әхмәтҗанова / Илгиз Субаев - Назлы гөл / Сания Ахметжанова / Ильгиз Субаев - Нежный цветок](../translated/s/saniya_ahmatcanova_ilgiz_subaev_-_nazli_gol.md)
+- [Сания Әхмәтҗанова / Илгиз Субаев - Сөю түгел / Сания Ахметжанова / Илгиз Субаев - Не любовь](../translated/s/saniya_ahmatcanova_ilgiz_subaev_-_soyu_tugel.md)
+- [Сания Әхмәтҗанова / Илгиз Субаев - Җырымда яратырмын / Сания Ахметжанова / Илгиз Субаев - В песне моей буду любить](../translated/s/saniya_ahmatcanova_ilgiz_subaev_-_cirimda_yaratirmin.md)
+- [Сания Әхмәтҗанова / Илнур Ганиев - Бәхет утравы / Сания Әхмәтҗанова / Илнур Ганиев - Остров счастья](../translated/s/saniya_ahmatcanova_ilnur_ganiev_-_bahet_utravi.md)
+- [Сания Әхмәтҗанова / Илнур Ганиев - Казан чәкчәге / Сания Әхмәтҗанова / Илнур Ганиев - Казанский чак-чак](../translated/s/saniya_ahmatcanova_ilnur_ganiev_-_kazan_chakchage.md)
 
 ---
 

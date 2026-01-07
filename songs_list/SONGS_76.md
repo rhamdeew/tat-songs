@@ -5,13 +5,6 @@
 [← Предыдущая страница](SONGS_75.md) | [Главная страница](../README.md) | [Следующая страница →](SONGS_77.md)
 
 
-- [Татар халык җыры - Яз да була, көз дә була / Татарская народная песня - Бывает и весна, и осень](../translated/t/tatar_halik_ciri_-_yaz_da_bula_koz_da_bula.md)
-- [Татар халык җыры - Ялгыз каен (беренче вариант) / Татарская народная песня - Одинокий дуб (первый вариант)](../translated/t/tatar_halik_ciri_-_yalgiz_kaen_berenche_variant.md)
-- [Татар халык җыры - Ялгыз каен (икенче вариант) / Татар народная песня - Одинокая берёза (второй вариант)](../translated/t/tatar_halik_ciri_-_yalgiz_kaen_ikenche_variant.md)
-- [Татар халык җыры - Яманатлар безгә такмагыз / Татар халык җыры - Яманатлар безгә такмагыз](../translated/t/tatar_halik_ciri_-_yamanatlar_bezga_takmagiz.md)
-- [Татар халык җыры - Ямщик җыры / Татарская народная песня - Песня ямщика](../translated/t/tatar_halik_ciri_-_yamshchik_ciri.md)
-- [Татар халык җыры - Җаныем, бәгырем (беренче вариант) / Татарская народная песня - Душа моя, родная (первый вариант)](../translated/t/tatar_halik_ciri_-_caniem_bagirem_berenche_variant.md)
-- [Татар халык җыры - Җаныем, бәгырем (икенче вариант) / Татар халык җыры - Душа моя, сердце мое (второй вариант)](../translated/t/tatar_halik_ciri_-_caniem_bagirem_ikenche_variant.md)
 - [Татар халык җыры - Җаным жәл түгел сиңа / Татар халык җыры - Тебя мне не жаль, душа](../translated/t/tatar_halik_ciri_-_canim_zhal_tugel_sina.md)
 - [Татар халык җыры - Җизнәкәй / Татарская народная песня - Зятюшка](../translated/t/tatar_halik_ciri_-_ciznakay.md)
 - [Татар халык җыры - Җиңгәчи / Татарская народная песня - Цинга́чи](../translated/t/tatar_halik_ciri_-_cingachi.md)
@@ -39,6 +32,7 @@
 - [Татар-Башкорт халык җыры - Шахта (бишенче вариант) / Татаро-башкирская народная песня - Шахта (пятый вариант)](../translated/t/tatar-bashkort_halik_ciri_-_shahta_bishenche_variant.md)
 - [Татарская народная песня - Сандугач, күгәрчен / Татарская народная песня - Соловей, голубь](../translated/t/tatar_halik_ciri_-_sandugach_kugarchen.md)
 - [Татарские народные слова / Радик Яруллин - Сайра, сайра, син сандугач (икенче вариант) / Татарские народные слова / Радик Яруллин - Пой, пой, ты соловей (второй вариант)](../translated/t/tatar_halik_suzlare_radik_yarullin_-_sayra_sayra_sin_sandugach_ikenche_variant.md)
+- [Татарский народ / Мәсгудә Шәмсетдинова - Кара атлар / Татарский народ / Мәсгудә Шәмсетдинова - Черные кони](../translated/t/tatar_halik_masguda_shamsetdinova_-_kara_atlar.md)
 - [Таҗи Гыйззәт / Салих Сәйдәшев - Кызлар җыры (икенче вариант) / Таҗи Гыйззәт / Салих Сәйдәшев - Песня девушек (второй вариант)](../translated/t/taci_giyzzat_salih_saydashev_-_kizlar_ciri_ikenche_variant.md)
 - [Таҗи Гыйззәт / Салих Сәйдәшев - Сау булыгыз / Таджи Гиззат / Салих Сайдашев - Будьте здоровы](../translated/t/taci_giyzzat_salih_saydashev_-_sau_buligiz.md)
 - [Таҗи Гыйззәт / Салих Сәйдәшев - Эх, күңелле өмәсе / Таджи Гиззат / Салих Сайдашев - Ах, веселье посиделок](../translated/t/taci_giyzzat_salih_saydashev_-_eh_kunelle_omase.md)
@@ -105,6 +99,12 @@
 - [Тәслимә Низами / Булат Җиһаншин - Бал җимешем / Тәслимә Низами / Булат Җиһаншин - Мой медовый плод](../translated/t/taslima_nizami_bulat_cihanshin_-_bal_cimeshem.md)
 - [Тәслимә Низами / Урал Рәшитов - Казан - Кырлай - Симетбаш / Таслима Низами / Урал Рашитов - Казань - Кырлай - Симетбаш](../translated/t/taslima_nizami_ural_rashitov_-_kazan_kirlay_simetbash.md)
 - [Тәслимә Низами / Урал Рәшитов - Әлдермеш / Таслима Низами / Урал Рашитов - Альдермеш](../translated/t/taslima_nizami_ural_rashitov_-_aldermesh.md)
+- [Тәслимә Низами / Урал Рәшитов - Әлдермешкә кайтам әле / Тәслимә Низами / Урал Рәшитов - Возвращаюсь в Әлдермеш](../translated/t/taslima_nizami_ural_rashitov_-_aldermeshka_kaytam_ale.md)
+- [Тәслимә Низами / Фәрит Хатыйпов - Соңгы сөю (икенче вариант) / Тәслимә Низами / Фәрит Хатыйпов - Последняя любовь (второй вариант)](../translated/t/taslima_nizami_farit_hatiypov_-_songi_soyu_ikenche_variant.md)
+- [Тәслимә Низами / Эльвира Хәйруллина - Син барында / Тәслимә Низами / Эльвира Хәйруллина - Пока ты рядом](../translated/t/taslima_nizami_elvira_hayrullina_-_sin_barinda.md)
+- [Тәслимә Хәләф / Урал Рәшитов - Сагынырсың әле Дим буйларын / Тәслимә Хәләф / Урал Рәшитов - Еще соскучишься по берегам Дима](../translated/t/taslima_halaf_ural_rashitov_-_saginirsin_ale_dim_buylarin.md)
+- [Тәслимә Хәләф / Урал Рәшитов - Соңгы сөю (беренче вариант) / Тәслимә Хәләф / Урал Рәшитов - Последняя любовь (первый вариант)](../translated/t/taslima_halaf_ural_rashitov_-_songi_soyu_berenche_variant.md)
+- [Тәслимә Шәрәфетдинова - Йөрәгемдә - туган ягым / Таслима Шарафетдинова - В моём сердце - родной край](../translated/t/taslima_sharafetdinova_-_yoragemda_tugan_yagim.md)
 
 ---
 

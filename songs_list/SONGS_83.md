@@ -5,7 +5,6 @@
 [← Предыдущая страница](SONGS_82.md) | [Главная страница](../README.md) | [Следующая страница →](SONGS_84.md)
 
 
-- [Халисә Мөдәрисова / Роза Сәхәүетдинова - Киек казлар (дүртенче вариант) / Халисә Мөдәрисова / Роза Сәхәүетдинова - Казы-казы (четвёртый вариант)](../translated/h/halisa_modarisova_roza_sahauetdinova_-_kiek_kazlar_durtenche_variant.md)
 - [Халисә Мөдәрисова / Салават Низаметдинов - Онытып булмый ... / Халиса Модарисова / Салават Низаметдинов - Нельзя забыть ...](../translated/h/halisa_modarisova_salavat_nizametdinov_-_onitip_bulmiy.md)
 - [Халисә Мөдәрисова / Сәүбән Чуганаев - Балан (беренче вариант) / Халисә Мөдәрисова / Сәүбән Чуганаев - Калина (первый вариант)](../translated/h/halisa_modarisova_sauban_chuganaev_-_balan_berenche_variant.md)
 - [Халисә Мөхәммәдиева / Наил Шәймарданов - Кичерегез, якын затлар / Халиса Мухаммадиева / Наиль Шаймарданов - Простите, родные](../translated/h/halisa_mohammadieva_nail_shaymardanov_-_kicheregez_yakin_zatlar.md)
@@ -105,6 +104,7 @@
 - [Хәйдәр Әхмәтшин / Дилүс Шәйхразиев - Саф чишмә (икенче вариант) / Хайдар Ахматшин / Дилюс Шайхразиев - Чистый родник (второй вариант)](../translated/h/haydar_ahmatshin_dilus_shayhraziev_-_saf_chishma_ikenche_variant.md)
 - [Хәйдәр Әхмәтшин / Илмир Әзһамов - Иң кайнар мәхәббәт / Хайдар Ахматшин / Илмир Азхамов - Самая пылкая любовь](../translated/h/haydar_ahmatshin_ilmir_azhamov_-_in_kaynar_mahabbat.md)
 - [Хәйдәр Әхмәтшин / Илназар - Аккошым дип эндәшәм (Ул - минеке) / Хайдар Ахметшин / Ильназар - Лебёдушкой зову (Она - моя)](../translated/h/haydar_ahmatshin_ilnazar_-_akkoshim_dip_endasham_ul_mineke.md)
+- [Хәйдәр Әхмәтшин / Илназар - Саклыйк мәхәббәтне / Хайдар Ахметшин / Ильназар - Сохраним любовь](../translated/h/haydar_ahmatshin_ilnazar_-_sakliyk_mahabbatne.md)
 
 ---
 

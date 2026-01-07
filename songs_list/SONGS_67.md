@@ -5,17 +5,6 @@
 [← Предыдущая страница](SONGS_66.md) | [Главная страница](../README.md) | [Следующая страница →](SONGS_68.md)
 
 
-- [Рәфис Зиязетдинов / Мөдәрис Газетдинов - Куллар биреп саубуллашмыйк / Рафис Зиязетдинов / Модарис Газетдинов - Не прощаться, сжав ладони](../translated/r/rafis_ziyazetdinov_modaris_gazetdinov_-_kullar_birep_saubullashmiyk.md)
-- [Рәфис Зиязетдинов / Мөдәрис Газетдинов - Яшьлек (өченче вариант) / Рафис Зиязетдинов / Мударис Газетдинов - Юность (третий вариант)](../translated/r/rafis_ziyazetdinov_modaris_gazetdinov_-_yashlek_ochenche_variant.md)
-- [Рәфис Зиязетдинов / Фәнир Галимов - Авылкаем (икенче вариант) / Рафис Зиязетдинов / Фанир Галимов - Моя деревня (второй вариант)](../translated/r/rafis_ziyazetdinov_fanir_galimov_-_avilkaem_ikenche_variant.md)
-- [Рәфис Зиязетдинов / Фәнир Галимов - Балачак (икенче вариант) / Рәфис Зиязетдинов / Фәнир Галимов - Детство (второй вариант)](../translated/r/rafis_ziyazetdinov_fanir_galimov_-_balachak_ikenche_variant.md)
-- [Рәфис Зиязетдинов / Фәнир Галимов - Мехколонна җыры / Рафис Зиязетдинов / Фанир Галимов - Песня механизированной колонны](../translated/r/rafis_ziyazetdinov_fanir_galimov_-_mehkolonna_ciri.md)
-- [Рәфис Зиязетдинов / Фәнир Галимов - Стәрлебаш яклары / Ряфис Зиязетдинов / Фанир Галимов - Стороны Стерлебаша](../translated/r/rafis_ziyazetdinov_fanir_galimov_-_starlebash_yaklari.md)
-- [Рәфис Мөхәммәтдинов / Фәнир Галимов - Гомер телим / Рафис Мухаметдинов / Фәнир Галимов - Желаю долгих лет](../translated/r/rafis_mohammatdinov_fanir_galimov_-_gomer_telim.md)
-- [Рәфис Мөхәммәтдинов / Фәнир Галимов - Көт, бәгърем (икенче вариант) / Рәфис Мөхәммәтдинов / Фәнир Галимов - Жди, родная (второй вариант)](../translated/r/rafis_mohammatdinov_fanir_galimov_-_kot_bagrem_ikenche_variant.md)
-- [Рәфис Хисамов / Бату Мулюков - Җырларымнан белерсең / Рәфис Хисамов / Бату Мулюков - Узнаешь по моим песням](../translated/r/rafis_hisamov_batu_mulyukov_-_cirlarimnan_belersen.md)
-- [Рәфит Арсланов / Рәдиф Зарипов - Язгы чәчкәм / Рафит Арсланов / Радиф Зарипов - Весенний цветок мой](../translated/r/rafit_arslanov_radif_zaripov_-_yazgi_chachkam.md)
-- [Рәфкать Кәрами / Әнвәр Бакиров - Авылым таңнары (беренче вариант) / Рәфкать Кәрами / Әнвәр Бакиров - Рассветы моего аула (первый вариант)](../translated/r/rafkat_karami_anvar_bakirov_-_avilim_tannari_berenche_variant.md)
 - [Рәфкать Муллин / Наил Шәймарданов - Кайттыңмы, балам? / Рәфкать Муллин / Наил Шәймарданов - Вернулся ли ты, сынок?](../translated/r/rafkat_mullin_nail_shaymardanov_-_kayttinmi_balam.md)
 - [Рәфкать Шаhиев / Людмила Аланлы - Берлек урамнары / Рәфкать Шаhиев / Людмила Аланлы - Улицы Берлека](../translated/r/rafkat_shahiev_lyudmila_alanli_-_berlek_uramnari.md)
 - [Рәфкать Шаhиев / Марат Галимов - Мин / Рәфкать Шаһиев / Марат Галимов - Я](../translated/r/rafkat_shahiev_marat_galimov_-_min.md)
@@ -93,6 +82,7 @@
 - [Рәүфә Нурмөхәммәтова - Туган якның кичләре / Рауфа Нурмухамматова - Вечера родного края](../translated/r/raufa_nurmohammatova_-_tugan_yaknin_kichlare.md)
 - [Рәүфә Нурмөхәммәтова - Улыма (беренче вариант) / Рауфа Нурмухамматова - Сыну (первый вариант)](../translated/r/raufa_nurmohammatova_-_ulima_berenche_variant.md)
 - [Рәүфә Нурмөхәммәтова - Чын дусларыма / Рәүфә Нурмөхәммәтова - Моим настоящим друзьям](../translated/r/raufa_nurmohammatova_-_chin_duslarima.md)
+- [Рәүфә Нурмөхәммәтова - Югалтма мине / Рәүфә Нурмөхәммәтова - Не теряй меня](../translated/r/raufa_nurmohammatova_-_yugaltma_mine.md)
 - [Рәүфә Нурмөхәммәтова - Юк, димәле / Рауфа Нурмухамметова - Нет, скажем](../translated/r/raufa_nurmohammatova_-_yuk_dimale.md)
 - [Рәүфә Нурмөхәммәтова - Яратам диеп назла / Рауфа Нурмухаметова - Называю, что люблю](../translated/r/raufa_nurmohammatova_-_yaratam_diep_nazla.md)
 - [Рәүфә Нурмөхәммәтова - Җырым сиңа бүләгем / Рәүфә Нурмөхәммәтова - Песня тебе в подарок](../translated/r/raufa_nurmohammatova_-_cirim_sina_bulagem.md)
@@ -105,6 +95,16 @@
 - [Рөстәм Галимҗанов / Мөдәрис Газетдинов - Бирче миңа кулыңны / Рөстәм Галимҗанов / Мөдәрис Газетдинов - Дай мне руку](../translated/r/rostam_galimcanov_modaris_gazetdinov_-_birche_mina_kulinni.md)
 - [Рөстәм Гыйззәтуллин - Гафү ит мине / Рөстәм Гыйззәтуллин - Прости меня](../translated/r/rostam_giyzzatullin_-_gafu_it_mine.md)
 - [Рөстәм Гыйззәтуллин - Дәртле чаклар / Рөстәм Гыйззәтуллин - Дерзкие времена](../translated/r/rostam_giyzzatullin_-_dartle_chaklar.md)
+- [Рөстәм Гыйззәтуллин - Мин сине алыштырмам / Рөстәм Гыйззәтуллин - Я тебя не променяю](../translated/r/rostam_giyzzatullin_-_min_sine_alishtirmam.md)
+- [Рөстәм Гыйззәтуллин - Мәхәббәт сатылмый / Рөстәм Гыйззәтуллин - Любовь не продается](../translated/r/rostam_giyzzatullin_-_mahabbat_satilmiy.md)
+- [Рөстәм Гыйззәтуллин - Раушаниям / Рөстәм Гыйззәтуллин - Моя Раушания](../translated/r/rostam_giyzzatullin_-_raushaniyam.md)
+- [Рөстәм Гыйззәтуллин - Сагынам авылымны / Ростэм Гиззатуллин - Скучаю я по своему селу](../translated/r/rostam_giyzzatullin_-_saginam_avilimni.md)
+- [Рөстәм Гыйззәтуллин - Сиңа гына (беренче вариант) / Рустам Гиззатуллин - Только тебе](../translated/r/rostam_giyzzatullin_-_sina_gina_berenche_variant.md)
+- [Рөстәм Гыйззәтуллин - Яз килә (икенче вариант) / Рөстәм Гыйззәтуллин - Весна приходит (второй вариант)](../translated/r/rostam_giyzzatullin_-_yaz_kila_ikenche_variant.md)
+- [Рөстәм Гыйззәтуллин - Яшьлегемә кайтам әле / Рөстәм Гыйззәтуллин - Возвращаюсь к своей молодости](../translated/r/rostam_giyzzatullin_-_yashlegema_kaytam_ale.md)
+- [Рөстәм Гыйззәтуллин - Әнкәйләрне рәнҗетмәгез / Рустам Гиззатуллин - Не обижайте матерей](../translated/r/rostam_giyzzatullin_-_ankaylarne_rancetmagez.md)
+- [Рөстәм Гыйззәтуллин - Әрләмә син мине / Рөстәм Гыйззәтуллин - Не ругай ты меня](../translated/r/rostam_giyzzatullin_-_arlama_sin_mine.md)
+- [Рөстәм Зарипов - Тамчы гөл / Ростам Зарипов - Цветок-капля](../translated/r/rostam_zaripov_-_tamchi_gol.md)
 
 ---
 

@@ -5,12 +5,6 @@
 [← Предыдущая страница](SONGS_76.md) | [Главная страница](../README.md) | [Следующая страница →](SONGS_78.md)
 
 
-- [Тәслимә Низами / Урал Рәшитов - Әлдермешкә кайтам әле / Тәслимә Низами / Урал Рәшитов - Возвращаюсь в Әлдермеш](../translated/t/taslima_nizami_ural_rashitov_-_aldermeshka_kaytam_ale.md)
-- [Тәслимә Низами / Фәрит Хатыйпов - Соңгы сөю (икенче вариант) / Тәслимә Низами / Фәрит Хатыйпов - Последняя любовь (второй вариант)](../translated/t/taslima_nizami_farit_hatiypov_-_songi_soyu_ikenche_variant.md)
-- [Тәслимә Низами / Эльвира Хәйруллина - Син барында / Тәслимә Низами / Эльвира Хәйруллина - Пока ты рядом](../translated/t/taslima_nizami_elvira_hayrullina_-_sin_barinda.md)
-- [Тәслимә Хәләф / Урал Рәшитов - Сагынырсың әле Дим буйларын / Тәслимә Хәләф / Урал Рәшитов - Еще соскучишься по берегам Дима](../translated/t/taslima_halaf_ural_rashitov_-_saginirsin_ale_dim_buylarin.md)
-- [Тәслимә Хәләф / Урал Рәшитов - Соңгы сөю (беренче вариант) / Тәслимә Хәләф / Урал Рәшитов - Последняя любовь (первый вариант)](../translated/t/taslima_halaf_ural_rashitov_-_songi_soyu_berenche_variant.md)
-- [Тәслимә Шәрәфетдинова - Йөрәгемдә - туган ягым / Таслима Шарафетдинова - В моём сердце - родной край](../translated/t/taslima_sharafetdinova_-_yoragemda_tugan_yagim.md)
 - [Тәҗи Гыйззәт / Салих Сәйдәшев - Динар тавы / Тәҗи Гыйззәт / Салих Сәйдәшев - Гора Динар](../translated/t/taci_giyzzat_salih_saydashev_-_dinar_tavi.md)
 - [Төрек татарлары җыры - Кайтыр идем, илем ерак / Песня татарских турок - Вернулся бы я, Родина далека](../translated/t/torek_tatarlari_ciri_-_kaytir_idem_ilem_erak.md)
 - [Төхфәт Морат / Ишмулла Дилмөхәмәтов - Сайра сары сандугачым / Төхфәт Морат / Ишмулла Дилмөхәмәтов - Пой, соловей мой желтый](../translated/t/tohfat_morat_ishmulla_dilmohamatov_-_sayra_sari_sandugachim.md)
@@ -105,6 +99,12 @@
 - [Феликс Мортазин - Саубуллашу (икенче вариант) / Феликс Мортазин - Прощание (второй вариант)](../translated/f/feliks_mortazin_-_saubullashu_ikenche_variant.md)
 - [Феликс Мортазин - Сөю уты (беренче вариант) / Феликс Мортазин - Огонь любви (первый вариант)](../translated/f/feliks_mortazin_-_soyu_uti_berenche_variant.md)
 - [Феликс Мортазин - Сөю уты (икенче вариант) / Феликс Мортазин - Огонь любви (второй вариант)](../translated/f/feliks_mortazin_-_soyu_uti_ikenche_variant.md)
+- [Феликс Мортазин - Татар Әйшәсе / Феликс Мортазин - Татарская Айша](../translated/f/feliks_mortazin_-_tatar_ayshase.md)
+- [Феликс Мортазин - Татарстан (икенче вариант) / Феликс Мортазин - Татарстан (второй вариант)](../translated/f/feliks_mortazin_-_tatarstan_ikenche_variant.md)
+- [Феликс Мортазин - Тезелешеп атлар су эчә / Феликс Мортазин - Весной лошади спешат попить воды](../translated/f/feliks_mortazin_-_tezeleshep_atlar_su_echa.md)
+- [Феликс Мортазин - Туган көн (сигезенче вариант) / Феликс Мортазин - День рождения (восьмой вариант)](../translated/f/feliks_mortazin_-_tugan_kon_sigezenche_variant.md)
+- [Феликс Мортазин - Туйда теләкләр / Феликс Мортазин - Пожелания на свадьбе](../translated/f/feliks_mortazin_-_tuyda_telaklar.md)
+- [Феликс Мортазин - Төнге күктә якты йолдыз бар / Феликс Мортазин - В ночном небе горит яркая звезда](../translated/f/feliks_mortazin_-_tonge_kukta_yakti_yoldiz_bar.md)
 
 ---
 

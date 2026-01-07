@@ -5,13 +5,6 @@
 [← Предыдущая страница](SONGS_72.md) | [Главная страница](../README.md) | [Следующая страница →](SONGS_74.md)
 
 
-- [Татар - Башкорт халык җыры - Сибелә чәчәк (өченче вариант) / Татарская и башкирская народная песня - Сыплются цветы (третий вариант)](../translated/t/tatar_-_bashkort_halik_ciri_-_sibela_chachak_ochenche_variant.md)
-- [Татар - Башкорт халык җыры - Сүнмәс дәрт / татар_ - Татарская и башкирская народная песня - Неугасимый жар](../translated/t/tatar_-_bashkort_halik_ciri_-_sunmas_dart.md)
-- [Татар - Башкорт халык җыры - Сәрия (беренче вариант) / Башкирская народная песня - Сария (первый вариант)](../translated/t/tatar_-_bashkort_halik_ciri_-_sariya_berenche_variant.md)
-- [Татар - Башкорт халык җыры - Таң атканда (икенче вариант) / Татар - Башкирская народная песня - На рассвете (второй вариант)](../translated/t/tatar_-_bashkort_halik_ciri_-_tan_atkanda_ikenche_variant.md)
-- [Татар - Башкорт халык җыры - Шаулый урман (икенче вариант) / Татар - Башкирская народная песня - Шумелый лес (второй вариант)](../translated/t/tatar_-_bashkort_halik_ciri_-_shauliy_urman_ikenche_variant.md)
-- [Татар - Башкорт халык җыры - Шахта (өченче вариант) / Татарская - Башкирская народная песня - Шахта (третий вариант)](../translated/t/tatar_-_bashkort_halik_ciri_-_shahta_ochenche_variant.md)
-- [Татар - Башкорт халык җыры - Эх, яшьлек / Татар_ - Башкирская народная песня - Эх, молодость](../translated/t/tatar_-_bashkort_halik_ciri_-_eh_yashlek.md)
 - [Татар - Башкорт халык* / Башкорт халык - Хәтирә (икенче вариант) / Татар_ - Башкорт халык / Башкорт халык - Хәтирә (второй вариант)](../translated/t/tatar_-_bashkort_halik_bashkort_halik_-_hatira_ikenche_variant.md)
 - [Татар халык - Ага сулар (дүртенче вариант) / Татарский народ - Текут воды (четвёртый вариант)](../translated/t/tatar_halik_-_aga_sular_durtenche_variant.md)
 - [Татар халык - Ай-ли замана (икенче вариант) / Татарский народ - Ай-ли замана (второй вариант)](../translated/t/tatar_halik_-_ay-li_zamana_ikenche_variant.md)
@@ -29,7 +22,7 @@
 - [Татар халык / Мәсгудә Шәмсетдинова - Нәниләргә такмаклар / Татарский народ / Масгуда Шамсетдинова - Частушки для малышей](../translated/t/tatar_halik_masguda_shamsetdinova_-_nanilarga_takmaklar.md)
 - [Татар халык / Мәсгудә Шәмсетдинова - Ятны сөйсәң / Татар халык / Мәсгудә Шәмсетдинова - Если полюбишь чужого](../translated/t/tatar_halik_masguda_shamsetdinova_-_yatni_soysan.md)
 - [Татар халык / Наилә Фатехова - Манара / Татарский народ / Наиля Фатехова - Манара](../translated/t/tatar_halik_naila_fatehova_-_manara.md)
-- [Татар халык / Татар  халык - Эскәтерем / Татар халык / Татар халык - Эскәтерем](../translated/t/tatar_halik_tatar_halik_-_eskaterem.md)
+- [Татар халык / Татар халык - Эскәтерем / Татар халык / Татар халык - Эскәтерем](../translated/t/tatar_halik_tatar_halik_-_eskaterem.md)
 - [Татар халык / Фәтхерахман Әхмәдиев - Бер карадым күзләреңә (беренче вариант) / Татарская народная / Фатерахман Ахмадиев - Один раз взглянул я в твои глаза (первый вариант)](../translated/t/tatar_halik_fatherahman_ahmadiev_-_ber_karadim_kuzlarena_berenche_variant.md)
 - [Татар халык / Фәтхерахман Әхмәдиев - Бер карадым күзләреңә (икенче вариант) / Татарский народ / Фәтхерахман Әхмәдиев - Однажды взглянул в твои глаза (второй вариант)](../translated/t/tatar_halik_fatherahman_ahmadiev_-_ber_karadim_kuzlarena_ikenche_variant.md)
 - [Татар халык бию такмагы - Бие, бие, биесәнә / Татарский народный танец - Бие, бие, биесәнә](../translated/t/tatar_halik_biyu_takmagi_-_bie_bie_biesana.md)
@@ -105,6 +98,13 @@
 - [Татар халык җыры - Ал Зәйнәбем / Татар халык җыры - О Зайнаб моя](../translated/t/tatar_halik_ciri_-_al_zaynabem.md)
 - [Татар халык җыры - Ал кадыйм түшләреңә / Татарская народная песня - Пусть приснюсь я тебе](../translated/t/tatar_halik_ciri_-_al_kadiym_tushlarena.md)
 - [Татар халык җыры - Алда гомер бар микән?.. (Авыл көе) / Татар халык җыры - Есть ли впереди еще жизнь?.. (Деревенский напев)](../translated/t/tatar_halik_ciri_-_alda_gomer_bar_mikan_avil_koe.md)
+- [Татар халык җыры - Аллар идең, гөлләр идең / Татарская народная песня - Алой была, цветком была](../translated/t/tatar_halik_ciri_-_allar_iden_gollar_iden.md)
+- [Татар халык җыры - Аллария-ләрия / Татар халык җыры - Аллария-ләрия](../translated/t/tatar_halik_ciri_-_allariya-lariya.md)
+- [Татар халык җыры - Алларым аллар ата / Татарская народная песня - Алларым аллар ата](../translated/t/tatar_halik_ciri_-_allarim_allar_ata.md)
+- [Татар халык җыры - Алларын алга манам (беренче вариант) / Татарская народная песня - Алую на алую похожа (первый вариант)](../translated/t/tatar_halik_ciri_-_allarin_alga_manam_berenche_variant.md)
+- [Татар халык җыры - Аллы-гөлле гөлчәчәк (беренче вариант) / Татарская народная песня - Цветочек с лепестками (первый вариант)](../translated/t/tatar_halik_ciri_-_alli-golle_golchachak_berenche_variant.md)
+- [Татар халык җыры - Аллы-гөлле гөлчәчәк (икенче вариант) / Татар халык җыры - Пёстрый цветок гөлчәчәк (второй вариант)](../translated/t/tatar_halik_ciri_-_alli-golle_golchachak_ikenche_variant.md)
+- [Татар халык җыры - Алма бакчасы / Татарская народная песня - Яблоневый сад](../translated/t/tatar_halik_ciri_-_alma_bakchasi.md)
 
 ---
 

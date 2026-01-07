@@ -5,13 +5,6 @@
 [← Предыдущая страница](SONGS_73.md) | [Главная страница](../README.md) | [Следующая страница →](SONGS_75.md)
 
 
-- [Татар халык җыры - Аллар идең, гөлләр идең / Татарская народная песня - Алой была, цветком была](../translated/t/tatar_halik_ciri_-_allar_iden_gollar_iden.md)
-- [Татар халык җыры - Аллария-ләрия / Татар халык җыры - Аллария-ләрия](../translated/t/tatar_halik_ciri_-_allariya-lariya.md)
-- [Татар халык җыры - Алларым аллар ата / Татарская народная песня - Алларым аллар ата](../translated/t/tatar_halik_ciri_-_allarim_allar_ata.md)
-- [Татар халык җыры - Алларын алга манам (беренче вариант) / Татарская народная песня - Алую на алую похожа (первый вариант)](../translated/t/tatar_halik_ciri_-_allarin_alga_manam_berenche_variant.md)
-- [Татар халык җыры - Аллы-гөлле гөлчәчәк (беренче вариант) / Татарская народная песня - Цветочек с лепестками (первый вариант)](../translated/t/tatar_halik_ciri_-_alli-golle_golchachak_berenche_variant.md)
-- [Татар халык җыры - Аллы-гөлле гөлчәчәк (икенче вариант) / Татар халык җыры - Пёстрый цветок гөлчәчәк (второй вариант)](../translated/t/tatar_halik_ciri_-_alli-golle_golchachak_ikenche_variant.md)
-- [Татар халык җыры - Алма бакчасы / Татарская народная песня - Яблоневый сад](../translated/t/tatar_halik_ciri_-_alma_bakchasi.md)
 - [Татар халык җыры - Алмагачлары / Татарская народная песня - Яблоневые деревья](../translated/t/tatar_halik_ciri_-_almagachlari.md)
 - [Татар халык җыры - Алматаның алмасы / Татарская народная песня - Яблоко Алматы](../translated/t/tatar_halik_ciri_-_almatanin_almasi.md)
 - [Татар халык җыры - Алсу (беренче вариант) / Татарская народная песня - Алсу (первый вариант)](../translated/t/tatar_halik_ciri_-_alsu_berenche_variant.md)
@@ -105,6 +98,13 @@
 - [Татар халык җыры - Кичке уен җыры "Наза" / Татар халык җыры - Вечерняя игровая песня «Наза»](../translated/t/tatar_halik_ciri_-_kichke_uen_ciri_naza.md)
 - [Татар халык җыры - Ком бураны / Татарская народная песня - Песчаная буря](../translated/t/tatar_halik_ciri_-_kom_burani.md)
 - [Татар халык җыры - Кошлар кебек (Кошларга, Кошкайларга) / Татар халык җыры - Песня народа: Как птицы (К птицам, Птичкам)](../translated/t/tatar_halik_ciri_-_koshlar_kebek_koshlarga_koshkaylarga.md)
+- [Татар халык җыры - Кошларга (беренче вариант) / Татарская народная песня - Птицам (первая версия)](../translated/t/tatar_halik_ciri_-_koshlarga_berenche_variant.md)
+- [Татар халык җыры - Кызыл төлке / Татар халык җыры - Рыжая лисица](../translated/t/tatar_halik_ciri_-_kizil_tolke.md)
+- [Татар халык җыры - Кыйгак / татар халык җыры - Кыйгак](../translated/t/tatar_halik_ciri_-_kiygak.md)
+- [Татар халык җыры - Кыр казы (беренче вариант) / Татарская народная песня - Полевой гусь (первый вариант)](../translated/t/tatar_halik_ciri_-_kir_kazi_berenche_variant.md)
+- [Татар халык җыры - Кырлай / Татарская народная песня - Кырлай](../translated/t/tatar_halik_ciri_-_kirlay.md)
+- [Татар халык җыры - Кыска җырлар (беренче вариант) / Татар халык җыры - Короткие песни (первый вариант)](../translated/t/tatar_halik_ciri_-_kiska_cirlar_berenche_variant.md)
+- [Татар халык җыры - Кыска җырлар (икенче вариант) / Татарская народная песня - Короткие песни (второй вариант)](../translated/t/tatar_halik_ciri_-_kiska_cirlar_ikenche_variant.md)
 
 ---
 

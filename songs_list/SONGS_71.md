@@ -5,14 +5,6 @@
 [← Предыдущая страница](SONGS_70.md) | [Главная страница](../README.md) | [Следующая страница →](SONGS_72.md)
 
 
-- [Сибгат Хәким / Алмаз Монасыйпов - Келиндерләр / Сибгат Хәким / Алмаз Монасыйпов - Клиндеры](../translated/s/sibgat_hakim_almaz_monasiypov_-_kelinderlar.md)
-- [Сибгат Хәким / Алмаз Монасыйпов - Сез һаман бергә икән... / Сибгат Хаким / Алмаз Монасыпов - Вы всегда вместе...](../translated/s/sibgat_hakim_almaz_monasiypov_-_sez_haman_berga_ikan.md)
-- [Сибгат Хәким / Алмаз Монасыйпов - Туй җыры (бишенче вариант) / Сибгат Хәким / Алмаз Монасыйпов - Свадебная песня (пятый вариант)](../translated/s/sibgat_hakim_almaz_monasiypov_-_tuy_ciri_bishenche_variant.md)
-- [Сибгат Хәким / Алмаз Хәмзин - Ник китәсез, кызлар, авыллардан? / Сибгат Хәким / Алмаз Хәмзин - Почему уезжаете, девушки, из деревень?](../translated/s/sibgat_hakim_almaz_hamzin_-_nik_kitasez_kizlar_avillardan.md)
-- [Сибгат Хәким / Заһид Хәбибуллин - Казакъ дустыма / Сибгат Хәким / Заһид Хәбибуллин - Казахскому другу](../translated/s/sibgat_hakim_zahid_habibullin_-_kazak_dustima.md)
-- [Сибгат Хәким / Зөфәр Хәйретдинов - Ишкәкче җыры (беренче вариант) / Сибгат Хәким / Зөфәр Хәйретдинов - Песня гребца (первый вариант)](../translated/s/sibgat_hakim_zofar_hayretdinov_-_ishkakche_ciri_berenche_variant.md)
-- [Сибгат Хәким / Мансур Мозаффаров - Ашкынып килдек без бу тормышка / Сибгат Хаким / Мансур Мозаффаров - Прорвались мы в эту жизнь](../translated/s/sibgat_hakim_mansur_mozaffarov_-_ashkinip_kildek_bez_bu_tormishka.md)
-- [Сибгат Хәким / Мансур Мозаффаров - Башка берни дә кирәкми / Сибгат Хәким / Мансур Мозаффаров - Больше ничего не нужно](../translated/s/sibgat_hakim_mansur_mozaffarov_-_bashka_berni_da_kirakmi.md)
 - [Сибгат Хәким / Мансур Мозаффаров - Кайда да йөрәктә / Сибгат Хәким / Мансур Мозаффаров - В сердце где бы ни был](../translated/s/sibgat_hakim_mansur_mozaffarov_-_kayda_da_yorakta.md)
 - [Сибгат Хәким / Нәҗип Җиһанов - Өзелгәнсең сиреньнән (беренче вариант) / Сибгат Хаким / Наджип Джиханов - Оборвалась ты от сирени (первый вариант)](../translated/s/sibgat_hakim_nacip_cihanov_-_ozelgansen_sirennan_berenche_variant.md)
 - [Сибгат Хәким / Нәҗип Җиһанов - Өзелгәнсең сиреньнән (икенче вариант) / Сибгат Хәким / Нәҗип Җиһанов - Ты будто сорвана с сирени (второй вариант)](../translated/s/sibgat_hakim_nacip_cihanov_-_ozelgansen_sirennan_ikenche_variant.md)
@@ -26,6 +18,7 @@
 - [Сибгат Хәким / Сара Садыйкова - Мин беренче чәчәкләрне эзлим / Сибгат Хаким / Сара Садыйкова - Я ищу первые цветы](../translated/s/sibgat_hakim_sara_sadiykova_-_min_berenche_chachaklarne_ezlim.md)
 - [Сибгат Хәким / Сара Садыйкова - Син йөрәктә минем, Арча / Сибгат Хәким / Сара Садыйкова - Ты в сердце моем, Арча](../translated/s/sibgat_hakim_sara_sadiykova_-_sin_yorakta_minem_archa.md)
 - [Сибгат Хәким / Сара Садыйкова - Син чыгасың, әнкәй, коега / Сибгат Хәким / Сара Садыйкова - Ты выходишь, мама, к колодцу](../translated/s/sibgat_hakim_sara_sadiykova_-_sin_chigasin_ankay_koega.md)
+- [Сибгат Хәким / Сара Садыйкова - Сусау / Сибгат Хәким / Сара Садыйкова - Жажда](../translated/s/sibgat_hakim_sara_sadiykova_-_susau.md)
 - [Сибгат Хәким / Сара Садыйкова - Туй итә Казан / Сибгат Хаким / Сара Садыкова - Гуляет Казань](../translated/s/sibgat_hakim_sara_sadiykova_-_tuy_ita_kazan.md)
 - [Сибгат Хәким / Сара Садыйкова - Уразай / Сибгать Хаким / Сара Садыкова - Уразай](../translated/s/sibgat_hakim_sara_sadiykova_-_urazay.md)
 - [Сибгат Хәким / Сара Садыйкова - Чәчәкләр җыям болында / Сибгат Хәким / Сара Садыйкова - Собираю цветы на лугу](../translated/s/sibgat_hakim_sara_sadiykova_-_chachaklar_ciyam_bolinda.md)
@@ -105,6 +98,13 @@
 - [Сәкинә Хәйруллина / Фирдүс Тямаев - Тормыш - көрәш (икенче вариант) / Сакина Хайруллина / Фирдус Тямаев - Жизнь - это борьба (второй вариант)](../translated/s/sakina_hayrullina_firdus_tyamaev_-_tormish_korash_ikenche_variant.md)
 - [Сәкинә Хәйруллина / Фирдүс Тямаев - Ялгыз торна / Сакина Хайруллина / Фирдус Тямаев - Одинокий журавль](../translated/s/sakina_hayrullina_firdus_tyamaev_-_yalgiz_torna.md)
 - [Сәкинә Хәйруллина / Чулпан Зиннәтуллина - Үткән көннәрне сагынмыйм! / Сакина Хайруллина / Чулпан Зиннатуллина - Не скучаю по прошедшим дням!](../translated/s/sakina_hayrullina_chulpan_zinnatullina_-_utkan_konnarne_saginmiym.md)
+- [Сәлимә Шарапова / Рифгать Алиев - Гүзәлем Чаллы / Салима Шарапова / Рифгать Алиев - Мой прекрасный Чаллы](../translated/s/salima_sharapova_rifgat_aliev_-_guzalem_challi.md)
+- [Сәмигулла Бикиев / Юлай Моратов - Яннарыма килсәңче / Самигулла Бикиев / Юлай Моратов - Приходи ко мне на свидание](../translated/s/samigulla_bikiev_yulay_moratov_-_yannarima_kilsanche.md)
+- [Сәрия Бикмөхәммәтова / Айнур Сәйфиев - Авылкаем (дүртенче вариант) / Сәрия Бикмөхәммәтова / Айнур Сәйфиев - Деревня моя (четвертый вариант)](../translated/s/sariya_bikmohammatova_aynur_sayfiev_-_avilkaem_durtenche_variant.md)
+- [Сәрия Вахитова / Гүзәл Диникеева - Туган ягыма (өченче вариант) / Сария Вахитова / Гузэль Диникеева - В родные края (третий вариант)](../translated/s/sariya_vahitova_guzal_dinikeeva_-_tugan_yagima_ochenche_variant.md)
+- [Сәрия Вахитова / Лилия Вахитова - Кайтсан иде яшь чакларга / Сәрия Вахитова / Лилия Вахитова - Если б вернуться в годы юные](../translated/s/sariya_vahitova_liliya_vahitova_-_kaytsan_ide_yash_chaklarga.md)
+- [Сәрия Вилданова / Мәсгуть Имашев - Чулпыларым бизи буемны / Сария Вилданова / Мәсгуть Имашев - Звёзды украшают мой берег](../translated/s/sariya_vildanova_masgut_imashev_-_chulpilarim_bizi_buemni.md)
+- [Сәрия Вилданова / Рәис Нәгыймов - Бәхетсез димәгез толларны / Сария Вилданова / Раис Нагимов - Не называйте вдов несчастными](../translated/s/sariya_vildanova_rais_nagiymov_-_bahetsez_dimagez_tollarni.md)
 
 ---
 

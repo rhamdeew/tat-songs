@@ -5,7 +5,6 @@
 [← Предыдущая страница](SONGS_84.md) | [Главная страница](../README.md) | [Следующая страница →](SONGS_86.md)
 
 
-- [Чулпан Муртазина - Пар канатым / Чулпан Муртазина - Пара крыльев](../translated/c/chulpan_murtazina-par_kanatym.md)
 - [Чулпан Муртазина - Синен туган конен / Чулпан Муртазина - Твой день рождения](../translated/c/chulpan_murtazina-sinen_tugan_konen.md)
 - [Чулпан Муртазина - Сомбел / Чулпан Муртазина - Сомбел](../translated/c/chulpan_murtazina-sombel.md)
 - [Чулпан Фиргали - Каршыма син кил әле / Чулпан Фиргали - Приди ко мне навстречу](../translated/c/chulpan_firgali_-_karshima_sin_kil_ale.md)
@@ -90,6 +89,7 @@
 - [Шәмсия Җиһангирова / Илфат Дәүләтшин - Каз өмәсе (икенче вариант) / Шәмсия Җиһангирова / Илфат Дәүләтшин - Казовая толока (второй вариант)](../translated/s/shamsiya_cihangirova_ilfat_daulatshin_-_kaz_omase_ikenche_variant.md)
 - [Шәмсия Җиһангирова / Илшат Хабибуллин - Сабан туена кайтыйк / Шәмсия Җиһангирова / Илшат Хабибуллин - Вернёмся на Сабантуй](../translated/s/shamsiya_cihangirova_ilshat_habibullin_-_saban_tuena_kaytiyk.md)
 - [Шәмсия Җиһангирова / Инсаф Хәбибуллин - Килерсеңме / Шәмсия Җиһангирова / Инсаф Хәбибуллин - Придёшь ли ты](../translated/s/shamsiya_cihangirova_insaf_habibullin_-_kilersenme.md)
+- [Шәмсия Җиһангирова / Луиза Батыр - Шәмсия Җиһангирова / Луиза Батыр-Болгари - Ниләр җитмидер күңелгә / Шәмсия Җиһангирова / Луиза Батыр-Болгари - Чего не хватает душе](../translated/s/shamsiya_cihangirova_luiza_batir-bolgari_-_nilar_citmider_kunelga.md)
 - [Шәмсия Җиһангирова / Луиза Батыр-Болгари - Кайчан гына килерсең син? / Шамсия Джихангирова / Луиза Батыр-Болгари - Когда же ты придёшь?](../translated/s/shamsiya_cihangirova_luiza_batir-bolgari_-_kaychan_gina_kilersen_sin.md)
 - [Шәмсия Җиһангирова / Луиза Батыр-Болгари - Ни өченбер безнең язмыш шундый / Шамиля Джихангирова / Луиза Батыр-Болгари - Почему же наша судьба такова?](../translated/s/shamsiya_cihangirova_luiza_batir-bolgari_-_ni_ochender_beznen_yazmish_shundiy.md)
 - [Шәмсия Җиһангирова / Луиза Штыркаева - Ниләр җитмидер күңелгә? / Шамсия Джиангирова / Луиза Штыркаева - Чего не хватает душе?](../translated/s/shamsiya_cihangirova_luiza_shtirkaeva_-_nilar_citmider_kunelga.md)
