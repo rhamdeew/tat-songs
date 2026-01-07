@@ -5,12 +5,6 @@
 [← Предыдущая страница](SONGS_82.md) | [Главная страница](../README.md) | [Следующая страница →](SONGS_84.md)
 
 
-- [Халидә Шәяхмәтова / Флүрә Үзәнбаева - Терәк булыр кешең кирәк / Халида Шахматова / Флюра Узенбаева - Нужен человек, который станет опорой](../translated/h/halida_shayahmatova_flura_uzanbaeva_-_terak_bulir_keshen_kirak.md)
-- [Халимхан Хабаров / Альберт Галимуллин - Яшьлек иле / Халимхан Хабаров / Альберт Галимуллин - Страна юности](../translated/h/halimhan_habarov_albert_galimullin_-_yashlek_ile.md)
-- [Халисә Мөдәрисова / Булат Йәнекәев - Вакыт (икенче вариант) / Халисә Мөдәрисова / Булат Йәнекәев - Время (второй вариант)](../translated/h/halisa_modarisova_bulat_yanekaev_-_vakit_ikenche_variant.md)
-- [Халисә Мөдәрисова / Луиза Хәйретдинова - Их, мине, кыюсызны! / Халисә Мөдәрисова / Луиза Хәйретдинова - Ах, я, несмелая!](../translated/h/halisa_modarisova_luiza_hayretdinova_-_ih_mine_kiyusizni.md)
-- [Халисә Мөдәрисова / Луиза Хәйретдинова - Ялгызың каласың ла... (Утырмадың атларыма) / Халисә Мөдәрисова / Луиза Хәйретдинова - Один останешься... (Не сел на коней моих)](../translated/h/halisa_modarisova_luiza_hayretdinova_-_yalgizin_kalasin_la_utirmadin_atlarima.md)
-- [Халисә Мөдәрисова / Мөдәрис Газетдинов - Араларда ай гына / Халисә Мөдәрисова / Мөдәрис Газетдинов - Меж берегами лишь луна](../translated/h/halisa_modarisova_modaris_gazetdinov_-_aralarda_ay_gina.md)
 - [Халисә Мөдәрисова / Мөдәрис Газетдинов - Бу гомер (икенче вариант) / Халисә Мөдәрисова / Мөдәрис Газетдинов - Эта жизнь (второй вариант)](../translated/h/halisa_modarisova_modaris_gazetdinov_-_bu_gomer_ikenche_variant.md)
 - [Халисә Мөдәрисова / Мөдәрис Газетдинов - Сагындым сөйгәнемне / Халисә Мөдәрисова / Мөдәрис Газетдинов - Скучаю по любимой](../translated/h/halisa_modarisova_modaris_gazetdinov_-_sagindim_soyganemne.md)
 - [Халисә Мөдәрисова / Мөдәрис Газетдинов - Танымадың / Халисә Мөдәрисова / Мөдәрис Газетдинов - Не узнала](../translated/h/halisa_modarisova_modaris_gazetdinov_-_tanimadin.md)
@@ -35,6 +29,7 @@
 - [Халык / Алмаз Монасыйпов - Өфе тараклары / Народ / Алмаз Монасыпов - Уфимские гребни](../translated/h/halik_almaz_monasiypov_-_ofe_taraklari.md)
 - [Халык / Асаф Вәлиев - Сине генә көттем мин / Народная / Асаф Вәлиев - Я ждал только тебя](../translated/h/halik_asaf_valiev_-_sine_gena_kottem_min.md)
 - [Халык / Афарим Акчурин - Агыйделне иңләп буйлап / Халык / Афәрим Акчурин - Вдоль и поперек Агидели](../translated/h/halik_afarim_akchurin_-_agiydelne_inlap_buylap.md)
+- [Халык / Афарим Акчурин - Оныта алмам / Халык / Афарим Акчурин - Не смогу забыть](../translated/h/halik_afarim_akchurin_-_onita_almam.md)
 - [Халык / Камил Рәхимов - Бригадир җыры (икенче вариант) / Халык / Камил Рәхимов - Песня бригадира (второй вариант)](../translated/h/halik_kamil_rahimov_-_brigadir_ciri_ikenche_variant.md)
 - [Халык / Ленар Бикмурзин - Каен ауган / Халык / Ленар Бикмурзин - Береза упала](../translated/h/halik_lenar_bikmurzin_-_kaen_augan.md)
 - [Халык / Лилия Баярс - Мәдинәм / Народ / Лилия Баярс - Мадинам](../translated/h/halik_liliya_bayars_-_madinam.md)
@@ -102,9 +97,14 @@
 - [Хафиз Гарифуллин - Сиңа ашкына күңел / Хафиз Гарифуллин - К тебе стремится душа](../translated/h/hafiz_garifullin_-_sina_ashkina_kunel.md)
 - [Хисмәтулла Дәүләтов - Ак яңгырлар / Хисматулла Дәүләтов - Белые дожди](../translated/h/hismatulla_daulatov_-_ak_yangirlar.md)
 - [Хәбибулла Фәтхуллин / Салих Сәйдәшев - Хуш, авылым / Хәбибулла Фәтхуллин / Салих Сәйдәшев - Прощай, родная деревня](../translated/h/habibulla_fathullin_salih_saydashev_-_hush_avilim.md)
+- [Хәбир Ибраһим / Мәсгуть Имашев - Авыл күле / Хабир Ибрахим / Мәсгут Имашев - Деревенское озеро](../translated/h/habir_ibrahim_masgut_imashev_-_avil_kule.md)
 - [Хәбир Ибраһим / Мәсгуть Имашев - Ак чәчәкләр бүләк иттең / Хәбир Ибраһим / Мәсгуть Имашев - Ты подарил белые цветы](../translated/h/habir_ibrahim_masgut_imashev_-_ak_chachaklar_bulak_itten.md)
 - [Хәй Вахит / Мансур Мозаффаров - Казан (беренче вариант) / Хәй Вахит / Мансур Мозаффаров - Казань (первый вариант)](../translated/h/hay_vahit_mansur_mozaffarov_-_kazan_berenche_variant.md)
 - [Хәй Вахит / Мәсгуть Имашев - Чакыру җыры / Хай Вахит / Масгут Имашев - Песня зова](../translated/h/hay_vahit_masgut_imashev_-_chakiru_ciri.md)
+- [Хәй Вахит / Рөстәм Яхин - Зәңгәр кичләр / Хәй Вахит / Рөстәм Яхин - Голубые вечера](../translated/h/hay_vahit_rostam_yahin_-_zangar_kichlar.md)
+- [Хәй Вахит / Сара Садыйкова - Газиз җыры / Хәй Вахит / Сара Садыйкова - Песня дорогого](../translated/h/hay_vahit_sara_sadiykova_-_gaziz_ciri.md)
+- [Хәй Вахит / Сара Садыйкова - Заһид җыры / Хай Вахит / Сара Садыйкова - Песня Захида](../translated/h/hay_vahit_sara_sadiykova_-_zahid_ciri.md)
+- [Хәй Вахит / Сара Садыйкова - Җамалый такмаклары / Хай Вахит / Сара Садикова - Песни Джамаля](../translated/h/hay_vahit_sara_sadiykova_-_camaliy_takmaklari.md)
 
 ---
 

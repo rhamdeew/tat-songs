@@ -5,10 +5,6 @@
 [← Предыдущая страница](SONGS_83.md) | [Главная страница](../README.md) | [Следующая страница →](SONGS_85.md)
 
 
-- [Хәй Вахит / Рөстәм Яхин - Зәңгәр кичләр / Хәй Вахит / Рөстәм Яхин - Голубые вечера](../translated/h/hay_vahit_rostam_yahin_-_zangar_kichlar.md)
-- [Хәй Вахит / Сара Садыйкова - Газиз җыры / Хәй Вахит / Сара Садыйкова - Песня дорогого](../translated/h/hay_vahit_sara_sadiykova_-_gaziz_ciri.md)
-- [Хәй Вахит / Сара Садыйкова - Заһид җыры / Хай Вахит / Сара Садыйкова - Песня Захида](../translated/h/hay_vahit_sara_sadiykova_-_zahid_ciri.md)
-- [Хәй Вахит / Сара Садыйкова - Җамалый такмаклары / Хай Вахит / Сара Садикова - Песни Джамаля](../translated/h/hay_vahit_sara_sadiykova_-_camaliy_takmaklari.md)
 - [Хәй Вахит / Хөснул Вәлиуллин - Зөһрә җыры (беренче вариант) / Хай Вахит / Хуснул Валиуллин - Песня Зухры (первый вариант)](../translated/h/hay_vahit_hosnul_valiullin_-_zohra_ciri_berenche_variant.md)
 - [Хәй Вахит / Хөснул Вәлиуллин - Саба көе / Хай Вахит / Хуснул Валиуллин - Мелодия Сабы](../translated/h/hay_vahit_hosnul_valiullin_-_saba_koe.md)
 - [Хәй Вахит / Хөснул Вәлиуллин - Яз айлары / Хай Вахит / Хоснул Валиуллин - Месяцы весны](../translated/h/hay_vahit_hosnul_valiullin_-_yaz_aylari.md)
@@ -68,6 +64,7 @@
 - [Хәмидулла Гыйбадуллин / Виталий Агапов - Мәндәемә кайтам / Хәмидулла Гыйбадуллин / Виталий Агапов - Возвращаюсь в Мәндәй](../translated/h/hamidulla_giybadullin_vitaliy_agapov_-_mandaema_kaytam.md)
 - [Хәмит Миңнегалиев / Илгиз Закиров - Актаныш - туган ягым / Хәмит Миңнегалиев / Илгиз Закиров - Актаныш - родной край](../translated/h/hamit_minnegaliev_ilgiz_zakirov_-_aktanish_tugan_yagim.md)
 - [Хәмит Миңнегалиев / Инсаф Хәбибуллин - Дуслык җыры (беренче вариант) / Хамит Миннегалиев / Инсаф Хабибуллин - Песня о дружбе (первый вариант)](../translated/h/hamit_minnegaliev_insaf_habibullin_-_duslik_ciri_berenche_variant.md)
+- [Хәмит Төхвәтуллин / Сара Садыйкова - Ник әйләнеп карамадың? / Хәмит Төхвәтуллин / Сара Садыйкова - Почему не обернулся ты?](../translated/h/hamit_tohvatullin_sara_sadiykova_-_nik_aylanep_karamadin.md)
 - [Хәмит Хабибов / Нур Даутов - Нәнәемә (икенче вариант) / Хәмит Хабибов / Нур Даутов - Бабушке (второй вариант)](../translated/h/hamit_habibov_nur_dautov_-_nanaema_ikenche_variant.md)
 - [Хәниф Кәрим / Нариман Сабитов - Әйдә, иптәш, кушыл безнең җырга / Ханиф Кәрим / Нариман Сабитов - Айда, товарищ, присоединись к нашей песне](../translated/h/hanif_karim_nariman_sabitov_-_ayda_iptash_kushil_beznen_cirga.md)
 - [Хәниф Хөснуллин / Илгиз Закиров - Авылым урамнары (беренче вариант) / Ханиф Хоснуллин / Илгиз Закиров - Улицы моей деревни (первый вариант)](../translated/h/hanif_hosnullin_ilgiz_zakirov_-_avilim_uramnari_berenche_variant.md)
@@ -90,6 +87,8 @@
 - [Хәсән Туфан / Заһир Исмәгыйлев - Тургай (икенче вариант) / Хасан Туфан / Загир Исмагилев - Жаворонок (второй вариант)](../translated/h/hasan_tufan_zahir_ismagiylev_-_turgay_ikenche_variant.md)
 - [Хәсән Туфан / Зөфәр Хәйретдинов - Туган җир алтын / Хасан Туфан / Зуфар Хайретдинов - Родная земля - золото](../translated/h/hasan_tufan_zofar_hayretdinov_-_tugan_cir_altin.md)
 - [Хәсән Туфан / Марс Макаров - Ай чыга Арча кырыннан / Хәсән Туфан / Марс Макаров - Луна встает над Арчинским полем](../translated/h/hasan_tufan_mars_makarov_-_ay_chiga_archa_kirinnan.md)
+- [Хәсән Туфан / Марс Макаров - Киек казлар (беренче вариант) / Хәсән Туфан / Марс Макаров - Дикие гуси (первый вариант)](../translated/h/hasan_tufan_mars_makarov_-_kiek_kazlar_berenche_variant.md)
+- [Хәсән Туфан / Марс Макаров - Юксындырсаң, нишләрмен? / Хәсән Туфан / Марс Макаров - Если станешь тосковать, что мне делать?](../translated/h/hasan_tufan_mars_makarov_-_yuksindirsan_nishlarmen.md)
 - [Хәсән Туфан / Мәсгудә Шәмсетдинова - Без дә чыдарбыз микән? / Хәсән Туфан / Мәсгудә Шәмсетдинова - Сможем ли мы выдержать?](../translated/h/hasan_tufan_masguda_shamsetdinova_-_bez_da_chidarbiz_mikan.md)
 - [Хәсән Туфан / Мәсәлим Вәлиев - Ак каен (өченче вариант) / Хасан Туфан / Масалим Валиев - Белая береза (третий вариант)](../translated/h/hasan_tufan_masalim_valiev_-_ak_kaen_ochenche_variant.md)
 - [Хәсән Туфан / Нур Даутов - Чаган / Хәсән Туфан / Нур Даутов - Чаган](../translated/h/hasan_tufan_nur_dautov_-_chagan.md)
@@ -105,6 +104,7 @@
 - [Хәсән Туфан / Җәүдәт Усманов - Белми калдым (икенче вариант) / Хәсән Туфан / Җәүдәт Усманов - Не успел понять (второй вариант)](../translated/h/hasan_tufan_caudat_usmanov_-_belmi_kaldim_ikenche_variant.md)
 - [Хәсән Туфан / Әнвәр Бакиров - Әйткән идең ... / Хасан Туфан / Анвар Бакиров - Ты сказала ...](../translated/h/hasan_tufan_anvar_bakirov_-_aytkan_iden.md)
 - [Хәсән Шабанов / Әнвәр Бакиров - Алтын кырларда / Хасан Шабанов / Анвар Бакиров - На золотых полях](../translated/h/hasan_shabanov_anvar_bakirov_-_altin_kirlarda.md)
+- [Хөснулла Түләкәев / Фәүзә Гасакирова - Сагышлы күңел / Хуснулла Тулакаев / Фауза Гасакирова - Тосковливая душа](../translated/h/hosnulla_tulakaev_fauza_gasakirova_-_sagishli_kunel.md)
 
 ---
 

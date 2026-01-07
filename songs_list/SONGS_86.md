@@ -5,7 +5,6 @@
 [← Предыдущая страница](SONGS_85.md) | [Главная страница](../README.md) | [Следующая страница →](SONGS_87.md)
 
 
-- [Шәмсия Җиһангирова / Марсель Иванов - Исеңә төшәр, соң булыр / Шәмсия Җиһангирова / Марсель Иванов - Вспомнишь - будет поздно](../translated/s/shamsiya_cihangirova_marsel_ivanov_-_isena_toshar_son_bulir.md)
 - [Шәмсия Җиһангирова / Мәсгудә Шәмсетдинова - Йоклыйсым килә / Шәмсия Җиһангирова / Мәсгудә Шәмсетдинова - Мне хочется спать](../translated/s/shamsiya_cihangirova_masguda_shamsetdinova_-_yokliysim_kila.md)
 - [Шәмсия Җиһангирова / Мөхтәр Минһаҗев - Уйламый гына ярат / Шәмсия Җиһангирова / Мөхтәр Минһаҗев - Люби, не раздумывая](../translated/s/shamsiya_cihangirova_mohtar_minhacev_-_uylamiy_gina_yarat.md)
 - [Шәмсия Җиһангирова / Нурия Абдуллина - Китә алсаң, үзең кит миннән / Шамсия Джихангирова / Нурия Абдуллина - Если можешь уйти, уйди сама](../translated/s/shamsiya_cihangirova_nuriya_abdullina_-_kita_alsan_uzen_kit_minnan.md)
@@ -105,6 +104,7 @@
 - [Эдуард Хәмидуллин - Карлыган / Эдуард Хамидуллин - Клюква](../translated/e/eduard_hamidullin_-_karligan.md)
 - [Эжен Потье / Пьер Дегейтер - Интернационал / Эжен Потье / Пьер Дегейтер - Интернационал](../translated/e/ezhen_pote_per_degeyter_-_internatsional.md)
 - [Элиза Гариф / Альбина Гарипова - Нурлы Казаным (икенче вариант) / Эльза Гариф / Альбина Гарипова - Светлый Казан мой (второй вариант)](../translated/e/eliza_garif_albina_garipova_-_nurli_kazanim_ikenche_variant.md)
+- [Элиза Гариф / Ганс Сәйфуллин - Сөюләрем яна-көя / Элиза Гариф / Ганс Сайфуллин - Мои поцелуи пламенем](../translated/e/eliza_garif_gans_sayfullin_-_soyularem_yana-koya.md)
 
 ---
 

@@ -5,7 +5,6 @@
 [← Предыдущая страница](SONGS_86.md) | [Главная страница](../README.md) | [Следующая страница →](SONGS_88.md)
 
 
-- [Элиза Гариф / Ганс Сәйфуллин - Сөюләрем яна-көя / Элиза Гариф / Ганс Сайфуллин - Мои поцелуи пламенем](../translated/e/eliza_garif_gans_sayfullin_-_soyularem_yana-koya.md)
 - [Элиза Гариф / Лилия Ахунҗанова - Ак бәхетләр телибез / Елизавета Гариф / Лилия Ахунджанова - Белые счастья желаем](../translated/e/eliza_garif_liliya_ahuncanova_-_ak_bahetlar_telibez.md)
 - [Элиза Гариф / Лилия Ахунҗанова - Әни, әни / Элиза Гариф / Лилия Ахунджанова - Мама, мама](../translated/e/eliza_garif_liliya_ahuncanova_-_ani_ani.md)
 - [Элина Балагутдинова - Бие дустым / Элина Балагутдинова - Мои любимые танцы](../translated/e/elina_balagutdinova_-_bie_dustim.md)
@@ -105,6 +104,7 @@
 - [Эльнара Нурмухаметова - Агар кичлэр / Эльнара Нурмухаметова - Белые вечера](../translated/e/elnara_nurmuhametova-agar_kichler.md)
 - [Эльнара Нурмухаметова - Ике фэрештэ / Эльнара Нурмухаметова - Два ангела](../translated/e/elnara_nurmuhametova-ike_fereshte.md)
 - [Эльнара Нурмухаметова - Нигэ / Эльнара Нурмухаметова - Почему](../translated/e/elnara_nurmuhametova-nige.md)
+- [Эльнара Нурмухаметова - Тик син диеп / Эльнара Нурмухаметова - Только тебя говоря](../translated/e/elnara_nurmuhametova-tik_sin_diep.md)
 
 ---
 

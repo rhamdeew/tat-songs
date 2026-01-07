@@ -5,7 +5,6 @@
 [← Предыдущая страница](SONGS_84.md) | [Главная страница](../README.md) | [Следующая страница →](SONGS_86.md)
 
 
-- [Хөснулла Түләкәев / Фәүзә Гасакирова - Сагышлы күңел / Хуснулла Тулакаев / Фауза Гасакирова - Тосковливая душа](../translated/h/hosnulla_tulakaev_fauza_gasakirova_-_sagishli_kunel.md)
 - [Хөсәен Ягьфәров / Фәрит Хатыйпов - Мин югалмам / Хөсәен Ягьфәров / Фәрит Хатыйпов - Я не исчезну](../translated/h/hosaen_yagfarov_farit_hatiypov_-_min_yugalmam.md)
 - [Хөсәен Әхмәтов - Туган авылым (дүртенче вариант) / Хусаен Ахматов - Родная деревня (четвёртый вариант)](../translated/h/hosaen_ahmatov_-_tugan_avilim_durtenche_variant.md)
 - [Хөсәен Әхмәтов - Туган авылым (икенче вариант) / Хөсәен Әхмәтов - Родная деревня (второй вариант)](../translated/h/hosaen_ahmatov_-_tugan_avilim_ikenche_variant.md)
@@ -105,6 +104,7 @@
 - [Шәмсия Җиһангирова / Луиза Штыркаева - Ниләр җитмидер күңелгә? / Шамсия Джиангирова / Луиза Штыркаева - Чего не хватает душе?](../translated/s/shamsiya_cihangirova_luiza_shtirkaeva_-_nilar_citmider_kunelga.md)
 - [Шәмсия Җиһангирова / Марат Мухин - Булмас димә / Шамсия Җиһангирова / Марат Мухин - Не говори: не сбудется](../translated/s/shamsiya_cihangirova_marat_muhin_-_bulmas_dima.md)
 - [Шәмсия Җиһангирова / Марат Мухин - Әллә нәрсә булды миңа быел язда / Шамиля Джихангирова / Марат Мухин - Что-то произошло со мной этим летом](../translated/s/shamsiya_cihangirova_marat_muhin_-_alla_narsa_buldi_mina_biel_yazda.md)
+- [Шәмсия Җиһангирова / Марсель Иванов - Исеңә төшәр, соң булыр / Шәмсия Җиһангирова / Марсель Иванов - Вспомнишь - будет поздно](../translated/s/shamsiya_cihangirova_marsel_ivanov_-_isena_toshar_son_bulir.md)
 
 ---
 

@@ -5,14 +5,6 @@
 [← Предыдущая страница](SONGS_79.md) | [Главная страница](../README.md) | [Следующая страница →](SONGS_81.md)
 
 
-- [Флария Терегулова / Фирзәр Мортазин - Бәхетемне эзлим / Флария Терегулова / Фирзәр Мортазин - Ищу свое счастье](../translated/f/flariya_teregulova_firzar_mortazin_-_bahetemne_ezlim.md)
-- [Флария Терегулова / Фирзәр Мортазин - Гомер юлы (икенче вариант) / Флария Терегулова / Фирзәр Мортазин - Дорога жизни (второй вариант)](../translated/f/flariya_teregulova_firzar_mortazin_-_gomer_yuli_ikenche_variant.md)
-- [Флария Терегулова / Фирзәр Мортазин - Гомерләр ике килми / Флария Терегулова / Фирзар Мортазин - Жизнь не повторится](../translated/f/flariya_teregulova_firzar_mortazin_-_gomerlar_ike_kilmi.md)
-- [Флария Терегулова / Фирзәр Мортазин - Илтсен сиңа юлларым / Флария Терегулова / Фирзәр Мортазин - Пусть дороги ведут к тебе](../translated/f/flariya_teregulova_firzar_mortazin_-_iltsen_sina_yullarim.md)
-- [Флария Терегулова / Фирзәр Мортазин - Кайтам балачакка / Флария Терегулова / Фирзәр Мортазин - Вернусь в детство](../translated/f/flariya_teregulova_firzar_mortazin_-_kaytam_balachakka.md)
-- [Флария Терегулова / Фирзәр Мортазин - Ышанма (беренче вариант) / Флария Терегулова / Фирзар Мортазин - Не верь (первый вариант)](../translated/f/flariya_teregulova_firzar_mortazin_-_ishanma_berenche_variant.md)
-- [Флария Терегулова / Фирзәр Мортазин - Җавапсыз мәхәббәт (беренче вариант) / Флария Терегулова / Фирзәр Мортазин - Безответная любовь (первый вариант)](../translated/f/flariya_teregulova_firzar_mortazin_-_cavapsiz_mahabbat_berenche_variant.md)
-- [Флария Терегулова / Шамил Шәрипов - Ап-ак карлар ява / Флария Терегулова / Шамиль Шарипов - Белые снега идут](../translated/f/flariya_teregulova_shamil_sharipov_-_ap-ak_karlar_yava.md)
 - [Флария Терегулова / Шамил Шәрипов - Вәгъдәләшкән таллар / Флария Терегулова / Шамил Шарипов - Обещанные ивы](../translated/f/flariya_teregulova_shamil_sharipov_-_vagdalashkan_tallar.md)
 - [Флария Терегулова / Шамил Шәрипов - Оныта алмам инде / Флария Терегулова / Шамил Шарипов - Уже не смогу забыть](../translated/f/flariya_teregulova_shamil_sharipov_-_onita_almam_inde.md)
 - [Флера Васикова / Фирдүс Тямаев - Язмыштан юк узмыш / Флера Васикова / Фирдүс Тямаев - От судьбы не уйти](../translated/f/flera_vasikova_firdus_tyamaev_-_yazmishtan_yuk_uzmish.md)
@@ -105,6 +97,14 @@
 - [Фәнис Яруллин / Рамил Мифтахов - Кара миләш / Фанис Яруллин / Рамил Мифтахов - Чёрная рябина](../translated/f/fanis_yarullin_ramil_miftahov_-_kara_milash.md)
 - [Фәнис Яруллин / Резеда Гарипова - Моннан соң беркемне сөймәм / Фанис Яруллин / Резеда Гарипова - Больше никого не полюблю](../translated/f/fanis_yarullin_rezeda_garipova_-_monnan_son_berkemne_soymam.md)
 - [Фәнис Яруллин / Резидә Төхвәтуллина - Булды инде... / Фанис Яруллин / Резида Тухватуллина - Всё уже было...](../translated/f/fanis_yarullin_rezida_tohvatullina_-_buldi_inde.md)
+- [Фәнис Яруллин / Риф Гатауллин - Бер-беребез өчен / Фанис Яруллин / Риф Гатауллин - Друг для друга](../translated/f/fanis_yarullin_rif_gataullin_-_ber-berebez_ochen.md)
+- [Фәнис Яруллин / Риф Гатауллин - Вәгъдәләр бирмим / Фанис Яруллин / Риф Гатауллин - Не даю обещаний](../translated/f/fanis_yarullin_rif_gataullin_-_vagdalar_birmim.md)
+- [Фәнис Яруллин / Риф Гатауллин - Сөялдем сөяннәргә (беренче вариант) / Фанис Яруллин / Риф Гатауллин - Прильнула к любящим](../translated/f/fanis_yarullin_rif_gataullin_-_soyaldem_soyannarga_berenche_variant.md)
+- [Фәнис Яруллин / Риф Гатауллин - Сөялдем сөяннәргә (икенче вариант) / Фанис Яруллин / Риф Гатауллин - Полюбил любящих (второй вариант)](../translated/f/fanis_yarullin_rif_gataullin_-_soyaldem_soyannarga_ikenche_variant.md)
+- [Фәнис Яруллин / Рөстәм Хәйруллин - Бирмә мине беркемгә дә / Фанис Яруллин / Рустам Хайруллин - Не отдавай меня никому](../translated/f/fanis_yarullin_rostam_hayrullin_-_birma_mine_berkemga_da.md)
+- [Фәнис Яруллин / Фасил Әхмәтов - Бирмә мине / Фанис Яруллин / Фасиль Ахметов - Не отдавай меня](../translated/f/fanis_yarullin_fasil_ahmatov_-_birma_mine.md)
+- [Фәнис Яруллин / Фасил Әхмәтов - Кем елый соң? / Фанис Яруллин / Фасил Ахметов - Кто же плачет?](../translated/f/fanis_yarullin_fasil_ahmatov_-_kem_eliy_son.md)
+- [Фәнис Яруллин / Фасил Әхмәтов - Мин синеке / Фанис Яруллин / Фасил Ахметов - Я твоя](../translated/f/fanis_yarullin_fasil_ahmatov_-_min_sineke.md)
 
 ---
 

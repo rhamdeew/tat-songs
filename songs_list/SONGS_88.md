@@ -5,7 +5,6 @@
 [← Предыдущая страница](SONGS_87.md) | [Главная страница](../README.md) | [Следующая страница →](SONGS_89.md)
 
 
-- [Эльнара Нурмухаметова - Тик син диеп / Эльнара Нурмухаметова - Только тебя говоря](../translated/e/elnara_nurmuhametova-tik_sin_diep.md)
 - [Эльс Гадел / Рөстәм Яхин - Салагышта үскән камыш мин / Эльс Гадель / Ростам Яхин - Я тростник, выросший в тоске](../translated/e/els_gadel_rostam_yahin_-_salagishta_uskan_kamish_min.md)
 - [Эмиль Айзатулла - Алдама / Эмиль Айзатулла - Не обманывай](../translated/e/emil_ayzatulla-aldama.md)
 - [Эмиль Айзатулла - Жэйге жылы янгыр / Эмиль Айзатулла - Летний тёплый дождь](../translated/e/emil_ayzatulla-zheyge_zhyly_yangyr.md)
@@ -105,6 +104,7 @@
 - [Җәмилә Низаметдин / Айдар Гайнуллин - Сине сөйгән кебек, бер кемне дә сөя алмам! / Джамиля Низаметдин / Айдар Гайнуллин - Так, как любила тебя, никого не смогу полюбить!](../translated/c/camila_nizametdin_aydar_gaynullin_-_sine_soygan_kebek_ber_kemne_da_soya_almam.md)
 - [Җәүдәт Дәрзаман / Гали Ильясов - Синең өчен (беренче вариант) / Джаудат Дарзаман / Гали Ильясов - Для тебя (первый вариант)](../translated/c/caudat_darzaman_gali_ilyasov_-_sinen_ochen_berenche_variant.md)
 - [Җәүдәт Дәрзаман / Гали Ильясов - Синең өчен (унынчы вариант) / Джаудат Дарзаман / Гали Ильясов - Для тебя (десятый вариант)](../translated/c/caudat_darzaman_gali_ilyasov_-_sinen_ochen_uninchi_variant.md)
+- [Җәүдәт Дәрзаман / Муса Маликов - Сугыш кайтавазы / Джаудат Дарзаман / Муса Маликов - Эхо войны](../translated/c/caudat_darzaman_musa_malikov_-_sugish_kaytavazi.md)
 
 ---
 

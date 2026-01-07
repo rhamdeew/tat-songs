@@ -5,14 +5,6 @@
 [← Предыдущая страница](SONGS_81.md) | [Главная страница](../README.md) | [Следующая страница →](SONGS_83.md)
 
 
-- [Фәнәвис Дәүләтбаев / Рәсимә Денисламова - Асылкошым - сандугачым / Фанавис Давлетбаев / Рассимя Денисламова - Милый моя - соловей мой](../translated/f/fanavis_daulatbaev_rasima_denislamova_-_asilkoshim_sandugachim.md)
-- [Фәнәвис Дәүләтбаев / Рәсимә Денисламова - Бисмилла / Фанавис Даулатбаев / Расима Денисламова - Бисмилла](../translated/f/fanavis_daulatbaev_rasima_denislamova_-_bismilla.md)
-- [Фәнәвис Дәүләтбаев / Рәсимә Денисламова - Гашыйклар көне / Фәнәвис Дәүләтбаев / Рәсимә Денисламова - День влюблённых](../translated/f/fanavis_daulatbaev_rasima_denislamova_-_gashiyklar_kone.md)
-- [Фәнәвис Дәүләтбаев / Рәсимә Денисламова - Гомерләр үтеп бара / Фанавис Даулатбаев / Рашима Денисламова - Жизни проходят](../translated/f/fanavis_daulatbaev_rasima_denislamova_-_gomerlar_utep_bara.md)
-- [Фәнәвис Дәүләтбаев / Рәсимә Денисламова - Иманлы бул / Фәнәвис Дәүләтбаев / Рәсимә Денисламова - Верь](../translated/f/fanavis_daulatbaev_rasima_denislamova_-_imanli_bul.md)
-- [Фәнәвис Дәүләтбаев / Рәсимә Денисламова - Ишеттерче сөю сүзләреңне / Фанавис Даулатбаев / Рашима Денисламова - Скажи ты мне слова любви](../translated/f/fanavis_daulatbaev_rasima_denislamova_-_ishetterche_soyu_suzlarenne.md)
-- [Фәнәвис Дәүләтбаев / Рәсимә Денисламова - Киттең калдырып / Фанавис Даулатбаев / Ризия Денисламова - Ушел, оставив](../translated/f/fanavis_daulatbaev_rasima_denislamova_-_kitten_kaldirip.md)
-- [Фәнәвис Дәүләтбаев / Рәсимә Денисламова - Күбәләк кар / Фанавис Даулатбаев / Ризама Денисламова - Бабочка-снег](../translated/f/fanavis_daulatbaev_rasima_denislamova_-_kubalak_kar.md)
 - [Фәнәвис Дәүләтбаев / Рәсимә Денисламова - Көзге яңгыр / Фанавис Давлетбаев / Ризама Денисламова - Осенний дождь](../translated/f/fanavis_daulatbaev_rasima_denislamova_-_kozge_yangir.md)
 - [Фәнәвис Дәүләтбаев / Рәсимә Денисламова - Сагындырып яшә! / Фәнәвис Дәүләтбаев / Рәсимә Дәнисламова - Сагындырып яшә!](../translated/f/fanavis_daulatbaev_rasima_denislamova_-_sagindirip_yasha.md)
 - [Фәнәвис Дәүләтбаев / Рәсимә Денисламова - Сау бул мәхәббәтем! / Фанавис Даулатбаев / Ризия Денисламова - Здравствуй, моя любовь!](../translated/f/fanavis_daulatbaev_rasima_denislamova_-_sau_bul_mahabbatem.md)
@@ -58,6 +50,7 @@
 - [Фәридә Ибраһимова / Вәгыйзь Газизов - Түз, атым / Фарида Ибрагимова / Вагиз Газизов - Терпи, мой конь](../translated/f/farida_ibrahimova_vagiyz_gazizov_-_tuz_atim.md)
 - [Фәридә Тимербаева / Роберт Тимербаев - Искән җил / Фәридә Тимербаева / Роберт Тимербаев - Веющий ветер](../translated/f/farida_timerbaeva_robert_timerbaev_-_iskan_cil.md)
 - [Фәридә Тимербаева / Роберт Тимербаев - Кантюковка юллары / Фарида Тимербаева / Роберт Тимербаев - Дороги Кантюковки](../translated/f/farida_timerbaeva_robert_timerbaev_-_kantyukovka_yullari.md)
+- [Фәридә Тимербаева / Роберт Тимербаев - Сабырлык (дүртенче вариант) / Фарида Тимербаева / Роберт Тимербаев - Сабырлык (четвертый вариант)](../translated/f/farida_timerbaeva_robert_timerbaev_-_sabirlik_durtenche_variant.md)
 - [Фәридә Тимербаева / Роберт Тимербаев - Әй, гомер! / Фариде Тимербаева / Роберт Тимербаев - Ах, жизнь!](../translated/f/farida_timerbaeva_robert_timerbaev_-_ay_gomer.md)
 - [Фәридә Шакирова / Сәит Абдуллин - Ташлама (икенче вариант) / Фарида Шакирова / Саит Абдуллин - Не оставляй (второй вариант)](../translated/f/farida_shakirova_sait_abdullin_-_tashlama_ikenche_variant.md)
 - [Фәрит Аббясов / Эльвира Хаматнурова - Сафаҗәем / Фарит Аббясов / Эльвира Хаматнурова - Сафаджаем](../translated/f/farit_abbyasov_elvira_hamatnurova_-_safacaem.md)
@@ -90,6 +83,7 @@
 - [Фәүзия Мөхәммәтова / Илфат Дәүләтшин - Түзәргә кирәк (икенче вариант) / Фаузия Мухаметова / Илфат Даулатшин - Нужно терпеть (второй вариант)](../translated/f/fauziya_mohammatova_ilfat_daulatshin_-_tuzarga_kirak_ikenche_variant.md)
 - [Фәүзия Мөхәммәтова / Оскар Усманов - Бәхетле пар идегез сез / Фәүзия Мөхәммәтова / Оскар Усманов - Вы были счастливой парой](../translated/f/fauziya_mohammatova_oskar_usmanov_-_bahetle_par_idegez_sez.md)
 - [Фәүзия Мөхәммәтова / Рамил Мифтахов - Мәңгелек ярым син / Фәүзия Мөхәммәтова / Рамил Мифтахов - Ты моя вечная половина](../translated/f/fauziya_mohammatova_ramil_miftahov_-_mangelek_yarim_sin.md)
+- [Фәүзия Мөхәммәтова / Рамил Мифтахов - Чияләр / Фаузия Мөхаммәтова / Рамиль Мифтахов - Вишни](../translated/f/fauziya_mohammatova_ramil_miftahov_-_chiyalar.md)
 - [Фәүзия Мөхәммәтова / Риваль Хисмәтуллин - Насыйп ярым (икенче вариант) / Фаузия Мухамматова / Риваль Хисматуллин - Судьбы моей половина (второй вариант)](../translated/f/fauziya_mohammatova_rival_hismatullin_-_nasiyp_yarim_ikenche_variant.md)
 - [Фәүзия Мөхәммәтова / Урал Рәшитов - Кеше сүзе / Фавзия Мухамматова / Урал Рашитов - Человеческое слово](../translated/f/fauziya_mohammatova_ural_rashitov_-_keshe_suze.md)
 - [Фәүзия Мөхәммәтова / Фәрит Хатыйпов - Соңарган бәхет / Фаузия Мухаметова / Фарит Хатыйпов - Запоздалое счастье](../translated/f/fauziya_mohammatova_farit_hatiypov_-_sonargan_bahet.md)
@@ -105,6 +99,12 @@
 - [Халидә Шәяхмәтова / Риф Бикбаев - Фәнүзәкәй / Халида Шаяхматова / Риф Бикбаев - Фанузакая](../translated/h/halida_shayahmatova_rif_bikbaev_-_fanuzakay.md)
 - [Халидә Шәяхмәтова / Флүрә Үзәнбаева - Баламның балалары / Халида Шаяхметова / Флурэ Узэнбаева - Дети моего ребёнка](../translated/h/halida_shayahmatova_flura_uzanbaeva_-_balamnin_balalari.md)
 - [Халидә Шәяхмәтова / Флүрә Үзәнбаева - Очрашыйк ешрак / Халидә Шәяхмәтова / Флүрә Үзәнбаева - Встречаться почаще](../translated/h/halida_shayahmatova_flura_uzanbaeva_-_ochrashiyk_eshrak.md)
+- [Халидә Шәяхмәтова / Флүрә Үзәнбаева - Терәк булыр кешең кирәк / Халида Шахматова / Флюра Узенбаева - Нужен человек, который станет опорой](../translated/h/halida_shayahmatova_flura_uzanbaeva_-_terak_bulir_keshen_kirak.md)
+- [Халимхан Хабаров / Альберт Галимуллин - Яшьлек иле / Халимхан Хабаров / Альберт Галимуллин - Страна юности](../translated/h/halimhan_habarov_albert_galimullin_-_yashlek_ile.md)
+- [Халисә Мөдәрисова / Булат Йәнекәев - Вакыт (икенче вариант) / Халисә Мөдәрисова / Булат Йәнекәев - Время (второй вариант)](../translated/h/halisa_modarisova_bulat_yanekaev_-_vakit_ikenche_variant.md)
+- [Халисә Мөдәрисова / Луиза Хәйретдинова - Их, мине, кыюсызны! / Халисә Мөдәрисова / Луиза Хәйретдинова - Ах, я, несмелая!](../translated/h/halisa_modarisova_luiza_hayretdinova_-_ih_mine_kiyusizni.md)
+- [Халисә Мөдәрисова / Луиза Хәйретдинова - Ялгызың каласың ла... (Утырмадың атларыма) / Халисә Мөдәрисова / Луиза Хәйретдинова - Один останешься... (Не сел на коней моих)](../translated/h/halisa_modarisova_luiza_hayretdinova_-_yalgizin_kalasin_la_utirmadin_atlarima.md)
+- [Халисә Мөдәрисова / Мөдәрис Газетдинов - Араларда ай гына / Халисә Мөдәрисова / Мөдәрис Газетдинов - Меж берегами лишь луна](../translated/h/halisa_modarisova_modaris_gazetdinov_-_aralarda_ay_gina.md)
 
 ---
 

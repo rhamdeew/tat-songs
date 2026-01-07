@@ -5,14 +5,6 @@
 [← Предыдущая страница](SONGS_80.md) | [Главная страница](../README.md) | [Следующая страница →](SONGS_82.md)
 
 
-- [Фәнис Яруллин / Риф Гатауллин - Бер-беребез өчен / Фанис Яруллин / Риф Гатауллин - Друг для друга](../translated/f/fanis_yarullin_rif_gataullin_-_ber-berebez_ochen.md)
-- [Фәнис Яруллин / Риф Гатауллин - Вәгъдәләр бирмим / Фанис Яруллин / Риф Гатауллин - Не даю обещаний](../translated/f/fanis_yarullin_rif_gataullin_-_vagdalar_birmim.md)
-- [Фәнис Яруллин / Риф Гатауллин - Сөялдем сөяннәргә (беренче вариант) / Фанис Яруллин / Риф Гатауллин - Прильнула к любящим](../translated/f/fanis_yarullin_rif_gataullin_-_soyaldem_soyannarga_berenche_variant.md)
-- [Фәнис Яруллин / Риф Гатауллин - Сөялдем сөяннәргә (икенче вариант) / Фанис Яруллин / Риф Гатауллин - Полюбил любящих (второй вариант)](../translated/f/fanis_yarullin_rif_gataullin_-_soyaldem_soyannarga_ikenche_variant.md)
-- [Фәнис Яруллин / Рөстәм Хәйруллин - Бирмә мине беркемгә дә / Фанис Яруллин / Рустам Хайруллин - Не отдавай меня никому](../translated/f/fanis_yarullin_rostam_hayrullin_-_birma_mine_berkemga_da.md)
-- [Фәнис Яруллин / Фасил Әхмәтов - Бирмә мине / Фанис Яруллин / Фасиль Ахметов - Не отдавай меня](../translated/f/fanis_yarullin_fasil_ahmatov_-_birma_mine.md)
-- [Фәнис Яруллин / Фасил Әхмәтов - Кем елый соң? / Фанис Яруллин / Фасил Ахметов - Кто же плачет?](../translated/f/fanis_yarullin_fasil_ahmatov_-_kem_eliy_son.md)
-- [Фәнис Яруллин / Фасил Әхмәтов - Мин синеке / Фанис Яруллин / Фасил Ахметов - Я твоя](../translated/f/fanis_yarullin_fasil_ahmatov_-_min_sineke.md)
 - [Фәнис Яруллин / Фасил Әхмәтов - Ташлама мине / Фанис Яруллин / Фасил Ахметов - Не оставляй меня](../translated/f/fanis_yarullin_fasil_ahmatov_-_tashlama_mine.md)
 - [Фәнис Яруллин / Фердинанд Галәмиев - Сагышларым (беренче вариант) / Фанис Яруллин / Фердинанд Галамиев - Мои печали (первый вариант)](../translated/f/fanis_yarullin_ferdinand_galamiev_-_sagishlarim_berenche_variant.md)
 - [Фәнис Яруллин / Фәрит Хатыйпов - Синең күзләрдә / Фанис Яруллин / Фарит Хатыйпов - В твоих глазах](../translated/f/fanis_yarullin_farit_hatiypov_-_sinen_kuzlarda.md)
@@ -105,6 +97,14 @@
 - [Фәнәвис Дәүләтбаев / Рәзидә Әхмәтова - Язгы матурлык / Фәнәвис Дәүләтбаев / Рәзидә Әхмәтова - Весенняя красота](../translated/f/fanavis_daulatbaev_razida_ahmatova_-_yazgi_maturlik.md)
 - [Фәнәвис Дәүләтбаев / Рәзидә Әхмәтова - Яшәп калыйк язларда / Фанавис Даулатбаев / Резида Ахматова - Проживи лета](../translated/f/fanavis_daulatbaev_razida_ahmatova_-_yashap_kaliyk_yazlarda.md)
 - [Фәнәвис Дәүләтбаев / Рәзидә Әхмәтова - Әйтмә бер сүз ... / Фәнәвис Дәүләтбаев / Рәзидә Әхмәтова - Не говори ни слова ...](../translated/f/fanavis_daulatbaev_razida_ahmatova_-_aytma_ber_suz.md)
+- [Фәнәвис Дәүләтбаев / Рәсимә Денисламова - Асылкошым - сандугачым / Фанавис Давлетбаев / Рассимя Денисламова - Милый моя - соловей мой](../translated/f/fanavis_daulatbaev_rasima_denislamova_-_asilkoshim_sandugachim.md)
+- [Фәнәвис Дәүләтбаев / Рәсимә Денисламова - Бисмилла / Фанавис Даулатбаев / Расима Денисламова - Бисмилла](../translated/f/fanavis_daulatbaev_rasima_denislamova_-_bismilla.md)
+- [Фәнәвис Дәүләтбаев / Рәсимә Денисламова - Гашыйклар көне / Фәнәвис Дәүләтбаев / Рәсимә Денисламова - День влюблённых](../translated/f/fanavis_daulatbaev_rasima_denislamova_-_gashiyklar_kone.md)
+- [Фәнәвис Дәүләтбаев / Рәсимә Денисламова - Гомерләр үтеп бара / Фанавис Даулатбаев / Рашима Денисламова - Жизни проходят](../translated/f/fanavis_daulatbaev_rasima_denislamova_-_gomerlar_utep_bara.md)
+- [Фәнәвис Дәүләтбаев / Рәсимә Денисламова - Иманлы бул / Фәнәвис Дәүләтбаев / Рәсимә Денисламова - Верь](../translated/f/fanavis_daulatbaev_rasima_denislamova_-_imanli_bul.md)
+- [Фәнәвис Дәүләтбаев / Рәсимә Денисламова - Ишеттерче сөю сүзләреңне / Фанавис Даулатбаев / Рашима Денисламова - Скажи ты мне слова любви](../translated/f/fanavis_daulatbaev_rasima_denislamova_-_ishetterche_soyu_suzlarenne.md)
+- [Фәнәвис Дәүләтбаев / Рәсимә Денисламова - Киттең калдырып / Фанавис Даулатбаев / Ризия Денисламова - Ушел, оставив](../translated/f/fanavis_daulatbaev_rasima_denislamova_-_kitten_kaldirip.md)
+- [Фәнәвис Дәүләтбаев / Рәсимә Денисламова - Күбәләк кар / Фанавис Даулатбаев / Ризама Денисламова - Бабочка-снег](../translated/f/fanavis_daulatbaev_rasima_denislamova_-_kubalak_kar.md)
 
 ---
 

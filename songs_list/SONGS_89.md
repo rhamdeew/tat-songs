@@ -5,7 +5,6 @@
 [← Предыдущая страница](SONGS_88.md) | [Главная страница](../README.md) | [Следующая страница →](SONGS_90.md)
 
 
-- [Җәүдәт Дәрзаман / Муса Маликов - Сугыш кайтавазы / Джаудат Дарзаман / Муса Маликов - Эхо войны](../translated/c/caudat_darzaman_musa_malikov_-_sugish_kaytavazi.md)
 - [Җәүдәт Дәрзаман / Мәсгудә Шәмсетдинова - Наян куяннар / Джаудат Дарзаман / Масгуда Шамсетдинова - Милые зайчата](../translated/c/caudat_darzaman_masguda_shamsetdinova_-_nayan_kuyannar.md)
 - [Җәүдәт Дәрзаман / Ренат Еникеев - Наза йөри бакчада / Джаудат Дарзаман / Ренат Еникеев -Наза ходит в саду](../translated/c/caudat_darzaman_renat_enikeev_-_naza_yori_bakchada.md)
 - [Җәүдәт Дәрзаман / Тәлгать Вәлиев - Бәхетегез ташып торсын / Җәүдәт Дәрзаман / Тәлгать Вәлиев - Пусть счастье ваше переполняет](../translated/c/caudat_darzaman_talgat_valiev_-_bahetegez_taship_torsin.md)
@@ -15,6 +14,7 @@
 - [Җәүдәт Сөләйман / Мәсгудә Шәмсетдинова - Әй, дәрья, дәрья / Джаудат Сулейман / Масгуда Шамсетдинова - Ах, река, река](../translated/c/caudat_solayman_masguda_shamsetdinova_-_ay_darya_darya.md)
 - [Һава Сафина / Мәсгуть Имашев - Балыкчы җыры (икенче вариант) / Ава Сафина / Мәсгуть Имашев - Песня рыбака (второй вариант)](../translated/h/hava_safina_masgut_imashev_-_balikchi_ciri_ikenche_variant.md)
 - [Һава Сафина / Мәсгуть Имашев - Йөрәгеңә якын итсәң... / Һава Сафина / Мәсгуть Имашев - Если приблизишь к сердцу...](../translated/h/hava_safina_masgut_imashev_-_yoragena_yakin_itsan.md)
+- [Һава Сафина / Мәсгуть Имашев - Салават җыры / Хава Сафина / Мәсгут Имашев - Песня Салавата](../translated/h/hava_safina_masgut_imashev_-_salavat_ciri.md)
 - [Һава Сафина / Мәсгуть Имашев - Сок буйлары / Ава Сафина / Масгут Имашев - Берега Сока](../translated/h/hava_safina_masgut_imashev_-_sok_buylari.md)
 - [Һади Такташ / Җәүдәт Фәйзи - Урман кызы / Хади Такташ / Джаудат Файзи - Лесная девушка](../translated/h/hadi_taktash_caudat_fayzi_-_urman_kizi.md)
 - [Һади Такташ / Әнвәр Бакиров - Их, син, яшьлек! / Һади Такташ / Әнвәр Бакиров - Ах, ты, молодость!](../translated/h/hadi_taktash_anvar_bakirov_-_ih_sin_yashlek.md)
