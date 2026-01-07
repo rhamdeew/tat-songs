@@ -50,10 +50,10 @@ def create_song_pages(songs):
         if num_pages > 1:
             nav_links = []
             if page_num > 1:
-                nav_links.append(f"[← Предыдущая страница](songs_list/SONGS_{page_num-1}.md)")
+                nav_links.append(f"[← Предыдущая страница](SONGS_{page_num-1}.md)")
             nav_links.append(f"[Главная страница](../README.md)")
             if page_num < num_pages:
-                nav_links.append(f"[Следующая страница →](songs_list/SONGS_{page_num+1}.md)")
+                nav_links.append(f"[Следующая страница →](SONGS_{page_num+1}.md)")
             page_content.append(" | ".join(nav_links) + "\n")
         
         page_content.append("")
@@ -73,10 +73,10 @@ def create_song_pages(songs):
         if num_pages > 1:
             nav_links = []
             if page_num > 1:
-                nav_links.append(f"[← Предыдущая страница](songs_list/SONGS_{page_num-1}.md)")
+                nav_links.append(f"[← Предыдущая страница](SONGS_{page_num-1}.md)")
             nav_links.append(f"[Главная страница](../README.md)")
             if page_num < num_pages:
-                nav_links.append(f"[Следующая страница →](songs_list/SONGS_{page_num+1}.md)")
+                nav_links.append(f"[Следующая страница →](SONGS_{page_num+1}.md)")
             page_content.append("---\n")
             page_content.append(" | ".join(nav_links))
         
